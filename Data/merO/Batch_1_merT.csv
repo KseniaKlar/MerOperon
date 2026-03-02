@@ -1,0 +1,651 @@
+"Query.Sequence.Name","Gene.ID","Gene.Name","Genome.ID","Genome.Name","Query.Start.Coord","Query.End.Coord","Subject.Start.Coord","Subject.End.Coord","Bit.Score","E.value","Identities","Subject.Length","X"
+"query3604284",2843974586,"mercuric ion transport protein",2843969098,"Citrobacter freundii SL151",2,126,7,131,248,9e-88,100,131,NA
+"query3604284",2550317816,"mercuric ion transport protein",2548876915,"Klebsiella pneumoniae pneumoniae LCT-KP214",7,126,2,121,237,1e-83,100,121,NA
+"query3604284",2555199139,"mercuric ion transport protein",2554235220,"Klebsiella pneumoniae LCT-KP182",7,126,2,121,237,2e-83,100,121,NA
+"query3604284",2555215170,"mercuric ion transport protein",2554235223,"Klebsiella pneumoniae LCT-KP289",7,126,2,121,237,2e-83,100,121,NA
+"query3604284",2573600844,"mercuric ion transport protein",2571042753,"Enterobacter sp. MGH 15",7,126,2,121,237,1e-83,100,121,NA
+"query3604284",2578644024,"mercuric ion transport protein",2576861519,"Enterobacter sp. MGH 7",7,126,2,121,237,1e-83,100,121,NA
+"query3604284",2870236334,"mercuric ion transport protein",2870230914,"Klebsiella pneumoniae 2-1",7,126,2,121,237,1e-83,100,121,NA
+"query3604284",2851437236,"mercuric ion transport protein",2851431590,"Klebsiella pneumoniae INF278",7,126,2,121,235,9e-83,99,121,NA
+"query3604284",2851442984,"mercuric ion transport protein",2851437328,"Klebsiella pneumoniae INF163",7,126,2,121,235,9e-83,99,121,NA
+"query3604284",2860595530,"mercuric ion transport protein",2860589870,"Klebsiella pneumoniae INF274",7,126,2,121,235,9e-83,99,121,NA
+"query3604284",2520139989,"mercuric ion transport protein",2519899563,"Escherichia coli O111 CVM9455",7,126,2,121,233,5e-82,97,121,NA
+"query3604284",2588780213,"mercuric ion transport protein",2588253803,"Salmonella enterica enterica sv. Heidelberg SARA 39",12,126,2,116,226,2e-79,100,116,NA
+"query3604284",2847530822,"mercuric ion transport protein",2847528547,"Stenotrophomonas maltophilia SJTH1",12,126,2,116,226,2e-79,100,116,NA
+"query3604284",2633880468,"mercuric ion transport protein",2630968946,"Ralstonia mannitolilytica SN82F48",12,126,2,116,225,8e-79,99,116,NA
+"query3604284",2633880519,"mercuric ion transport protein",2630968946,"Ralstonia mannitolilytica SN82F48",12,126,2,116,225,8e-79,99,116,NA
+"query3604284",2742272262,"mercuric ion transport protein",2740892159,"Oleibacter sp. HI0075",12,126,2,116,225,9e-79,99,116,NA
+"query3604284",2788916236,"mercuric ion transport protein",2788499891,"Sutterellaceae bacterium ARS112",12,126,2,116,224,2e-78,98,116,NA
+"query3604284",2520121282,"mercuric ion transport protein",2519899560,"Escherichia coli O111:H8 CVM9634",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2536624479,"mercuric ion transport protein",2534682109,"Escherichia coli 3.488",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2550317688,"mercuric ion transport protein",2548876915,"Klebsiella pneumoniae pneumoniae LCT-KP214",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2555199005,"mercuric ion transport protein",2554235220,"Klebsiella pneumoniae LCT-KP182",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2555215038,"mercuric ion transport protein",2554235223,"Klebsiella pneumoniae LCT-KP289",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2559831669,"mercuric ion transport protein",2558860434,"Salmonella enterica enterica sv. Typhimurium 34502",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2559835366,"mercuric ion transport protein",2558860435,"Salmonella enterica enterica sv. Typhimurium 35423",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2562595590,"mercuric ion transport protein",2561511241,"Escherichia coli UMNK88",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2580018918,"mercuric ion transport protein",2579778559,"Salmonella enterica enterica sv. Agona 0322",12,126,2,116,222,7e-78,97,116,NA
+"query3604284",2582484615,"mercuric ion transport protein",2579779146,"Salmonella enterica enterica sv. Agona 0292",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2583247734,"mercuric ion transport protein",2582580763,"Burkholderia cenocepacia S2AES",12,126,2,116,222,1e-77,97,116,NA
+"query3604284",2588795676,"mercuric ion transport protein",2588253806,"Salmonella enterica Enterica sv. Heidelberg N26457",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2588829158,"mercuric ion transport protein",2588253813,"Salmonella enterica enterica sv. Heidelberg 21381",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2632593954,"mercuric ion transport protein",2630968630,"Chromobacterium subtsugae F49",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2636896414,"mercuric ion transport protein",2636415517,"Vibrio cholerae 2012EL-2176",12,126,2,116,222,7e-78,97,116,NA
+"query3604284",2656573055,"mercuric ion transport protein",2654588004,"Salmonella enterica enterica sv. Typhimurium 33676",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2658208581,"mercuric ion transport protein",2657245131,"Escherichia coli OLC-791",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2659876586,"mercuric ion transport protein",2657245664,"Escherichia coli UMNturkey3",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2661146401,"mercuric ion transport protein",2660238128,"Escherichia coli TTU2014-121AME",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2662664522,"mercuric ion transport protein",2660238507,"Escherichia coli 50822286",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2663100851,"mercuric ion transport protein",2660238614,"Salmonella enterica enterica sv. Typhimurium DT104 613sCH44",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2666977267,"mercuric ion transport protein",2663763428,"Escherichia coli 50739822",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2668670601,"mercuric ion transport protein",2667527584,"Escherichia coli 50639799",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2669409885,"mercuric ion transport protein",2667527770,"Escherichia coli UMNturkey4",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2670323021,"mercuric ion transport protein",2667527987,"Escherichia coli TTU2014-120BME",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2672492983,"mercuric ion transport protein",2671180367,"Klebsiella pneumoniae SY-B2",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2678504547,"mercuric ion transport protein",2675903580,"Escherichia coli TTU2014-148AME",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2684809309,"mercuric ion transport protein",2684622549,"Klebsiella pneumoniae SY-B",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2687657768,"mercuric ion transport protein",2687453150,"Salmonella enterica enterica sv. Anatum USDA-ARS-USMARC-1736",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2689101391,"mercuric ion transport protein",2687453519,"Salmonella enterica enterica sv. Typhimurium USDA-ARS-USMARC-1896",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2689367744,"mercuric ion transport protein",2687453585,"Escherichia coli Ecol_732",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2714216965,"mercuric ion transport protein",2713896779,"Escherichia coli 03-4064",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2715827395,"mercuric ion transport protein",2713897162,"Klebsiella pneumoniae ST147",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2719684477,"mercuric ion transport protein",2718218001,"Klebsiella pneumoniae Kp_Goe_149832",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2719716057,"mercuric ion transport protein",2718218006,"Klebsiella pneumoniae Kp_Goe_152021",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2719721810,"mercuric ion transport protein",2718218007,"Klebsiella pneumoniae Kp_Goe_149473",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2720300918,"mercuric ion transport protein",2718218149,"Klebsiella pneumoniae KP_Goe_828304",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2724137445,"mercuric ion transport protein",2721755830,"Klebsiella pneumoniae Kp_Goe_827026",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2728636265,"mercuric ion transport protein",2728368973,"Chromobacterium violaceum Cv017",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2730235773,"mercuric ion transport protein",2728369383,"Klebsiella pneumoniae Kp_Goe_822579",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2730330914,"mercuric ion transport protein",2728369405,"Klebsiella pneumoniae Kp_Goe_827024",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2737329668,"mercuric ion transport protein",2734482773,"Escherichia coli CVM N38834PS",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2737349662,"mercuric ion transport protein",2734482777,"Escherichia coli CVM N38795PS",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2737925151,"mercuric ion transport protein",2737471828,"Escherichia coli CVM N34352PS",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2737981543,"mercuric ion transport protein",2737471839,"Escherichia coli CVM N33707PS",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2738052013,"mercuric ion transport protein",2737471853,"Escherichia coli CVM N36210PS",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2738110142,"mercuric ion transport protein",2737471865,"Escherichia coli CVM N33653PS",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2743346540,"mercuric ion transport protein",2740892416,"Salmonella enterica enterica sv. Bardo CRJJGF_00099",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2743393317,"mercuric ion transport protein",2740892425,"Aeromonas salmonicida salmonicida 2004-05MF26",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2744609146,"mercuric ion transport protein",2744054522,"Klebsiella pneumoniae OC648",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2744614701,"mercuric ion transport protein",2744054523,"Klebsiella pneumoniae OC511",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2744770254,"mercuric ion transport protein",2744054558,"Chromobacterium sp. F49",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2745218268,"mercuric ion transport protein",2744054669,"Salmonella enterica enterica sv. Heidelberg 163",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2746113311,"mercuric ion transport protein",2744054905,"Salmonella enterica CU013109",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2778777664,"mercuric ion transport protein",2778261069,"Escherichia albertii MOD1-EC1723",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2779216823,"mercuric ion transport protein",2778261192,"Klebsiella pneumoniae WCHKP8D7",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2779243774,"mercuric ion transport protein",2778261197,"Klebsiella pneumoniae WCHKP13F4",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2779669873,"mercuric ion transport protein",2778261315,"Escherichia coli MOD1-EC5982",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2780849845,"mercuric ion transport protein",2778261641,"Escherichia coli MOD1-EC6519",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2814088991,"mercuric ion transport protein",2811995367,"Edwardsiella piscicida ETW41",12,126,2,116,222,6e-78,97,116,NA
+"query3604284",2844064632,"mercuric ion transport protein",2844059735,"Aeromonas hydrophila 23-C-23",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2847850321,"mercuric ion transport protein",2847845980,"Aeromonas hydrophila WCX23",12,126,2,116,222,7e-78,97,116,NA
+"query3604284",2849012774,"mercuric ion transport protein",2849008052,"Shewanella algae KC-Na-R1",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2850577965,"mercuric ion transport protein",2850576466,"Salmonella enterica enterica sv. Dublin USMARC-69838",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2851003271,"mercuric ion transport protein",2850998136,"Citrobacter freundii ERS2650695",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",2851436986,"mercuric ion transport protein",2851431590,"Klebsiella pneumoniae INF278",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2851442734,"mercuric ion transport protein",2851437328,"Klebsiella pneumoniae INF163",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",2852070713,"mercuric ion transport protein",2852067712,"Edwardsiella piscicida JF1411",12,126,2,116,222,6e-78,97,116,NA
+"query3604284",2858335653,"mercuric ion transport protein",2858333323,"Proteus mirabilis PM005",12,126,2,116,222,6e-78,97,116,NA
+"query3604284",2860595279,"mercuric ion transport protein",2860589870,"Klebsiella pneumoniae INF274",12,126,2,116,222,9e-78,97,116,NA
+"query3604284",642572464,"mercuric ion transport protein",642555157,"Salmonella enterica sv. Newport SL254",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",645049596,"mercuric ion transport protein",645047325,"Escherichia coli AR060302 plasmid pAR060302",12,126,2,116,222,3e-79,97,116,NA
+"query3604284",645049407,"mercuric ion transport protein",645047334,"Escherichia coli H4H plasmid peH4H",12,126,2,116,222,2e-79,97,116,NA
+"query3604284",645049775,"mercuric ion transport protein",645047375,"Salmonella enterica AM04528 plasmid pAM04528",12,126,2,116,222,3e-79,97,116,NA
+"query3604284",648541646,"mercuric ion transport protein",648276656,"Escherichia coli MS 182-1",12,126,2,116,222,8e-78,97,116,NA
+"query3604284",640052189,"mercuric ion transport protein",640048476,"Ensifer meliloti FP2 plasmid pSB102",12,126,2,116,221,3e-79,96,116,NA
+"query3604284",2667502549,"mercuric ion transport protein",2663763601,"Pseudomonas psychrotolerans LMG 21977",12,125,2,115,220,9e-77,96,115,NA
+"query3604284",640817203,"mercuric ion transport protein",640753030,"Janthinobacterium sp. Marseille",12,126,2,116,219,1e-76,95,116,NA
+"query3604284",2633881609,"mercuric ion transport protein",2630968946,"Ralstonia mannitolilytica SN82F48",12,126,2,116,218,5e-76,96,116,NA
+"query3604284",2743198490,"mercuric ion transport protein",2740892368,"Cupriavidus metallidurans NE12",12,126,2,116,218,7e-76,96,116,NA
+"query3604284",2520119822,"mercuric ion transport protein",2519899560,"Escherichia coli O111:H8 CVM9634",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2520138864,"mercuric ion transport protein",2519899563,"Escherichia coli O111 CVM9455",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2559831383,"mercuric ion transport protein",2558860434,"Salmonella enterica enterica sv. Typhimurium 34502",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2562785598,"mercuric ion transport protein",2562617043,"Pseudomonas sp. EGD-AK9",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2577542074,"mercuric ion transport protein",2576861188,"Enterobacter asburiae UCI 49",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2578640366,"mercuric ion transport protein",2576861519,"Enterobacter sp. MGH 7",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2590845356,"mercuric ion transport protein",2590828102,"beta proteobacterium FWI2",12,126,2,116,216,3e-75,93,116,NA
+"query3604284",2632162830,"mercuric ion transport protein",2630968527,"Comamonas testosteroni JL40",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2638918794,"mercuric ion transport protein",2636416004,"Pseudomonas mandelii LMG 21607",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2641575371,"mercuric ion transport protein",2639762996,"Pseudomonas aeruginosa O400",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2648214589,"mercuric ion transport protein",2645728076,"Enterobacter hormaechei BIDMC 33A",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2649900052,"mercuric ion transport protein",2648501434,"Enterobacter hormaechei oharae CCBH10892",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2656572963,"mercuric ion transport protein",2654588004,"Salmonella enterica enterica sv. Typhimurium 33676",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2657831374,"mercuric ion transport protein",2657245036,"Enterobacter hormaechei MNCRE41",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2660724897,"mercuric ion transport protein",2660238024,"Escherichia coli MNCRE22",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2660909019,"mercuric ion transport protein",2660238069,"Enterobacter hormaechei MNCRE23",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2661466393,"mercuric ion transport protein",2660238213,"Enterobacter hormaechei MNCRE19",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2661766519,"mercuric ion transport protein",2660238286,"Enterobacter hormaechei MNCRE48",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2662780171,"mercuric ion transport protein",2660238535,"Enterobacter hormaechei MNCRE52",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2662884211,"mercuric ion transport protein",2660238562,"Enterobacter hormaechei MNCRE83",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663003764,"mercuric ion transport protein",2660238592,"Enterobacter hormaechei MNCRE35",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663046892,"mercuric ion transport protein",2660238602,"Enterobacter hormaechei MNCRE42",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663087058,"mercuric ion transport protein",2660238611,"Enterobacter hormaechei MNCRE86",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663101151,"mercuric ion transport protein",2660238614,"Salmonella enterica enterica sv. Typhimurium DT104 613sCH44",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663314957,"mercuric ion transport protein",2660238670,"Enterobacter hormaechei MNCRE84",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2663912270,"mercuric ion transport protein",2663762639,"Enterobacter hormaechei MNCRE39",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2665079284,"mercuric ion transport protein",2663762955,"Enterobacter hormaechei MNCRE56",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2665908688,"mercuric ion transport protein",2663763164,"Enterobacter hormaechei MNCRE18",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2666523197,"mercuric ion transport protein",2663763311,"Enterobacter hormaechei MNCRE7",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2666840448,"mercuric ion transport protein",2663763391,"Enterobacter hormaechei MNCRE29",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2666886286,"mercuric ion transport protein",2663763403,"Enterobacter hormaechei MNCRE51",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2667302889,"mercuric ion transport protein",2663763503,"Enterobacter hormaechei MNCRE25",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2669315626,"mercuric ion transport protein",2667527746,"Enterobacter hormaechei MNCRE30",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2670682234,"mercuric ion transport protein",2667528073,"Enterobacter hormaechei MNCRE17",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2672815934,"mercuric ion transport protein",2671180447,"Enterobacter hormaechei MNCRE57",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2673682590,"mercuric ion transport protein",2671180661,"Enterobacter hormaechei MNCRE8",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2678374285,"mercuric ion transport protein",2675903546,"Enterobacter hormaechei MNCRE79",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2691953722,"mercuric ion transport protein",2690316027,"Enterobacter hormaechei MNCRE36",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2692061229,"mercuric ion transport protein",2690316054,"Enterobacter hormaechei MNCRE71",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2693536656,"mercuric ion transport protein",2693429525,"Enterobacter hormaechei MNCRE28",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2702936787,"mercuric ion transport protein",2700989497,"Enterobacter hormaechei MNCRE6",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2702943755,"mercuric ion transport protein",2700989499,"Enterobacter hormaechei MNCRE37",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2702951099,"mercuric ion transport protein",2700989500,"Enterobacter hormaechei MNCRE38",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2702973689,"mercuric ion transport protein",2700989506,"Enterobacter hormaechei MNCRE9",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2703087103,"mercuric ion transport protein",2700989529,"Enterobacter hormaechei MNCRE81",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2704054378,"mercuric ion transport protein",2703718695,"Enterobacter asburiae ST252:950126202",12,126,2,116,216,4e-75,93,116,NA
+"query3604284",2706468629,"mercuric ion transport protein",2703719350,"Enterobacter hormaechei MNCRE85",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2719745391,"mercuric ion transport protein",2718218012,"Enterobacter cloacae AR_0002",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2730100371,"mercuric ion transport protein",2728369351,"Enterobacter hormaechei oharae 34978",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2736088391,"mercuric ion transport protein",2734482401,"Pseudomonas aeruginosa RW88",12,126,2,116,216,3e-75,93,116,NA
+"query3604284",2753853780,"mercuric ion transport protein",2751185916,"Enterobacter roggenkampii 42192",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2766091349,"mercuric ion transport protein",2765235946,"Enterobacter cloacae sp. ABFPL",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2793450615,"mercuric ion transport protein",2791355284,"Enterobacter hormaechei xiangfangensis 40884",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2815718289,"mercuric ion transport protein",2814123354,"Pseudomonas mandelii NBRC 103147",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2842974123,"mercuric ion transport protein",2842970183,"Pluralibacter gergoviae DS82E24",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2843913679,"mercuric ion transport protein",2843909154,"Cronobacter sakazakii GZcsf-1",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2843913462,"mercuric ion transport protein",2843909154,"Cronobacter sakazakii GZcsf-1",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2843974456,"mercuric ion transport protein",2843969098,"Citrobacter freundii SL151",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2846786361,"mercuric ion transport protein",2846780681,"Agrobacterium tumefaciens CFBP6625",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2850614734,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2850614194,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2851118062,"mercuric ion transport protein",2851114255,"Serratia marcescens AR_0027",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2851281857,"mercuric ion transport protein",2851277247,"Aeromonas hydrophila ZYAH75",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2851436966,"mercuric ion transport protein",2851431590,"Klebsiella pneumoniae INF278",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2851442714,"mercuric ion transport protein",2851437328,"Klebsiella pneumoniae INF163",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2859675809,"mercuric ion transport protein",2859671954,"Enterobacter cloacae AR_0053",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2860595259,"mercuric ion transport protein",2860589870,"Klebsiella pneumoniae INF274",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2869866567,"mercuric ion transport protein",2869861177,"Enterobacter hormaechei 20710",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",2870236370,"mercuric ion transport protein",2870230914,"Klebsiella pneumoniae 2-1",12,126,2,116,216,2e-75,93,116,NA
+"query3604284",641216096,"mercuric ion transport protein",641210481,"Uncultured bacterium plasmid pTP6",12,126,2,116,216,2e-77,93,116,NA
+"query3604284",2702014808,"mercuric ion transport protein",2700989281,"Acinetobacter sp. NBRC 110496",12,126,2,116,214,1e-74,94,116,NA
+"query3604284",2510653853,"mercuric ion transport protein",2510461034,"Pseudomonas aeruginosa R. Hugh 813, ATCC 97",12,126,2,116,213,9e-74,93,116,NA
+"query3604284",2578640336,"mercuric ion transport protein",2576861519,"Enterobacter sp. MGH 7",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2581405065,"mercuric ion transport protein",2579778887,"Pseudomonas aeruginosa BWHPSA037",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2631456330,"mercuric ion transport protein",2630968351,"Pseudomonas fluorescens AU2989",12,126,2,116,213,8e-74,93,116,NA
+"query3604284",2641575326,"mercuric ion transport protein",2639762996,"Pseudomonas aeruginosa O400",12,126,2,116,213,9e-74,93,116,NA
+"query3604284",2648214554,"mercuric ion transport protein",2645728076,"Enterobacter hormaechei BIDMC 33A",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2657830946,"mercuric ion transport protein",2657245036,"Enterobacter hormaechei MNCRE41",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2660726079,"mercuric ion transport protein",2660238024,"Escherichia coli MNCRE22",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2660908282,"mercuric ion transport protein",2660238069,"Enterobacter hormaechei MNCRE23",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2661419213,"mercuric ion transport protein",2660238203,"Pseudomonas sp. NBRC 111127",12,126,2,116,213,8e-74,93,116,NA
+"query3604284",2661466682,"mercuric ion transport protein",2660238213,"Enterobacter hormaechei MNCRE19",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2661766449,"mercuric ion transport protein",2660238286,"Enterobacter hormaechei MNCRE48",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2662780640,"mercuric ion transport protein",2660238535,"Enterobacter hormaechei MNCRE52",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2662882916,"mercuric ion transport protein",2660238562,"Enterobacter hormaechei MNCRE83",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2663004715,"mercuric ion transport protein",2660238592,"Enterobacter hormaechei MNCRE35",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2663045241,"mercuric ion transport protein",2660238602,"Enterobacter hormaechei MNCRE42",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2663087181,"mercuric ion transport protein",2660238611,"Enterobacter hormaechei MNCRE86",12,126,2,116,213,6e-74,93,116,NA
+"query3604284",2663314574,"mercuric ion transport protein",2660238670,"Enterobacter hormaechei MNCRE84",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2663910156,"mercuric ion transport protein",2663762639,"Enterobacter hormaechei MNCRE39",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2665082667,"mercuric ion transport protein",2663762955,"Enterobacter hormaechei MNCRE56",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2665906256,"mercuric ion transport protein",2663763164,"Enterobacter hormaechei MNCRE18",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2666486575,"mercuric ion transport protein",2663763303,"Pseudomonas sp. NBRC 111142",12,126,2,116,213,8e-74,93,116,NA
+"query3604284",2666523211,"mercuric ion transport protein",2663763311,"Enterobacter hormaechei MNCRE7",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2666839348,"mercuric ion transport protein",2663763391,"Enterobacter hormaechei MNCRE29",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2666884638,"mercuric ion transport protein",2663763403,"Enterobacter hormaechei MNCRE51",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2667300487,"mercuric ion transport protein",2663763503,"Enterobacter hormaechei MNCRE25",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2669315730,"mercuric ion transport protein",2667527746,"Enterobacter hormaechei MNCRE30",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2670681731,"mercuric ion transport protein",2667528073,"Enterobacter hormaechei MNCRE17",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2672813072,"mercuric ion transport protein",2671180447,"Enterobacter hormaechei MNCRE57",12,126,2,116,213,6e-74,93,116,NA
+"query3604284",2673682516,"mercuric ion transport protein",2671180661,"Enterobacter hormaechei MNCRE8",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2678374369,"mercuric ion transport protein",2675903546,"Enterobacter hormaechei MNCRE79",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2691951037,"mercuric ion transport protein",2690316027,"Enterobacter hormaechei MNCRE36",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2692061071,"mercuric ion transport protein",2690316054,"Enterobacter hormaechei MNCRE71",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2693536058,"mercuric ion transport protein",2693429525,"Enterobacter hormaechei MNCRE28",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2699273790,"mercuric ion transport protein",2698536479,"Enterobacter kobei ST54:941713674",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2702936644,"mercuric ion transport protein",2700989497,"Enterobacter hormaechei MNCRE6",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2702944188,"mercuric ion transport protein",2700989499,"Enterobacter hormaechei MNCRE37",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2702950922,"mercuric ion transport protein",2700989500,"Enterobacter hormaechei MNCRE38",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2702973339,"mercuric ion transport protein",2700989506,"Enterobacter hormaechei MNCRE9",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2703086232,"mercuric ion transport protein",2700989529,"Enterobacter hormaechei MNCRE81",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2706468078,"mercuric ion transport protein",2703719350,"Enterobacter hormaechei MNCRE85",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2719745360,"mercuric ion transport protein",2718218012,"Enterobacter cloacae AR_0002",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2730100340,"mercuric ion transport protein",2728369351,"Enterobacter hormaechei oharae 34978",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2743198253,"mercuric ion transport protein",2740892368,"Cupriavidus metallidurans NE12",12,126,2,116,213,9e-74,93,116,NA
+"query3604284",2776928671,"mercuric ion transport protein",2775507052,"Enterobacter sp. CRENT-193",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2788915170,"mercuric ion transport protein",2788499891,"Sutterellaceae bacterium ARS112",12,126,2,116,213,5e-74,93,116,NA
+"query3604284",2793449787,"mercuric ion transport protein",2791355284,"Enterobacter hormaechei xiangfangensis 40884",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2793709970,"mercuric ion transport protein",2791355346,"Burkholderia aenigmatica AU17325",12,126,2,116,213,1e-73,92,116,NA
+"query3604284",2794847028,"mercuric ion transport protein",2791355562,"Pseudomonas sp. GP01-A3",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2794855177,"mercuric ion transport protein",2791355563,"Pseudomonas sp. GP01-A14",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2794862476,"mercuric ion transport protein",2791355564,"Pseudomonas sp. GP01-A6",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795235765,"mercuric ion transport protein",2791355624,"Pseudomonas sp. GP01-A4",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795244309,"mercuric ion transport protein",2791355625,"Pseudomonas sp. GP01-A11",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795260774,"mercuric ion transport protein",2791355628,"Pseudomonas sp. GP01-A5",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795267037,"mercuric ion transport protein",2791355629,"Pseudomonas sp. GP01-A13",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795276382,"mercuric ion transport protein",2791355630,"Pseudomonas sp. GP01-A15",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795282970,"mercuric ion transport protein",2791355631,"Pseudomonas sp. GP01-A9",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795287706,"mercuric ion transport protein",2791355632,"Pseudomonas sp. GP01-A8",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2795294871,"mercuric ion transport protein",2791355633,"Pseudomonas sp. GP01-A1",12,126,2,116,213,1e-73,93,116,NA
+"query3604284",2816026730,"mercuric ion transport protein",2814123437,"Burkholderia vietnamiensis HI3908",12,126,2,116,213,4e-74,93,116,NA
+"query3604284",2816026722,"mercuric ion transport protein",2814123437,"Burkholderia vietnamiensis HI3908",12,126,2,116,213,7e-74,92,116,NA
+"query3604284",2842973079,"mercuric ion transport protein",2842970183,"Pluralibacter gergoviae DS82E24",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2851118029,"mercuric ion transport protein",2851114255,"Serratia marcescens AR_0027",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2859675778,"mercuric ion transport protein",2859671954,"Enterobacter cloacae AR_0053",12,126,2,116,213,7e-74,93,116,NA
+"query3604284",2549717719,"mercuric ion transport protein",2548876758,"Pseudomonas aeruginosa NCMG1179",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2562783402,"mercuric ion transport protein",2562617043,"Pseudomonas sp. EGD-AK9",12,126,2,116,212,1e-73,93,116,NA
+"query3604284",2633881835,"mercuric ion transport protein",2630968946,"Ralstonia mannitolilytica SN82F48",12,126,2,116,212,1e-73,93,116,NA
+"query3604284",2661417555,"mercuric ion transport protein",2660238203,"Pseudomonas sp. NBRC 111127",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2667503086,"mercuric ion transport protein",2663763601,"Pseudomonas psychrotolerans LMG 21977",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2704060949,"mercuric ion transport protein",2703718695,"Enterobacter asburiae ST252:950126202",12,126,2,116,212,3e-73,93,116,NA
+"query3604284",2720721733,"mercuric ion transport protein",2718218255,"Klebsiella sp. LTGPAF-6F",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2736092209,"mercuric ion transport protein",2734482401,"Pseudomonas aeruginosa RW88",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2847530840,"mercuric ion transport protein",2847528547,"Stenotrophomonas maltophilia SJTH1",12,126,2,116,212,1e-73,93,116,NA
+"query3604284",2870322651,"mercuric ion transport protein",2870319472,"Pseudomonas aeruginosa PASGNDM345",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2870334703,"mercuric ion transport protein",2870331525,"Pseudomonas aeruginosa PASGNDM699",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",641622135,"mercuric ion transport protein",641522646,"Pseudomonas putida W619",12,126,2,116,212,2e-73,93,116,NA
+"query3604284",2590840771,"mercuric ion transport protein",2590828102,"beta proteobacterium FWI2",12,126,2,116,211,4e-73,92,116,NA
+"query3604284",2743196723,"mercuric ion transport protein",2740892368,"Cupriavidus metallidurans NE12",12,126,2,116,211,4e-73,92,116,NA
+"query3604284",2620948085,"mercuric ion transport protein",2619619206,"Herbaspirillum sp. RV1423",12,126,2,116,209,1e-72,90,116,NA
+"query3604284",2843909744,"mercuric ion transport protein",2843909154,"Cronobacter sakazakii GZcsf-1",12,126,2,116,209,2e-72,92,116,NA
+"query3604284",2699274221,"mercuric ion transport protein",2698536479,"Enterobacter kobei ST54:941713674",12,124,2,114,208,4e-72,93,114,NA
+"query3604284",2778740944,"mercuric ion transport protein",2778261061,"Pusillimonas sp. EAC49",12,126,2,116,208,2e-72,89,116,NA
+"query3604284",2780850054,"mercuric ion transport protein",2778261641,"Escherichia coli MOD1-EC6519",16,126,1,111,207,6e-72,93,111,NA
+"query3604284",2510626486,"mercuric ion transport protein",2510461031,"Pseudomonas aeruginosa LC IV, ATCC 260",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2510641068,"mercuric ion transport protein",2510461033,"Pseudomonas aeruginosa Gessard, ATCC 262",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2510648039,"mercuric ion transport protein",2510461034,"Pseudomonas aeruginosa R. Hugh 813, ATCC 97",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2570642441,"mercuric ion transport protein",2568526636,"Methylibium sp. T29-B",12,126,2,116,206,1e-71,88,116,NA
+"query3604284",2579199269,"mercuric ion transport protein",2576861680,"Methylibium sp. T29",12,126,2,116,206,1e-71,88,116,NA
+"query3604284",2666129964,"mercuric ion transport protein",2663763218,"Pseudomonas coronafaciens LMG 5060",12,126,2,116,206,4e-71,90,116,NA
+"query3604284",2666489545,"mercuric ion transport protein",2663763303,"Pseudomonas sp. NBRC 111142",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2667580030,"mercuric ion transport protein",2667527211,"Pseudomonas abietaniphila LMG 20220",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2729285045,"mercuric ion transport protein",2728369127,"Pseudomonas sp. ABFPK",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2745187315,"mercuric ion transport protein",2744054662,"Pseudomonas monteilii CD10_2",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2794725858,"mercuric ion transport protein",2791355541,"Pseudomonas sp. MPR-R5A",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2794783355,"mercuric ion transport protein",2791355551,"Pseudomonas sp. MPR-R5B",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2794849379,"mercuric ion transport protein",2791355562,"Pseudomonas sp. GP01-A3",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2794854618,"mercuric ion transport protein",2791355563,"Pseudomonas sp. GP01-A14",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2794863599,"mercuric ion transport protein",2791355564,"Pseudomonas sp. GP01-A6",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795011112,"mercuric ion transport protein",2791355588,"Pseudomonas sp. FW215-L2",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795097649,"mercuric ion transport protein",2791355603,"Pseudomonas sp. MPBC4-3",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795236699,"mercuric ion transport protein",2791355624,"Pseudomonas sp. GP01-A4",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795243247,"mercuric ion transport protein",2791355625,"Pseudomonas sp. GP01-A11",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795262764,"mercuric ion transport protein",2791355628,"Pseudomonas sp. GP01-A5",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795268294,"mercuric ion transport protein",2791355629,"Pseudomonas sp. GP01-A13",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795275343,"mercuric ion transport protein",2791355630,"Pseudomonas sp. GP01-A15",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795282094,"mercuric ion transport protein",2791355631,"Pseudomonas sp. GP01-A9",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795288879,"mercuric ion transport protein",2791355632,"Pseudomonas sp. GP01-A8",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2795296068,"mercuric ion transport protein",2791355633,"Pseudomonas sp. GP01-A1",12,126,2,116,206,5e-71,90,116,NA
+"query3604284",2577538241,"mercuric ion transport protein",2576861188,"Enterobacter asburiae UCI 49",12,126,2,116,205,7e-71,95,116,NA
+"query3604284",2699273834,"mercuric ion transport protein",2698536479,"Enterobacter kobei ST54:941713674",12,126,2,116,205,8e-71,95,116,NA
+"query3604284",2699274251,"mercuric ion transport protein",2698536479,"Enterobacter kobei ST54:941713674",12,126,2,116,205,8e-71,95,116,NA
+"query3604284",2547113500,"mercuric ion transport protein",2546826727,"Shewanella algae BRY",12,126,2,116,204,2e-70,96,116,NA
+"query3604284",2648569113,"mercuric ion transport protein",2648501116,"Aquamicrobium sp. SK-2",12,126,2,116,204,3e-70,96,116,NA
+"query3604284",2661419880,"mercuric ion transport protein",2660238203,"Pseudomonas sp. NBRC 111127",12,126,2,116,201,2e-69,89,116,NA
+"query3604284",2794849400,"mercuric ion transport protein",2791355562,"Pseudomonas sp. GP01-A3",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2794854639,"mercuric ion transport protein",2791355563,"Pseudomonas sp. GP01-A14",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2794863620,"mercuric ion transport protein",2791355564,"Pseudomonas sp. GP01-A6",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795011133,"mercuric ion transport protein",2791355588,"Pseudomonas sp. FW215-L2",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795236720,"mercuric ion transport protein",2791355624,"Pseudomonas sp. GP01-A4",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795243268,"mercuric ion transport protein",2791355625,"Pseudomonas sp. GP01-A11",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795262287,"mercuric ion transport protein",2791355628,"Pseudomonas sp. GP01-A5",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795268315,"mercuric ion transport protein",2791355629,"Pseudomonas sp. GP01-A13",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795275364,"mercuric ion transport protein",2791355630,"Pseudomonas sp. GP01-A15",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795282115,"mercuric ion transport protein",2791355631,"Pseudomonas sp. GP01-A9",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795288900,"mercuric ion transport protein",2791355632,"Pseudomonas sp. GP01-A8",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2795296089,"mercuric ion transport protein",2791355633,"Pseudomonas sp. GP01-A1",2,126,7,131,200,2e-68,75,131,NA
+"query3604284",2659673809,"mercuric ion transport protein",2657245614,"Pseudomonas sp. NBRC 111118",15,126,1,112,199,2e-68,90,112,NA
+"query3604284",2571829007,"mercuric ion transport protein",2571042232,"Pseudomonas putida OUS82",12,126,2,116,198,3e-68,84,116,NA
+"query3604284",2666486536,"mercuric ion transport protein",2663763303,"Pseudomonas sp. NBRC 111142",12,126,2,116,198,3e-68,84,116,NA
+"query3604284",2841268845,"mercuric ion transport protein",2841268274,"Moraxella osloensis MOXF1",12,126,2,116,197,4e-68,83,116,NA
+"query3604284",2628513951,"mercuric ion transport protein",2627853681,"Caballeronia mineralivorans PML1(12)",12,126,2,116,196,6e-67,83,116,NA
+"query3604284",2522339897,"mercuric ion transport protein",2522125097,"Rhodanobacter sp. OR444",5,126,1,122,194,1e-66,79,122,NA
+"query3604284",2541854301,"mercuric ion transport protein",2541047103,"Pseudomonas sp. CFT9",12,126,2,116,194,1e-66,81,116,NA
+"query3604284",2690188337,"mercuric ion transport protein",2687453788,"Burkholderia sp. D7",12,126,2,116,193,9e-66,82,116,NA
+"query3604284",2741230579,"mercuric ion transport protein",2740891879,"Caballeronia udeis ES_PA-B7",12,126,2,116,193,9e-66,82,116,NA
+"query3604284",2747842165,"mercuric ion transport protein",2744055288,"Caballeronia sordidicola ES_PA-C8",12,126,2,116,193,9e-66,82,116,NA
+"query3604284",2755804709,"mercuric ion transport protein",2754412711,"Caballeronia udeis ES_AL-A7",12,126,2,116,193,8e-66,82,116,NA
+"query3604284",2755804592,"mercuric ion transport protein",2754412711,"Caballeronia udeis ES_AL-A7",12,126,2,116,193,8e-66,82,116,NA
+"query3604284",2549716905,"mercuric ion transport protein",2548876758,"Pseudomonas aeruginosa NCMG1179",12,126,2,116,192,1e-65,79,116,NA
+"query3604284",2566766732,"mercuric ion transport protein",2565956706,"Pseudomonas sp. G5(2012)",12,126,2,116,192,1e-65,81,116,NA
+"query3604284",2510626476,"mercuric ion transport protein",2510461031,"Pseudomonas aeruginosa LC IV, ATCC 260",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2510641059,"mercuric ion transport protein",2510461033,"Pseudomonas aeruginosa Gessard, ATCC 262",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2510648029,"mercuric ion transport protein",2510461034,"Pseudomonas aeruginosa R. Hugh 813, ATCC 97",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2661419731,"mercuric ion transport protein",2660238203,"Pseudomonas sp. NBRC 111127",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2666129975,"mercuric ion transport protein",2663763218,"Pseudomonas coronafaciens LMG 5060",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2667580019,"mercuric ion transport protein",2667527211,"Pseudomonas abietaniphila LMG 20220",12,126,2,116,191,4e-65,88,116,NA
+"query3604284",2729285055,"mercuric ion transport protein",2728369127,"Pseudomonas sp. ABFPK",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2745187326,"mercuric ion transport protein",2744054662,"Pseudomonas monteilii CD10_2",12,126,2,116,191,3e-65,88,116,NA
+"query3604284",2794725847,"mercuric ion transport protein",2791355541,"Pseudomonas sp. MPR-R5A",12,126,2,116,191,4e-65,88,116,NA
+"query3604284",2794783344,"mercuric ion transport protein",2791355551,"Pseudomonas sp. MPR-R5B",12,126,2,116,191,4e-65,88,116,NA
+"query3604284",2795097638,"mercuric ion transport protein",2791355603,"Pseudomonas sp. MPBC4-3",12,126,2,116,191,4e-65,88,116,NA
+"query3604284",642625348,"mercuric ion transport protein",642555151,"Ralstonia pickettii 12J",12,126,2,116,191,2e-65,85,116,NA
+"query3604284",2570643568,"mercuric ion transport protein",2568526636,"Methylibium sp. T29-B",12,126,2,116,190,5e-65,78,116,NA
+"query3604284",2579199776,"mercuric ion transport protein",2576861680,"Methylibium sp. T29",12,126,2,116,190,5e-65,78,116,NA
+"query3604284",2660387782,"mercuric ion transport protein",2660237937,"Pseudomonas lactis DSM 29142",12,126,2,116,190,7e-65,78,116,NA
+"query3604284",2844263555,"mercuric ion transport protein",2844259987,"Marinobacter profundi PWS21",5,126,1,122,190,6e-65,74,122,NA
+"query3604284",2514540734,"mercuric ion transport protein",2513237337,"Marinobacter manganoxydans MnI7-9",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2516839423,"mercuric ion transport protein",2516653033,"Marinobacter salsuginis SD-14B",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2620090975,"mercuric ion transport protein",2619618959,"Marinobacter sp. DSM 26291",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2711614976,"mercuric ion transport protein",2710724146,"Marinobacter sp. SUR-4",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2742270024,"mercuric ion transport protein",2740892159,"Oleibacter sp. HI0075",12,126,2,116,189,2e-64,77,116,NA
+"query3604284",2790776634,"mercuric ion transport protein",2788500467,"Roseovarius sp. EAC48",12,126,2,116,189,9e-65,77,116,NA
+"query3604284",2805329010,"mercuric ion transport protein",2802429416,"Halomonas sp. SAT58",12,126,2,116,189,7e-65,77,116,NA
+"query3604284",2823095295,"mercuric ion transport protein",2823093794,"Marinobacter sp. IN6",12,126,2,116,189,2e-64,77,116,NA
+"query3604284",2823159783,"mercuric ion transport protein",2823156881,"Marinobacter sp. CPC48",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2839308707,"mercuric ion transport protein",2839303116,"Variovorax sp. JS1663",26,126,38,138,189,4e-64,93,138,NA
+"query3604284",639810195,"mercuric ion transport protein",639633037,"Marinobacter aquaeolei VT8",12,126,2,116,189,1e-64,77,116,NA
+"query3604284",2548192166,"mercuric ion transport protein",2547132297,"Acinetobacter bereziniae Brisou 64, LMG 1003",12,126,2,116,187,4e-64,77,116,NA
+"query3604284",2566529798,"mercuric ion transport protein",2565956640,"Acinetobacter bereziniae Brisou 64, LMG 1003",12,126,2,116,187,4e-64,77,116,NA
+"query3604284",2635930293,"mercuric ion transport protein",2634166495,"Acinetobacter baumannii 269",12,126,2,116,187,4e-64,77,116,NA
+"query3604284",2663928133,"mercuric ion transport protein",2663762643,"Acinetobacter bereziniae KCTC 23199",12,126,2,116,187,4e-64,77,116,NA
+"query3604284",2702014803,"mercuric ion transport protein",2700989281,"Acinetobacter sp. NBRC 110496",12,126,2,116,187,4e-64,77,116,NA
+"query3604284",2769350283,"mercuric ion transport protein",2767802239,"Acinetobacter idrijaensis MII",12,126,2,116,187,3e-64,77,116,NA
+"query3604284",2580260906,"mercuric ion transport protein",2579778615,"Paraburkholderia fungorum NBRC 102489",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2637956445,"mercuric ion transport protein",2636415771,"Paraburkholderia fungorum ATCC BAA-463",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2640882819,"mercuric ion transport protein",2639762828,"Acinetobacter nosocomialis 28F",12,126,2,116,186,1e-63,76,116,NA
+"query3604284",2710229723,"mercuric ion transport protein",2708743155,"Paraburkholderia insulsa LMG 28183",12,126,2,116,186,5e-63,78,116,NA
+"query3604284",2776754122,"mercuric ion transport protein",2775507014,"Halomonas sp. MES3-P3E",11,126,5,120,186,2e-63,77,120,NA
+"query3604284",2813010522,"mercuric ion transport protein",2811995063,"Paraburkholderia fungorum FDAARGOS_245",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2842329903,"mercuric ion transport protein",2842324504,"Paraburkholderia fungorum SEMIA 4007",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2842354631,"mercuric ion transport protein",2842348783,"Paraburkholderia fungorum SEMIA 4013",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2842460080,"mercuric ion transport protein",2842454564,"Paraburkholderia fungorum SEMIA 4056",12,126,2,116,186,4e-63,78,116,NA
+"query3604284",2766113963,"mercuric ion transport protein",2765235966,"Burkholderia sp. CQ001",12,126,2,116,185,1e-62,83,116,NA
+"query3604284",2620089997,"mercuric ion transport protein",2619618959,"Marinobacter sp. DSM 26291",11,126,5,120,184,8e-63,75,120,NA
+"query3604284",2659673793,"mercuric ion transport protein",2657245614,"Pseudomonas sp. NBRC 111118",15,126,1,112,184,1e-62,88,112,NA
+"query3604284",2839307144,"mercuric ion transport protein",2839303116,"Variovorax sp. JS1663",12,126,2,116,184,2e-62,76,116,NA
+"query3604284",2841427040,"mercuric ion transport protein",2841423562,"Marinobacter sp. Arc7-DN-1",11,126,5,120,184,1e-62,75,120,NA
+"query3604284",2581451707,"mercuric ion transport protein",2579778897,"Pseudomonas aeruginosa VRFPA08",12,126,2,116,183,4e-62,83,116,NA
+"query3604284",2638918784,"mercuric ion transport protein",2636416004,"Pseudomonas mandelii LMG 21607",12,126,2,116,183,5e-62,84,116,NA
+"query3604284",2661683280,"mercuric ion transport protein",2660238266,"Pseudomonas aeruginosa BTP038",12,126,2,116,183,4e-62,83,116,NA
+"query3604284",2732579623,"mercuric ion transport protein",2731957649,"Variovorax soli NBRC 106424",12,126,2,116,183,3e-62,76,116,NA
+"query3604284",2815718298,"mercuric ion transport protein",2814123354,"Pseudomonas mandelii NBRC 103147",12,126,2,116,183,5e-62,84,116,NA
+"query3604284",2842331888,"mercuric ion transport protein",2842324504,"Paraburkholderia fungorum SEMIA 4007",12,126,2,116,183,5e-62,89,116,NA
+"query3604284",2842353734,"mercuric ion transport protein",2842348783,"Paraburkholderia fungorum SEMIA 4013",12,126,2,116,183,5e-62,89,116,NA
+"query3604284",2847828519,"mercuric ion transport protein",2847827230,"Aeromonas caviae R25-2",12,126,2,116,183,2e-62,83,116,NA
+"query3604284",2851279305,"mercuric ion transport protein",2851277247,"Aeromonas hydrophila ZYAH75",12,126,2,116,183,3e-62,83,116,NA
+"query3604284",2852468464,"mercuric ion transport protein",2852464720,"Aeromonas caviae R25-6",12,126,2,116,183,2e-62,83,116,NA
+"query3604284",2852477928,"mercuric ion transport protein",2852473627,"Aeromonas caviae T25-39",12,126,2,116,183,2e-62,83,116,NA
+"query3604284",2660388739,"mercuric ion transport protein",2660237937,"Pseudomonas lactis DSM 29142",29,126,1,98,182,4e-62,92,98,NA
+"query3604284",2721394804,"mercuric ion transport protein",2718218421,"Pseudomonas azotoformans S4",12,126,2,116,182,1e-61,84,116,NA
+"query3604284",2805329996,"mercuric ion transport protein",2802429416,"Halomonas sp. SAT58",12,126,2,116,182,5e-62,75,116,NA
+"query3604284",2590839880,"mercuric ion transport protein",2590828102,"beta proteobacterium FWI2",12,126,2,116,181,2e-61,83,116,NA
+"query3604284",2667575108,"mercuric ion transport protein",2667527211,"Pseudomonas abietaniphila LMG 20220",12,126,2,116,181,2e-61,83,116,NA
+"query3604284",2736092955,"mercuric ion transport protein",2734482401,"Pseudomonas aeruginosa RW88",12,126,2,116,181,2e-61,83,116,NA
+"query3604284",2743195021,"mercuric ion transport protein",2740892368,"Cupriavidus metallidurans NE12",12,126,2,116,181,2e-61,83,116,NA
+"query3604284",2856163345,"mercuric ion transport protein",2856162434,"Halomonas sp. CSM-2",11,126,5,120,181,1e-61,73,120,NA
+"query3604284",2870320804,"mercuric ion transport protein",2870319472,"Pseudomonas aeruginosa PASGNDM345",12,126,2,116,181,2e-61,82,116,NA
+"query3604284",2870332858,"mercuric ion transport protein",2870331525,"Pseudomonas aeruginosa PASGNDM699",12,126,2,116,181,2e-61,82,116,NA
+"query3604284",2778740265,"mercuric ion transport protein",2778261061,"Pusillimonas sp. EAC49",12,126,2,116,180,3e-61,77,116,NA
+"query3604284",2666490113,"mercuric ion transport protein",2663763303,"Pseudomonas sp. NBRC 111142",17,126,1,110,179,2e-60,87,110,NA
+"query3604284",2792669193,"mercuric ion transport protein",2791355103,"Marinobacter aromaticivorans D15-8P",12,126,2,116,179,1e-60,73,116,NA
+"query3604284",2793750327,"mercuric ion transport protein",2791355352,"Trinickia dabaoshanensis GIMN1.004",14,126,4,116,179,2e-60,76,116,NA
+"query3604284",2522340265,"mercuric ion transport protein",2522125097,"Rhodanobacter sp. OR444",12,126,2,116,177,8e-60,81,116,NA
+"query3604284",2823157330,"mercuric ion transport protein",2823156881,"Marinobacter sp. CPC48",10,126,2,118,177,7e-60,71,118,NA
+"query3604284",2844302677,"mercuric ion transport protein",2844301416,"Acidovorax cavernicola 1011MAR4D40.2",13,126,3,116,177,1e-59,72,116,NA
+"query3604284",639809863,"mercuric ion transport protein",639633037,"Marinobacter aquaeolei VT8",10,126,2,118,177,8e-60,71,118,NA
+"query3604284",640637208,"mercuric ion transport protein",640612205,"Marinobacter sp. ELB17",12,126,2,116,177,1e-59,71,116,NA
+"query3604284",2844113639,"mercuric ion transport protein",2844110416,"Herbaspirillum sp. VT-16-41",6,126,3,117,176,2e-59,82,117,NA
+"query3604284",2842330798,"mercuric ion transport protein",2842324504,"Paraburkholderia fungorum SEMIA 4007",12,126,2,116,175,7e-59,81,116,NA
+"query3604284",2842354234,"mercuric ion transport protein",2842348783,"Paraburkholderia fungorum SEMIA 4013",12,126,2,116,175,7e-59,81,116,NA
+"query3604284",2637957367,"mercuric ion transport protein",2636415771,"Paraburkholderia fungorum ATCC BAA-463",2,126,11,134,174,5e-58,78,134,NA
+"query3604284",2516838932,"mercuric ion transport protein",2516653033,"Marinobacter salsuginis SD-14B",13,126,3,116,172,9e-58,71,116,NA
+"query3604284",639811360,"mercuric ion transport protein",639633037,"Marinobacter aquaeolei VT8",13,126,3,116,172,9e-58,71,116,NA
+"query3604284",2518320900,"mercuric ion transport protein",2518285516,"Pseudomonas synxantha DSM 13080",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2520391104,"mercuric ion transport protein",2519899622,"Pseudomonas sp. Ag1",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2541855595,"mercuric ion transport protein",2541047103,"Pseudomonas sp. CFT9",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2543171131,"mercuric ion transport protein",2541047479,"Pseudomonas syringae BRIP34876",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2543180174,"mercuric ion transport protein",2541047481,"Pseudomonas syringae BRIP34881",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2549662280,"mercuric ion transport protein",2548876749,"Pseudomonas syringae pv. actinidiae PA459",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2586023997,"mercuric ion transport protein",2585427641,"Pseudomonas sp. WCS374",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2586026659,"mercuric ion transport protein",2585427641,"Pseudomonas sp. WCS374",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2631457468,"mercuric ion transport protein",2630968351,"Pseudomonas fluorescens AU2989",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2633884970,"mercuric ion transport protein",2630968946,"Ralstonia mannitolilytica SN82F48",5,126,2,123,171,4e-57,67,123,NA
+"query3604284",2640299637,"mercuric ion transport protein",2639762637,"Pseudomonas poae LMG 21465",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2641508665,"mercuric ion transport protein",2639762981,"Pseudomonas fluorescens AU14440",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2642370886,"mercuric ion transport protein",2639763190,"Pseudomonas rhodesiae LMG 17764",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2662688733,"mercuric ion transport protein",2660238513,"Pseudomonas synxantha DSM 18928",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2666130012,"mercuric ion transport protein",2663763218,"Pseudomonas coronafaciens LMG 5060",12,126,2,116,171,2e-57,85,116,NA
+"query3604284",2667945424,"mercuric ion transport protein",2667527385,"Pseudomonas synxantha LMG 2190",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2670059808,"mercuric ion transport protein",2667527928,"Pseudomonas poae DSM 14936",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2696701902,"mercuric ion transport protein",2695420601,"Pseudomonas sp. NBRC 111137",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2712823953,"mercuric ion transport protein",2711768305,"Pseudomonadales bacterium RIFCSPLOWO2_12_60_38",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2713031835,"mercuric ion transport protein",2711768411,"Pseudomonadales bacterium RIFCSPLOWO2_12_FULL_59_450",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2788699291,"mercuric ion transport protein",2788499840,"Pseudomonas synxantha finPsuedoS",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2794850745,"mercuric ion transport protein",2791355562,"Pseudomonas sp. GP01-A3",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2794854792,"mercuric ion transport protein",2791355563,"Pseudomonas sp. GP01-A14",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2794864524,"mercuric ion transport protein",2791355564,"Pseudomonas sp. GP01-A6",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795010182,"mercuric ion transport protein",2791355588,"Pseudomonas sp. FW215-L2",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795234829,"mercuric ion transport protein",2791355624,"Pseudomonas sp. GP01-A4",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795240971,"mercuric ion transport protein",2791355625,"Pseudomonas sp. GP01-A11",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795259548,"mercuric ion transport protein",2791355628,"Pseudomonas sp. GP01-A5",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795266259,"mercuric ion transport protein",2791355629,"Pseudomonas sp. GP01-A13",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795276589,"mercuric ion transport protein",2791355630,"Pseudomonas sp. GP01-A15",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795279803,"mercuric ion transport protein",2791355631,"Pseudomonas sp. GP01-A9",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795289046,"mercuric ion transport protein",2791355632,"Pseudomonas sp. GP01-A8",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2795297245,"mercuric ion transport protein",2791355633,"Pseudomonas sp. GP01-A1",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",649633429,"mercuric ion transport protein",649633086,"Pseudomonas fluorescens SBW25",12,126,2,116,171,3e-57,85,116,NA
+"query3604284",2804954604,"mercuric ion transport protein",2802429317,"Variovorax boronicumulans J1",13,126,3,116,170,6e-57,69,116,NA
+"query3604284",2823160761,"mercuric ion transport protein",2823156881,"Marinobacter sp. CPC48",13,126,9,122,170,5e-57,70,122,NA
+"query3604284",2514539844,"mercuric ion transport protein",2513237337,"Marinobacter manganoxydans MnI7-9",12,126,2,116,169,8e-57,70,116,NA
+"query3604284",2534459644,"mercuric ion transport protein",2531839682,"Burkholderia sp. SJ98",12,126,2,116,169,1e-56,83,116,NA
+"query3604284",2741231099,"mercuric ion transport protein",2740891879,"Caballeronia udeis ES_PA-B7",12,126,2,116,169,3e-56,83,116,NA
+"query3604284",2823096919,"mercuric ion transport protein",2823093794,"Marinobacter sp. IN6",12,126,2,116,169,1e-56,70,116,NA
+"query3604284",2716249620,"mercuric ion transport protein",2713897252,"Pseudomonas syringae pv. atrofaciens ICMP 4394",12,126,2,116,168,2e-56,84,116,NA
+"query3604284",2841425995,"mercuric ion transport protein",2841423562,"Marinobacter sp. Arc7-DN-1",12,126,2,116,168,2e-56,76,116,NA
+"query3604284",2579668921,"mercuric ion transport protein",2576861805,"Caballeronia jiangsuensis MP-1",12,126,2,116,167,2e-55,82,116,NA
+"query3604284",2758208480,"mercuric ion transport protein",2757320534,"Caballeronia udeis ES_AL-E11",12,126,2,116,167,2e-55,83,116,NA
+"query3604284",2637344683,"mercuric ion transport protein",2636415628,"Caballeronia zhejiangensis CEIB S4-3",5,126,1,121,165,5e-55,75,121,NA
+"query3604284",2744639014,"mercuric ion transport protein",2744054528,"Idiomarina sp. H105",12,126,2,116,164,9e-55,64,116,NA
+"query3604284",2793711599,"mercuric ion transport protein",2791355346,"Burkholderia aenigmatica AU17325",5,126,1,121,163,6e-54,75,121,NA
+"query3604284",2816005276,"mercuric ion transport protein",2814123434,"Burkholderia vietnamiensis AU15829",5,126,1,121,163,4e-54,75,121,NA
+"query3604284",2860479539,"mercuric ion transport protein",2860472259,"Burkholderia sp. IDO3",5,126,1,121,163,5e-54,75,121,NA
+"query3604284",2581105857,"mercuric ion transport protein",2579778817,"Burkholderia cenocepacia PT15",12,126,2,116,162,5e-54,80,116,NA
+"query3604284",2583247053,"mercuric ion transport protein",2582580763,"Burkholderia cenocepacia S2AES",12,126,2,116,162,5e-54,80,116,NA
+"query3604284",2598438730,"mercuric ion transport protein",2597490133,"Burkholderia multivorans DDS 15A-1",12,126,2,116,162,5e-54,80,116,NA
+"query3604284",2639346947,"mercuric ion transport protein",2636416112,"Mumia flava MUSC 201",12,126,2,116,162,1e-53,80,116,NA
+"query3604284",2647724816,"mercuric ion transport protein",2645727960,"Sphingomonas sp. Ant H11",12,126,2,116,162,6e-54,75,116,NA
+"query3604284",2648572302,"mercuric ion transport protein",2648501116,"Aquamicrobium sp. SK-2",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2682450120,"mercuric ion transport protein",2681812996,"Burkholderia contaminans LMG 23361",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2710231753,"mercuric ion transport protein",2708743155,"Paraburkholderia insulsa LMG 28183",12,126,2,116,162,7e-54,80,116,NA
+"query3604284",2718474439,"mercuric ion transport protein",2718217687,"Novosphingobium kunmingense CGMCC 1.12274",12,126,26,140,162,6e-54,72,140,NA
+"query3604284",2735853927,"mercuric ion transport protein",2734482269,"Burkholderia sp. bin4_M5",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2766114601,"mercuric ion transport protein",2765235966,"Burkholderia sp. CQ001",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2774117575,"mercuric ion transport protein",2773857669,"Burkholderia sp. 28_3",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2793658658,"mercuric ion transport protein",2791355339,"Burkholderia sp. HI4860",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2793667010,"mercuric ion transport protein",2791355340,"Burkholderia sp. AU33647",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2793676658,"mercuric ion transport protein",2791355341,"Burkholderia sp. AU27893",12,126,2,116,162,6e-54,80,116,NA
+"query3604284",2548483024,"mercuric ion transport protein",2547132370,"Komagataeibacter europaeus LMG 18890",7,126,2,121,160,3e-53,79,121,NA
+"query3604284",2745149126,"mercuric ion transport protein",2744054652,"Methylorubrum populi CD11_7",7,126,2,121,158,4e-52,77,121,NA
+"query3604284",2585110846,"mercuric ion transport protein",2582581268,"Halomonas ilicicola DSM 19980",13,126,3,116,156,1e-51,71,116,NA
+"query3604284",2571818995,"mercuric ion transport protein",2571042229,"Acidithiobacillus thiooxidans A01",12,126,2,116,154,9e-51,72,116,NA
+"query3604284",2510630952,"mercuric ion transport protein",2510461031,"Pseudomonas aeruginosa LC IV, ATCC 260",45,126,1,82,152,2e-50,91,82,NA
+"query3604284",2510646086,"mercuric ion transport protein",2510461033,"Pseudomonas aeruginosa Gessard, ATCC 262",45,126,1,82,152,2e-50,91,82,NA
+"query3604284",2744640517,"mercuric ion transport protein",2744054528,"Idiomarina sp. H105",15,126,5,116,152,7e-50,70,116,NA
+"query3604284",2793749078,"mercuric ion transport protein",2791355352,"Trinickia dabaoshanensis GIMN1.004",13,126,3,116,152,9e-50,72,116,NA
+"query3604284",2807498197,"mercuric ion transport protein",2806310756,"Methylophaga sp. IN12",1,126,1,117,150,2e-49,70,117,NA
+"query3604284",2551989550,"mercuric ion transport protein",2551306146,"Afipia birgiae 34632",12,126,2,116,145,4e-47,79,116,NA
+"query3604284",2585849346,"mercuric ion transport protein",2585427595,"Rhizobium tropici PTD1",12,126,2,116,145,6e-47,79,116,NA
+"query3604284",2788675048,"mercuric ion transport protein",2788499837,"Rhizobium sp. WW_1",12,126,2,116,145,6e-47,79,116,NA
+"query3604284",2837351987,"mercuric ion transport protein",2837349240,"Pusillimonas maritima L52-1-41",12,126,2,116,145,1e-47,71,116,NA
+"query3604284",2597780419,"mercuric ion transport protein",2597489864,"Congregibacter litoralis KT71",1,126,1,117,143,2e-46,67,117,NA
+"query3604284",2744639958,"mercuric ion transport protein",2744054528,"Idiomarina sp. H105",1,126,1,117,143,3e-46,67,117,NA
+"query3604284",2776754249,"mercuric ion transport protein",2775507014,"Halomonas sp. MES3-P3E",1,126,1,117,143,2e-46,67,117,NA
+"query3604284",2579988159,"mercuric ion transport protein",2579778552,"Mesorhizobium sp. NBIMC_P2-C4",12,126,2,116,142,4e-46,75,116,NA
+"query3604284",2581314631,"mercuric ion transport protein",2579778865,"Mesorhizobium sp. NBIMC_P2-C2",12,126,2,116,142,3e-46,75,116,NA
+"query3604284",2581894812,"mercuric ion transport protein",2579779004,"Mesorhizobium sp. NBIMC_P2-C1",12,126,2,116,142,3e-46,75,116,NA
+"query3604284",2584187538,"mercuric ion transport protein",2582580991,"Mesorhizobium sp. NBIMC_P2-C3",12,126,2,116,142,3e-46,75,116,NA
+"query3604284",2660388313,"mercuric ion transport protein",2660237937,"Pseudomonas lactis DSM 29142",12,94,2,84,141,9e-46,86,102,NA
+"query3604284",2844113637,"mercuric ion transport protein",2844110416,"Herbaspirillum sp. VT-16-41",5,126,3,117,138,3e-44,57,117,NA
+"query3604284",2515446992,"mercuric ion transport protein",2515154076,"Thiobacillus thioparus DSM 505",12,126,2,118,136,1e-43,56,118,NA
+"query3604284",2638793326,"mercuric ion transport protein",2636415980,"unclassified betaproteobacterium ENR4",2,126,16,142,131,1e-41,53,142,NA
+"query3604284",2628006981,"mercuric ion transport protein",2627853545,"Thiobacillus sp. Bin4_E1B",12,126,2,117,129,6e-41,57,117,NA
+"query3604284",2753853461,"MerC mercury resistance protein",2751185916,"Enterobacter roggenkampii 42192",2,65,7,70,129,4e-40,100,169,NA
+"query3604284",2647653751,"mercuric ion transport protein",2645727942,"Comamonas thiooxydans DF2",12,77,2,67,128,5e-41,98,67,NA
+"query3604284",2632162813,"mercuric ion transport protein",2630968527,"Comamonas testosteroni JL40",18,126,7,115,117,5e-36,53,115,NA
+"query3604284",2637850024,"mercuric ion transport protein",2636415745,"Comamonas thiooxydans DF1",62,126,1,65,117,6e-37,89,65,NA
+"query3604284",2655429811,"mercuric ion transport protein",2654587694,"Bosea vaviloviae SD260",1,125,19,143,116,2e-35,50,144,NA
+"query3604284",2637848632,"mercuric ion transport protein",2636415745,"Comamonas thiooxydans DF1",12,71,2,61,115,4e-36,98,61,NA
+"query3604284",2637849182,"mercuric ion transport protein",2636415745,"Comamonas thiooxydans DF1",12,71,2,61,115,8e-36,97,61,NA
+"query3604284",2788624165,"mercuric ion transport protein",2788499826,"Sulfurirhabdus autotrophica DSM 100309",12,126,2,118,115,2e-35,49,118,NA
+"query3604284",2742270043,"mercuric ion transport protein",2740892159,"Oleibacter sp. HI0075",9,125,2,118,114,5e-35,48,119,NA
+"query3604284",2581400157,"mercuric ion transport protein",2579778887,"Pseudomonas aeruginosa BWHPSA037",16,126,6,116,113,3e-34,50,116,NA
+"query3604284",2642371797,"mercuric ion transport protein",2639763190,"Pseudomonas rhodesiae LMG 17764",16,126,6,116,113,2e-34,50,116,NA
+"query3604284",2642371822,"mercuric ion transport protein",2639763190,"Pseudomonas rhodesiae LMG 17764",16,126,6,116,113,2e-34,50,116,NA
+"query3604284",2666488536,"mercuric ion transport protein",2663763303,"Pseudomonas sp. NBRC 111142",16,126,6,116,113,2e-34,50,116,NA
+"query3604284",2722619631,"mercuric ion transport protein",2721755456,"Acidihalobacter prosperus F5",26,125,6,105,113,1e-34,55,108,NA
+"query3604284",2736094564,"mercuric ion transport protein",2734482401,"Pseudomonas aeruginosa RW88",16,126,6,116,113,3e-34,50,116,NA
+"query3604284",2745191494,"mercuric ion transport protein",2744054662,"Pseudomonas monteilii CD10_2",16,126,6,116,113,2e-34,50,116,NA
+"query3604284",2794727417,"mercuric ion transport protein",2791355541,"Pseudomonas sp. MPR-R5A",16,126,6,116,113,3e-34,50,116,NA
+"query3604284",2794787469,"mercuric ion transport protein",2791355551,"Pseudomonas sp. MPR-R5B",16,126,6,116,113,3e-34,50,116,NA
+"query3604284",2795101343,"mercuric ion transport protein",2791355603,"Pseudomonas sp. MPBC4-3",16,126,6,116,113,3e-34,50,116,NA
+"query3604284",2870236048,"MerT mercuric transport protein",2870230914,"Klebsiella pneumoniae 2-1",54,118,1,65,112,6e-34,95,133,NA
+"query3604284",2597780111,"mercuric ion transport protein",2597489864,"Congregibacter litoralis KT71",9,125,2,118,110,2e-33,45,119,NA
+"query3604284",2743194514,"mercuric ion transport protein",2740892368,"Cupriavidus metallidurans NE12",16,126,5,115,110,2e-33,52,115,NA
+"query3604284",2660388328,"MerT mercuric transport protein",2660237937,"Pseudomonas lactis DSM 29142",12,70,2,60,106,3e-32,90,60,NA
+"query3604284",2532555009,"mercuric ion transport protein",2531839185,"Paraglaciecola polaris LMG 21857",5,124,3,114,105,3e-31,44,117,NA
+"query3604284",2540471445,"mercuric ion transport protein",2540341041,"Pseudoalteromonas sp. BSi20311",5,124,3,114,105,2e-31,44,117,NA
+"query3604284",2776680344,"mercuric ion transport protein",2775506997,"Alteromonas sp. MB-3u-76",5,124,3,114,105,2e-31,44,117,NA
+"query3604284",642756408,"mercuric ion transport protein",642555105,"Alteromonas mediterranea DE",5,124,3,114,105,2e-31,44,117,NA
+"query3604284",2633610684,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",8,125,15,134,104,9e-31,48,137,NA
+"query3604284",2660388061,"MerT mercuric transport protein",2660237937,"Pseudomonas lactis DSM 29142",12,70,2,60,104,1e-31,90,60,NA
+"query3604284",2521638063,"mercuric ion transport protein",2521172617,"Leisingera aquimarina DSM 24565",1,126,3,130,102,3e-30,45,130,NA
+"query3604284",2570642432,"mercuric ion transport protein",2568526636,"Methylibium sp. T29-B",16,126,5,115,102,2e-30,47,115,NA
+"query3604284",2776680342,"MerT mercuric transport protein",2775506997,"Alteromonas sp. MB-3u-76",8,125,86,205,102,2e-29,47,208,NA
+"query3604284",2779694624,"mercuric ion transport protein",2778261321,"Parvibaculum sp. CPC32",14,126,18,132,102,2e-30,48,132,NA
+"query3604284",2829786906,"mercuric ion transport protein",2829783330,"Sphingomonas trueperi DSM 7225",8,125,15,134,102,3e-30,47,137,NA
+"query3604284",2830074219,"mercuric ion transport protein",2830069742,"Sphingobium scionense DSM 19371",8,125,15,134,102,5e-30,47,137,NA
+"query3604284",2532555007,"mercuric ion transport protein",2531839185,"Paraglaciecola polaris LMG 21857",1,122,1,113,101,6e-30,44,115,NA
+"query3604284",2776680346,"mercuric ion transport protein",2775506997,"Alteromonas sp. MB-3u-76",1,122,1,113,101,5e-30,44,115,NA
+"query3604284",642756406,"mercuric ion transport protein",642555105,"Alteromonas mediterranea DE",1,122,1,113,101,5e-30,44,115,NA
+"query3604284",2842330806,"mercuric ion transport protein",2842324504,"Paraburkholderia fungorum SEMIA 4007",24,126,15,115,99.4,9e-29,58,115,NA
+"query3604284",2842354242,"mercuric ion transport protein",2842348783,"Paraburkholderia fungorum SEMIA 4013",24,126,15,115,99.4,9e-29,58,115,NA
+"query3604284",2562495268,"mercuric ion transport protein",2561511209,"Cycloclasticus zancles 7-ME",1,118,1,109,99,4e-29,44,115,NA
+"query3604284",2562497564,"mercuric ion transport protein",2561511209,"Cycloclasticus zancles 7-ME",1,118,1,109,99,4e-29,44,115,NA
+"query3604284",2846786405,"mercuric ion transport protein",2846780681,"Agrobacterium tumefaciens CFBP6625",2,126,6,132,98.2,3e-28,43,132,NA
+"query3604284",2850614163,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",2,126,6,132,98.2,3e-28,43,132,NA
+"query3604284",2850614215,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",2,126,6,132,98.2,3e-28,43,132,NA
+"query3604284",2850619936,"mercuric ion transport protein",2850614736,"Agrobacterium tumefaciens CFBP6623",2,126,6,132,98.2,3e-28,43,132,NA
+"query3604284",2633610513,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",11,125,17,132,97.4,4e-28,44,132,NA
+"query3604284",2656751871,"mercuric ion transport protein",2654588046,"Sphingopyxis macrogoltabida 203",8,126,12,132,97.4,5e-28,45,132,NA
+"query3604284",2689352089,"mercuric ion transport protein",2687453580,"Sphingopyxis macrogoltabida 203N",8,126,12,132,97.4,5e-28,45,132,NA
+"query3604284",2757421590,"mercuric ion transport protein",2757320355,"Maricaulis maris DSM 4734",1,126,1,128,97.1,4e-28,41,128,NA
+"query3604284",2790117213,"mercuric ion transport protein",2788500277,"Maricaulis sp. CPC25",1,126,1,128,97.1,4e-28,41,128,NA
+"query3604284",638141830,"mercuric ion transport protein",637000157,"Maricaulis maris MCS10",1,126,1,128,97.1,4e-28,41,128,NA
+"query3604284",2532555019,"mercuric ion transport protein",2531839185,"Paraglaciecola polaris LMG 21857",34,118,23,109,96.3,7e-28,53,115,NA
+"query3604284",2597780913,"mercuric ion transport protein",2597489864,"Congregibacter litoralis KT71",6,126,2,123,95.1,2e-27,42,123,NA
+"query3604284",2529367597,"mercuric ion transport protein",2529292551,"Bacteroidales bacterium PSC KfJoeBact2-2 (unscreened)",11,122,30,144,94.4,3e-26,47,149,NA
+"query3604284",2529367587,"mercuric ion transport protein",2529292551,"Bacteroidales bacterium PSC KfJoeBact2-2 (unscreened)",11,122,30,144,94.4,3e-26,47,149,NA
+"query3604284",2579692863,"mercuric ion transport protein",2576861810,"Defluviimonas sp. 20V17",1,126,1,127,94.4,5e-27,44,127,NA
+"query3604284",2643329836,"mercuric ion transport protein",2643221425,"co-assembly of Bacteroidales bacterium PSC KfJoeBact 2-1 and 2-2 and 2-3 (Single Cell Co-Assembly - Unscreened)",11,122,30,144,94.4,4e-26,47,149,NA
+"query3604284",2695047020,"mercuric ion transport protein",2693429897,"Allgaiera indica DSM 24802",1,126,1,127,94.4,5e-27,44,127,NA
+"query3604284",2776814537,"mercuric ion transport protein",2775507029,"Bradyrhizobium sp. SK17",11,122,30,144,94.4,2e-26,47,149,NA
+"query3604284",2746674289,"mercuric ion transport protein",2744055042,"Oceanicaulis sp. PT13A",1,126,1,128,94,6e-27,40,128,NA
+"query3604284",2778740141,"mercuric ion transport protein",2778261061,"Pusillimonas sp. EAC49",1,126,1,128,94,7e-27,40,128,NA
+"query3604284",2790562772,"mercuric ion transport protein",2788500406,"Oceanicaulis sp. CPC46",1,126,1,128,94,5e-27,40,128,NA
+"query3604284",2790568613,"mercuric ion transport protein",2788500408,"Oceanicaulis sp. SP73",1,126,1,128,94,6e-27,40,128,NA
+"query3604284",2538664335,"mercuric ion transport protein",2537561796,"Sphingobium yanoikuyae ATCC 51230",33,125,36,129,93.2,2e-26,48,130,NA
+"query3604284",2633611505,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",33,125,36,129,93.2,2e-26,48,130,NA
+"query3604284",2579988053,"mercuric ion transport protein",2579778552,"Mesorhizobium sp. NBIMC_P2-C4",12,125,10,129,92.8,4e-26,45,130,NA
+"query3604284",2581314737,"mercuric ion transport protein",2579778865,"Mesorhizobium sp. NBIMC_P2-C2",12,125,10,129,92.8,3e-26,45,130,NA
+"query3604284",2581894706,"mercuric ion transport protein",2579779004,"Mesorhizobium sp. NBIMC_P2-C1",12,125,10,129,92.8,4e-26,45,130,NA
+"query3604284",2584187432,"mercuric ion transport protein",2582580991,"Mesorhizobium sp. NBIMC_P2-C3",12,125,10,129,92.8,3e-26,45,130,NA
+"query3604284",2596307564,"mercuric ion transport protein",2595698224,"Bosea thiooxidans DSM 9653",1,125,1,135,92.8,4e-26,44,138,NA
+"query3604284",2714726175,"mercuric ion transport protein",2713896887,"Bosea thiooxidans CGMCC 9174",1,125,1,135,92.8,4e-26,44,138,NA
+"query3604284",2732798986,"mercuric ion transport protein",2731957705,"Sphingobium herbicidovorans NBRC 16415",1,126,2,131,92.8,3e-26,38,131,NA
+"query3604284",2810838869,"mercuric ion transport protein",2808606815,"Sphingobium herbicidovorans NBRC 16415",1,126,2,131,92.8,3e-26,38,131,NA
+"query3604284",2829786565,"mercuric ion transport protein",2829783330,"Sphingomonas trueperi DSM 7225",1,126,2,131,92.8,3e-26,38,131,NA
+"query3604284",2844768151,"mercuric ion transport protein",2844764314,"Mesorhizobium sp. YL-MPnR-2016",12,125,10,129,92.8,4e-26,45,130,NA
+"query3604284",2570642368,"mercuric ion transport protein",2568526636,"Methylibium sp. T29-B",21,126,1,106,92,2e-26,48,106,NA
+"query3604284",2579200320,"mercuric ion transport protein",2576861680,"Methylibium sp. T29",21,126,1,106,92,2e-26,48,106,NA
+"query3604284",2834748839,"mercuric ion transport protein",2834748349,"Novosphingobium sp. HII-3",12,125,10,129,92,4e-26,45,130,NA
+"query3604284",2538664428,"mercuric ion transport protein",2537561796,"Sphingobium yanoikuyae ATCC 51230",1,126,2,131,91.7,9e-26,38,131,NA
+"query3604284",2551989605,"mercuric ion transport protein",2551306146,"Afipia birgiae 34632",2,125,12,138,90.5,3e-25,39,141,NA
+"query3604284",2633608707,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",7,125,2,120,90.1,2e-25,40,123,NA
+"query3604284",2776680477,"mercuric ion transport protein",2775506997,"Alteromonas sp. MB-3u-76",21,118,10,109,90.1,2e-25,48,115,NA
+"query3604284",2521638014,"mercuric ion transport protein",2521172617,"Leisingera aquimarina DSM 24565",11,123,10,122,89.7,4e-25,42,131,NA
+"query3604284",2585110224,"mercuric ion transport protein",2582581268,"Halomonas ilicicola DSM 19980",5,125,10,137,89.7,4e-25,39,139,NA
+"query3604284",2776822352,"mercuric ion transport protein",2775507030,"Bradyrhizobium sp. UASWS1016",2,125,12,138,89.7,1e-24,39,139,NA
+"query3604284",2776829770,"mercuric ion transport protein",2775507030,"Bradyrhizobium sp. UASWS1016",2,125,12,138,89.7,1e-24,39,139,NA
+"query3604284",2547096771,"mercuric ion transport protein",2546826724,"Methylobacterium sp. EUR3 AL-11",2,125,4,128,89.4,9e-25,45,131,NA
+"query3604284",2556791246,"mercuric ion transport protein",2554235754,"Bradyrhizobium sp. OHSU_III",17,125,23,134,89.4,1e-24,43,137,NA
+"query3604284",2540472473,"mercuric ion transport protein",2540341041,"Pseudoalteromonas sp. BSi20311",21,118,10,109,89,4e-25,47,115,NA
+"query3604284",642754846,"mercuric ion transport protein",642555105,"Alteromonas mediterranea DE",21,118,1,100,89,3e-25,48,106,NA
+"query3604284",2850614154,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",11,125,21,139,87.4,5e-24,44,140,NA
+"query3604284",2850614206,"mercuric ion transport protein",2850609361,"Agrobacterium tumefaciens CFBP6626",11,125,21,139,87.4,5e-24,44,140,NA
+"query3604284",2547098520,"mercuric ion transport protein",2546826724,"Methylobacterium sp. EUR3 AL-11",5,125,11,132,86.7,1e-23,39,133,NA
+"query3604284",2814962086,"mercuric ion transport protein",2814123148,"Methylobacterium sp. NP6",5,125,11,132,86.7,1e-23,39,133,NA
+"query3604284",2842069426,"mercuric ion transport protein",2842063143,"Methylobacterium brachiatum TX0642",2,120,9,127,86.3,1e-23,41,133,NA
+"query3604284",2846786396,"mercuric ion transport protein",2846780681,"Agrobacterium tumefaciens CFBP6625",11,125,2,120,86.3,8e-24,44,121,NA
+"query3604284",2850619927,"mercuric ion transport protein",2850614736,"Agrobacterium tumefaciens CFBP6623",11,125,2,120,86.3,8e-24,44,121,NA
+"query3604284",2551987301,"mercuric ion transport protein",2551306146,"Afipia birgiae 34632",32,121,40,130,85.5,3e-23,49,135,NA
+"query3604284",2633610511,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",33,120,40,128,85.5,2e-23,46,135,NA
+"query3604284",2850620041,"mercuric ion transport protein",2850614736,"Agrobacterium tumefaciens CFBP6623",7,120,14,129,85.1,3e-23,41,137,NA
+"query3604284",2739745443,"mercuric ion transport protein",2739367714,"Rhodospirillaceae bacterium JGI 01_G16_4000m (contamination screened)",2,125,14,141,83.6,5e-23,36,149,NA
+"query3604284",2532554560,"mercuric ion transport protein",2531839185,"Paraglaciecola polaris LMG 21857",34,116,23,105,82.8,1e-22,48,115,NA
+"query3604284",2672320138,"mercuric ion transport protein",2671180325,"Methylobacterium sp. ME121",2,120,9,127,82.8,4e-22,40,133,NA
+"query3604284",2855926951,"mercuric ion transport protein",2855920048,"Methylobacterium radiotolerans MAMP 4754",2,120,9,127,82.8,4e-22,40,133,NA
+"query3604284",2514136841,"mercuric ion transport protein",2513237191,"Komagataeibacter medellinensis NBRC 3288",5,126,20,143,82.4,3e-22,43,143,NA
+"query3604284",2511785998,"mercuric ion transport protein",2511231144,"Burkholderia sp. YI23",5,126,9,132,82,7e-22,43,132,NA
+"query3604284",2538664421,"mercuric ion transport protein",2537561796,"Sphingobium yanoikuyae ATCC 51230",5,126,9,132,82,5e-22,43,132,NA
+"query3604284",2633610674,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",5,126,9,132,82,4e-22,43,132,NA
+"query3604284",2828305707,"mercuric ion transport protein",2828301124,"Sphingomonas leidyi DSM 4733",5,126,9,132,82,4e-22,43,132,NA
+"query3604284",2841446159,"mercuric ion transport protein",2841440409,"Sphingobium yanoikuyae SJTF8",5,126,9,132,82,5e-22,43,132,NA
+"query3604284",2532552824,"mercuric ion transport protein",2531839185,"Paraglaciecola polaris LMG 21857",34,125,23,114,80.9,8e-22,45,115,NA
+"query3604284",2568881199,"mercuric ion transport protein",2568526096,"Afipia sp. OHSU_II-uncloned",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2569532487,"mercuric ion transport protein",2568526295,"Afipia sp. OHSU_I-uncloned",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2570243794,"mercuric ion transport protein",2568526514,"Afipia sp. OHSU_II-C1",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2573519598,"mercuric ion transport protein",2571042730,"Afipia sp. OHSU_I-C4",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2581143184,"mercuric ion transport protein",2579778826,"Afipia sp. OHSU_I-C6",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2584113038,"mercuric ion transport protein",2582580976,"Afipia sp. OHSU_II-C2",1,125,3,134,80.5,2e-21,36,137,NA
+"query3604284",2580261346,"mercuric ion transport protein",2579778615,"Paraburkholderia fungorum NBRC 102489",19,126,9,116,80.1,3e-21,43,116,NA
+"query3604284",2813012524,"mercuric ion transport protein",2811995063,"Paraburkholderia fungorum FDAARGOS_245",19,126,9,116,80.1,3e-21,43,116,NA
+"query3604284",2586933732,"mercuric ion transport protein",2585427838,"Halomonas zincidurans B6",32,125,38,137,79.7,4e-21,40,139,NA
+"query3604284",2695048054,"mercuric ion transport protein",2693429897,"Allgaiera indica DSM 24802",33,122,39,128,79.7,3e-21,46,133,NA
+"query3604284",2638630230,"mercuric ion transport protein",2636415936,"Methylobacterium variabile DSM 16961",9,125,15,133,75.9,2e-19,47,134,NA
+"query3604284",2787209436,"mercuric ion transport protein",2786546396,"Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24",34,120,33,121,75.9,6e-20,44,128,NA
+"query3604284",2787214925,"mercuric ion transport protein",2786546399,"Nitrospirae bacterium CG_4_10_14_3_um_filter_53_41",34,120,33,121,75.9,6e-20,44,128,NA
+"query3604284",2787229322,"mercuric ion transport protein",2786546405,"Nitrospirae bacterium CG_4_8_14_3_um_filter_50_41",34,120,33,121,75.9,5e-20,44,128,NA
+"query3604284",2787239267,"mercuric ion transport protein",2786546408,"Nitrospirae bacterium CG17_big_fil_post_rev_8_21_14_2_50_50_9",34,120,33,121,75.9,6e-20,44,128,NA
+"query3604284",2788915586,"mercuric ion transport protein",2788499891,"Sutterellaceae bacterium ARS112",13,122,3,104,74.3,1e-19,43,104,NA
+"query3604284",2719775515,"mercuric ion transport protein",2718218021,"Acidihalobacter prosperus V6",26,65,16,55,70.5,1e-17,83,131,NA
+"query3604284",2579689780,"mercuric ion transport protein",2576861810,"Defluviimonas sp. 20V17",38,119,3,84,68.6,2e-17,46,84,NA
+"query3604284",2624538445,"mercuric ion transport protein",2623620456,"Belnapia rosea MJ22",8,95,13,107,68.2,2e-16,46,138,NA
+"query3604284",2523631804,"mercuric ion transport protein",2523533522,"Paucidesulfovibrio longus DSM 6739",1,122,1,126,66.6,4e-16,34,131,NA
+"query3604284",2571817812,"mercuric ion transport protein",2571042229,"Acidithiobacillus thiooxidans A01",2,123,8,135,66.2,6e-16,36,139,NA
+"query3604284",2611748927,"mercuric ion transport protein",2609460164,"Acidithiobacillus thiooxidans Licanantay",2,123,8,135,66.2,6e-16,36,139,NA
+"query3604284",2521638124,"mercuric ion transport protein",2521172617,"Leisingera aquimarina DSM 24565",2,124,5,131,65.5,1e-15,31,135,NA
+"query3604284",2841525242,"mercuric ion transport protein",2841517901,"Methylobacterium currus PR1016A",40,125,1,86,64.7,1e-15,45,87,NA
+"query3604284",2620358423,"mercuric ion transport protein",2619619004,"Sulfitobacter brevis DSM 11443",1,124,5,131,63.5,6e-15,31,135,NA
+"query3604284",2510633477,"MerT mercuric transport protein",2510461031,"Pseudomonas aeruginosa LC IV, ATCC 260",12,43,2,33,62.4,2e-15,97,33,NA
+"query3604284",2510647300,"MerT mercuric transport protein",2510461033,"Pseudomonas aeruginosa Gessard, ATCC 262",12,43,2,33,62.4,2e-15,97,33,NA
+"query3604284",2813732276,"mercuric ion transport protein",2811995293,"Acidithiobacillus caldus MTH-04",8,123,21,136,62.4,1e-14,33,141,NA
+"query3604284",2805168371,"mercuric ion transport protein",2802429362,"Bdellovibrionaceae bacterium ARS45",10,126,3,118,62,1e-14,38,118,NA
+"query3604284",2790907349,"mercuric ion transport protein",2788500502,"Roseobacter sp. NP10",1,124,5,131,61.6,3e-14,32,135,NA
+"query3604284",2790927588,"mercuric ion transport protein",2788500509,"Roseobacter sp. SP159",1,124,5,131,61.6,3e-14,32,135,NA
+"query3604284",2623265142,"mercuric ion transport protein",2622736527,"Sulfitobacter litoralis DSM 17584",3,124,26,151,61.2,7e-14,31,155,NA
+"query3604284",2841425989,"mercuric ion transport protein",2841423562,"Marinobacter sp. Arc7-DN-1",12,101,2,76,60.8,4e-14,46,112,NA
+"query3604284",2611748076,"mercuric ion transport protein",2609460164,"Acidithiobacillus thiooxidans Licanantay",16,123,28,135,60.1,2e-13,33,139,NA
+"query3604284",2699273517,"MerT mercuric transport protein",2698536479,"Enterobacter kobei ST54:941713674",89,126,1,38,59.7,3e-14,92,38,NA
+"query3604284",2734608433,"MerT mercuric transport protein",2734481923,"Bradyrhizobium sp. JCM 18382",5,64,17,76,59.7,2e-13,48,124,NA
+"query3604284",2686822274,"mercuric ion transport protein",2684623108,"Desulfuromonas sp. DDH964",26,126,1,98,53.9,1e-11,39,99,NA
+"query3604284",2641365986,"mercuric ion transport protein",2639762945,"Nitrospira moscoviensis NSP M-1",22,94,280,354,53.5,3e-10,43,389,NA
+"query3604284",2597448948,"mercuric ion transport protein",2596583694,"Geobacter argillaceus ATCC BAA-1139",33,115,20,99,51.2,2e-10,32,111,NA
+"query3604284",2641368467,"MerT mercuric transport protein",2639762945,"Nitrospira moscoviensis NSP M-1",14,124,256,378,51.2,1e-09,34,382,NA
+"query3604284",2836452821,"mercuric ion transport protein",2836451291,"Unclassified Zetaproteobacteria bacterium 664-SC8_FULL_No.8_1.0_78",1,86,1,80,51.2,7e-11,36,115,NA
+"query3604284",2568880805,"mercuric ion transport protein",2568526096,"Afipia sp. OHSU_II-uncloned",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2569530350,"mercuric ion transport protein",2568526295,"Afipia sp. OHSU_I-uncloned",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2570239318,"mercuric ion transport protein",2568526514,"Afipia sp. OHSU_II-C1",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2573519170,"mercuric ion transport protein",2571042730,"Afipia sp. OHSU_I-C4",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2581139850,"mercuric ion transport protein",2579778826,"Afipia sp. OHSU_I-C6",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2584115444,"mercuric ion transport protein",2582580976,"Afipia sp. OHSU_II-C2",2,99,4,107,50.1,1e-09,32,139,NA
+"query3604284",2713956317,"MerT mercuric transport protein",2713896719,"Unclassified Kofleriaceae PNA_bin4",9,126,4,128,50.1,2e-09,31,129,NA
+"query3604284",2746758373,"mercuric ion transport protein",2744055058,"Caballeronia udeis ES_FE-B12",21,115,1,96,49.7,2e-09,40,103,NA
+"query3604284",2755420060,"mercuric ion transport protein",2754412539,"Caballeronia udeis ES_FE-H11",21,115,1,96,49.7,2e-09,40,103,NA
+"query3604284",2758016069,"mercuric ion transport protein",2757320494,"Caballeronia sordidicola ES_PA-B12",21,115,1,96,49.7,2e-09,40,103,NA
+"query3604284",2727943543,"mercuric ion transport protein",2724679736,"Mariprofundus micogutta ET2",5,86,1,76,48.9,9e-10,39,110,NA
+"query3604284",2784402718,"mercuric ion transport protein",2784132095,"Candidatus Manganitrophus noduliformans Mn-1",24,122,9,114,47.8,6e-09,33,118,NA
+"query3604284",2655429574,"mercuric ion transport protein",2654587694,"Bosea vaviloviae SD260",1,123,6,131,47,2e-08,33,138,NA
+"query3604284",2655429631,"mercuric ion transport protein",2654587694,"Bosea vaviloviae SD260",2,96,4,103,42,1e-06,35,138,NA
+"query3604284",650971023,"mercuric ion transport protein",650716085,"Simkania negevensis Z, ATCC VR-1471",10,125,2,105,40.4,2e-06,31,110,NA
+"query3604284",2830074212,"MerT mercuric transport protein",2830069742,"Sphingobium scionense DSM 19371",5,65,10,77,39.7,5e-06,34,98,NA
+"query3604284",2633609749,"mercuric ion transport protein",2630968880,"Sphingopyxis sp. LC81",20,98,15,98,39.3,7e-06,40,119,NA

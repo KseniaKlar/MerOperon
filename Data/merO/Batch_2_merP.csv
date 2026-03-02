@@ -1,0 +1,1191 @@
+"Query.Sequence.Name","Gene.ID","Gene.Name","Genome.ID","Genome.Name","Query.Start.Coord","Query.End.Coord","Subject.Start.Coord","Subject.End.Coord","Bit.Score","E.value","Identities","Subject.Length","X"
+"query3606436",2586889618,"periplasmic mercuric ion binding protein",2585427827,"Pseudomonas syringae pv. atrofaciens LMG 5095",1,91,1,91,147,9e-49,77,91,NA
+"query3606436",2548015554,"periplasmic mercuric ion binding protein",2547132255,"Escherichia coli O2:H- 9.1649",1,91,1,91,143,2e-47,92,91,NA
+"query3606436",2731464933,"periplasmic mercuric ion binding protein",2728369713,"Pseudomonas putida JCM 18798",1,91,1,92,143,3e-47,76,92,NA
+"query3606436",2738001636,"periplasmic mercuric ion binding protein",2737471843,"Escherichia coli CVM N33633PS",1,91,1,91,143,2e-47,92,91,NA
+"query3606436",2731510658,"periplasmic mercuric ion binding protein",2728369721,"Variovorax sp. JCM 16519",1,91,1,92,123,2e-39,65,92,NA
+"query3606436",2516235584,"periplasmic mercuric ion binding protein",2516143028,"Thioalkalivibrio thiocyanodenitrificans ARhD 1",4,91,10,94,87,3e-25,48,94,NA
+"query3606436",2554224882,"periplasmic mercuric ion binding protein",2551306727,"Pseudomonas putida SJ3",1,91,1,91,85.1,3e-24,47,91,NA
+"query3606436",2792207459,"periplasmic mercuric ion binding protein",2791354983,"Aurantimonas sp. 22II-16-19i",7,87,6,88,66.2,8e-17,51,96,NA
+"query3606436",2586319703,"copper ion binding protein",2585427715,"Clostridioides mangenotii TR",26,87,76,137,57.8,6e-13,40,182,NA
+"query3606436",2586319703,"copper ion binding protein",2585427715,"Clostridioides mangenotii TR",27,87,7,67,57.4,NA,43,182,NA
+"query3606436",2518904777,"P-type Cu+ transporter",2518645580,"Paraburkholderia phenoliruptrix BR3459",21,85,26,90,56.6,1e-11,45,782,NA
+"query3606436",2572041589,"copper chaperone",2571042300,"Staphylococcus aureus DAR5864",26,86,6,66,55.5,4e-13,36,68,NA
+"query3606436",2602753008,"copper chaperone",2602041742,"Staphylococcus aureus DAR3144",26,86,6,66,55.5,4e-13,36,68,NA
+"query3606436",2604195419,"copper chaperone",2603879595,"Staphylococcus aureus DAR5810",26,86,6,66,55.5,4e-13,36,68,NA
+"query3606436",2647770565,"P-type Cu+ transporter",2645727973,"Gottschalkia purinilytica DSM 1384",20,85,2,67,55.5,1e-11,36,793,NA
+"query3606436",645665048,"copper chaperone",645058749,"Staphylococcus aureus aureus CF-Marseille",26,86,6,66,55.5,3e-13,36,68,NA
+"query3606436",647183560,"copper chaperone",647000322,"Staphylococcus aureus aureus MR1",26,86,6,66,55.5,4e-13,36,68,NA
+"query3606436",2632394221,"periplasmic mercuric ion binding protein",2630968586,"Methylobacterium radiotolerans 78c",22,91,25,96,55.1,3e-12,43,112,NA
+"query3606436",2653864915,"P-type Cu+ transporter",2651870125,"Halorientalis regularis IBRC-M 10760",26,85,8,67,53.9,5e-11,40,866,NA
+"query3606436",2656376961,"P-type Cu+ transporter",2654587953,"Gemmatimonas sp. SG8_17",20,85,2,67,53.9,5e-11,44,847,NA
+"query3606436",2552933771,"copper chaperone",2551306399,"Staphylococcus aureus PPUKM-332-2009",26,86,6,66,53.5,2e-12,34,68,NA
+"query3606436",2552946042,"copper chaperone",2551306402,"Staphylococcus aureus PPUKM-261-2009",26,86,6,66,53.5,2e-12,34,68,NA
+"query3606436",2562258234,"copper chaperone",2561511148,"Staphylococcus aureus aureus 55/2053",26,86,6,66,53.5,2e-12,34,68,NA
+"query3606436",2573128330,"copper chaperone",2571042617,"Staphylococcus aureus AMMC6051",26,86,6,66,53.5,2e-12,34,68,NA
+"query3606436",2588324068,"P-type Cu+ transporter",2588253519,"Thermosporothrix hazakensis ATCC BAA-1881",19,91,10,82,53.5,1e-10,36,856,NA
+"query3606436",2561523749,"P-type Cu+ transporter",2561511002,"Peptoclostridium litorale W6",28,91,8,71,52.8,1e-10,38,813,NA
+"query3606436",2563818015,"sulfite exporter TauE/SafE",2563366730,"Clostridium hydrogeniformans DSM 21757",20,85,2,67,52.8,1e-10,33,609,NA
+"query3606436",2587854630,"P-type Cu+ transporter",2585428090,"Peptoclostridium litorale DSM 5388",28,91,8,71,52.8,9e-11,38,813,NA
+"query3606436",2520642147,"P-type Cu+ transporter",2519899694,"Brachyspira innocens ATCC 29796",24,85,3,64,52.4,1e-10,35,758,NA
+"query3606436",2566522903,"P-type Cu+ transporter",2565956637,"Clostridium botulinum 84",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2584088810,"P-type E1-E2 ATPase/heavy metal translocating P-type ATPase",2582580968,"Clostridium botulinum CDC54091",22,85,26,89,52.4,2e-10,38,513,NA
+"query3606436",2677744798,"P-type Cu+ transporter",2675903382,"Clostridium botulinum SU1064",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2684129424,"P-type Cu+ transporter",2681813434,"Clostridium botulinum SU0801",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2684131476,"P-type Cu+ transporter",2681813435,"Clostridium botulinum SU0994",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2684137136,"P-type Cu+ transporter",2681813436,"Clostridium botulinum SU1259",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2716050400,"P-type Cu+ transporter",2713897211,"Clostridium botulinum SU1306",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727285160,"P-type Cu+ transporter",2724679563,"Clostridium botulinum SU1937",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727285635,"P-type Cu+ transporter",2724679564,"Clostridium botulinum SU1274",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727291741,"P-type Cu+ transporter",2724679565,"Clostridium botulinum SU1917",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727297532,"P-type Cu+ transporter",2724679566,"Clostridium botulinum SU1887",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727299602,"P-type Cu+ transporter",2724679567,"Clostridium botulinum SU1275",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727305121,"P-type Cu+ transporter",2724679568,"Clostridium botulinum SU1934",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727309384,"P-type Cu+ transporter",2724679569,"Clostridium botulinum SU1304",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727312514,"P-type Cu+ transporter",2724679570,"Clostridium botulinum SU1054",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727315390,"P-type Cu+ transporter",2724679571,"Clostridium botulinum SU1072",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727319120,"P-type Cu+ transporter",2724679572,"Clostridium botulinum SU1074",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727322410,"P-type Cu+ transporter",2724679573,"Clostridium botulinum SU1112",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727326798,"P-type Cu+ transporter",2724679574,"Clostridium botulinum SU0998",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727330085,"P-type Cu+ transporter",2724679575,"Clostridium botulinum SU0807",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727348110,"P-type Cu+ transporter",2724679579,"Clostridium botulinum SU1891",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727353502,"P-type Cu+ transporter",2724679580,"Clostridium botulinum SU1169",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2727357880,"P-type Cu+ transporter",2724679581,"Clostridium botulinum SU0945",22,85,72,135,52.4,2e-10,38,811,NA
+"query3606436",2741401026,"P-type Cu+ transporter",2740891991,"Candidatus Heimdallarchaeota archaeon LC_2",24,91,84,151,52.4,2e-10,32,856,NA
+"query3606436",2790507849,"P-type Cu+ transporter",2788500389,"Flavonifractor sp. An135",21,85,781,844,52.4,2e-10,46,850,NA
+"query3606436",2790548395,"P-type Cu+ transporter",2788500400,"Flavonifractor sp. An92",21,85,781,844,52.4,2e-10,46,850,NA
+"query3606436",2572839041,"P-type Cu+ transporter",2571042530,"Clostridium botulinum CDC54088",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2660256658,"P-type Cu+ transporter",2660237905,"Clostridium botulinum ATCC 25763",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2674483251,"P-type Cu+ transporter",2671180858,"Clostridium botulinum ATCC 17862",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2677224647,"P-type Cu+ transporter",2675903247,"Clostridium botulinum VPI 7124",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2678907080,"P-type Cu+ transporter",2675903681,"Clostridium botulinum McClung 844",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2684120660,"P-type Cu+ transporter",2681813432,"Clostridium botulinum Prevot 697B",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2684139469,"P-type Cu+ transporter",2681813437,"Clostridium botulinum SU1575NT",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2716009587,"P-type Cu+ transporter",2713897200,"Clostridium botulinum ATCC 449",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2716024967,"P-type Cu+ transporter",2713897204,"Clostridium botulinum KF Meyer 126",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2716027512,"P-type Cu+ transporter",2713897205,"Clostridium botulinum Prevot 910",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2716036011,"P-type Cu+ transporter",2713897207,"Clostridium botulinum KF Meyer 33",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2716043299,"P-type Cu+ transporter",2713897209,"Clostridium botulinum AM1295",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2723930028,"P-type Cu+ transporter",2721755776,"Clostridium botulinum CDC_69094",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2727250589,"P-type Cu+ transporter",2724679554,"Clostridium botulinum Prevot Dewping",22,85,72,135,52,3e-10,36,811,NA
+"query3606436",2832152131,"copper chaperone CopZ",2832151896,"Geothermobacter hydrogeniphilus HR-1",14,90,36,113,52,4e-11,33,118,NA
+"query3606436",2545760187,"copper chaperone",2545555860,"Brachyspira alvinipulli ATCC 51933",22,89,2,69,51.6,2e-11,32,69,NA
+"query3606436",2632394088,"periplasmic mercuric ion binding protein",2630968586,"Methylobacterium radiotolerans 78c",22,90,25,96,51.6,7e-11,38,98,NA
+"query3606436",2716032277,"P-type Cu+ transporter",2713897206,"Clostridium botulinum Hall 80",22,85,72,135,51.6,3e-10,36,811,NA
+"query3606436",2731510660,"mercuric reductase",2728369721,"Variovorax sp. JCM 16519",25,85,3,62,51.6,3e-10,43,471,NA
+"query3606436",2561521593,"P-type Cu+ transporter",2561511002,"Peptoclostridium litorale W6",22,85,74,137,50.8,6e-10,33,819,NA
+"query3606436",2561523749,"P-type Cu+ transporter",2561511002,"Peptoclostridium litorale W6",22,85,74,137,50.8,NA,34,813,NA
+"query3606436",2587854630,"P-type Cu+ transporter",2585428090,"Peptoclostridium litorale DSM 5388",22,85,74,137,50.8,NA,34,813,NA
+"query3606436",2587852391,"P-type Cu+ transporter",2585428090,"Peptoclostridium litorale DSM 5388",22,85,74,137,50.8,6e-10,33,819,NA
+"query3606436",2618208710,"P-type Cu+ transporter",2617270958,"Clostridium botulinum A2B2 87",22,85,72,135,50.8,7e-10,34,811,NA
+"query3606436",2840508315,"copper chaperone",2840502759,"Dictyobacter aurantiacus S27",21,85,5,69,50.8,9e-11,31,73,NA
+"query3606436",2658092709,"copper ion binding protein",2657245102,"Clostridium botulinum CDC41370",24,87,1,64,50.4,5e-11,34,69,NA
+"query3606436",2703010558,"copper ion binding protein",2700989514,"Clostridium botulinum CDC41370NT",24,87,1,64,50.4,5e-11,34,69,NA
+"query3606436",2731534808,"heavy-metal-associated domain-containing protein",2728369724,"Clostridium sp. JCM 10522",22,87,2,67,50.1,8e-11,32,68,NA
+"query3606436",648605519,"copper chaperone",648276680,"Ktedonobacter racemifer SOSP1-21, DSM 44963",24,85,4,65,50.1,3e-10,35,71,NA
+"query3606436",2773834817,"periplasmic mercuric ion binding protein",2772191016,"Unclassified Zetaproteobacteria bacterium S6_FULL_No.19_0.9_74",16,90,20,97,49.7,1e-10,41,101,NA
+"query3606436",2840503540,"copper chaperone",2840502759,"Dictyobacter aurantiacus S27",22,85,3,66,49.7,3e-10,34,86,NA
+"query3606436",2840503542,"P-type Cu+ transporter",2840502759,"Dictyobacter aurantiacus S27",25,85,101,161,49.7,4e-09,36,870,NA
+"query3606436",2587810935,"P-type Cu+ transporter",2585428078,"Clostridium collagenovorans DSM 3089",26,85,6,65,49.3,2e-09,35,816,NA
+"query3606436",2588324068,"P-type Cu+ transporter",2588253519,"Thermosporothrix hazakensis ATCC BAA-1881",22,85,89,152,49.3,NA,36,856,NA
+"query3606436",2621142651,"P-type Cu+ transporter",2619619256,"Clostridium botulinum sv. B Osaka05",25,90,4,69,49.3,2e-09,33,818,NA
+"query3606436",2683324309,"P-type Cu+ transporter",2681813212,"Clostridium sporogenes 87-0535",25,90,4,69,49.3,2e-09,33,818,NA
+"query3606436",2684118607,"P-type Cu+ transporter",2681813431,"Clostridium botulinum AM1195",25,90,4,69,49.3,2e-09,33,818,NA
+"query3606436",2727273104,"P-type Cu+ transporter",2724679560,"Clostridium botulinum AM370",25,90,4,69,49.3,2e-09,33,818,NA
+"query3606436",2770903470,"P-type Cu+ transporter",2767802767,"Paraclostridium benzoelyticum JC272",22,85,73,136,49.3,2e-09,30,827,NA
+"query3606436",2812837010,"copper ion binding protein",2811995020,"Dehalobacterium formicoaceticum DMC",25,85,5,65,49.3,2e-09,36,296,NA
+"query3606436",2552933770,"P-type Cu+ transporter",2551306399,"Staphylococcus aureus PPUKM-332-2009",20,90,70,140,48.9,3e-09,34,802,NA
+"query3606436",2552946041,"P-type Cu+ transporter",2551306402,"Staphylococcus aureus PPUKM-261-2009",20,90,70,140,48.9,3e-09,34,802,NA
+"query3606436",2561523750,"copper chaperone",2561511002,"Peptoclostridium litorale W6",26,86,5,64,48.9,2e-10,36,71,NA
+"query3606436",2562258233,"P-type Cu+ transporter",2561511148,"Staphylococcus aureus aureus 55/2053",20,90,70,140,48.9,2e-09,34,802,NA
+"query3606436",2573128329,"P-type Cu+ transporter",2571042617,"Staphylococcus aureus AMMC6051",20,90,70,140,48.9,2e-09,34,802,NA
+"query3606436",2587854629,"copper chaperone",2585428090,"Peptoclostridium litorale DSM 5388",26,86,5,64,48.9,2e-10,36,71,NA
+"query3606436",2638230347,"P-type Cu+ transporter",2636415839,"Clostridium botulinum 277-00",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2639275724,"copper chaperone",2636416097,"Clostridioides difficile Y384",26,89,5,68,48.9,4e-10,31,69,NA
+"query3606436",2657883130,"P-type Cu+ transporter",2657245049,"Clostridium botulinum CDC48761",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2664543019,"P-type Cu+ transporter",2663762825,"Clostridium botulinum CDC33700",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2664776451,"P-type Cu+ transporter",2663762878,"Clostridium botulinum CDC66088",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2666127967,"P-type Cu+ transporter",2663763217,"Clostridium botulinum ATCC 7949",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2666464799,"P-type Cu+ transporter",2663763297,"Clostridium botulinum CDC28023",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2669368374,"P-type Cu+ transporter",2667527760,"Clostridium botulinum CDC37457",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2669756600,"P-type Cu+ transporter",2667527854,"Clostridium botulinum CDC67190",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2670388472,"P-type Cu+ transporter",2667528001,"Clostridium botulinum CDC37461",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2672229093,"P-type Cu+ transporter",2671180305,"Clostridium botulinum CDC48719",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2675775695,"P-type Cu+ transporter",2671181163,"Clostridium botulinum ATCC 17843",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2677582708,"P-type Cu+ transporter",2675903344,"Clostridium botulinum CDC67187",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2683193747,"P-type Cu+ transporter",2681813177,"Clostridium botulinum CDC52271",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2692957066,"P-type Cu+ transporter",2690316268,"Clostridium botulinum CDC33702",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2693164599,"P-type Cu+ transporter",2690316317,"Clostridium botulinum CDC66089",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2696506876,"P-type Cu+ transporter",2695420555,"Clostridium botulinum CDC52298",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2696722370,"P-type Cu+ transporter",2695420606,"Clostridium botulinum CDC28012",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2699161767,"P-type Cu+ transporter",2698536452,"Clostridium botulinum CDC42961",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2716013575,"P-type Cu+ transporter",2713897201,"Clostridium botulinum Hall 183",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2716017370,"P-type Cu+ transporter",2713897202,"Clostridium botulinum Hall 8388A",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2716021273,"P-type Cu+ transporter",2713897203,"Clostridium botulinum Hall 8857Ab",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2721085338,"P-type Cu+ transporter",2718218349,"Clostridium botulinum CDC_67190",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2727235714,"P-type Cu+ transporter",2724679550,"Clostridium botulinum CDC 1744",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2727240525,"P-type Cu+ transporter",2724679551,"Clostridium botulinum ATCC 17843",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2727247818,"P-type Cu+ transporter",2724679553,"Clostridium botulinum Hall 4834",22,85,72,135,48.9,3e-09,34,811,NA
+"query3606436",2741380969,"P-type Cu+ transporter",2740891984,"Theionarchaea archaeon DG-70-1",24,85,4,64,48.9,3e-09,37,804,NA
+"query3606436",2573828948,"P-type Cu+ transporter",2571042820,"Paraclostridium bifermentans WYM",22,85,78,141,48.5,4e-09,28,832,NA
+"query3606436",2648315258,"P-type Cu+ transporter",2645728099,"Clostridium sporogenes UC9000",25,90,4,69,48.5,4e-09,33,818,NA
+"query3606436",2653802799,"P-type Cu+ transporter",2651870112,"Tindallia magadiensis Z-7934",25,85,89,149,48.5,4e-09,34,835,NA
+"query3606436",2653864915,"P-type Cu+ transporter",2651870125,"Halorientalis regularis IBRC-M 10760",9,85,54,135,48.5,NA,37,866,NA
+"query3606436",2662851823,"copper chaperone",2660238554,"Peptoniphilaceae bacterium SIT14",26,88,5,65,48.5,1e-10,38,68,NA
+"query3606436",2703017455,"copper ion binding protein",2700989515,"Clostridium botulinum CDC68016",22,87,2,67,48.5,8e-10,32,120,NA
+"query3606436",2727344801,"P-type Cu+ transporter",2724679578,"Clostridium botulinum CDC 795",22,85,72,135,48.5,5e-09,34,811,NA
+"query3606436",2772047279,"periplasmic mercuric ion binding protein",2770939623,"Pseudocitrobacter faecalis DSM 27453",18,91,17,89,48.5,7e-10,32,94,NA
+"query3606436",2545542914,"P-type Cu+ transporter",2541048007,"Paeniclostridium sordellii VPI 9048",21,85,66,130,48.1,5e-09,28,821,NA
+"query3606436",2545760793,"P-type Cu+ transporter",2545555860,"Brachyspira alvinipulli ATCC 51933",24,85,3,64,48.1,4e-09,32,758,NA
+"query3606436",2546685232,"P-type Cu+ transporter",2545824753,"Staphylococcus epidermidis 41tr",21,91,72,142,48.1,3e-09,32,795,NA
+"query3606436",2546687687,"P-type Cu+ transporter",2545824754,"Staphylococcus epidermidis 528m",21,91,72,142,48.1,3e-09,32,795,NA
+"query3606436",2652747505,"P-type Cu+ transporter",2651869763,"Paeniclostridium sordellii ATCC 9714",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2652747505,"P-type Cu+ transporter",2651869763,"Paeniclostridium sordellii ATCC 9714",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2656546526,"P-type Cu+ transporter",2654587998,"Paeniclostridium sordellii JGS6382",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2657675103,"P-type Cu+ transporter",2657244996,"Paeniclostridium sordellii JGS6961",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2657773024,"P-type Cu+ transporter",2657245020,"Paeniclostridium sordellii UMC4401",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2657773024,"P-type Cu+ transporter",2657245020,"Paeniclostridium sordellii UMC4401",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2657891327,"P-type Cu+ transporter",2657245051,"Paeniclostridium sordellii R31809",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2661260664,"P-type Cu+ transporter",2660238160,"Paeniclostridium sordellii R28058",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2661342405,"P-type Cu+ transporter",2660238185,"Paeniclostridium sordellii R15892",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2661342405,"P-type Cu+ transporter",2660238185,"Paeniclostridium sordellii R15892",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2662979370,"P-type Cu+ transporter",2660238585,"Paeniclostridium sordellii W2946",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2662979370,"P-type Cu+ transporter",2660238585,"Paeniclostridium sordellii W2946",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2663144763,"P-type Cu+ transporter",2660238625,"Paeniclostridium sordellii SSCC33587",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2663144763,"P-type Cu+ transporter",2660238625,"Paeniclostridium sordellii SSCC33587",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2663505593,"P-type Cu+ transporter",2660238717,"Paeniclostridium sordellii E204",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2663505593,"P-type Cu+ transporter",2660238717,"Paeniclostridium sordellii E204",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2663915249,"P-type Cu+ transporter",2663762640,"Paeniclostridium sordellii JGS6956",22,85,37,100,48.1,5e-09,28,861,NA
+"query3606436",2663915249,"P-type Cu+ transporter",2663762640,"Paeniclostridium sordellii JGS6956",21,85,106,170,48.1,NA,26,861,NA
+"query3606436",2665122201,"P-type Cu+ transporter",2663762967,"Paeniclostridium sordellii SSCC18392",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2665122201,"P-type Cu+ transporter",2663762967,"Paeniclostridium sordellii SSCC18392",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2666116688,"P-type Cu+ transporter",2663763214,"Paeniclostridium sordellii W3025",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2666116688,"P-type Cu+ transporter",2663763214,"Paeniclostridium sordellii W3025",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2666858832,"P-type Cu+ transporter",2663763396,"Paeniclostridium sordellii SSCC26591",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2666858832,"P-type Cu+ transporter",2663763396,"Paeniclostridium sordellii SSCC26591",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2667250665,"P-type Cu+ transporter",2663763491,"Paeniclostridium sordellii W2948",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2667250665,"P-type Cu+ transporter",2663763491,"Paeniclostridium sordellii W2948",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2667318827,"P-type Cu+ transporter",2663763508,"Paeniclostridium sordellii R27882",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2667318827,"P-type Cu+ transporter",2663763508,"Paeniclostridium sordellii R27882",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2668668323,"P-type Cu+ transporter",2667527583,"Paeniclostridium sordellii UMC164",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2668668323,"P-type Cu+ transporter",2667527583,"Paeniclostridium sordellii UMC164",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2668754018,"P-type Cu+ transporter",2667527603,"Paeniclostridium sordellii SSCC33589",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2668754018,"P-type Cu+ transporter",2667527603,"Paeniclostridium sordellii SSCC33589",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2668883735,"P-type Cu+ transporter",2667527635,"Paeniclostridium sordellii SSCC35109",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2668986188,"P-type Cu+ transporter",2667527664,"Paeniclostridium sordellii SSCC42239",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2668986188,"P-type Cu+ transporter",2667527664,"Paeniclostridium sordellii SSCC42239",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2669107491,"P-type Cu+ transporter",2667527697,"Paeniclostridium sordellii JGS445",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2669107491,"P-type Cu+ transporter",2667527697,"Paeniclostridium sordellii JGS445",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2669303932,"P-type Cu+ transporter",2667527744,"Paeniclostridium sordellii W2945",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2669303932,"P-type Cu+ transporter",2667527744,"Paeniclostridium sordellii W2945",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2670657631,"P-type Cu+ transporter",2667528068,"Paeniclostridium sordellii SSCC32135",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2670657631,"P-type Cu+ transporter",2667528068,"Paeniclostridium sordellii SSCC32135",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2674572608,"P-type Cu+ transporter",2671180879,"Paeniclostridium sordellii W10",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2674572608,"P-type Cu+ transporter",2671180879,"Paeniclostridium sordellii W10",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2683329728,"P-type Cu+ transporter",2681813213,"Paeniclostridium sordellii W2975",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2683329728,"P-type Cu+ transporter",2681813213,"Paeniclostridium sordellii W2975",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2692611651,"P-type Cu+ transporter",2690316186,"Paeniclostridium sordellii SSCC37615",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2692611651,"P-type Cu+ transporter",2690316186,"Paeniclostridium sordellii SSCC37615",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2693158068,"P-type Cu+ transporter",2690316315,"Paeniclostridium sordellii SSCC18838",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2693158068,"P-type Cu+ transporter",2690316315,"Paeniclostridium sordellii SSCC18838",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2693739041,"P-type Cu+ transporter",2693429574,"Paeniclostridium sordellii R26833",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2695799084,"P-type Cu+ transporter",2695420392,"Paeniclostridium sordellii W2967",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2695799084,"P-type Cu+ transporter",2695420392,"Paeniclostridium sordellii W2967",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2695991296,"P-type Cu+ transporter",2695420437,"Paeniclostridium sordellii UMC4404",22,85,37,100,48.1,5e-09,28,861,NA
+"query3606436",2696490912,"P-type Cu+ transporter",2695420552,"Paeniclostridium sordellii UMC1",22,85,37,100,48.1,6e-09,28,861,NA
+"query3606436",2696963919,"P-type Cu+ transporter",2695420662,"Paeniclostridium sordellii R29426",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2697361337,"P-type Cu+ transporter",2695420758,"Paeniclostridium sordellii R32977",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2697361337,"P-type Cu+ transporter",2695420758,"Paeniclostridium sordellii R32977",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2697547209,"P-type Cu+ transporter",2695420803,"Paeniclostridium sordellii W2922",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2697547209,"P-type Cu+ transporter",2695420803,"Paeniclostridium sordellii W2922",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2698787759,"P-type Cu+ transporter",2698536364,"Paeniclostridium sordellii R32462",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2698787759,"P-type Cu+ transporter",2698536364,"Paeniclostridium sordellii R32462",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2698977918,"P-type Cu+ transporter",2698536409,"Paeniclostridium sordellii JGS444",21,85,106,170,48.1,5e-09,28,861,NA
+"query3606436",2698977918,"P-type Cu+ transporter",2698536409,"Paeniclostridium sordellii JGS444",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2742640894,"P-type Cu+ transporter",2740892240,"Paeniclostridium sordellii R32921",21,85,106,170,48.1,4e-09,28,861,NA
+"query3606436",2742640894,"P-type Cu+ transporter",2740892240,"Paeniclostridium sordellii R32921",22,85,37,100,48.1,NA,28,861,NA
+"query3606436",2770903470,"P-type Cu+ transporter",2767802767,"Paraclostridium benzoelyticum JC272",22,85,3,66,48.1,NA,30,827,NA
+"query3606436",2848430341,"cation transport ATPase",2848425531,"Dictyobacter kobayashii Uno11",25,85,27,87,48.1,1e-08,33,389,NA
+"query3606436",2523093387,"P-type Cu+ transporter",2522572155,"Solirubrobacter pratensis URHD0082",20,89,5,73,47.8,1e-08,33,770,NA
+"query3606436",2543314510,"P-type Cu+ transporter",2541047517,"Paraclostridium bifermentans ATCC 19299",22,85,8,71,47.8,6e-09,30,832,NA
+"query3606436",2543317080,"P-type Cu+ transporter",2541047518,"Paraclostridium bifermentans ATCC 638",22,85,78,141,47.8,8e-09,28,832,NA
+"query3606436",2573828948,"P-type Cu+ transporter",2571042820,"Paraclostridium bifermentans WYM",22,85,8,71,47.8,NA,30,832,NA
+"query3606436",2637147252,"P-type Cu+ transporter",2636415582,"Candidatus Dorea massiliensis AP6",22,85,73,136,47.8,8e-09,28,827,NA
+"query3606436",2656393223,"P-type Cu+ transporter",2654587957,"Gammaproteobacteria bacterium SG8_15",24,88,4,65,47.8,5e-09,43,736,NA
+"query3606436",2696490912,"P-type Cu+ transporter",2695420552,"Paeniclostridium sordellii UMC1",21,85,106,170,47.8,NA,26,861,NA
+"query3606436",2757967733,"P-type Cu+ transporter",2757320483,"Eubacteriales bacterium Cp17",25,85,8,68,47.8,2e-08,33,806,NA
+"query3606436",2840510047,"P-type Cu+ transporter",2840502759,"Dictyobacter aurantiacus S27",11,85,97,171,47.8,2e-08,32,874,NA
+"query3606436",2543314510,"P-type Cu+ transporter",2541047517,"Paraclostridium bifermentans ATCC 19299",22,85,78,141,47.4,NA,28,832,NA
+"query3606436",2546678042,"copper chaperone",2545824751,"Staphylococcus epidermidis 36-1",21,86,2,66,47.4,5e-10,30,68,NA
+"query3606436",2546684731,"copper chaperone",2545824753,"Staphylococcus epidermidis 41tr",21,86,2,66,47.4,6e-10,30,68,NA
+"query3606436",2546687194,"copper chaperone",2545824754,"Staphylococcus epidermidis 528m",21,86,2,66,47.4,6e-10,30,68,NA
+"query3606436",2581702516,"P-type Cu+ transporter",2579778957,"Clostridium botulinum CDC54085",22,85,72,135,47.4,1e-08,34,811,NA
+"query3606436",2600781923,"P-type Cu+ transporter",2600255061,"Clostridium ihumii AP5",25,85,5,65,47.4,1e-08,31,813,NA
+"query3606436",2619492212,"P-type Cu+ transporter",2617271308,"Clostridium sp. NCR",22,85,77,140,47.4,9e-09,28,832,NA
+"query3606436",2663167894,"P-type Cu+ transporter",2660238633,"Paeniclostridium sordellii W3026",22,85,37,100,47.4,8e-09,28,791,NA
+"query3606436",2666879897,"P-type Cu+ transporter",2663763402,"Clostridium botulinum Walls 8G",22,85,72,135,47.4,1e-08,34,811,NA
+"query3606436",2667340323,"P-type Cu+ transporter",2663763516,"Paeniclostridium sordellii R30684",21,85,106,170,47.4,9e-09,28,861,NA
+"query3606436",2727267907,"P-type Cu+ transporter",2724679559,"Clostridium botulinum Walls 8G",22,85,72,135,47.4,1e-08,34,811,NA
+"query3606436",2741400568,"P-type Cu+ transporter",2740891991,"Candidatus Heimdallarchaeota archaeon LC_2",26,85,23,82,47.4,1e-08,37,836,NA
+"query3606436",637367226,"copper chaperone",637000281,"Staphylococcus epidermidis ATCC 12228",21,86,2,66,47.4,6e-10,30,68,NA
+"query3606436",2515445466,"copper chaperone",2515154075,"Novosphingobium nitrogenifigens Y88, DSM 19370",24,86,4,66,47,2e-09,35,70,NA
+"query3606436",2572040551,"P-type Cu+ transporter",2571042300,"Staphylococcus aureus DAR5864",22,90,72,140,47,9e-09,33,802,NA
+"query3606436",2602753007,"P-type Cu+ transporter",2602041742,"Staphylococcus aureus DAR3144",22,90,72,140,47,1e-08,33,802,NA
+"query3606436",2604195418,"P-type Cu+ transporter",2603879595,"Staphylococcus aureus DAR5810",22,90,72,140,47,9e-09,33,802,NA
+"query3606436",2619491736,"copper ion binding protein",2617271308,"Clostridium sp. NCR",22,86,3,67,47,2e-09,28,91,NA
+"query3606436",2637147252,"P-type Cu+ transporter",2636415582,"Candidatus Dorea massiliensis AP6",22,85,3,66,47,NA,28,827,NA
+"query3606436",2712982343,"P-type Cu+ transporter",2711768374,"candidate division NC10 bacterium RIFCSPLOWO2_12_FULL_66_18",19,85,69,135,47,2e-08,39,891,NA
+"query3606436",2757967733,"P-type Cu+ transporter",2757320483,"Eubacteriales bacterium Cp17",26,90,77,141,47,NA,35,806,NA
+"query3606436",645665099,"P-type Cu+ transporter",645058749,"Staphylococcus aureus aureus CF-Marseille",22,90,72,140,47,9e-09,33,802,NA
+"query3606436",647183696,"P-type Cu+ transporter",647000322,"Staphylococcus aureus aureus MR1",22,90,72,140,47,9e-09,33,802,NA
+"query3606436",2520187910,"copper ion binding protein",2519899574,"Clostridium botulinum CFSAN001627",22,87,2,67,46.6,4e-09,30,122,NA
+"query3606436",2558673002,"P-type Cu+ transporter",2558309100,"Clostridioides mangenotii LM2",21,85,77,141,46.6,2e-08,28,829,NA
+"query3606436",2586320360,"P-type Cu+ transporter",2585427715,"Clostridioides mangenotii TR",21,85,77,141,46.6,2e-08,28,829,NA
+"query3606436",2621142932,"P-type Cu+ transporter",2619619256,"Clostridium botulinum sv. B Osaka05",25,85,75,135,46.6,2e-08,36,811,NA
+"query3606436",2640871823,"P-type Cu+ transporter",2639762826,"Clostridioides difficile RA09_70",20,85,76,141,46.6,2e-08,30,833,NA
+"query3606436",2653802798,"copper chaperone",2651870112,"Tindallia magadiensis Z-7934",26,86,5,64,46.6,2e-09,34,71,NA
+"query3606436",2667340323,"P-type Cu+ transporter",2663763516,"Paeniclostridium sordellii R30684",22,85,37,100,46.6,NA,27,861,NA
+"query3606436",2695991296,"P-type Cu+ transporter",2695420437,"Paeniclostridium sordellii UMC4404",22,85,107,170,46.6,NA,27,861,NA
+"query3606436",2543317080,"P-type Cu+ transporter",2541047518,"Paraclostridium bifermentans ATCC 638",22,85,8,71,46.2,NA,27,832,NA
+"query3606436",2588179750,"P-type Cu+ transporter",2585428174,"Hathewaya proteolytica DSM 3090",26,85,823,881,46.2,2e-08,42,889,NA
+"query3606436",2617982628,"cation diffusion facilitator family transporter",2617270907,"Paracoccus chinensis CGMCC 1.7655",19,85,3,69,46.2,2e-08,33,289,NA
+"query3606436",2621142932,"P-type Cu+ transporter",2619619256,"Clostridium botulinum sv. B Osaka05",22,85,2,65,46.2,NA,31,811,NA
+"query3606436",2635357959,"P-type Cu+ transporter",2634166358,"Clostridium frigidicarnis DSM 12271",23,88,3,68,46.2,3e-08,33,815,NA
+"query3606436",2647770565,"P-type Cu+ transporter",2645727973,"Gottschalkia purinilytica DSM 1384",22,85,72,135,46.2,NA,31,793,NA
+"query3606436",2651315164,"P-type Cu+ transporter",2648501799,"Clostridium botulinum B2 450",22,85,2,65,46.2,3e-08,31,811,NA
+"query3606436",2697665148,"copper ion binding protein",2695420832,"Clostridium sporogenes 85-3852",22,87,2,67,46.2,1e-08,29,178,NA
+"query3606436",2703028629,"copper ion binding protein",2700989517,"Clostridium botulinum Prevot1662",22,87,2,67,46.2,4e-09,29,103,NA
+"query3606436",2716046866,"P-type Cu+ transporter",2713897210,"Clostridium botulinum AM553",22,85,2,65,46.2,3e-08,31,811,NA
+"query3606436",2840510047,"P-type Cu+ transporter",2840502759,"Dictyobacter aurantiacus S27",25,85,25,85,46.2,NA,31,874,NA
+"query3606436",648600763,"copper chaperone",648276680,"Ktedonobacter racemifer SOSP1-21, DSM 44963",22,85,2,65,46.2,1e-08,33,93,NA
+"query3606436",2519484939,"copper chaperone",2519103103,"Brachyspira pilosicoli B2904",22,89,2,69,45.8,3e-09,28,69,NA
+"query3606436",2522051456,"copper chaperone",2521172718,"Brachyspira pilosicoli P43/6/78",22,89,2,69,45.8,2e-09,28,69,NA
+"query3606436",2527088399,"copper chaperone",2526164716,"Brachyspira pilosicoli WesB",22,89,2,69,45.8,3e-09,28,69,NA
+"query3606436",2565732478,"copper ion binding protein",2563367177,"Paeniclostridium sordellii ATCC 9714",26,86,1,61,45.8,2e-09,28,68,NA
+"query3606436",2566522903,"P-type Cu+ transporter",2565956637,"Clostridium botulinum 84",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2572839041,"P-type Cu+ transporter",2571042530,"Clostridium botulinum CDC54088",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2574189976,"P-type Cu+ transporter",2574179702,"Propionigenium maris DSM 9537",19,91,67,139,45.8,3e-08,30,835,NA
+"query3606436",2581702516,"P-type Cu+ transporter",2579778957,"Clostridium botulinum CDC54085",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2600781923,"P-type Cu+ transporter",2600255061,"Clostridium ihumii AP5",23,85,73,135,45.8,NA,33,813,NA
+"query3606436",2618208710,"P-type Cu+ transporter",2617270958,"Clostridium botulinum A2B2 87",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2621142651,"P-type Cu+ transporter",2619619256,"Clostridium botulinum sv. B Osaka05",26,85,75,134,45.8,NA,33,818,NA
+"query3606436",2638230347,"P-type Cu+ transporter",2636415839,"Clostridium botulinum 277-00",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2656546526,"P-type Cu+ transporter",2654587998,"Paeniclostridium sordellii JGS6382",22,85,37,100,45.8,NA,25,861,NA
+"query3606436",2657517035,"P-type Cu+ transporter",2657244956,"Paeniclostridium sordellii R32668",21,85,66,130,45.8,3e-08,25,821,NA
+"query3606436",2657517035,"P-type Cu+ transporter",2657244956,"Paeniclostridium sordellii R32668",26,85,1,60,45.8,NA,28,821,NA
+"query3606436",2657675103,"P-type Cu+ transporter",2657244996,"Paeniclostridium sordellii JGS6961",22,85,37,100,45.8,NA,27,861,NA
+"query3606436",2657883130,"P-type Cu+ transporter",2657245049,"Clostridium botulinum CDC48761",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2660256658,"P-type Cu+ transporter",2660237905,"Clostridium botulinum ATCC 25763",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2661260664,"P-type Cu+ transporter",2660238160,"Paeniclostridium sordellii R28058",22,85,37,100,45.8,NA,27,861,NA
+"query3606436",2664543019,"P-type Cu+ transporter",2663762825,"Clostridium botulinum CDC33700",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2664776451,"P-type Cu+ transporter",2663762878,"Clostridium botulinum CDC66088",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2666127967,"P-type Cu+ transporter",2663763217,"Clostridium botulinum ATCC 7949",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2666464799,"P-type Cu+ transporter",2663763297,"Clostridium botulinum CDC28023",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2666879897,"P-type Cu+ transporter",2663763402,"Clostridium botulinum Walls 8G",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2669368374,"P-type Cu+ transporter",2667527760,"Clostridium botulinum CDC37457",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2669756600,"P-type Cu+ transporter",2667527854,"Clostridium botulinum CDC67190",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2670388472,"P-type Cu+ transporter",2667528001,"Clostridium botulinum CDC37461",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2672229093,"P-type Cu+ transporter",2671180305,"Clostridium botulinum CDC48719",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2674483251,"P-type Cu+ transporter",2671180858,"Clostridium botulinum ATCC 17862",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2675775695,"P-type Cu+ transporter",2671181163,"Clostridium botulinum ATCC 17843",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2677224647,"P-type Cu+ transporter",2675903247,"Clostridium botulinum VPI 7124",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2677582708,"P-type Cu+ transporter",2675903344,"Clostridium botulinum CDC67187",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2677744798,"P-type Cu+ transporter",2675903382,"Clostridium botulinum SU1064",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2678907080,"P-type Cu+ transporter",2675903681,"Clostridium botulinum McClung 844",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2683193747,"P-type Cu+ transporter",2681813177,"Clostridium botulinum CDC52271",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2684120660,"P-type Cu+ transporter",2681813432,"Clostridium botulinum Prevot 697B",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2684129424,"P-type Cu+ transporter",2681813434,"Clostridium botulinum SU0801",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2684131476,"P-type Cu+ transporter",2681813435,"Clostridium botulinum SU0994",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2684137136,"P-type Cu+ transporter",2681813436,"Clostridium botulinum SU1259",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2692957066,"P-type Cu+ transporter",2690316268,"Clostridium botulinum CDC33702",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2693164599,"P-type Cu+ transporter",2690316317,"Clostridium botulinum CDC66089",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2696506876,"P-type Cu+ transporter",2695420555,"Clostridium botulinum CDC52298",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2696722370,"P-type Cu+ transporter",2695420606,"Clostridium botulinum CDC28012",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2699161767,"P-type Cu+ transporter",2698536452,"Clostridium botulinum CDC42961",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716009587,"P-type Cu+ transporter",2713897200,"Clostridium botulinum ATCC 449",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716013575,"P-type Cu+ transporter",2713897201,"Clostridium botulinum Hall 183",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716017370,"P-type Cu+ transporter",2713897202,"Clostridium botulinum Hall 8388A",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716021273,"P-type Cu+ transporter",2713897203,"Clostridium botulinum Hall 8857Ab",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716024967,"P-type Cu+ transporter",2713897204,"Clostridium botulinum KF Meyer 126",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716027512,"P-type Cu+ transporter",2713897205,"Clostridium botulinum Prevot 910",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716032277,"P-type Cu+ transporter",2713897206,"Clostridium botulinum Hall 80",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716036011,"P-type Cu+ transporter",2713897207,"Clostridium botulinum KF Meyer 33",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716043299,"P-type Cu+ transporter",2713897209,"Clostridium botulinum AM1295",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2716050400,"P-type Cu+ transporter",2713897211,"Clostridium botulinum SU1306",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2721085338,"P-type Cu+ transporter",2718218349,"Clostridium botulinum CDC_67190",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2722507868,"copper chaperone",2721755413,"Hydrogenophilales bacterium RIFOXYA1_FULL_63_33",24,85,4,65,45.8,2e-09,37,69,NA
+"query3606436",2723930028,"P-type Cu+ transporter",2721755776,"Clostridium botulinum CDC_69094",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727235714,"P-type Cu+ transporter",2724679550,"Clostridium botulinum CDC 1744",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727240525,"P-type Cu+ transporter",2724679551,"Clostridium botulinum ATCC 17843",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727247818,"P-type Cu+ transporter",2724679553,"Clostridium botulinum Hall 4834",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727250589,"P-type Cu+ transporter",2724679554,"Clostridium botulinum Prevot Dewping",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727267907,"P-type Cu+ transporter",2724679559,"Clostridium botulinum Walls 8G",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727285160,"P-type Cu+ transporter",2724679563,"Clostridium botulinum SU1937",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727285635,"P-type Cu+ transporter",2724679564,"Clostridium botulinum SU1274",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727291741,"P-type Cu+ transporter",2724679565,"Clostridium botulinum SU1917",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727297532,"P-type Cu+ transporter",2724679566,"Clostridium botulinum SU1887",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727299602,"P-type Cu+ transporter",2724679567,"Clostridium botulinum SU1275",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727305121,"P-type Cu+ transporter",2724679568,"Clostridium botulinum SU1934",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727309384,"P-type Cu+ transporter",2724679569,"Clostridium botulinum SU1304",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727312514,"P-type Cu+ transporter",2724679570,"Clostridium botulinum SU1054",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727315390,"P-type Cu+ transporter",2724679571,"Clostridium botulinum SU1072",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727319120,"P-type Cu+ transporter",2724679572,"Clostridium botulinum SU1074",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727322410,"P-type Cu+ transporter",2724679573,"Clostridium botulinum SU1112",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727326798,"P-type Cu+ transporter",2724679574,"Clostridium botulinum SU0998",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727330085,"P-type Cu+ transporter",2724679575,"Clostridium botulinum SU0807",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727344801,"P-type Cu+ transporter",2724679578,"Clostridium botulinum CDC 795",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727348110,"P-type Cu+ transporter",2724679579,"Clostridium botulinum SU1891",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727353502,"P-type Cu+ transporter",2724679580,"Clostridium botulinum SU1169",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2727357880,"P-type Cu+ transporter",2724679581,"Clostridium botulinum SU0945",22,85,2,65,45.8,NA,31,811,NA
+"query3606436",2792207463,"P-type Cu+ transporter",2791354983,"Aurantimonas sp. 22II-16-19i",19,85,84,150,45.8,6e-08,37,851,NA
+"query3606436",2812837010,"copper ion binding protein",2811995020,"Dehalobacterium formicoaceticum DMC",25,85,75,135,45.8,NA,34,296,NA
+"query3606436",2512434107,"P-type Cu+ transporter",2512047057,"Clostridioides difficile ATCC 43255",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2515913078,"P-type Cu+ transporter",2515154168,"Clostridioides difficile ATCC 9689",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2520640995,"copper chaperone",2519899694,"Brachyspira innocens ATCC 29796",22,89,2,69,45.4,4e-09,32,69,NA
+"query3606436",2527062097,"P-type Cu+ transporter",2526164710,"Clostridioides difficile DSM 1296",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2536136639,"P-type Cu+ transporter",2534681960,"Clostridioides difficile 002-P50-2011",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2536139850,"P-type Cu+ transporter",2534681961,"Clostridioides difficile 050-P50-2011",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2538289283,"P-type Cu+ transporter",2537561695,"Clostridioides difficile 70-100-2010",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2539926647,"P-type Cu+ transporter",2537562147,"Amycolatopsis azurea DSM 43854",21,85,8,70,45.4,1e-07,40,736,NA
+"query3606436",2542283328,"P-type Cu+ transporter",2541047254,"Clostridioides difficile CD3",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542287220,"P-type Cu+ transporter",2541047255,"Clostridioides difficile CD8",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542291246,"P-type Cu+ transporter",2541047256,"Clostridioides difficile CD9",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542295245,"P-type Cu+ transporter",2541047257,"Clostridioides difficile CD18",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542299117,"P-type Cu+ transporter",2541047258,"Clostridioides difficile CD21",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542302919,"P-type Cu+ transporter",2541047259,"Clostridioides difficile CD17",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542306772,"P-type Cu+ transporter",2541047260,"Clostridioides difficile CD13",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542310625,"P-type Cu+ transporter",2541047261,"Clostridioides difficile CD22",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542314525,"P-type Cu+ transporter",2541047262,"Clostridioides difficile CD39",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542318359,"P-type Cu+ transporter",2541047263,"Clostridioides difficile CD40",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542322248,"P-type Cu+ transporter",2541047264,"Clostridioides difficile CD38",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542325998,"P-type Cu+ transporter",2541047265,"Clostridioides difficile CD34",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542333568,"P-type Cu+ transporter",2541047267,"Clostridioides difficile CD42",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542336953,"P-type Cu+ transporter",2541047268,"Clostridioides difficile CD41",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542341138,"P-type Cu+ transporter",2541047269,"Clostridioides difficile CD43",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542345300,"P-type Cu+ transporter",2541047270,"Clostridioides difficile CD49",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542349352,"P-type Cu+ transporter",2541047271,"Clostridioides difficile CD47",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542353077,"P-type Cu+ transporter",2541047272,"Clostridioides difficile CD46",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542357378,"P-type Cu+ transporter",2541047273,"Clostridioides difficile CD45",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542361190,"P-type E1-E2 ATPase",2541047274,"Clostridioides difficile CD51",20,85,76,141,45.4,5e-08,29,410,NA
+"query3606436",2542365359,"P-type Cu+ transporter",2541047275,"Clostridioides difficile CD88",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542369194,"P-type Cu+ transporter",2541047276,"Clostridioides difficile CD86",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542373427,"P-type Cu+ transporter",2541047277,"Clostridioides difficile CD69",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2542377257,"P-type Cu+ transporter",2541047278,"Clostridioides difficile CD70",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542381007,"P-type Cu+ transporter",2541047279,"Clostridioides difficile CD68",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542384803,"P-type Cu+ transporter",2541047280,"Clostridioides difficile CD92",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542388574,"P-type Cu+ transporter",2541047281,"Clostridioides difficile CD104",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542392512,"P-type Cu+ transporter",2541047282,"Clostridioides difficile CD109",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542396404,"P-type Cu+ transporter",2541047283,"Clostridioides difficile CD90",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542400127,"P-type Cu+ transporter",2541047284,"Clostridioides difficile CD111",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542404236,"P-type Cu+ transporter",2541047285,"Clostridioides difficile CD113",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542409063,"P-type Cu+ transporter",2541047286,"Clostridioides difficile CD129",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542412895,"P-type Cu+ transporter",2541047287,"Clostridioides difficile CD127",20,85,71,136,45.4,4e-08,29,828,NA
+"query3606436",2542416054,"P-type Cu+ transporter",2541047288,"Clostridioides difficile CD131",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542419951,"P-type Cu+ transporter",2541047289,"Clostridioides difficile CD159",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542423607,"P-type Cu+ transporter",2541047290,"Clostridioides difficile CD132",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542427872,"P-type Cu+ transporter",2541047291,"Clostridioides difficile CD149",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542431729,"P-type Cu+ transporter",2541047292,"Clostridioides difficile CD144",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542435626,"P-type Cu+ transporter",2541047293,"Clostridioides difficile CD133",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542439397,"P-type Cu+ transporter",2541047294,"Clostridioides difficile CD165",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542448068,"P-type Cu+ transporter",2541047296,"Clostridioides difficile CD169",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542451897,"P-type Cu+ transporter",2541047297,"Clostridioides difficile CD166",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542455986,"P-type Cu+ transporter",2541047298,"Clostridioides difficile CD170",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542459835,"P-type Cu+ transporter",2541047299,"Clostridioides difficile CD175",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542463632,"P-type Cu+ transporter",2541047300,"Clostridioides difficile CD178",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542467655,"P-type Cu+ transporter",2541047301,"Clostridioides difficile CD181",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542471687,"P-type Cu+ transporter",2541047302,"Clostridioides difficile CD200",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542475575,"P-type Cu+ transporter",2541047303,"Clostridioides difficile CD201",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542479334,"P-type Cu+ transporter",2541047304,"Clostridioides difficile CD206",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542483204,"P-type Cu+ transporter",2541047305,"Clostridioides difficile CD211",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542486830,"P-type Cu+ transporter",2541047306,"Clostridioides difficile CD212",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542490893,"P-type Cu+ transporter",2541047307,"Clostridioides difficile 655",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542498580,"P-type Cu+ transporter",2541047309,"Clostridioides difficile 840",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542502553,"P-type Cu+ transporter",2541047310,"Clostridioides difficile 842",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542506249,"P-type Cu+ transporter",2541047311,"Clostridioides difficile 6041",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542508616,"P-type Cu+ transporter",2541047312,"Clostridioides difficile 6042",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542513904,"P-type Cu+ transporter",2541047313,"Clostridioides difficile 6057",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542517655,"P-type Cu+ transporter",2541047314,"Clostridioides difficile DA00044",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542521452,"P-type Cu+ transporter",2541047315,"Clostridioides difficile DA00062",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542525210,"P-type Cu+ transporter",2541047316,"Clostridioides difficile DA00065",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542529213,"P-type Cu+ transporter",2541047317,"Clostridioides difficile DA00114",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542533244,"P-type Cu+ transporter",2541047318,"Clostridioides difficile DA00126",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542537065,"P-type Cu+ transporter",2541047319,"Clostridioides difficile DA00128",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542541214,"P-type Cu+ transporter",2541047320,"Clostridioides difficile DA00129",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542545045,"P-type Cu+ transporter",2541047321,"Clostridioides difficile DA00141",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542548956,"P-type Cu+ transporter",2541047322,"Clostridioides difficile DA00131",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542552763,"P-type Cu+ transporter",2541047323,"Clostridioides difficile DA00132",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542556718,"P-type Cu+ transporter",2541047324,"Clostridioides difficile DA00134",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542560635,"P-type Cu+ transporter",2541047325,"Clostridioides difficile DA00142",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542568089,"P-type Cu+ transporter",2541047327,"Clostridioides difficile DA00149",20,85,71,136,45.4,4e-08,29,828,NA
+"query3606436",2542571940,"P-type Cu+ transporter",2541047328,"Clostridioides difficile DA00154",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542577326,"P-type Cu+ transporter",2541047329,"Clostridioides difficile DA00160",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542579717,"P-type Cu+ transporter",2541047330,"Clostridioides difficile DA00167",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542588114,"P-type Cu+ transporter",2541047332,"Clostridioides difficile DA00174",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542592115,"P-type Cu+ transporter",2541047333,"Clostridioides difficile DA00189",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542595819,"P-type Cu+ transporter",2541047334,"Clostridioides difficile DA00183",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542599855,"P-type Cu+ transporter",2541047335,"Clostridioides difficile DA00191",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542603581,"P-type Cu+ transporter",2541047336,"Clostridioides difficile DA00193",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542607603,"P-type Cu+ transporter",2541047337,"Clostridioides difficile DA00196",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542611429,"P-type Cu+ transporter",2541047338,"Clostridioides difficile DA00195",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542615264,"P-type Cu+ transporter",2541047339,"Clostridioides difficile DA00197",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542618961,"P-type Cu+ transporter",2541047340,"Clostridioides difficile DA00211",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2542622898,"P-type Cu+ transporter",2541047341,"Clostridioides difficile DA00203",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542626819,"P-type Cu+ transporter",2541047342,"Clostridioides difficile DA00210",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542630955,"P-type Cu+ transporter",2541047343,"Clostridioides difficile DA00212",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542634820,"P-type Cu+ transporter",2541047344,"Clostridioides difficile DA00244",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542638547,"P-type Cu+ transporter",2541047345,"Clostridioides difficile DA00238",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542642466,"P-type Cu+ transporter",2541047346,"Clostridioides difficile DA00232",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542646244,"P-type Cu+ transporter",2541047347,"Clostridioides difficile DA00216",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542650070,"P-type Cu+ transporter",2541047348,"Clostridioides difficile DA00215",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542653793,"P-type Cu+ transporter",2541047349,"Clostridioides difficile DA00245",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542657702,"P-type Cu+ transporter",2541047350,"Clostridioides difficile DA00246",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542661434,"P-type Cu+ transporter",2541047351,"Clostridioides difficile DA00305",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542665412,"P-type Cu+ transporter",2541047352,"Clostridioides difficile DA00275",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542669130,"P-type Cu+ transporter",2541047353,"Clostridioides difficile DA00261",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542673058,"P-type Cu+ transporter",2541047354,"Clostridioides difficile DA00273",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542676781,"P-type Cu+ transporter",2541047355,"Clostridioides difficile DA00256",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2542680702,"P-type Cu+ transporter",2541047356,"Clostridioides difficile DA00313",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542684529,"P-type Cu+ transporter",2541047357,"Clostridioides difficile F152",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542688589,"P-type Cu+ transporter",2541047358,"Clostridioides difficile DA00310",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542692472,"P-type Cu+ transporter",2541047359,"Clostridioides difficile DA00307",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542696365,"P-type Cu+ transporter",2541047360,"Clostridioides difficile DA00306",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542700315,"P-type Cu+ transporter",2541047361,"Clostridioides difficile F253",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542704104,"P-type Cu+ transporter",2541047362,"Clostridioides difficile F249",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542708086,"P-type Cu+ transporter",2541047363,"Clostridioides difficile F314",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542716402,"P-type Cu+ transporter",2541047365,"Clostridioides difficile Y10",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542720203,"P-type Cu+ transporter",2541047366,"Clostridioides difficile Y21",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542724055,"P-type Cu+ transporter",2541047367,"Clostridioides difficile Y171",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542727796,"P-type Cu+ transporter",2541047368,"Clostridioides difficile Y155",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542731771,"P-type Cu+ transporter",2541047369,"Clostridioides difficile Y41",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542735744,"P-type Cu+ transporter",2541047370,"Clostridioides difficile Y165",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542739492,"P-type Cu+ transporter",2541047371,"Clostridioides difficile Y202",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2542742942,"P-type Cu+ transporter",2541047372,"Clostridioides difficile Y184",20,85,62,127,45.4,4e-08,29,819,NA
+"query3606436",2542746419,"P-type Cu+ transporter",2541047373,"Clostridioides difficile Y215",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542750085,"P-type Cu+ transporter",2541047374,"Clostridioides difficile Y231",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542753954,"P-type Cu+ transporter",2541047375,"Clostridioides difficile Y312",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542757742,"P-type Cu+ transporter",2541047376,"Clostridioides difficile Y270",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542761487,"P-type Cu+ transporter",2541047377,"Clostridioides difficile Y307",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2542765229,"P-type Cu+ transporter",2541047378,"Clostridioides difficile Y247",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542769199,"P-type Cu+ transporter",2541047379,"Clostridioides difficile Y266",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542772940,"P-type Cu+ transporter",2541047380,"Clostridioides difficile Y343",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542776717,"P-type Cu+ transporter",2541047381,"Clostridioides difficile Y358",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542780636,"P-type Cu+ transporter",2541047382,"Clostridioides difficile Y381",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542791218,"P-type Cu+ transporter",2541047384,"Clostridioides difficile Y401",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542795144,"P-type Cu+ transporter",2541047385,"Clostridioides difficile P3",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542798907,"P-type Cu+ transporter",2541047386,"Clostridioides difficile P5",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542802949,"P-type Cu+ transporter",2541047387,"Clostridioides difficile P6",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542806657,"P-type Cu+ transporter",2541047388,"Clostridioides difficile P7",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542810508,"P-type Cu+ transporter",2541047389,"Clostridioides difficile P9",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542814355,"P-type Cu+ transporter",2541047390,"Clostridioides difficile P13",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542818101,"P-type Cu+ transporter",2541047391,"Clostridioides difficile P15",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542821917,"P-type Cu+ transporter",2541047392,"Clostridioides difficile P19",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542825925,"P-type Cu+ transporter",2541047393,"Clostridioides difficile P21",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542829639,"P-type Cu+ transporter",2541047394,"Clostridioides difficile P23",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542833692,"P-type Cu+ transporter",2541047395,"Clostridioides difficile P24",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542837769,"P-type Cu+ transporter",2541047396,"Clostridioides difficile P25",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542841469,"P-type Cu+ transporter",2541047397,"Clostridioides difficile P20",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542845382,"P-type Cu+ transporter",2541047398,"Clostridioides difficile P32",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542849178,"P-type Cu+ transporter",2541047399,"Clostridioides difficile P29",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542853099,"P-type Cu+ transporter",2541047400,"Clostridioides difficile P30",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542856703,"P-type Cu+ transporter",2541047401,"Clostridioides difficile P31",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542865482,"P-type Cu+ transporter",2541047403,"Clostridioides difficile P38",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542869431,"P-type Cu+ transporter",2541047404,"Clostridioides difficile P36",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542873244,"P-type Cu+ transporter",2541047405,"Clostridioides difficile P42",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542877034,"P-type Cu+ transporter",2541047406,"Clostridioides difficile P45",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542880920,"P-type Cu+ transporter",2541047407,"Clostridioides difficile P46",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542884970,"P-type Cu+ transporter",2541047408,"Clostridioides difficile P50",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542889079,"P-type Cu+ transporter",2541047409,"Clostridioides difficile P49",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542892929,"P-type Cu+ transporter",2541047410,"Clostridioides difficile P48",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542897010,"P-type Cu+ transporter",2541047411,"Clostridioides difficile P51",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542901008,"P-type Cu+ transporter",2541047412,"Clostridioides difficile P78",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542904829,"P-type Cu+ transporter",2541047413,"Clostridioides difficile P59",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542908746,"P-type Cu+ transporter",2541047414,"Clostridioides difficile P61",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542912434,"P-type Cu+ transporter",2541047415,"Clostridioides difficile P72",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542916204,"P-type Cu+ transporter",2541047416,"Clostridioides difficile P70",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2542920035,"P-type Cu+ transporter",2541047417,"Clostridioides difficile P69",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542923957,"P-type Cu+ transporter",2541047418,"Clostridioides difficile P71",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542927864,"P-type Cu+ transporter",2541047419,"Clostridioides difficile P74",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542931651,"P-type Cu+ transporter",2541047420,"Clostridioides difficile P75",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2542935546,"P-type Cu+ transporter",2541047421,"Clostridioides difficile P77",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2543204200,"P-type Cu+ transporter",2541047488,"Clostridioides difficile CD196",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2543207152,"P-type Cu+ transporter",2541047489,"Clostridioides difficile 342",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543210848,"P-type Cu+ transporter",2541047490,"Clostridioides difficile P1",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543218634,"P-type Cu+ transporter",2541047494,"Clostridioides difficile P2",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543222386,"P-type Cu+ transporter",2541047495,"Clostridioides difficile P73",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543226325,"P-type Cu+ transporter",2541047496,"Clostridioides difficile P11",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543230110,"P-type Cu+ transporter",2541047497,"Clostridioides difficile P8",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543286641,"P-type Cu+ transporter",2541047510,"Clostridioides difficile F601",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543290470,"P-type Cu+ transporter",2541047511,"Clostridioides difficile F548",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543294612,"P-type Cu+ transporter",2541047512,"Clostridioides difficile F525",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543298341,"P-type Cu+ transporter",2541047513,"Clostridioides difficile F480",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2543302293,"P-type Cu+ transporter",2541047514,"Clostridioides difficile F200",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2549761168,"P-type Cu+ transporter",2548876768,"Clostridioides difficile CD37",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558752662,"P-type Cu+ transporter",2558309124,"Clostridioides difficile E12",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558756399,"P-type Cu+ transporter",2558309125,"Clostridioides difficile E14",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558760461,"P-type Cu+ transporter",2558309126,"Clostridioides difficile T3",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558764297,"P-type Cu+ transporter",2558309127,"Clostridioides difficile E15",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558769958,"P-type Cu+ transporter",2558309128,"Clostridioides difficile E16",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558772226,"P-type Cu+ transporter",2558309129,"Clostridioides difficile T19",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558776457,"P-type Cu+ transporter",2558309130,"Clostridioides difficile T10",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558779943,"P-type Cu+ transporter",2558309131,"Clostridioides difficile E23",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558783819,"P-type Cu+ transporter",2558309132,"Clostridioides difficile E19",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558787674,"P-type Cu+ transporter",2558309133,"Clostridioides difficile T11",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558791752,"P-type Cu+ transporter",2558309134,"Clostridioides difficile E7",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558795757,"P-type Cu+ transporter",2558309135,"Clostridioides difficile T6",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558799734,"P-type Cu+ transporter",2558309136,"Clostridioides difficile E28",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558803873,"P-type Cu+ transporter",2558309137,"Clostridioides difficile T15",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558807877,"P-type Cu+ transporter",2558309138,"Clostridioides difficile E9",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558814873,"P-type Cu+ transporter",2558309140,"Clostridioides difficile E24",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558818993,"P-type Cu+ transporter",2558309141,"Clostridioides difficile E13",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558823471,"P-type Cu+ transporter",2558309142,"Clostridioides difficile T14",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2558826404,"P-type Cu+ transporter",2558309143,"Clostridioides difficile T42",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558831146,"P-type Cu+ transporter",2558309144,"Clostridioides difficile T17",20,85,76,141,45.4,4e-08,29,833,NA
+"query3606436",2558834672,"P-type Cu+ transporter",2558309145,"Clostridioides difficile T22",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558838826,"P-type Cu+ transporter",2558309146,"Clostridioides difficile E25",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558843873,"P-type Cu+ transporter",2558309147,"Clostridioides difficile T61",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2558846319,"P-type Cu+ transporter",2558309148,"Clostridioides difficile T23",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2559065059,"P-type Cu+ transporter",2558860171,"Clostridioides difficile M68",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2559069103,"P-type Cu+ transporter",2558860172,"Clostridioides difficile CF5",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2559072848,"P-type Cu+ transporter",2558860173,"Clostridioides difficile 2007855",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2560467012,"P-type Cu+ transporter",2558860634,"Clostridioides difficile DA00130",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2560470931,"P-type Cu+ transporter",2558860635,"Clostridioides difficile P33",20,85,71,136,45.4,5e-08,29,828,NA
+"query3606436",2560474827,"P-type Cu+ transporter",2558860636,"Clostridioides difficile P41",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2560478751,"P-type Cu+ transporter",2558860637,"Clostridioides difficile P37",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2560482394,"P-type Cu+ transporter",2558860638,"Clostridioides difficile P53",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2560486351,"P-type Cu+ transporter",2558860639,"Clostridioides difficile P64",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2560490316,"P-type Cu+ transporter",2558860640,"Clostridioides difficile P68",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2563583887,"P-type Cu+ transporter",2563366553,"Clostridioides difficile BI1",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2563786958,"P-type Cu+ transporter",2563366721,"Peptostreptococcaceae bacterium VA2",22,85,78,141,45.4,4e-08,30,831,NA
+"query3606436",2565648091,"P-type Cu+ transporter",2563367157,"Clostridioides difficile F665",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2571176010,"P-type Cu+ transporter",2571042032,"Clostridioides difficile 5.3",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2572484835,"P-type Cu+ transporter",2571042422,"Clostridioides difficile CD002",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2588449420,"P-type Cu+ transporter",2588253713,"Clostridioides difficile 630",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2629551075,"P-type Cu+ transporter",2627853931,"Clostridioides difficile BJ08",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2633930390,"P-type Cu+ transporter",2630968959,"Clostridioides difficile ZJCDC-S82",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2635976690,"P-type Cu+ transporter",2634166508,"Clostridioides difficile 630",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2637149258,"P-type Cu+ transporter",2636415582,"Candidatus Dorea massiliensis AP6",22,85,77,140,45.4,4e-08,27,832,NA
+"query3606436",2641921092,"P-type Cu+ transporter",2639763082,"Clostridioides difficile 630 delta erm",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2657891327,"P-type Cu+ transporter",2657245051,"Paeniclostridium sordellii R31809",22,85,37,100,45.4,NA,27,861,NA
+"query3606436",2660418056,"P-type Cu+ transporter",2660237945,"Clostridioides difficile KY65",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2665090878,"P-type Cu+ transporter",2663762959,"Clostridioides difficile NCTC13307",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2666276225,"P-type Cu+ transporter",2663763251,"Clostridioides difficile KY64",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2668883735,"P-type Cu+ transporter",2667527635,"Paeniclostridium sordellii SSCC35109",22,85,37,100,45.4,NA,27,861,NA
+"query3606436",2672149464,"P-type Cu+ transporter",2671180289,"Clostridioides difficile KY62",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2674414983,"P-type Cu+ transporter",2671180842,"Clostridioides difficile Z31",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2683130287,"P-type Cu+ transporter",2681813163,"Clostridioides difficile RU-17",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2684118607,"P-type Cu+ transporter",2681813431,"Clostridium botulinum AM1195",26,85,75,134,45.4,NA,33,818,NA
+"query3606436",2684115716,"P-type Cu+ transporter",2681813431,"Clostridium botulinum AM1195",22,85,2,65,45.4,6e-08,31,811,NA
+"query3606436",2687671971,"P-type Cu+ transporter",2687453153,"Clostridioides difficile 08ACD0030",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2691251194,"P-type Cu+ transporter",2690315832,"Clostridioides difficile CD26A54_R",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2693739041,"P-type Cu+ transporter",2693429574,"Paeniclostridium sordellii R26833",22,85,37,100,45.4,NA,27,861,NA
+"query3606436",2695591292,"P-type Cu+ transporter",2695420347,"Clostridioides difficile G46",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2696963919,"P-type Cu+ transporter",2695420662,"Paeniclostridium sordellii R29426",22,85,37,100,45.4,NA,27,861,NA
+"query3606436",2699798592,"P-type Cu+ transporter",2698536614,"Clostridioides difficile LIBA-5734",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2702998678,"P-type Cu+ transporter",2700989511,"Clostridium sporogenes 88-0163",22,85,2,65,45.4,5e-08,31,811,NA
+"query3606436",2705318506,"P-type Cu+ transporter",2703719004,"Clostridioides difficile DSM 1296",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2712396738,"P-type Cu+ transporter",2711768134,"Clostridioides difficile LIBA-5701",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2712401923,"P-type Cu+ transporter",2711768135,"Clostridioides difficile LIBA-5719",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2712405932,"P-type Cu+ transporter",2711768136,"Clostridioides difficile LIBA-5784",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2714905707,"P-type Cu+ transporter",2713896928,"Clostridioides difficile CII7xCD13A",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2714911948,"P-type Cu+ transporter",2713896929,"Clostridioides difficile F17xCD13A",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2715114300,"P-type Cu+ transporter",2713896986,"Clostridioides difficile IT1118",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2721090320,"P-type Cu+ transporter",2718218351,"Clostridium botulinum CDC_1632",22,85,2,65,45.4,5e-08,31,811,NA
+"query3606436",2727273104,"P-type Cu+ transporter",2724679560,"Clostridium botulinum AM370",26,85,75,134,45.4,NA,33,818,NA
+"query3606436",2727269639,"P-type Cu+ transporter",2724679560,"Clostridium botulinum AM370",22,85,2,65,45.4,6e-08,31,811,NA
+"query3606436",2730958626,"P-type Cu+ transporter",2728369594,"Clostridioides difficile CD26A54_S",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2740521575,"P-type Cu+ transporter",2739368068,"Plantactinospora sp. CNZ320",20,71,11,61,45.4,1e-07,37,763,NA
+"query3606436",2743106001,"P-type Cu+ transporter",2740892347,"Clostridioides difficile CD105KSE1",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743109712,"P-type Cu+ transporter",2740892348,"Clostridioides difficile CD105KSE6",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743113894,"P-type Cu+ transporter",2740892349,"Clostridioides difficile CD105KSE5",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743117864,"P-type Cu+ transporter",2740892350,"Clostridioides difficile CD105KSE2",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743121686,"P-type Cu+ transporter",2740892351,"Clostridioides difficile CD105KSE3",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743123839,"P-type Cu+ transporter",2740892352,"Clostridioides difficile CD105KSE4",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743138537,"P-type Cu+ transporter",2740892355,"Clostridioides difficile CD105KSE9",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743142838,"P-type Cu+ transporter",2740892356,"Clostridioides difficile CD105KSO10",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2743146731,"P-type Cu+ transporter",2740892357,"Clostridioides difficile CD105KSE11",20,85,76,141,45.4,5e-08,29,833,NA
+"query3606436",2522050335,"P-type Cu+ transporter",2521172718,"Brachyspira pilosicoli P43/6/78",24,85,3,64,45.1,4e-08,31,758,NA
+"query3606436",2551668826,"P-type Cu+ transporter",2551306082,"Sphingobium xenophagum QYY",24,85,19,80,45.1,8e-08,39,817,NA
+"query3606436",2554151376,"P-type Cu+ transporter",2551306709,"Clostridium sporogenes PA3679",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2562757713,"P-type Cu+ transporter",2562617037,"Clostridium sporogenes 388, DSM 795",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2587401167,"P-type Cu+ transporter",2585427974,"Sphingobium sp. DC-2",24,85,19,80,45.1,1e-07,39,817,NA
+"query3606436",2628291145,"P-type Cu+ transporter",2627853631,"Clostridium sporogenes NCIMB 10696",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2635270210,"P-type Cu+ transporter",2634166339,"Amycolatopsis lurida DSM 43134",21,85,6,68,45.1,2e-07,40,745,NA
+"query3606436",2637491428,"P-type Cu+ transporter",2636415665,"Clostridium sporogenes DSM 795",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2639280837,"copper ion binding protein",2636416097,"Clostridioides difficile Y384",20,85,76,141,45.1,5e-08,29,157,NA
+"query3606436",2645748959,"copper chaperone",2645727505,"Staphylococcus condimenti DSM 11674",26,85,6,65,45.1,4e-09,35,69,NA
+"query3606436",2647770564,"copper chaperone",2645727973,"Gottschalkia purinilytica DSM 1384",25,73,4,60,45.1,6e-09,40,68,NA
+"query3606436",2648315451,"P-type Cu+ transporter",2645728099,"Clostridium sporogenes UC9000",22,85,2,65,45.1,8e-08,30,811,NA
+"query3606436",2651019461,"P-type Cu+ transporter",2648501726,"Amycolatopsis lurida NRRL 2430",21,85,6,68,45.1,2e-07,40,745,NA
+"query3606436",2651315164,"P-type Cu+ transporter",2648501799,"Clostridium botulinum B2 450",25,85,75,135,45.1,NA,34,811,NA
+"query3606436",2652402874,"P-type Cu+ transporter",2651869679,"Clostridium botulinum Prevot_594",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2656838027,"P-type Cu+ transporter",2654588071,"candidate division Zixibacteria bacterium SM1_73",26,85,51,110,45.1,4e-08,32,863,NA
+"query3606436",2662839163,"P-type Cu+ transporter",2660238550,"Clostridium sporogenes 11579",22,85,2,65,45.1,6e-08,30,811,NA
+"query3606436",2683323695,"P-type Cu+ transporter",2681813212,"Clostridium sporogenes 87-0535",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2684139469,"P-type Cu+ transporter",2681813437,"Clostridium botulinum SU1575NT",22,85,2,65,45.1,NA,31,811,NA
+"query3606436",2689243834,"copper chaperone",2687453551,"Staphylococcus condimenti DSM 11674",26,85,6,65,45.1,4e-09,35,69,NA
+"query3606436",2697665148,"copper ion binding protein",2695420832,"Clostridium sporogenes 85-3852",25,87,75,137,45.1,NA,33,178,NA
+"query3606436",2716046866,"P-type Cu+ transporter",2713897210,"Clostridium botulinum AM553",25,85,75,135,45.1,NA,34,811,NA
+"query3606436",2719645353,"copper chaperone",2718217992,"Staphylococcus condimenti StO 2014-01",26,85,6,65,45.1,4e-09,35,69,NA
+"query3606436",2727278493,"P-type Cu+ transporter",2724679562,"Clostridium sporogenes ATCC 19404",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2730901913,"P-type Cu+ transporter",2728369582,"Clostridium sporogenes 8-0",22,85,2,65,45.1,7e-08,30,811,NA
+"query3606436",2812839797,"copper chaperone",2811995020,"Dehalobacterium formicoaceticum DMC",18,85,8,75,45.1,9e-09,34,78,NA
+"query3606436",2848430336,"copper chaperone",2848425531,"Dictyobacter kobayashii Uno11",21,85,2,66,45.1,2e-08,31,73,NA
+"query3606436",2546684732,"P-type Cu+ transporter",2545824753,"Staphylococcus epidermidis 41tr",20,90,69,139,44.7,5e-08,28,794,NA
+"query3606436",2546687193,"P-type Cu+ transporter",2545824754,"Staphylococcus epidermidis 528m",20,90,69,139,44.7,5e-08,28,794,NA
+"query3606436",2554151376,"P-type Cu+ transporter",2551306709,"Clostridium sporogenes PA3679",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2562757713,"P-type Cu+ transporter",2562617037,"Clostridium sporogenes 388, DSM 795",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2628291145,"P-type Cu+ transporter",2627853631,"Clostridium sporogenes NCIMB 10696",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2637491428,"P-type Cu+ transporter",2636415665,"Clostridium sporogenes DSM 795",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2648315451,"P-type Cu+ transporter",2645728099,"Clostridium sporogenes UC9000",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2648315258,"P-type Cu+ transporter",2645728099,"Clostridium sporogenes UC9000",26,85,75,134,44.7,NA,33,818,NA
+"query3606436",2652402874,"P-type Cu+ transporter",2651869679,"Clostridium botulinum Prevot_594",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2656376963,"copper chaperone",2654587953,"Gemmatimonas sp. SG8_17",23,89,3,69,44.7,1e-08,34,71,NA
+"query3606436",2662839163,"P-type Cu+ transporter",2660238550,"Clostridium sporogenes 11579",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2683323695,"P-type Cu+ transporter",2681813212,"Clostridium sporogenes 87-0535",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2683324309,"P-type Cu+ transporter",2681813212,"Clostridium sporogenes 87-0535",26,85,75,134,44.7,NA,33,818,NA
+"query3606436",2684115716,"P-type Cu+ transporter",2681813431,"Clostridium botulinum AM1195",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2702998678,"P-type Cu+ transporter",2700989511,"Clostridium sporogenes 88-0163",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2721090320,"P-type Cu+ transporter",2718218351,"Clostridium botulinum CDC_1632",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2727269639,"P-type Cu+ transporter",2724679560,"Clostridium botulinum AM370",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2727278493,"P-type Cu+ transporter",2724679562,"Clostridium sporogenes ATCC 19404",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2730901913,"P-type Cu+ transporter",2728369582,"Clostridium sporogenes 8-0",25,85,75,135,44.7,NA,34,811,NA
+"query3606436",2731534807,"P-type Cu+ transporter",2728369724,"Clostridium sp. JCM 10522",26,85,1,60,44.7,8e-08,35,736,NA
+"query3606436",2732240040,"P-type Cu+ transporter",2731957573,"Actinomadura kijaniata NBRC 14229",24,85,10,69,44.7,3e-07,37,750,NA
+"query3606436",2772454837,"P-type Cu+ transporter",2772190668,"Amycolatopsis keratiniphila keratiniphila DSM 44409",21,85,3,65,44.7,2e-07,40,742,NA
+"query3606436",2832153597,"P-type Cu+ transporter",2832151896,"Geothermobacter hydrogeniphilus HR-1",16,85,88,157,44.7,9e-08,29,895,NA
+"query3606436",637367225,"P-type Cu+ transporter",637000281,"Staphylococcus epidermidis ATCC 12228",20,90,69,139,44.7,5e-08,28,794,NA
+"query3606436",648605517,"P-type Cu+ transporter",648276680,"Ktedonobacter racemifer SOSP1-21, DSM 44963",14,85,89,162,44.7,3e-07,30,884,NA
+"query3606436",2514563734,"P-type Cu+ transporter",2513237343,"Dorea formicigenerans 4_6_53AFAA",26,85,793,851,44.3,1e-07,38,857,NA
+"query3606436",2516173688,"P-type Cu+ transporter",2516143008,"Amycolatopsis alba DSM 44262",21,85,6,68,44.3,3e-07,40,732,NA
+"query3606436",2516237566,"P-type Cu+ transporter",2516143028,"Thioalkalivibrio thiocyanodenitrificans ARhD 1",6,91,62,147,44.3,1e-07,33,827,NA
+"query3606436",2527087175,"P-type Cu+ transporter",2526164716,"Brachyspira pilosicoli WesB",24,85,3,64,44.3,9e-08,31,758,NA
+"query3606436",2546685231,"copper chaperone",2545824753,"Staphylococcus epidermidis 41tr",26,86,6,66,44.3,7e-09,28,69,NA
+"query3606436",2546687686,"copper chaperone",2545824754,"Staphylococcus epidermidis 528m",26,86,6,66,44.3,7e-09,28,69,NA
+"query3606436",2563816816,"P-type Cu+ transporter",2563366730,"Clostridium hydrogeniformans DSM 21757",23,85,73,135,44.3,1e-07,32,886,NA
+"query3606436",2588179750,"P-type Cu+ transporter",2585428174,"Hathewaya proteolytica DSM 3090",26,85,6,65,44.3,NA,30,889,NA
+"query3606436",2648250863,"P-type Cu+ transporter",2645728085,"Clostridioides difficile CD10-165",20,85,76,141,44.3,1e-07,27,832,NA
+"query3606436",2652291440,"P-type Cu+ transporter",2651869658,"Clostridioides difficile SA10-050",20,85,76,141,44.3,1e-07,27,832,NA
+"query3606436",2653802799,"P-type Cu+ transporter",2651870112,"Tindallia magadiensis Z-7934",26,85,6,65,44.3,NA,27,835,NA
+"query3606436",2660931453,"P-type E1-E2 ATPase",2660238075,"Clostridium botulinum ATCC 51387",22,87,2,67,44.3,1e-07,29,362,NA
+"query3606436",2743130042,"P-type Cu+ transporter",2740892353,"Clostridioides difficile CD105KSO7",20,85,76,141,44.3,1e-07,27,832,NA
+"query3606436",2743135537,"P-type Cu+ transporter",2740892354,"Clostridioides difficile CD105KSO8",20,85,76,141,44.3,1e-07,27,832,NA
+"query3606436",2833560888,"P-type Cu+ transporter",2833560874,"Desulfonatronum sp. SC1",24,85,106,167,44.3,1e-07,37,865,NA
+"query3606436",2840503542,"P-type Cu+ transporter",2840502759,"Dictyobacter aurantiacus S27",26,85,20,79,44.3,NA,33,870,NA
+"query3606436",2519484900,"heavy-metal-associated domain-containing protein",2519103103,"Brachyspira pilosicoli B2904",24,73,3,52,43.9,8e-09,32,54,NA
+"query3606436",2542443946,"P-type Cu+ transporter",2541047295,"Clostridioides difficile CD160",20,85,76,141,43.9,2e-07,27,832,NA
+"query3606436",2545542914,"P-type Cu+ transporter",2541048007,"Paeniclostridium sordellii VPI 9048",26,85,1,60,43.9,NA,25,821,NA
+"query3606436",2546394874,"P-type Cu+ transporter",2545824682,"Amycolatopsis decaplanina DSM 44594",22,85,7,68,43.9,5e-07,41,749,NA
+"query3606436",2558811197,"P-type Cu+ transporter",2558309139,"Clostridioides difficile E10",20,85,76,141,43.9,2e-07,27,833,NA
+"query3606436",2559076712,"P-type Cu+ transporter",2558860174,"Clostridioides difficile M120",20,85,76,141,43.9,2e-07,27,833,NA
+"query3606436",2566032161,"P-type Cu+ transporter",2565956520,"Maridesulfovibrio frigidus DSM 17176",26,90,5,69,43.9,2e-07,31,828,NA
+"query3606436",2579335327,"P-type Cu+ transporter",2576861717,"Clostridioides difficile T20",20,85,76,141,43.9,2e-07,27,833,NA
+"query3606436",2586889620,"pyridine nucleotide-disulfide oxidoreductase",2585427827,"Pseudomonas syringae pv. atrofaciens LMG 5095",25,90,3,67,43.9,2e-07,33,174,NA
+"query3606436",2611162760,"P-type Cu+ transporter",2609460038,"Clostridioides difficile E1",20,85,76,141,43.9,2e-07,27,833,NA
+"query3606436",2632394306,"MerR family transcriptional regulator, copper efflux regulator",2630968586,"Methylobacterium radiotolerans 78c",22,76,117,171,43.9,2e-07,40,188,NA
+"query3606436",2647654438,"P-type Cu+ transporter",2645727943,"Clostridioides difficile T5",20,85,76,141,43.9,2e-07,27,833,NA
+"query3606436",2676031721,"P-type Cu+ transporter",2675902956,"Pseudomonas putida mt-2",21,91,70,139,43.9,3e-07,32,799,NA
+"query3606436",2741401026,"P-type Cu+ transporter",2740891991,"Candidatus Heimdallarchaeota archaeon LC_2",25,85,11,71,43.9,NA,33,856,NA
+"query3606436",2855304238,"P-type Cu+ transporter",2855302766,"Nocardioides speluncae YIM ART13",21,85,2,64,43.9,3e-07,35,741,NA
+"query3606436",2561521593,"P-type Cu+ transporter",2561511002,"Peptoclostridium litorale W6",25,85,5,65,43.5,NA,30,819,NA
+"query3606436",2561521594,"sulfite exporter TauE/SafE",2561511002,"Peptoclostridium litorale W6",22,85,2,65,43.5,2e-07,30,563,NA
+"query3606436",2563816816,"P-type Cu+ transporter",2563366730,"Clostridium hydrogeniformans DSM 21757",23,85,143,205,43.5,NA,33,886,NA
+"query3606436",2587852390,"sulfite exporter TauE/SafE",2585428090,"Peptoclostridium litorale DSM 5388",22,85,2,65,43.5,2e-07,30,563,NA
+"query3606436",2587852391,"P-type Cu+ transporter",2585428090,"Peptoclostridium litorale DSM 5388",25,85,5,65,43.5,NA,30,819,NA
+"query3606436",2619492212,"P-type Cu+ transporter",2617271308,"Clostridium sp. NCR",28,85,11,68,43.5,NA,36,832,NA
+"query3606436",2660931453,"P-type E1-E2 ATPase",2660238075,"Clostridium botulinum ATCC 51387",26,87,76,137,43.5,NA,34,362,NA
+"query3606436",2732884892,"P-type Cu+ transporter",2731957722,"Nocardia africana NBRC 100379",22,90,8,74,43.5,6e-07,32,745,NA
+"query3606436",2752503031,"P-type Cu+ transporter",2751185543,"Mycolicibacterium moriokaense GAS496",20,85,14,77,43.5,4e-07,33,836,NA
+"query3606436",2812740201,"copper chaperone",2811994994,"Staphylococcus carnosus LTH 3730",26,85,6,65,43.5,2e-08,33,69,NA
+"query3606436",2869833718,"Au+-exporting ATPase",2869831711,"Enterobacter cloacae AR_0163",19,85,12,76,43.5,3e-07,39,832,NA
+"query3606436",2554227275,"P-type Cu+ transporter",2551306727,"Pseudomonas putida SJ3",21,91,70,139,43.1,5e-07,32,692,NA
+"query3606436",2632394214,"copper chaperone",2630968586,"Methylobacterium radiotolerans 78c",24,87,12,75,43.1,9e-08,34,80,NA
+"query3606436",2714408128,"copper chaperone",2713896819,"Staphylococcus carnosus 336",26,85,6,65,43.1,3e-08,33,69,NA
+"query3606436",2780279184,"P-type Cu+ transporter",2778261486,"Heimdallarchaeota archaeon RS678",24,90,81,147,43.1,1e-07,30,848,NA
+"query3606436",2792207463,"P-type Cu+ transporter",2791354983,"Aurantimonas sp. 22II-16-19i",25,85,23,82,43.1,NA,39,851,NA
+"query3606436",2812838148,"sulfite exporter TauE/SafE",2811995020,"Dehalobacterium formicoaceticum DMC",25,86,9,70,43.1,3e-07,29,450,NA
+"query3606436",2586320360,"P-type Cu+ transporter",2585427715,"Clostridioides mangenotii TR",23,85,7,69,42.7,NA,33,829,NA
+"query3606436",2617980535,"P-type Cu+ transporter",2617270907,"Paracoccus chinensis CGMCC 1.7655",19,90,2,72,42.7,4e-07,31,807,NA
+"query3606436",2636918650,"P-type Cu+ transporter",2636415524,"Actinotalea fermentans DSM 3133",23,91,15,81,42.7,4e-07,38,768,NA
+"query3606436",2792207476,"Zn2+/Cd2+-exporting ATPase",2791354983,"Aurantimonas sp. 22II-16-19i",19,89,5,75,42.7,7e-07,32,723,NA
+"query3606436",2514561573,"P-type Cu+ transporter",2513237343,"Dorea formicigenerans 4_6_53AFAA",26,85,37,96,42.4,6e-07,30,886,NA
+"query3606436",2587810935,"P-type Cu+ transporter",2585428078,"Clostridium collagenovorans DSM 3089",25,85,76,136,42.4,NA,28,816,NA
+"query3606436",2617982155,"Zn2+/Cd2+-exporting ATPase",2617270907,"Paracoccus chinensis CGMCC 1.7655",27,85,14,72,42.4,5e-07,32,751,NA
+"query3606436",2656378199,"P-type Cu+ transporter",2654587953,"Gemmatimonas sp. SG8_17",36,85,1,50,42.4,6e-07,44,830,NA
+"query3606436",2732885999,"P-type Cu+ transporter",2731957722,"Nocardia africana NBRC 100379",22,89,11,76,42.4,1e-06,32,751,NA
+"query3606436",2832154544,"copper chaperone CopZ",2832151896,"Geothermobacter hydrogeniphilus HR-1",27,90,42,105,42.4,6e-07,27,291,NA
+"query3606436",2855307852,"copper chaperone",2855302766,"Nocardioides speluncae YIM ART13",26,89,8,71,42.4,1e-07,28,74,NA
+"query3606436",2539553321,"copper chaperone",2537562023,"Staphylococcus simulans ACS-120-V-Sch1",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2583924317,"copper chaperone",2582580918,"Staphylococcus simulans UMC-CNS-990",26,86,5,65,42,9e-08,36,68,NA
+"query3606436",2619491735,"P-type Cu+ transporter",2617271308,"Clostridium sp. NCR",31,85,1,55,42,9e-07,29,746,NA
+"query3606436",2637149258,"P-type Cu+ transporter",2636415582,"Candidatus Dorea massiliensis AP6",28,85,11,68,42,NA,36,832,NA
+"query3606436",2642489035,"copper chaperone",2642422517,"Amycolatopsis australiensis DSM 44671",25,85,5,64,42,2e-07,36,68,NA
+"query3606436",2673933722,"copper chaperone",2671180722,"Staphylococcus simulans CJ16",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2676031721,"P-type Cu+ transporter",2675902956,"Pseudomonas putida mt-2",20,85,3,66,42,NA,36,799,NA
+"query3606436",2712984647,"P-type Cu+ transporter",2711768374,"candidate division NC10 bacterium RIFCSPLOWO2_12_FULL_66_18",22,85,151,214,42,9e-07,31,909,NA
+"query3606436",2719028707,"copper chaperone",2718217846,"Staphylococcus simulans FDAARGOS_124",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2726228197,"copper/silver-translocating P-type ATPase",2724679284,"Mycolicibacterium brisbanense JCM 15654",22,91,15,82,42,2e-06,33,743,NA
+"query3606436",2757974141,"P-type E1-E2 ATPase",2757320484,"Eubacteriales bacterium Cp16",22,85,148,211,42,7e-07,31,576,NA
+"query3606436",2817591346,"copper chaperone",2816332328,"Staphylococcus simulans MJR7712",26,86,5,65,42,9e-08,36,68,NA
+"query3606436",2817953647,"copper chaperone",2816332454,"Staphylococcus simulans SNUC 51",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817955903,"copper chaperone",2816332455,"Staphylococcus simulans SNUC 1394",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817958834,"copper chaperone",2816332456,"Staphylococcus simulans SNUC 1368",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817964440,"copper chaperone",2816332458,"Staphylococcus simulans SNUC 67",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817979158,"copper chaperone",2816332461,"Staphylococcus simulans SNUC 940",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817980878,"copper chaperone",2816332462,"Staphylococcus simulans SNUC 983",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817983402,"copper chaperone",2816332463,"Staphylococcus simulans SNUC 1337",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817996190,"copper chaperone",2816332466,"Staphylococcus simulans SNUC 5405",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2817997110,"copper chaperone",2816332467,"Staphylococcus simulans SNUC 3770",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818000584,"copper chaperone",2816332468,"Staphylococcus simulans SNUC 2478",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818003613,"copper chaperone",2816332469,"Staphylococcus simulans SNUC 2167",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818005366,"copper chaperone",2816332470,"Staphylococcus simulans SNUC 2141",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818009094,"copper chaperone",2816332471,"Staphylococcus simulans SNUC 915",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818010045,"copper chaperone",2816332472,"Staphylococcus simulans SNUC 1050",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818013259,"copper chaperone",2816332473,"Staphylococcus simulans SNUC 1617",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818016375,"copper chaperone",2816332474,"Staphylococcus simulans SNUC 1713",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818018776,"copper chaperone",2816332475,"Staphylococcus simulans SNUC 1332",26,86,5,65,42,9e-08,36,68,NA
+"query3606436",2818020809,"copper chaperone",2816332476,"Staphylococcus simulans SNUC 1336",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818034169,"copper chaperone",2816332480,"Staphylococcus simulans SNUC 1396",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818037156,"copper chaperone",2816332481,"Staphylococcus simulans SNUC 1535",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818039723,"copper chaperone",2816332482,"Staphylococcus simulans SNUC 1334",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818042563,"copper chaperone",2816332483,"Staphylococcus simulans SNUC 1354",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818049318,"copper chaperone",2816332485,"Staphylococcus simulans SNUC 2464",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818051748,"copper chaperone",2816332486,"Staphylococcus simulans SNUC 2756",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818053906,"copper chaperone",2816332487,"Staphylococcus simulans SNUC 3210",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",2818057051,"copper chaperone",2816332488,"Staphylococcus simulans SNUC 4566",26,86,5,65,42,8e-08,36,68,NA
+"query3606436",646451627,"P-type Cu+ transporter",646311958,"Streptosporangium roseum NI 9100, DSM 43021",22,89,10,75,42,2e-06,34,746,NA
+"query3606436",2514563734,"P-type Cu+ transporter",2513237343,"Dorea formicigenerans 4_6_53AFAA",22,85,2,65,41.6,NA,28,857,NA
+"query3606436",2546945768,"copper chaperone",2546825536,"Atopobacter phocae ATCC BAA-285",27,85,7,65,41.6,7e-08,31,71,NA
+"query3606436",2554227275,"P-type Cu+ transporter",2551306727,"Pseudomonas putida SJ3",20,85,3,66,41.6,NA,35,692,NA
+"query3606436",2563786958,"P-type Cu+ transporter",2563366721,"Peptostreptococcaceae bacterium VA2",22,85,6,69,41.6,NA,30,831,NA
+"query3606436",2572839042,"copper chaperone",2571042530,"Clostridium botulinum CDC54088",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2654840699,"heavy-metal-associated domain-containing protein",2654587554,"Clostridia bacterium UC5.1-1F7",27,89,7,69,41.6,1e-06,25,185,NA
+"query3606436",2660256659,"copper chaperone",2660237905,"Clostridium botulinum ATCC 25763",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2674483252,"copper chaperone",2671180858,"Clostridium botulinum ATCC 17862",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2677224646,"copper chaperone",2675903247,"Clostridium botulinum VPI 7124",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2677843074,"heavy-metal-associated domain-containing protein",2675903405,"Clostridium botulinum ATCC 7949",31,87,1,57,41.6,2e-07,33,105,NA
+"query3606436",2678907081,"copper chaperone",2675903681,"Clostridium botulinum McClung 844",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2684120661,"copper chaperone",2681813432,"Clostridium botulinum Prevot 697B",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2684139468,"copper chaperone",2681813437,"Clostridium botulinum SU1575NT",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2707395834,"P-type Cu+ transporter",2706794556,"Streptacidiphilus melanogenes NBRC 103184",20,85,11,74,41.6,3e-06,35,756,NA
+"query3606436",2716009586,"copper chaperone",2713897200,"Clostridium botulinum ATCC 449",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2716024966,"copper chaperone",2713897204,"Clostridium botulinum KF Meyer 126",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2716027513,"copper chaperone",2713897205,"Clostridium botulinum Prevot 910",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2716032276,"copper chaperone",2713897206,"Clostridium botulinum Hall 80",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2716036010,"copper chaperone",2713897207,"Clostridium botulinum KF Meyer 33",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2716043300,"copper chaperone",2713897209,"Clostridium botulinum AM1295",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2727250590,"copper chaperone",2724679554,"Clostridium botulinum Prevot Dewping",27,86,6,64,41.6,2e-07,36,71,NA
+"query3606436",2746269272,"P-type Cu+ transporter",2744054944,"Providencia rettgeri H1736",22,91,135,199,41.6,2e-06,36,980,NA
+"query3606436",2757912583,"P-type Cu+ transporter",2757320467,"Eubacteriales bacterium Cp34",22,85,148,211,41.6,9e-07,31,889,NA
+"query3606436",2757964792,"P-type Cu+ transporter",2757320483,"Eubacteriales bacterium Cp17",22,85,148,211,41.6,2e-06,31,889,NA
+"query3606436",2832153597,"P-type Cu+ transporter",2832151896,"Geothermobacter hydrogeniphilus HR-1",24,85,171,232,41.6,NA,29,895,NA
+"query3606436",2503255911,"P-type Cu+ transporter",2503242005,"Chloroflexi bacterium T81",16,85,18,87,41.2,2e-06,26,795,NA
+"query3606436",2514317174,"P-type Cu+ transporter",2513237274,"Johnsonella ignava ATCC 51276",27,85,13,71,41.2,1e-06,31,892,NA
+"query3606436",2516237777,"P-type Cu+ transporter",2516143028,"Thioalkalivibrio thiocyanodenitrificans ARhD 1",22,85,23,86,41.2,2e-06,31,845,NA
+"query3606436",2517484616,"copper chaperone",2517434013,"Amycolatopsis balhimycina FH 1894",25,67,5,47,41.2,6e-07,40,68,NA
+"query3606436",2520185550,"copper chaperone",2519899574,"Clostridium botulinum CFSAN001627",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2581702517,"copper chaperone",2579778957,"Clostridium botulinum CDC54085",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2618208711,"copper chaperone",2617270958,"Clostridium botulinum A2B2 87",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2638230346,"copper chaperone",2636415839,"Clostridium botulinum 277-00",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2644553364,"P-type Cu+ transporter",2643221700,"Agromyces sp. Soil535",24,89,5,68,41.2,2e-06,35,775,NA
+"query3606436",2645748960,"P-type Cu+ transporter",2645727505,"Staphylococcus condimenti DSM 11674",26,85,7,66,41.2,1e-06,25,733,NA
+"query3606436",2657883131,"copper chaperone",2657245049,"Clostridium botulinum CDC48761",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2658092713,"copper chaperone",2657245102,"Clostridium botulinum CDC41370",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2664543020,"copper chaperone",2663762825,"Clostridium botulinum CDC33700",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2666127966,"copper chaperone",2663763217,"Clostridium botulinum ATCC 7949",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2666464798,"copper chaperone",2663763297,"Clostridium botulinum CDC28023",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2666879896,"copper chaperone",2663763402,"Clostridium botulinum Walls 8G",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2669368375,"copper chaperone",2667527760,"Clostridium botulinum CDC37457",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2669756599,"copper chaperone",2667527854,"Clostridium botulinum CDC67190",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2670388473,"copper chaperone",2667528001,"Clostridium botulinum CDC37461",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2672229094,"copper chaperone",2671180305,"Clostridium botulinum CDC48719",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2675775696,"copper chaperone",2671181163,"Clostridium botulinum ATCC 17843",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2677582709,"copper chaperone",2675903344,"Clostridium botulinum CDC67187",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2677843076,"copper chaperone",2675903405,"Clostridium botulinum ATCC 7949",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2683193748,"copper chaperone",2681813177,"Clostridium botulinum CDC52271",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2689243835,"P-type Cu+ transporter",2687453551,"Staphylococcus condimenti DSM 11674",26,85,7,66,41.2,1e-06,25,733,NA
+"query3606436",2693164600,"copper chaperone",2690316317,"Clostridium botulinum CDC66089",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2696506877,"copper chaperone",2695420555,"Clostridium botulinum CDC52298",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2696722371,"copper chaperone",2695420606,"Clostridium botulinum CDC28012",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2699161766,"copper chaperone",2698536452,"Clostridium botulinum CDC42961",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2703010560,"copper chaperone",2700989514,"Clostridium botulinum CDC41370NT",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2712984647,"P-type Cu+ transporter",2711768374,"candidate division NC10 bacterium RIFCSPLOWO2_12_FULL_66_18",24,91,85,152,41.2,NA,28,909,NA
+"query3606436",2716013574,"copper chaperone",2713897201,"Clostridium botulinum Hall 183",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2716017371,"copper chaperone",2713897202,"Clostridium botulinum Hall 8388A",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2716021274,"copper chaperone",2713897203,"Clostridium botulinum Hall 8857Ab",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2719645354,"P-type Cu+ transporter",2718217992,"Staphylococcus condimenti StO 2014-01",26,85,7,66,41.2,1e-06,25,733,NA
+"query3606436",2721085339,"copper chaperone",2718218349,"Clostridium botulinum CDC_67190",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2723930029,"copper chaperone",2721755776,"Clostridium botulinum CDC_69094",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2726222572,"P-type Cu+ transporter",2724679284,"Mycolicibacterium brisbanense JCM 15654",24,89,1,62,41.2,3e-06,35,729,NA
+"query3606436",2727235715,"copper chaperone",2724679550,"Clostridium botulinum CDC 1744",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2727240526,"copper chaperone",2724679551,"Clostridium botulinum ATCC 17843",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2727247819,"copper chaperone",2724679553,"Clostridium botulinum Hall 4834",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2727267908,"copper chaperone",2724679559,"Clostridium botulinum Walls 8G",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2727344800,"copper chaperone",2724679578,"Clostridium botulinum CDC 795",27,86,6,64,41.2,2e-07,36,71,NA
+"query3606436",2752502085,"P-type Cu+ transporter",2751185543,"Mycolicibacterium moriokaense GAS496",23,85,3,63,41.2,2e-06,37,709,NA
+"query3606436",2757912583,"P-type Cu+ transporter",2757320467,"Eubacteriales bacterium Cp34",25,85,11,71,41.2,NA,26,889,NA
+"query3606436",2757964792,"P-type Cu+ transporter",2757320483,"Eubacteriales bacterium Cp17",25,85,11,71,41.2,NA,26,889,NA
+"query3606436",2757974141,"P-type E1-E2 ATPase",2757320484,"Eubacteriales bacterium Cp16",25,85,11,71,41.2,NA,26,576,NA
+"query3606436",2790507849,"P-type Cu+ transporter",2788500389,"Flavonifractor sp. An135",27,82,6,61,41.2,NA,30,850,NA
+"query3606436",648605517,"P-type Cu+ transporter",648276680,"Ktedonobacter racemifer SOSP1-21, DSM 44963",21,85,19,83,41.2,NA,26,884,NA
+"query3606436",648604049,"P-type Cu+ transporter",648276680,"Ktedonobacter racemifer SOSP1-21, DSM 44963",22,85,81,144,41.2,5e-06,28,784,NA
+"query3606436",2503255450,"copper chaperone",2503242005,"Chloroflexi bacterium T81",20,85,4,69,40.8,4e-07,26,73,NA
+"query3606436",2539932385,"P-type Cu+ transporter",2537562147,"Amycolatopsis azurea DSM 43854",19,90,8,77,40.8,5e-06,32,744,NA
+"query3606436",2547824996,"P-type Cu+ transporter",2547132211,"Clostridioides difficile 6466",28,85,2,59,40.8,2e-06,31,751,NA
+"query3606436",2566522904,"copper chaperone",2565956637,"Clostridium botulinum 84",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2584088808,"copper chaperone",2582580968,"Clostridium botulinum CDC54091",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2616902245,"P-type Cu+ transporter",2616644941,"Streptomyces atratus OK807",24,85,19,79,40.8,4e-06,32,582,NA
+"query3606436",2674855715,"P-type Cu+ transporter",2671180946,"Streptacidiphilus neutrinimicus NBRC 100921",20,66,11,56,40.8,5e-06,38,756,NA
+"query3606436",2677744797,"copper chaperone",2675903382,"Clostridium botulinum SU1064",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2684129425,"copper chaperone",2681813434,"Clostridium botulinum SU0801",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2684131477,"copper chaperone",2681813435,"Clostridium botulinum SU0994",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2684137137,"copper chaperone",2681813436,"Clostridium botulinum SU1259",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2716050399,"copper chaperone",2713897211,"Clostridium botulinum SU1306",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727285159,"copper chaperone",2724679563,"Clostridium botulinum SU1937",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727285634,"copper chaperone",2724679564,"Clostridium botulinum SU1274",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727291742,"copper chaperone",2724679565,"Clostridium botulinum SU1917",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727297531,"copper chaperone",2724679566,"Clostridium botulinum SU1887",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727299601,"copper chaperone",2724679567,"Clostridium botulinum SU1275",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727305120,"copper chaperone",2724679568,"Clostridium botulinum SU1934",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727309385,"copper chaperone",2724679569,"Clostridium botulinum SU1304",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727312513,"copper chaperone",2724679570,"Clostridium botulinum SU1054",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727315391,"copper chaperone",2724679571,"Clostridium botulinum SU1072",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727319121,"copper chaperone",2724679572,"Clostridium botulinum SU1074",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727322411,"copper chaperone",2724679573,"Clostridium botulinum SU1112",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727326797,"copper chaperone",2724679574,"Clostridium botulinum SU0998",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727330086,"copper chaperone",2724679575,"Clostridium botulinum SU0807",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727348109,"copper chaperone",2724679579,"Clostridium botulinum SU1891",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727353501,"copper chaperone",2724679580,"Clostridium botulinum SU1169",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2727357879,"copper chaperone",2724679581,"Clostridium botulinum SU0945",27,85,6,63,40.8,3e-07,37,71,NA
+"query3606436",2731464935,"copper chaperone CopZ",2728369713,"Pseudomonas putida JCM 18798",26,90,4,67,40.8,6e-07,31,84,NA
+"query3606436",2741380969,"P-type Cu+ transporter",2740891984,"Theionarchaea archaeon DG-70-1",27,85,74,131,40.8,NA,32,804,NA
+"query3606436",2770159631,"P-type Cu+ transporter",2767802434,"unclassified Thiotrichaceae bin E4_27",26,85,9,65,40.8,2e-06,37,742,NA
+"query3606436",2790548395,"P-type Cu+ transporter",2788500400,"Flavonifractor sp. An92",27,82,6,61,40.8,NA,30,850,NA
+"query3606436",2802569589,"P-type Cu+ transporter",2802428829,"Streptomyces sp. CNZ289",21,85,9,71,40.8,5e-06,35,755,NA
+"query3606436",2818000583,"P-type Cu+ transporter",2816332468,"Staphylococcus simulans SNUC 2478",22,85,2,65,40.8,1e-06,23,730,NA
+"query3606436",2520187910,"copper ion binding protein",2519899574,"Clostridium botulinum CFSAN001627",22,72,72,122,40.4,NA,35,122,NA
+"query3606436",2563816816,"P-type Cu+ transporter",2563366730,"Clostridium hydrogeniformans DSM 21757",23,85,3,65,40.4,NA,30,886,NA
+"query3606436",2632394007,"copper chaperone",2630968586,"Methylobacterium radiotolerans 78c",23,85,3,65,40.4,8e-07,35,73,NA
+"query3606436",2632394212,"periplasmic mercuric ion binding protein",2630968586,"Methylobacterium radiotolerans 78c",25,70,45,90,40.4,2e-06,39,115,NA
+"query3606436",2684139724,"sulfite exporter TauE/SafE",2681813437,"Clostridium botulinum SU1575NT",26,87,8,69,40.4,3e-06,34,602,NA
+"query3606436",2716028866,"sulfite exporter TauE/SafE",2713897206,"Clostridium botulinum Hall 80",26,87,8,69,40.4,3e-06,34,602,NA
+"query3606436",2546395716,"P-type Cu+ transporter",2545824682,"Amycolatopsis decaplanina DSM 44594",20,89,9,76,40,8e-06,30,750,NA
+"query3606436",2562757435,"sulfite exporter TauE/SafE",2562617037,"Clostridium sporogenes 388, DSM 795",26,87,8,69,40,3e-06,34,601,NA
+"query3606436",2566033629,"copper chaperone",2565956520,"Maridesulfovibrio frigidus DSM 17176",25,90,3,68,40,7e-07,35,68,NA
+"query3606436",2572838169,"sulfite exporter TauE/SafE",2571042530,"Clostridium botulinum CDC54088",26,87,8,69,40,3e-06,34,602,NA
+"query3606436",2621142654,"sulfite exporter TauE/SafE",2619619256,"Clostridium botulinum sv. B Osaka05",26,87,8,69,40,4e-06,34,601,NA
+"query3606436",2628290862,"sulfite exporter TauE/SafE",2627853631,"Clostridium sporogenes NCIMB 10696",26,87,8,69,40,3e-06,34,601,NA
+"query3606436",2637491145,"sulfite exporter TauE/SafE",2636415665,"Clostridium sporogenes DSM 795",26,87,8,69,40,3e-06,34,601,NA
+"query3606436",2662841064,"sulfite exporter TauE/SafE",2660238550,"Clostridium sporogenes 11579",26,87,8,69,40,4e-06,32,460,NA
+"query3606436",2677839625,"sulfite exporter TauE/SafE",2675903405,"Clostridium botulinum ATCC 7949",26,87,8,69,40,3e-06,32,412,NA
+"query3606436",2691098028,"P-type Cu+ transporter",2690315792,"Mycolicibacterium neworleansense ATCC 49404",21,88,26,91,40,6e-06,36,782,NA
+"query3606436",2703018404,"sulfite exporter TauE/SafE",2700989515,"Clostridium botulinum CDC68016",26,87,8,69,40,4e-06,34,388,NA
+"query3606436",2730901566,"sulfite exporter TauE/SafE",2728369582,"Clostridium sporogenes 8-0",26,87,8,69,40,3e-06,34,601,NA
+"query3606436",2746269272,"P-type Cu+ transporter",2744054944,"Providencia rettgeri H1736",23,91,246,311,40,NA,37,980,NA
+"query3606436",2772450448,"P-type Cu+ transporter",2772190668,"Amycolatopsis keratiniphila keratiniphila DSM 44409",19,66,8,54,40,9e-06,40,751,NA
+"query3606436",2817962126,"copper chaperone",2816332457,"Staphylococcus simulans SNUC 1463",26,86,5,65,40,4e-07,34,68,NA
+"query3606436",2516286224,"P-type Cu+ transporter",2516143052,"Mycobacteroides abscessus M94",22,89,2,67,39.7,7e-06,33,716,NA
+"query3606436",2516384028,"P-type Cu+ transporter",2516143102,"Mycobacteroides abscessus M93",22,89,2,67,39.7,8e-06,33,716,NA
+"query3606436",2553043094,"copper/silver-translocating P-type ATPase",2551306423,"Mycolicibacterium septicum DSM 44393",22,88,28,92,39.7,1e-05,36,781,NA
+"query3606436",2554149341,"sulfite exporter TauE/SafE",2551306709,"Clostridium sporogenes PA3679",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2554151377,"copper chaperone",2551306709,"Clostridium sporogenes PA3679",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2558673002,"P-type Cu+ transporter",2558309100,"Clostridioides mangenotii LM2",23,85,7,69,39.7,NA,30,829,NA
+"query3606436",2562757714,"copper chaperone",2562617037,"Clostridium sporogenes 388, DSM 795",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2566522648,"sulfite exporter TauE/SafE",2565956637,"Clostridium botulinum 84",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2567143510,"P-type Cu+ transporter",2565956796,"Mycobacteroides chelonae 1518",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2581699753,"sulfite exporter TauE/SafE",2579778957,"Clostridium botulinum CDC54085",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2596270051,"P-type Cu+ transporter",2595698212,"Thiohalospira halophila HL3",20,85,2,64,39.7,4e-06,32,735,NA
+"query3606436",2618208452,"sulfite exporter TauE/SafE",2617270958,"Clostridium botulinum A2B2 87",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2628291146,"copper chaperone",2627853631,"Clostridium sporogenes NCIMB 10696",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2635357959,"P-type Cu+ transporter",2634166358,"Clostridium frigidicarnis DSM 12271",26,87,76,137,39.7,NA,29,815,NA
+"query3606436",2637491429,"copper chaperone",2636415665,"Clostridium sporogenes DSM 795",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2648315248,"sulfite exporter TauE/SafE",2645728099,"Clostridium sporogenes UC9000",31,87,13,69,39.7,6e-06,35,464,NA
+"query3606436",2648315452,"copper chaperone",2645728099,"Clostridium sporogenes UC9000",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2652402875,"copper chaperone",2651869679,"Clostridium botulinum Prevot_594",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2652402589,"sulfite exporter TauE/SafE",2651869679,"Clostridium botulinum Prevot_594",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2658093660,"sulfite exporter TauE/SafE",2657245102,"Clostridium botulinum CDC41370",31,87,1,57,39.7,4e-06,33,362,NA
+"query3606436",2660256242,"sulfite exporter TauE/SafE",2660237905,"Clostridium botulinum ATCC 25763",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2660934716,"sulfite exporter TauE/SafE",2660238075,"Clostridium botulinum ATCC 51387",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2660931455,"copper chaperone",2660238075,"Clostridium botulinum ATCC 51387",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2662839164,"copper chaperone",2660238550,"Clostridium sporogenes 11579",27,86,6,64,39.7,9e-07,35,71,NA
+"query3606436",2666126459,"sulfite exporter TauE/SafE",2663763217,"Clostridium botulinum ATCC 7949",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2666881830,"sulfite exporter TauE/SafE",2663763402,"Clostridium botulinum Walls 8G",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2674481770,"sulfite exporter TauE/SafE",2671180858,"Clostridium botulinum ATCC 17862",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2675775435,"sulfite exporter TauE/SafE",2671181163,"Clostridium botulinum ATCC 17843",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2677225130,"sulfite exporter TauE/SafE",2675903247,"Clostridium botulinum VPI 7124",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2678904761,"sulfite exporter TauE/SafE",2675903681,"Clostridium botulinum McClung 844",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2683323696,"copper chaperone",2681813212,"Clostridium sporogenes 87-0535",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2684115715,"copper chaperone",2681813431,"Clostridium botulinum AM1195",27,86,6,64,39.7,8e-07,34,71,NA
+"query3606436",2684118615,"sulfite exporter TauE/SafE",2681813431,"Clostridium botulinum AM1195",26,87,8,69,39.7,5e-06,32,601,NA
+"query3606436",2684122023,"sulfite exporter TauE/SafE",2681813432,"Clostridium botulinum Prevot 697B",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2688647778,"P-type Cu+ transporter",2687453402,"Mycobacteroides abscessus FLAC013",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2691965138,"P-type Cu+ transporter",2690316030,"Mycobacteroides abscessus PAP006",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2693713562,"P-type Cu+ transporter",2693429569,"Mycobacteroides abscessus PAP108",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2696254139,"P-type Cu+ transporter",2695420497,"Mycobacteroides abscessus PAP085",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2697225827,"P-type Cu+ transporter",2695420727,"Mycobacteroides abscessus PAP103",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2697665151,"copper chaperone",2695420832,"Clostridium sporogenes 85-3852",27,86,6,64,39.7,9e-07,35,71,NA
+"query3606436",2703008997,"sulfite exporter TauE/SafE",2700989514,"Clostridium botulinum CDC41370NT",31,87,1,57,39.7,5e-06,33,403,NA
+"query3606436",2703028632,"copper chaperone",2700989517,"Clostridium botulinum Prevot1662",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2716009224,"sulfite exporter TauE/SafE",2713897200,"Clostridium botulinum ATCC 449",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2716021654,"sulfite exporter TauE/SafE",2713897204,"Clostridium botulinum KF Meyer 126",26,87,8,69,39.7,5e-06,32,601,NA
+"query3606436",2716025739,"sulfite exporter TauE/SafE",2713897205,"Clostridium botulinum Prevot 910",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2716033207,"sulfite exporter TauE/SafE",2713897207,"Clostridium botulinum KF Meyer 33",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2716042451,"sulfite exporter TauE/SafE",2713897209,"Clostridium botulinum AM1295",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2716048214,"sulfite exporter TauE/SafE",2713897211,"Clostridium botulinum SU1306",26,87,8,69,39.7,6e-06,32,602,NA
+"query3606436",2726222570,"copper chaperone",2724679284,"Mycolicibacterium brisbanense JCM 15654",25,85,5,64,39.7,2e-06,31,68,NA
+"query3606436",2727237611,"sulfite exporter TauE/SafE",2724679551,"Clostridium botulinum ATCC 17843",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2727249070,"sulfite exporter TauE/SafE",2724679554,"Clostridium botulinum Prevot Dewping",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2727268231,"sulfite exporter TauE/SafE",2724679559,"Clostridium botulinum Walls 8G",26,87,8,69,39.7,5e-06,32,602,NA
+"query3606436",2727269640,"copper chaperone",2724679560,"Clostridium botulinum AM370",27,86,6,64,39.7,8e-07,34,71,NA
+"query3606436",2727273096,"sulfite exporter TauE/SafE",2724679560,"Clostridium botulinum AM370",26,87,8,69,39.7,5e-06,32,601,NA
+"query3606436",2727277806,"sulfite exporter TauE/SafE",2724679562,"Clostridium sporogenes ATCC 19404",26,87,8,69,39.7,6e-06,32,601,NA
+"query3606436",2727278494,"copper chaperone",2724679562,"Clostridium sporogenes ATCC 19404",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2727306149,"sulfite exporter TauE/SafE",2724679569,"Clostridium botulinum SU1304",26,87,8,69,39.7,6e-06,32,602,NA
+"query3606436",2727351816,"sulfite exporter TauE/SafE",2724679580,"Clostridium botulinum SU1169",26,87,8,69,39.7,6e-06,32,602,NA
+"query3606436",2727355409,"sulfite exporter TauE/SafE",2724679581,"Clostridium botulinum SU0945",26,87,8,69,39.7,6e-06,32,602,NA
+"query3606436",2730901914,"copper chaperone",2728369582,"Clostridium sporogenes 8-0",27,86,6,64,39.7,1e-06,35,71,NA
+"query3606436",2789427651,"P-type Cu+ transporter",2788500069,"Negativibacillus massiliensis Marseille-P3213",21,89,5,72,39.7,4e-06,30,743,NA
+"query3606436",2796400074,"P-type Cu+ transporter",2795385595,"Mycobacteroides abscessus abscessus 199",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2796586488,"P-type Cu+ transporter",2795385631,"Mycobacteroides abscessus abscessus 418",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2796705155,"P-type Cu+ transporter",2795385654,"Mycobacteroides abscessus abscessus 25",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2796834966,"P-type Cu+ transporter",2795385679,"Mycobacteroides abscessus abscessus 19",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2796924813,"P-type Cu+ transporter",2795385697,"Mycobacteroides abscessus abscessus 409",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797067263,"P-type Cu+ transporter",2795385724,"Mycobacteroides abscessus abscessus 323",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797076888,"P-type Cu+ transporter",2795385726,"Mycobacteroides abscessus abscessus 332",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797144585,"P-type Cu+ transporter",2795385739,"Mycobacteroides abscessus abscessus 501",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797264506,"P-type Cu+ transporter",2795385762,"Mycobacteroides abscessus abscessus 336",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797274108,"P-type Cu+ transporter",2795385764,"Mycobacteroides abscessus abscessus 315",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797284285,"P-type Cu+ transporter",2795385766,"Mycobacteroides abscessus abscessus 314",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797298388,"P-type Cu+ transporter",2795385769,"Mycobacteroides abscessus abscessus 285",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797301031,"P-type Cu+ transporter",2795385770,"Mycobacteroides abscessus abscessus 298",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797326199,"P-type Cu+ transporter",2795385774,"Mycobacteroides abscessus abscessus 724",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797476633,"P-type Cu+ transporter",2795385803,"Mycobacteroides abscessus abscessus 593",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797552150,"P-type Cu+ transporter",2795385818,"Mycobacteroides abscessus abscessus 589",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797557220,"P-type Cu+ transporter",2795385819,"Mycobacteroides abscessus abscessus 671",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797697576,"P-type Cu+ transporter",2795385847,"Mycobacteroides abscessus abscessus 407",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797707150,"P-type Cu+ transporter",2795385849,"Mycobacteroides abscessus abscessus 420",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797774952,"P-type Cu+ transporter",2795385862,"Mycobacteroides abscessus abscessus 436",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797833320,"P-type Cu+ transporter",2795385873,"Mycobacteroides abscessus abscessus 406",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797861251,"P-type Cu+ transporter",2795385879,"Mycobacteroides abscessus abscessus 166",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797881133,"P-type Cu+ transporter",2795385883,"Mycobacteroides abscessus abscessus 175",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797891824,"P-type Cu+ transporter",2795385885,"Mycobacteroides abscessus abscessus 189",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797913784,"P-type Cu+ transporter",2795385889,"Mycobacteroides abscessus abscessus 477",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2797934479,"P-type Cu+ transporter",2795385893,"Mycobacteroides abscessus abscessus 376",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2797941714,"P-type Cu+ transporter",2795385894,"Mycobacteroides abscessus abscessus 669",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2798009451,"P-type Cu+ transporter",2795385907,"Mycobacteroides abscessus abscessus 97",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798027511,"P-type Cu+ transporter",2795385910,"Mycobacteroides abscessus abscessus 878",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798188287,"P-type Cu+ transporter",2795385942,"Mycobacteroides abscessus abscessus 877",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798359664,"P-type Cu+ transporter",2795385975,"Mycobacteroides abscessus abscessus 712",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798404720,"P-type Cu+ transporter",2795385983,"Mycobacteroides abscessus abscessus 698",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798525740,"P-type Cu+ transporter",2795386007,"Mycobacteroides abscessus abscessus 374",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798686356,"P-type Cu+ transporter",2795386037,"Mycobacteroides abscessus abscessus 643",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798701725,"P-type Cu+ transporter",2795386040,"Mycobacteroides abscessus abscessus 723",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798717079,"P-type Cu+ transporter",2795386043,"Mycobacteroides abscessus abscessus 339",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2798718254,"P-type Cu+ transporter",2795386044,"Mycobacteroides abscessus abscessus 365",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2798738631,"P-type Cu+ transporter",2795386048,"Mycobacteroides abscessus abscessus 371",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798752016,"P-type Cu+ transporter",2795386050,"Mycobacteroides abscessus abscessus 385",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798758076,"P-type Cu+ transporter",2795386051,"Mycobacteroides abscessus abscessus 373",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2798761115,"P-type Cu+ transporter",2795386052,"Mycobacteroides abscessus abscessus 379",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801346308,"P-type Cu+ transporter",2799113055,"Mycobacteroides abscessus abscessus 267",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801376609,"P-type Cu+ transporter",2799113061,"Mycobacteroides abscessus abscessus 584",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2801477396,"P-type Cu+ transporter",2799113081,"Mycobacteroides abscessus abscessus 223",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801487901,"P-type Cu+ transporter",2799113083,"Mycobacteroides abscessus abscessus 210",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801607812,"P-type Cu+ transporter",2799113106,"Mycobacteroides abscessus abscessus 399",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801612683,"P-type Cu+ transporter",2799113107,"Mycobacteroides abscessus abscessus 400",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2801772788,"P-type Cu+ transporter",2799113139,"Mycobacteroides abscessus abscessus 699",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2801812354,"P-type Cu+ transporter",2799113147,"Mycobacteroides abscessus abscessus 475",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2802198222,"P-type Cu+ transporter",2799113222,"Mycobacteroides abscessus abscessus 585",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802208950,"P-type Cu+ transporter",2799113224,"Mycobacteroides abscessus abscessus 594",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802249526,"P-type Cu+ transporter",2799113233,"Mycobacteroides abscessus abscessus 952",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802254450,"P-type Cu+ transporter",2799113234,"Mycobacteroides abscessus abscessus 876",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802285632,"P-type Cu+ transporter",2799113240,"Mycobacteroides abscessus abscessus 170",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2802328013,"P-type Cu+ transporter",2799113248,"Mycobacteroides abscessus abscessus 455",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802806719,"P-type Cu+ transporter",2802428873,"Mycobacteroides abscessus abscessus 446",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802811988,"P-type Cu+ transporter",2802428874,"Mycobacteroides abscessus abscessus 427",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2802907023,"P-type Cu+ transporter",2802428892,"Mycobacteroides abscessus abscessus 386",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803081135,"P-type Cu+ transporter",2802428926,"Mycobacteroides abscessus abscessus 414",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2803154430,"P-type Cu+ transporter",2802428941,"Mycobacteroides abscessus abscessus 297",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803218980,"P-type Cu+ transporter",2802428954,"Mycobacteroides abscessus abscessus 318",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803247604,"P-type Cu+ transporter",2802428959,"Mycobacteroides abscessus abscessus 293",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803256040,"P-type Cu+ transporter",2802428961,"Mycobacteroides abscessus abscessus 299",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803299694,"P-type Cu+ transporter",2802428969,"Mycobacteroides abscessus abscessus 437",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803304293,"P-type Cu+ transporter",2802428970,"Mycobacteroides abscessus abscessus 435",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803310367,"P-type Cu+ transporter",2802428971,"Mycobacteroides abscessus abscessus 401",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803382498,"P-type Cu+ transporter",2802428985,"Mycobacteroides abscessus abscessus 686",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2803385238,"P-type Cu+ transporter",2802428986,"Mycobacteroides abscessus abscessus 196",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803405924,"P-type Cu+ transporter",2802428990,"Mycobacteroides abscessus abscessus 273",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803413082,"P-type Cu+ transporter",2802428991,"Mycobacteroides abscessus abscessus 272",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803417020,"P-type Cu+ transporter",2802428992,"Mycobacteroides abscessus abscessus 283",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803502969,"P-type Cu+ transporter",2802429009,"Mycobacteroides abscessus abscessus 610",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803569586,"P-type Cu+ transporter",2802429022,"Mycobacteroides abscessus abscessus 517",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803582708,"P-type Cu+ transporter",2802429025,"Mycobacteroides abscessus abscessus 194",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803591661,"P-type Cu+ transporter",2802429027,"Mycobacteroides abscessus abscessus 338",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803749036,"P-type Cu+ transporter",2802429058,"Mycobacteroides abscessus abscessus 389",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803770334,"P-type Cu+ transporter",2802429062,"Mycobacteroides abscessus abscessus 372",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803833416,"P-type Cu+ transporter",2802429075,"Mycobacteroides abscessus abscessus 195",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803841992,"P-type Cu+ transporter",2802429076,"Mycobacteroides abscessus abscessus 574",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803894219,"P-type Cu+ transporter",2802429086,"Mycobacteroides abscessus abscessus 514",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803903451,"P-type Cu+ transporter",2802429088,"Mycobacteroides abscessus abscessus 518",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803936665,"P-type Cu+ transporter",2802429094,"Mycobacteroides abscessus abscessus 378",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2803990370,"P-type Cu+ transporter",2802429105,"Mycobacteroides abscessus abscessus 887",22,89,9,74,39.7,8e-06,33,723,NA
+"query3606436",2804076378,"P-type Cu+ transporter",2802429122,"Mycobacteroides abscessus abscessus 231",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2804389766,"P-type Cu+ transporter",2802429183,"Mycobacteroides abscessus abscessus 349",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2804426290,"P-type Cu+ transporter",2802429190,"Mycobacteroides abscessus abscessus 381",22,89,9,74,39.7,7e-06,33,723,NA
+"query3606436",2817962125,"P-type Cu+ transporter",2816332457,"Staphylococcus simulans SNUC 1463",22,85,2,65,39.7,4e-06,25,730,NA
+"query3606436",2817979157,"P-type Cu+ transporter",2816332461,"Staphylococcus simulans SNUC 940",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2817983401,"P-type Cu+ transporter",2816332463,"Staphylococcus simulans SNUC 1337",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818010044,"P-type Cu+ transporter",2816332472,"Staphylococcus simulans SNUC 1050",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818013260,"P-type Cu+ transporter",2816332473,"Staphylococcus simulans SNUC 1617",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818016374,"P-type Cu+ transporter",2816332474,"Staphylococcus simulans SNUC 1713",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818018775,"P-type Cu+ transporter",2816332475,"Staphylococcus simulans SNUC 1332",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818037155,"P-type Cu+ transporter",2816332481,"Staphylococcus simulans SNUC 1535",22,85,2,65,39.7,4e-06,22,730,NA
+"query3606436",2818042564,"P-type Cu+ transporter",2816332483,"Staphylococcus simulans SNUC 1354",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818051747,"P-type Cu+ transporter",2816332486,"Staphylococcus simulans SNUC 2756",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818053905,"P-type Cu+ transporter",2816332487,"Staphylococcus simulans SNUC 3210",22,85,2,65,39.7,4e-06,22,722,NA
+"query3606436",2818057052,"P-type Cu+ transporter",2816332488,"Staphylococcus simulans SNUC 4566",22,85,2,65,39.7,4e-06,22,730,NA
+"query3606436",2539553320,"P-type Cu+ transporter",2537562023,"Staphylococcus simulans ACS-120-V-Sch1",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2583924316,"P-type Cu+ transporter",2582580918,"Staphylococcus simulans UMC-CNS-990",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2635289811,"P-type Cu+ transporter",2634166342,"Agromyces flavus DSM 22059",20,69,15,63,39.3,8e-06,36,771,NA
+"query3606436",2638230905,"sulfite exporter TauE/SafE",2636415839,"Clostridium botulinum 277-00",26,87,8,69,39.3,7e-06,31,466,NA
+"query3606436",2644664898,"copper chaperone",2643221721,"Oerskovia sp. Root918",23,85,3,64,39.3,1e-06,34,70,NA
+"query3606436",2681963443,"copper chaperone",2681812856,"Oerskovia enterophila VJag re-assembly",23,85,3,64,39.3,1e-06,33,70,NA
+"query3606436",2697669211,"sulfite exporter TauE/SafE",2695420832,"Clostridium sporogenes 85-3852",26,87,8,69,39.3,6e-06,32,557,NA
+"query3606436",2703027111,"sulfite exporter TauE/SafE",2700989517,"Clostridium botulinum Prevot1662",26,87,8,69,39.3,6e-06,32,557,NA
+"query3606436",2719028708,"P-type Cu+ transporter",2718217846,"Staphylococcus simulans FDAARGOS_124",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2786712781,"P-type Cu+ transporter",2786546142,"Thiohalophilus thiocyanatoxydans DSM 16326",26,88,6,65,39.3,5e-06,37,741,NA
+"query3606436",2789449337,"P-type Cu+ transporter",2788500077,"Alteromonadaceae bacterium SP37",22,90,2,69,39.3,9e-06,30,828,NA
+"query3606436",2817591347,"P-type Cu+ transporter",2816332328,"Staphylococcus simulans MJR7712",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2817955902,"P-type Cu+ transporter",2816332455,"Staphylococcus simulans SNUC 1394",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2817964441,"P-type Cu+ transporter",2816332458,"Staphylococcus simulans SNUC 67",22,85,2,65,39.3,4e-06,22,730,NA
+"query3606436",2817996191,"P-type Cu+ transporter",2816332466,"Staphylococcus simulans SNUC 5405",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2817997109,"P-type Cu+ transporter",2816332467,"Staphylococcus simulans SNUC 3770",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2818020808,"P-type Cu+ transporter",2816332476,"Staphylococcus simulans SNUC 1336",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2818034168,"P-type Cu+ transporter",2816332480,"Staphylococcus simulans SNUC 1396",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2818039722,"P-type Cu+ transporter",2816332482,"Staphylococcus simulans SNUC 1334",22,85,2,65,39.3,5e-06,22,730,NA
+"query3606436",2543315548,"copper chaperone",2541047518,"Paraclostridium bifermentans ATCC 638",26,86,5,65,38.9,2e-06,34,70,NA
+"query3606436",2584088811,"heavy-metal-associated domain-containing protein",2582580968,"Clostridium botulinum CDC54091",22,70,2,50,38.9,1e-06,31,51,NA
+"query3606436",2638231790,"periplasmic mercuric ion binding protein",2636415839,"Clostridium botulinum 277-00",22,88,10,77,38.9,2e-06,38,79,NA
+"query3606436",2651315165,"copper chaperone",2648501799,"Clostridium botulinum B2 450",27,86,6,64,38.9,2e-06,36,71,NA
+"query3606436",2656837858,"copper chaperone CopZ",2654588071,"candidate division Zixibacteria bacterium SM1_73",7,83,15,90,38.9,3e-06,30,143,NA
+"query3606436",2657880615,"sulfite exporter TauE/SafE",2657245049,"Clostridium botulinum CDC48761",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2664542209,"sulfite exporter TauE/SafE",2663762825,"Clostridium botulinum CDC33700",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2664774287,"sulfite exporter TauE/SafE",2663762878,"Clostridium botulinum CDC66088",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2666461172,"sulfite exporter TauE/SafE",2663763297,"Clostridium botulinum CDC28023",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2669367593,"sulfite exporter TauE/SafE",2667527760,"Clostridium botulinum CDC37457",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2669754692,"sulfite exporter TauE/SafE",2667527854,"Clostridium botulinum CDC67190",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2670385806,"sulfite exporter TauE/SafE",2667528001,"Clostridium botulinum CDC37461",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2672227110,"sulfite exporter TauE/SafE",2671180305,"Clostridium botulinum CDC48719",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2677581078,"sulfite exporter TauE/SafE",2675903344,"Clostridium botulinum CDC67187",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2677745064,"sulfite exporter TauE/SafE",2675903382,"Clostridium botulinum SU1064",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2683191059,"sulfite exporter TauE/SafE",2681813177,"Clostridium botulinum CDC52271",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2684127146,"sulfite exporter TauE/SafE",2681813434,"Clostridium botulinum SU0801",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2684131211,"sulfite exporter TauE/SafE",2681813435,"Clostridium botulinum SU0994",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2684136873,"sulfite exporter TauE/SafE",2681813436,"Clostridium botulinum SU1259",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2692955068,"sulfite exporter TauE/SafE",2690316268,"Clostridium botulinum CDC33702",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2693165801,"sulfite exporter TauE/SafE",2690316317,"Clostridium botulinum CDC66089",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2696503449,"sulfite exporter TauE/SafE",2695420555,"Clostridium botulinum CDC52298",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2696720388,"sulfite exporter TauE/SafE",2695420606,"Clostridium botulinum CDC28012",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2699159675,"sulfite exporter TauE/SafE",2698536452,"Clostridium botulinum CDC42961",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2702998679,"copper chaperone",2700989511,"Clostridium sporogenes 88-0163",27,86,6,64,38.9,2e-06,36,72,NA
+"query3606436",2703017460,"copper chaperone",2700989515,"Clostridium botulinum CDC68016",27,86,6,64,38.9,2e-06,36,71,NA
+"query3606436",2716010825,"sulfite exporter TauE/SafE",2713897201,"Clostridium botulinum Hall 183",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2716013985,"sulfite exporter TauE/SafE",2713897202,"Clostridium botulinum Hall 8388A",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2716017948,"sulfite exporter TauE/SafE",2713897203,"Clostridium botulinum Hall 8857Ab",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2716046867,"copper chaperone",2713897210,"Clostridium botulinum AM553",27,86,6,64,38.9,2e-06,36,71,NA
+"query3606436",2721085003,"sulfite exporter TauE/SafE",2718218349,"Clostridium botulinum CDC_67190",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2723929765,"sulfite exporter TauE/SafE",2721755776,"Clostridium botulinum CDC_69094",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727234400,"sulfite exporter TauE/SafE",2724679550,"Clostridium botulinum CDC 1744",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727246663,"sulfite exporter TauE/SafE",2724679553,"Clostridium botulinum Hall 4834",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727282171,"sulfite exporter TauE/SafE",2724679563,"Clostridium botulinum SU1937",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727284083,"periplasmic mercuric ion binding protein",2724679563,"Clostridium botulinum SU1937",22,88,10,77,38.9,2e-06,38,79,NA
+"query3606436",2727287187,"sulfite exporter TauE/SafE",2724679564,"Clostridium botulinum SU1274",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727291479,"sulfite exporter TauE/SafE",2724679565,"Clostridium botulinum SU1917",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727294980,"periplasmic mercuric ion binding protein",2724679566,"Clostridium botulinum SU1887",22,88,10,77,38.9,2e-06,38,79,NA
+"query3606436",2727293867,"sulfite exporter TauE/SafE",2724679566,"Clostridium botulinum SU1887",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727298390,"sulfite exporter TauE/SafE",2724679567,"Clostridium botulinum SU1275",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727301740,"sulfite exporter TauE/SafE",2724679568,"Clostridium botulinum SU1934",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727302325,"periplasmic mercuric ion binding protein",2724679568,"Clostridium botulinum SU1934",22,88,10,77,38.9,2e-06,38,79,NA
+"query3606436",2727309754,"sulfite exporter TauE/SafE",2724679570,"Clostridium botulinum SU1054",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727316030,"sulfite exporter TauE/SafE",2724679571,"Clostridium botulinum SU1072",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727320159,"sulfite exporter TauE/SafE",2724679572,"Clostridium botulinum SU1074",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727322133,"sulfite exporter TauE/SafE",2724679573,"Clostridium botulinum SU1112",26,87,8,69,38.9,8e-06,32,602,NA
+"query3606436",2727323877,"periplasmic mercuric ion binding protein",2724679573,"Clostridium botulinum SU1112",22,88,10,77,38.9,2e-06,38,79,NA
+"query3606436",2727327766,"sulfite exporter TauE/SafE",2724679574,"Clostridium botulinum SU0998",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727330564,"sulfite exporter TauE/SafE",2724679575,"Clostridium botulinum SU0807",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2727341638,"sulfite exporter TauE/SafE",2724679578,"Clostridium botulinum CDC 795",26,87,8,69,38.9,8e-06,32,601,NA
+"query3606436",2727344900,"sulfite exporter TauE/SafE",2724679579,"Clostridium botulinum SU1891",26,87,8,69,38.9,9e-06,32,602,NA
+"query3606436",2721090321,"copper chaperone",2718218351,"Clostridium botulinum CDC_1632",27,86,6,64,38.5,2e-06,36,71,NA
+"query3606436",2732240042,"copper chaperone",2731957573,"Actinomadura kijaniata NBRC 14229",25,89,6,69,38.5,7e-06,35,69,NA
+"query3606436",2817958833,"P-type Cu+ transporter",2816332456,"Staphylococcus simulans SNUC 1368",22,85,2,65,38.5,8e-06,22,730,NA
+"query3606436",2817962753,"copper chaperone",2816332457,"Staphylococcus simulans SNUC 1463",24,85,4,65,38.5,2e-06,27,71,NA
+"query3606436",2539551030,"copper chaperone",2537562023,"Staphylococcus simulans ACS-120-V-Sch1",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2583922369,"copper chaperone",2582580918,"Staphylococcus simulans UMC-CNS-990",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2635313729,"copper chaperone",2634166348,"Thermomonospora echinospora DSM 43163",23,85,3,64,38.1,8e-06,33,68,NA
+"query3606436",2656378201,"copper chaperone",2654587953,"Gemmatimonas sp. SG8_17",23,85,3,65,38.1,4e-06,33,71,NA
+"query3606436",2719028588,"copper chaperone",2718217846,"Staphylococcus simulans FDAARGOS_124",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2732884890,"copper ion binding protein",2731957722,"Nocardia africana NBRC 100379",23,57,3,37,38.1,7e-06,46,68,NA
+"query3606436",2752503029,"copper chaperone",2751185543,"Mycolicibacterium moriokaense GAS496",21,89,3,71,38.1,7e-06,26,73,NA
+"query3606436",2817977760,"copper chaperone",2816332461,"Staphylococcus simulans SNUC 940",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2817984351,"copper chaperone",2816332463,"Staphylococcus simulans SNUC 1337",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818008088,"copper chaperone",2816332471,"Staphylococcus simulans SNUC 915",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818010252,"copper chaperone",2816332472,"Staphylococcus simulans SNUC 1050",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818014560,"copper chaperone",2816332473,"Staphylococcus simulans SNUC 1617",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818015135,"copper chaperone",2816332474,"Staphylococcus simulans SNUC 1713",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818019297,"copper chaperone",2816332475,"Staphylococcus simulans SNUC 1332",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818022008,"copper chaperone",2816332476,"Staphylococcus simulans SNUC 1336",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818038905,"copper chaperone",2816332482,"Staphylococcus simulans SNUC 1334",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818041791,"copper chaperone",2816332483,"Staphylococcus simulans SNUC 1354",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818051475,"copper chaperone",2816332486,"Staphylococcus simulans SNUC 2756",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818053105,"copper chaperone",2816332487,"Staphylococcus simulans SNUC 3210",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2818056050,"copper chaperone",2816332488,"Staphylococcus simulans SNUC 4566",26,85,6,65,38.1,2e-06,30,71,NA
+"query3606436",2585088246,"copper chaperone",2582581262,"Desulfopila aestuarii DSM 18488",25,76,3,58,37.7,7e-06,36,65,NA
+"query3606436",2632394003,"copper chaperone",2630968586,"Methylobacterium radiotolerans 78c",19,85,6,72,37.7,9e-06,28,79,NA
+"query3606436",2731531612,"periplasmic mercuric ion binding protein",2728369724,"Clostridium sp. JCM 10522",20,87,8,76,37.7,5e-06,41,78,NA
+"query3606436",2566522350,"periplasmic mercuric ion binding protein",2565956637,"Clostridium botulinum 84",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2584090030,"periplasmic mercuric ion binding protein",2582580968,"Clostridium botulinum CDC54091",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2657882545,"periplasmic mercuric ion binding protein",2657245049,"Clostridium botulinum CDC48761",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2658092708,"heavy-metal-associated domain-containing protein",2657245102,"Clostridium botulinum CDC41370",22,68,2,48,37.4,3e-06,30,53,NA
+"query3606436",2664544514,"periplasmic mercuric ion binding protein",2663762825,"Clostridium botulinum CDC33700",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2664775376,"periplasmic mercuric ion binding protein",2663762878,"Clostridium botulinum CDC66088",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2666126800,"periplasmic mercuric ion binding protein",2663763217,"Clostridium botulinum ATCC 7949",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2666461252,"periplasmic mercuric ion binding protein",2663763297,"Clostridium botulinum CDC28023",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2666882142,"periplasmic mercuric ion binding protein",2663763402,"Clostridium botulinum Walls 8G",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2669365925,"periplasmic mercuric ion binding protein",2667527760,"Clostridium botulinum CDC37457",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2669756070,"periplasmic mercuric ion binding protein",2667527854,"Clostridium botulinum CDC67190",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2670385976,"periplasmic mercuric ion binding protein",2667528001,"Clostridium botulinum CDC37461",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2672226136,"periplasmic mercuric ion binding protein",2671180305,"Clostridium botulinum CDC48719",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2675775096,"periplasmic mercuric ion binding protein",2671181163,"Clostridium botulinum ATCC 17843",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2677582085,"periplasmic mercuric ion binding protein",2675903344,"Clostridium botulinum CDC67187",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2677745430,"periplasmic mercuric ion binding protein",2675903382,"Clostridium botulinum SU1064",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2677843073,"heavy-metal-associated domain-containing protein",2675903405,"Clostridium botulinum ATCC 7949",22,68,2,48,37.4,5e-06,30,53,NA
+"query3606436",2677842104,"periplasmic mercuric ion binding protein",2675903405,"Clostridium botulinum ATCC 7949",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2683192844,"periplasmic mercuric ion binding protein",2681813177,"Clostridium botulinum CDC52271",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2684126270,"periplasmic mercuric ion binding protein",2681813434,"Clostridium botulinum SU0801",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2684131723,"periplasmic mercuric ion binding protein",2681813435,"Clostridium botulinum SU0994",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2684134440,"periplasmic mercuric ion binding protein",2681813436,"Clostridium botulinum SU1259",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2692957792,"periplasmic mercuric ion binding protein",2690316268,"Clostridium botulinum CDC33702",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2693166712,"periplasmic mercuric ion binding protein",2690316317,"Clostridium botulinum CDC66089",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2696505463,"periplasmic mercuric ion binding protein",2695420555,"Clostridium botulinum CDC52298",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2696722015,"periplasmic mercuric ion binding protein",2695420606,"Clostridium botulinum CDC28012",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2699161660,"periplasmic mercuric ion binding protein",2698536452,"Clostridium botulinum CDC42961",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2703010557,"heavy-metal-associated domain-containing protein",2700989514,"Clostridium botulinum CDC41370NT",22,68,2,48,37.4,4e-06,30,53,NA
+"query3606436",2716012090,"periplasmic mercuric ion binding protein",2713897201,"Clostridium botulinum Hall 183",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2716015432,"periplasmic mercuric ion binding protein",2713897202,"Clostridium botulinum Hall 8388A",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2716019193,"periplasmic mercuric ion binding protein",2713897203,"Clostridium botulinum Hall 8857Ab",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2716030479,"periplasmic mercuric ion binding protein",2713897206,"Clostridium botulinum Hall 80",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2716047616,"periplasmic mercuric ion binding protein",2713897211,"Clostridium botulinum SU1306",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2721084671,"periplasmic mercuric ion binding protein",2718218349,"Clostridium botulinum CDC_67190",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2723929441,"periplasmic mercuric ion binding protein",2721755776,"Clostridium botulinum CDC_69094",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727235673,"periplasmic mercuric ion binding protein",2724679550,"Clostridium botulinum CDC 1744",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727237305,"periplasmic mercuric ion binding protein",2724679551,"Clostridium botulinum ATCC 17843",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727245461,"periplasmic mercuric ion binding protein",2724679553,"Clostridium botulinum Hall 4834",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727267063,"periplasmic mercuric ion binding protein",2724679559,"Clostridium botulinum Walls 8G",19,88,7,77,37.4,8e-06,37,79,NA
+"query3606436",2727287375,"periplasmic mercuric ion binding protein",2724679564,"Clostridium botulinum SU1274",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727289609,"periplasmic mercuric ion binding protein",2724679565,"Clostridium botulinum SU1917",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727301046,"periplasmic mercuric ion binding protein",2724679567,"Clostridium botulinum SU1275",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727306734,"periplasmic mercuric ion binding protein",2724679569,"Clostridium botulinum SU1304",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727310691,"periplasmic mercuric ion binding protein",2724679570,"Clostridium botulinum SU1054",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727314669,"periplasmic mercuric ion binding protein",2724679571,"Clostridium botulinum SU1072",19,88,7,77,37.4,1e-05,37,79,NA
+"query3606436",2727321058,"periplasmic mercuric ion binding protein",2724679572,"Clostridium botulinum SU1074",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727326015,"periplasmic mercuric ion binding protein",2724679574,"Clostridium botulinum SU0998",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727330330,"periplasmic mercuric ion binding protein",2724679575,"Clostridium botulinum SU0807",19,88,7,77,37.4,9e-06,37,79,NA
+"query3606436",2727342125,"periplasmic mercuric ion binding protein",2724679578,"Clostridium botulinum CDC 795",19,88,7,77,37.4,9e-06,37,79,NA

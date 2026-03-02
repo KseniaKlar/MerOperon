@@ -1,0 +1,15 @@
+"Query.Sequence.Name","Gene.ID","Gene.Name","Genome.ID","Genome.Name","Query.Start.Coord","Query.End.Coord","Subject.Start.Coord","Subject.End.Coord","Bit.Score","E.value","Identities","Subject.Length","X"
+"query3652705",2548015575,"mercuric ion transport protein",2547132255,"Escherichia coli O2:H- 9.1649",1,116,1,116,227,9e-80,100,116,NA
+"query3652705",2548015555,"mercuric ion transport protein",2547132255,"Escherichia coli O2:H- 9.1649",1,116,1,116,201,2e-69,91,116,NA
+"query3652705",2738001635,"mercuric ion transport protein",2737471843,"Escherichia coli CVM N33633PS",1,116,1,116,201,2e-69,91,116,NA
+"query3652705",2731464932,"mercuric ion transport protein",2728369713,"Pseudomonas putida JCM 18798",1,116,1,116,198,2e-68,84,116,NA
+"query3652705",2731510657,"mercuric ion transport protein",2728369721,"Variovorax sp. JCM 16519",1,116,1,116,183,1e-62,77,116,NA
+"query3652705",2586889617,"mercuric ion transport protein",2585427827,"Pseudomonas syringae pv. atrofaciens LMG 5095",1,116,1,116,168,2e-56,83,116,NA
+"query3652705",2554224883,"mercuric ion transport protein",2551306727,"Pseudomonas putida SJ3",1,116,1,116,113,1e-34,49,116,NA
+"query3652705",2632394087,"mercuric ion transport protein",2630968586,"Methylobacterium radiotolerans 78c",2,114,14,127,87.4,3e-24,48,131,NA
+"query3652705",2632394220,"mercuric ion transport protein",2630968586,"Methylobacterium radiotolerans 78c",5,115,22,133,84,9e-23,46,134,NA
+"query3652705",2792207458,"mercuric ion transport protein",2791354983,"Aurantimonas sp. 22II-16-19i",13,115,27,130,83.2,1e-22,44,133,NA
+"query3652705",2788210789,"mercuric ion transport protein",2786546854,"Halobacteriovoraceae bacterium ARS14",3,110,2,109,75.1,7e-20,35,115,NA
+"query3652705",2832152130,"mercuric ion transport protein",2832151896,"Geothermobacter hydrogeniphilus HR-1",16,115,30,128,52.8,6e-11,32,130,NA
+"query3652705",2773834818,"mercuric ion transport protein",2772191016,"Unclassified Zetaproteobacteria bacterium S6_FULL_No.19_0.9_74",2,76,3,71,45.4,1e-08,40,106,NA
+"query3652705",2515446369,"mercuric ion transport protein",2515154075,"Novosphingobium nitrogenifigens Y88, DSM 19370",1,88,4,98,41.6,9e-07,37,119,NA

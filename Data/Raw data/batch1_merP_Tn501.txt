@@ -1,0 +1,915 @@
+Query Sequence Name	Gene ID	Gene Name	Genome ID	Genome Name	Query Start Coord	Query End Coord	Subject Start Coord	Subject End Coord	Bit Score	E-value	Identities	Subject Length	
+query3677469	2549717718	periplasmic mercuric ion binding protein	2548876758	Pseudomonas aeruginosa NCMG1179	1	91	1	91	176	2e-60	99	91	
+query3677469	2562783401	periplasmic mercuric ion binding protein	2562617043	Pseudomonas sp. EGD-AK9	1	91	1	91	176	1e-60	99	91	
+query3677469	2590840772	periplasmic mercuric ion binding protein	2590828102	beta proteobacterium FWI2	1	91	1	91	176	2e-60	99	91	
+query3677469	2633881834	periplasmic mercuric ion binding protein	2630968946	Ralstonia mannitolilytica SN82F48	1	91	1	91	176	1e-60	99	91	
+query3677469	2661417556	periplasmic mercuric ion binding protein	2660238203	Pseudomonas sp. NBRC 111127	1	91	1	91	176	2e-60	99	91	
+query3677469	2667502548	periplasmic mercuric ion binding protein	2663763601	Pseudomonas psychrotolerans LMG 21977	1	91	1	91	176	1e-60	99	91	
+query3677469	2667503085	periplasmic mercuric ion binding protein	2663763601	Pseudomonas psychrotolerans LMG 21977	1	91	1	91	176	1e-60	99	91	
+query3677469	2704060950	periplasmic mercuric ion binding protein	2703718695	Enterobacter asburiae ST252:950126202	1	91	1	91	176	3e-60	99	91	
+query3677469	2720721732	periplasmic mercuric ion binding protein	2718218255	Klebsiella sp. LTGPAF-6F	1	91	1	91	176	2e-60	99	91	
+query3677469	2736092208	periplasmic mercuric ion binding protein	2734482401	Pseudomonas aeruginosa RW88	1	91	1	91	176	2e-60	99	91	
+query3677469	2743196724	periplasmic mercuric ion binding protein	2740892368	Cupriavidus metallidurans NE12	1	91	1	91	176	2e-60	99	91	
+query3677469	2839308708	periplasmic mercuric ion binding protein	2839303116	Variovorax sp. JS1663	1	91	1	91	176	2e-60	99	91	
+query3677469	2847530839	periplasmic mercuric ion binding protein	2847528547	Stenotrophomonas maltophilia SJTH1	1	91	1	91	176	1e-60	99	91	
+query3677469	2870322652	periplasmic mercuric ion binding protein	2870319472	Pseudomonas aeruginosa PASGNDM345	1	91	1	91	176	2e-60	99	91	
+query3677469	2870334704	periplasmic mercuric ion binding protein	2870331525	Pseudomonas aeruginosa PASGNDM699	1	91	1	91	176	2e-60	99	91	
+query3677469	641622134	periplasmic mercuric ion binding protein	641522646	Pseudomonas putida W619	1	91	1	91	176	2e-60	99	91	
+query3677469	2583247735	periplasmic mercuric ion binding protein	2582580763	Burkholderia cenocepacia S2AES	1	91	1	91	175	5e-60	98	91	
+query3677469	2577538242	periplasmic mercuric ion binding protein	2576861188	Enterobacter asburiae UCI 49	1	91	1	91	174	2e-59	97	91	
+query3677469	2699273833	periplasmic mercuric ion binding protein	2698536479	Enterobacter kobei ST54:941713674	1	91	1	91	174	2e-59	97	91	
+query3677469	2699274252	periplasmic mercuric ion binding protein	2698536479	Enterobacter kobei ST54:941713674	1	91	1	91	174	2e-59	97	91	
+query3677469	2699273516	periplasmic mercuric ion binding protein	2698536479	Enterobacter kobei ST54:941713674	1	91	1	91	174	2e-59	97	91	
+query3677469	2842331889	periplasmic mercuric ion binding protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	91	1	91	153	4e-51	84	91	
+query3677469	2842353735	periplasmic mercuric ion binding protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	91	1	91	153	4e-51	84	91	
+query3677469	2510626485	periplasmic mercuric ion binding protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	1	91	1	91	147	5e-49	91	91	
+query3677469	2510648038	periplasmic mercuric ion binding protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	1	91	1	91	147	5e-49	91	91	
+query3677469	2518320901	periplasmic mercuric ion binding protein	2518285516	Pseudomonas synxantha DSM 13080	1	91	1	91	147	6e-49	76	91	
+query3677469	2520391103	periplasmic mercuric ion binding protein	2519899622	Pseudomonas sp. Ag1	1	91	1	91	147	7e-49	76	91	
+query3677469	2541855594	periplasmic mercuric ion binding protein	2541047103	Pseudomonas sp. CFT9	1	91	1	91	147	6e-49	76	91	
+query3677469	2543171130	periplasmic mercuric ion binding protein	2541047479	Pseudomonas syringae BRIP34876	1	91	1	91	147	6e-49	76	91	
+query3677469	2543180173	periplasmic mercuric ion binding protein	2541047481	Pseudomonas syringae BRIP34881	1	91	1	91	147	6e-49	76	91	
+query3677469	2549662281	periplasmic mercuric ion binding protein	2548876749	Pseudomonas syringae pv. actinidiae PA459	1	91	1	91	147	6e-49	76	91	
+query3677469	2586026658	periplasmic mercuric ion binding protein	2585427641	Pseudomonas sp. WCS374	1	91	1	91	147	6e-49	76	91	
+query3677469	2586023998	periplasmic mercuric ion binding protein	2585427641	Pseudomonas sp. WCS374	1	91	1	91	147	6e-49	76	91	
+query3677469	2631457469	periplasmic mercuric ion binding protein	2630968351	Pseudomonas fluorescens AU2989	1	91	1	91	147	6e-49	76	91	
+query3677469	2640299636	periplasmic mercuric ion binding protein	2639762637	Pseudomonas poae LMG 21465	1	91	1	91	147	6e-49	76	91	
+query3677469	2641508664	periplasmic mercuric ion binding protein	2639762981	Pseudomonas fluorescens AU14440	1	91	1	91	147	7e-49	76	91	
+query3677469	2642370885	periplasmic mercuric ion binding protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	91	1	91	147	6e-49	76	91	
+query3677469	2659673808	periplasmic mercuric ion binding protein	2657245614	Pseudomonas sp. NBRC 111118	1	91	1	91	147	5e-49	91	91	
+query3677469	2661419879	periplasmic mercuric ion binding protein	2660238203	Pseudomonas sp. NBRC 111127	1	91	1	91	147	4e-49	91	91	
+query3677469	2662688732	periplasmic mercuric ion binding protein	2660238513	Pseudomonas synxantha DSM 18928	1	91	1	91	147	7e-49	76	91	
+query3677469	2666130013	periplasmic mercuric ion binding protein	2663763218	Pseudomonas coronafaciens LMG 5060	1	91	1	91	147	5e-49	76	91	
+query3677469	2666129965	periplasmic mercuric ion binding protein	2663763218	Pseudomonas coronafaciens LMG 5060	1	91	1	91	147	4e-49	91	91	
+query3677469	2666489546	periplasmic mercuric ion binding protein	2663763303	Pseudomonas sp. NBRC 111142	1	91	1	91	147	5e-49	91	91	
+query3677469	2667580029	periplasmic mercuric ion binding protein	2667527211	Pseudomonas abietaniphila LMG 20220	1	91	1	91	147	5e-49	91	91	
+query3677469	2667945423	periplasmic mercuric ion binding protein	2667527385	Pseudomonas synxantha LMG 2190	1	91	1	91	147	7e-49	76	91	
+query3677469	2670059807	periplasmic mercuric ion binding protein	2667527928	Pseudomonas poae DSM 14936	1	91	1	91	147	6e-49	76	91	
+query3677469	2696701901	periplasmic mercuric ion binding protein	2695420601	Pseudomonas sp. NBRC 111137	1	91	1	91	147	7e-49	76	91	
+query3677469	2712823952	periplasmic mercuric ion binding protein	2711768305	Pseudomonadales bacterium RIFCSPLOWO2_12_60_38	1	91	1	91	147	6e-49	76	91	
+query3677469	2713031834	periplasmic mercuric ion binding protein	2711768411	Pseudomonadales bacterium RIFCSPLOWO2_12_FULL_59_450	1	91	1	91	147	6e-49	76	91	
+query3677469	2716249619	periplasmic mercuric ion binding protein	2713897252	Pseudomonas syringae pv. atrofaciens ICMP 4394	1	91	1	91	147	6e-49	76	91	
+query3677469	2729285046	periplasmic mercuric ion binding protein	2728369127	Pseudomonas sp. ABFPK	1	91	1	91	147	5e-49	91	91	
+query3677469	2745187316	periplasmic mercuric ion binding protein	2744054662	Pseudomonas monteilii CD10_2	1	91	1	91	147	5e-49	91	91	
+query3677469	2788699292	periplasmic mercuric ion binding protein	2788499840	Pseudomonas synxantha finPsuedoS	1	91	1	91	147	6e-49	76	91	
+query3677469	2794725857	periplasmic mercuric ion binding protein	2791355541	Pseudomonas sp. MPR-R5A	1	91	1	91	147	6e-49	91	91	
+query3677469	2794783354	periplasmic mercuric ion binding protein	2791355551	Pseudomonas sp. MPR-R5B	1	91	1	91	147	6e-49	91	91	
+query3677469	2794850746	periplasmic mercuric ion binding protein	2791355562	Pseudomonas sp. GP01-A3	1	91	1	91	147	7e-49	76	91	
+query3677469	2794849380	periplasmic mercuric ion binding protein	2791355562	Pseudomonas sp. GP01-A3	1	91	1	91	147	6e-49	91	91	
+query3677469	2794854619	periplasmic mercuric ion binding protein	2791355563	Pseudomonas sp. GP01-A14	1	91	1	91	147	6e-49	91	91	
+query3677469	2794854791	periplasmic mercuric ion binding protein	2791355563	Pseudomonas sp. GP01-A14	1	91	1	91	147	7e-49	76	91	
+query3677469	2794863600	periplasmic mercuric ion binding protein	2791355564	Pseudomonas sp. GP01-A6	1	91	1	91	147	6e-49	91	91	
+query3677469	2794864525	periplasmic mercuric ion binding protein	2791355564	Pseudomonas sp. GP01-A6	1	91	1	91	147	7e-49	76	91	
+query3677469	2795010181	periplasmic mercuric ion binding protein	2791355588	Pseudomonas sp. FW215-L2	1	91	1	91	147	7e-49	76	91	
+query3677469	2795011113	periplasmic mercuric ion binding protein	2791355588	Pseudomonas sp. FW215-L2	1	91	1	91	147	6e-49	91	91	
+query3677469	2795097648	periplasmic mercuric ion binding protein	2791355603	Pseudomonas sp. MPBC4-3	1	91	1	91	147	6e-49	91	91	
+query3677469	2795234828	periplasmic mercuric ion binding protein	2791355624	Pseudomonas sp. GP01-A4	1	91	1	91	147	7e-49	76	91	
+query3677469	2795236700	periplasmic mercuric ion binding protein	2791355624	Pseudomonas sp. GP01-A4	1	91	1	91	147	6e-49	91	91	
+query3677469	2795240970	periplasmic mercuric ion binding protein	2791355625	Pseudomonas sp. GP01-A11	1	91	1	91	147	7e-49	76	91	
+query3677469	2795243248	periplasmic mercuric ion binding protein	2791355625	Pseudomonas sp. GP01-A11	1	91	1	91	147	6e-49	91	91	
+query3677469	2795259547	periplasmic mercuric ion binding protein	2791355628	Pseudomonas sp. GP01-A5	1	91	1	91	147	7e-49	76	91	
+query3677469	2795262765	periplasmic mercuric ion binding protein	2791355628	Pseudomonas sp. GP01-A5	1	91	1	91	147	6e-49	91	91	
+query3677469	2795266258	periplasmic mercuric ion binding protein	2791355629	Pseudomonas sp. GP01-A13	1	91	1	91	147	7e-49	76	91	
+query3677469	2795268295	periplasmic mercuric ion binding protein	2791355629	Pseudomonas sp. GP01-A13	1	91	1	91	147	6e-49	91	91	
+query3677469	2795276590	periplasmic mercuric ion binding protein	2791355630	Pseudomonas sp. GP01-A15	1	91	1	91	147	7e-49	76	91	
+query3677469	2795275344	periplasmic mercuric ion binding protein	2791355630	Pseudomonas sp. GP01-A15	1	91	1	91	147	6e-49	91	91	
+query3677469	2795282095	periplasmic mercuric ion binding protein	2791355631	Pseudomonas sp. GP01-A9	1	91	1	91	147	6e-49	91	91	
+query3677469	2795279802	periplasmic mercuric ion binding protein	2791355631	Pseudomonas sp. GP01-A9	1	91	1	91	147	7e-49	76	91	
+query3677469	2795288880	periplasmic mercuric ion binding protein	2791355632	Pseudomonas sp. GP01-A8	1	91	1	91	147	6e-49	91	91	
+query3677469	2795289045	periplasmic mercuric ion binding protein	2791355632	Pseudomonas sp. GP01-A8	1	91	1	91	147	7e-49	76	91	
+query3677469	2795297244	periplasmic mercuric ion binding protein	2791355633	Pseudomonas sp. GP01-A1	1	91	1	91	147	7e-49	76	91	
+query3677469	2795296069	periplasmic mercuric ion binding protein	2791355633	Pseudomonas sp. GP01-A1	1	91	1	91	147	6e-49	91	91	
+query3677469	2816026723	periplasmic mercuric ion binding protein	2814123437	Burkholderia vietnamiensis HI3908	1	91	1	91	147	5e-49	91	91	
+query3677469	649633428	periplasmic mercuric ion binding protein	649633086	Pseudomonas fluorescens SBW25	1	91	1	91	147	7e-49	76	91	
+query3677469	2520121283	periplasmic mercuric ion binding protein	2519899560	Escherichia coli O111:H8 CVM9634	1	91	1	91	145	4e-48	93	91	
+query3677469	2536624480	periplasmic mercuric ion binding protein	2534682109	Escherichia coli 3.488	1	91	1	91	145	4e-48	93	91	
+query3677469	2547113499	periplasmic mercuric ion binding protein	2546826727	Shewanella algae BRY	1	91	1	91	145	4e-48	93	91	
+query3677469	2550317689	periplasmic mercuric ion binding protein	2548876915	Klebsiella pneumoniae pneumoniae LCT-KP214	1	91	1	91	145	4e-48	93	91	
+query3677469	2555199006	periplasmic mercuric ion binding protein	2554235220	Klebsiella pneumoniae LCT-KP182	1	91	1	91	145	4e-48	93	91	
+query3677469	2555215039	periplasmic mercuric ion binding protein	2554235223	Klebsiella pneumoniae LCT-KP289	1	91	1	91	145	4e-48	93	91	
+query3677469	2559831668	periplasmic mercuric ion binding protein	2558860434	Salmonella enterica enterica sv. Typhimurium 34502	1	91	1	91	145	4e-48	93	91	
+query3677469	2559835367	periplasmic mercuric ion binding protein	2558860435	Salmonella enterica enterica sv. Typhimurium 35423	1	91	1	91	145	4e-48	93	91	
+query3677469	2562595589	periplasmic mercuric ion binding protein	2561511241	Escherichia coli UMNK88	1	91	1	91	145	4e-48	93	91	
+query3677469	2580018917	periplasmic mercuric ion binding protein	2579778559	Salmonella enterica enterica sv. Agona 0322	1	91	1	91	145	3e-48	93	91	
+query3677469	2582484616	periplasmic mercuric ion binding protein	2579779146	Salmonella enterica enterica sv. Agona 0292	1	91	1	91	145	4e-48	93	91	
+query3677469	2588795675	periplasmic mercuric ion binding protein	2588253806	Salmonella enterica Enterica sv. Heidelberg N26457	1	91	1	91	145	4e-48	93	91	
+query3677469	2588829159	periplasmic mercuric ion binding protein	2588253813	Salmonella enterica enterica sv. Heidelberg 21381	1	91	1	91	145	4e-48	93	91	
+query3677469	2632593953	periplasmic mercuric ion binding protein	2630968630	Chromobacterium subtsugae F49	1	91	1	91	145	3e-48	93	91	
+query3677469	2636896413	periplasmic mercuric ion binding protein	2636415517	Vibrio cholerae 2012EL-2176	1	91	1	91	145	3e-48	93	91	
+query3677469	2656573054	periplasmic mercuric ion binding protein	2654588004	Salmonella enterica enterica sv. Typhimurium 33676	1	91	1	91	145	4e-48	93	91	
+query3677469	2658208580	periplasmic mercuric ion binding protein	2657245131	Escherichia coli OLC-791	1	91	1	91	145	4e-48	93	91	
+query3677469	2659876587	periplasmic mercuric ion binding protein	2657245664	Escherichia coli UMNturkey3	1	91	1	91	145	4e-48	93	91	
+query3677469	2661146400	periplasmic mercuric ion binding protein	2660238128	Escherichia coli TTU2014-121AME	1	91	1	91	145	4e-48	93	91	
+query3677469	2662664521	periplasmic mercuric ion binding protein	2660238507	Escherichia coli 50822286	1	91	1	91	145	4e-48	93	91	
+query3677469	2663100852	periplasmic mercuric ion binding protein	2660238614	Salmonella enterica enterica sv. Typhimurium DT104 613sCH44	1	91	1	91	145	4e-48	93	91	
+query3677469	2666977268	periplasmic mercuric ion binding protein	2663763428	Escherichia coli 50739822	1	91	1	91	145	4e-48	93	91	
+query3677469	2668670602	periplasmic mercuric ion binding protein	2667527584	Escherichia coli 50639799	1	91	1	91	145	4e-48	93	91	
+query3677469	2669409886	periplasmic mercuric ion binding protein	2667527770	Escherichia coli UMNturkey4	1	91	1	91	145	4e-48	93	91	
+query3677469	2670323020	periplasmic mercuric ion binding protein	2667527987	Escherichia coli TTU2014-120BME	1	91	1	91	145	4e-48	93	91	
+query3677469	2672492984	periplasmic mercuric ion binding protein	2671180367	Klebsiella pneumoniae SY-B2	1	91	1	91	145	4e-48	93	91	
+query3677469	2678504546	periplasmic mercuric ion binding protein	2675903580	Escherichia coli TTU2014-148AME	1	91	1	91	145	4e-48	93	91	
+query3677469	2684809310	periplasmic mercuric ion binding protein	2684622549	Klebsiella pneumoniae SY-B	1	91	1	91	145	4e-48	93	91	
+query3677469	2687657769	periplasmic mercuric ion binding protein	2687453150	Salmonella enterica enterica sv. Anatum USDA-ARS-USMARC-1736	1	91	1	91	145	4e-48	93	91	
+query3677469	2689101390	periplasmic mercuric ion binding protein	2687453519	Salmonella enterica enterica sv. Typhimurium USDA-ARS-USMARC-1896	1	91	1	91	145	4e-48	93	91	
+query3677469	2689367743	periplasmic mercuric ion binding protein	2687453585	Escherichia coli Ecol_732	1	91	1	91	145	4e-48	93	91	
+query3677469	2714216964	periplasmic mercuric ion binding protein	2713896779	Escherichia coli 03-4064	1	91	1	91	145	4e-48	93	91	
+query3677469	2715827396	periplasmic mercuric ion binding protein	2713897162	Klebsiella pneumoniae ST147	1	91	1	91	145	4e-48	93	91	
+query3677469	2719684478	periplasmic mercuric ion binding protein	2718218001	Klebsiella pneumoniae Kp_Goe_149832	1	91	1	91	145	4e-48	93	91	
+query3677469	2719716056	periplasmic mercuric ion binding protein	2718218006	Klebsiella pneumoniae Kp_Goe_152021	1	91	1	91	145	4e-48	93	91	
+query3677469	2719721811	periplasmic mercuric ion binding protein	2718218007	Klebsiella pneumoniae Kp_Goe_149473	1	91	1	91	145	4e-48	93	91	
+query3677469	2720300919	periplasmic mercuric ion binding protein	2718218149	Klebsiella pneumoniae KP_Goe_828304	1	91	1	91	145	4e-48	93	91	
+query3677469	2724137444	periplasmic mercuric ion binding protein	2721755830	Klebsiella pneumoniae Kp_Goe_827026	1	91	1	91	145	4e-48	93	91	
+query3677469	2728636266	periplasmic mercuric ion binding protein	2728368973	Chromobacterium violaceum Cv017	1	91	1	91	145	3e-48	93	91	
+query3677469	2730235774	periplasmic mercuric ion binding protein	2728369383	Klebsiella pneumoniae Kp_Goe_822579	1	91	1	91	145	4e-48	93	91	
+query3677469	2730330915	periplasmic mercuric ion binding protein	2728369405	Klebsiella pneumoniae Kp_Goe_827024	1	91	1	91	145	4e-48	93	91	
+query3677469	2737329667	periplasmic mercuric ion binding protein	2734482773	Escherichia coli CVM N38834PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2737349663	periplasmic mercuric ion binding protein	2734482777	Escherichia coli CVM N38795PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2737925150	periplasmic mercuric ion binding protein	2737471828	Escherichia coli CVM N34352PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2737981542	periplasmic mercuric ion binding protein	2737471839	Escherichia coli CVM N33707PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2738052012	periplasmic mercuric ion binding protein	2737471853	Escherichia coli CVM N36210PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2738110143	periplasmic mercuric ion binding protein	2737471865	Escherichia coli CVM N33653PS	1	91	1	91	145	4e-48	93	91	
+query3677469	2743346539	periplasmic mercuric ion binding protein	2740892416	Salmonella enterica enterica sv. Bardo CRJJGF_00099	1	91	1	91	145	4e-48	93	91	
+query3677469	2743393316	periplasmic mercuric ion binding protein	2740892425	Aeromonas salmonicida salmonicida 2004-05MF26	1	91	1	91	145	4e-48	93	91	
+query3677469	2744609145	periplasmic mercuric ion binding protein	2744054522	Klebsiella pneumoniae OC648	1	91	1	91	145	4e-48	93	91	
+query3677469	2744614702	periplasmic mercuric ion binding protein	2744054523	Klebsiella pneumoniae OC511	1	91	1	91	145	4e-48	93	91	
+query3677469	2744770253	periplasmic mercuric ion binding protein	2744054558	Chromobacterium sp. F49	1	91	1	91	145	3e-48	93	91	
+query3677469	2745218269	periplasmic mercuric ion binding protein	2744054669	Salmonella enterica enterica sv. Heidelberg 163	1	91	1	91	145	4e-48	93	91	
+query3677469	2746113310	periplasmic mercuric ion binding protein	2744054905	Salmonella enterica CU013109	1	91	1	91	145	4e-48	93	91	
+query3677469	2778777665	periplasmic mercuric ion binding protein	2778261069	Escherichia albertii MOD1-EC1723	1	91	1	91	145	4e-48	93	91	
+query3677469	2779216824	periplasmic mercuric ion binding protein	2778261192	Klebsiella pneumoniae WCHKP8D7	1	91	1	91	145	4e-48	93	91	
+query3677469	2779243775	periplasmic mercuric ion binding protein	2778261197	Klebsiella pneumoniae WCHKP13F4	1	91	1	91	145	4e-48	93	91	
+query3677469	2779669874	periplasmic mercuric ion binding protein	2778261315	Escherichia coli MOD1-EC5982	1	91	1	91	145	4e-48	93	91	
+query3677469	2780849844	periplasmic mercuric ion binding protein	2778261641	Escherichia coli MOD1-EC6519	1	91	1	91	145	4e-48	93	91	
+query3677469	2814088990	periplasmic mercuric ion binding protein	2811995367	Edwardsiella piscicida ETW41	1	91	1	91	145	3e-48	93	91	
+query3677469	2844064631	periplasmic mercuric ion binding protein	2844059735	Aeromonas hydrophila 23-C-23	1	91	1	91	145	4e-48	93	91	
+query3677469	2847850322	periplasmic mercuric ion binding protein	2847845980	Aeromonas hydrophila WCX23	1	91	1	91	145	3e-48	93	91	
+query3677469	2849012773	periplasmic mercuric ion binding protein	2849008052	Shewanella algae KC-Na-R1	1	91	1	91	145	4e-48	93	91	
+query3677469	2850577966	periplasmic mercuric ion binding protein	2850576466	Salmonella enterica enterica sv. Dublin USMARC-69838	1	91	1	91	145	4e-48	93	91	
+query3677469	2851003272	periplasmic mercuric ion binding protein	2850998136	Citrobacter freundii ERS2650695	1	91	1	91	145	4e-48	93	91	
+query3677469	2851436987	periplasmic mercuric ion binding protein	2851431590	Klebsiella pneumoniae INF278	1	91	1	91	145	4e-48	93	91	
+query3677469	2851442735	periplasmic mercuric ion binding protein	2851437328	Klebsiella pneumoniae INF163	1	91	1	91	145	4e-48	93	91	
+query3677469	2852070712	periplasmic mercuric ion binding protein	2852067712	Edwardsiella piscicida JF1411	1	91	1	91	145	3e-48	93	91	
+query3677469	2858335652	periplasmic mercuric ion binding protein	2858333323	Proteus mirabilis PM005	1	91	1	91	145	3e-48	93	91	
+query3677469	2860595280	periplasmic mercuric ion binding protein	2860589870	Klebsiella pneumoniae INF274	1	91	1	91	145	4e-48	93	91	
+query3677469	642572463	periplasmic mercuric ion binding protein	642555157	Salmonella enterica sv. Newport SL254	1	91	1	91	145	4e-48	93	91	
+query3677469	645049595	periplasmic mercuric ion binding protein	645047325	Escherichia coli AR060302 plasmid pAR060302	1	91	1	91	145	1e-49	93	91	
+query3677469	645049406	periplasmic mercuric ion binding protein	645047334	Escherichia coli H4H plasmid peH4H	1	91	1	91	145	1e-49	93	91	
+query3677469	645049774	periplasmic mercuric ion binding protein	645047375	Salmonella enterica AM04528 plasmid pAM04528	1	91	1	91	145	1e-49	93	91	
+query3677469	648541645	periplasmic mercuric ion binding protein	648276656	Escherichia coli MS 182-1	1	91	1	91	145	4e-48	93	91	
+query3677469	2571829008	periplasmic mercuric ion binding protein	2571042232	Pseudomonas putida OUS82	1	91	1	92	144	1e-47	76	92	
+query3677469	2633880520	periplasmic mercuric ion binding protein	2630968946	Ralstonia mannitolilytica SN82F48	1	91	1	91	144	9e-48	93	91	
+query3677469	2633880469	periplasmic mercuric ion binding protein	2630968946	Ralstonia mannitolilytica SN82F48	1	91	1	91	144	9e-48	93	91	
+query3677469	2666486537	periplasmic mercuric ion binding protein	2663763303	Pseudomonas sp. NBRC 111142	1	91	1	92	144	1e-47	76	92	
+query3677469	2534459645	periplasmic mercuric ion binding protein	2531839682	Burkholderia sp. SJ98	1	91	1	91	140	7e-46	74	91	
+query3677469	2566529973	periplasmic mercuric ion binding protein	2565956640	Acinetobacter bereziniae Brisou 64, LMG 1003	1	91	1	91	139	1e-45	84	91	
+query3677469	2579668920	periplasmic mercuric ion binding protein	2576861805	Caballeronia jiangsuensis MP-1	1	91	1	91	139	1e-45	75	91	
+query3677469	2702014809	periplasmic mercuric ion binding protein	2700989281	Acinetobacter sp. NBRC 110496	1	91	1	91	139	1e-45	84	91	
+query3677469	2793709969	periplasmic mercuric ion binding protein	2791355346	Burkholderia aenigmatica AU17325	1	91	1	91	139	2e-45	84	91	
+query3677469	2816026731	periplasmic mercuric ion binding protein	2814123437	Burkholderia vietnamiensis HI3908	1	91	1	91	139	2e-45	84	91	
+query3677469	640817202	periplasmic mercuric ion binding protein	640753030	Janthinobacterium sp. Marseille	1	91	1	91	139	1e-45	84	91	
+query3677469	2510641067	periplasmic mercuric ion binding protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	17	91	1	75	137	7e-45	91	75	
+query3677469	2541854302	periplasmic mercuric ion binding protein	2541047103	Pseudomonas sp. CFT9	1	91	1	92	136	2e-44	74	92	
+query3677469	2721394803	periplasmic mercuric ion binding protein	2718218421	Pseudomonas azotoformans S4	1	91	1	92	136	1e-44	73	92	
+query3677469	2805062296	periplasmic mercuric ion binding protein	2802429336	Moraxella osloensis NP7	1	91	1	91	136	7e-45	70	91	
+query3677469	2841268846	periplasmic mercuric ion binding protein	2841268274	Moraxella osloensis MOXF1	1	91	1	91	136	7e-45	70	91	
+query3677469	2522340264	periplasmic mercuric ion binding protein	2522125097	Rhodanobacter sp. OR444	1	91	1	94	135	2e-44	73	96	
+query3677469	2618423693	periplasmic mercuric ion binding protein	2617271008	Burkholderia gladioli ATCC 25417	1	91	1	91	135	7e-44	71	91	
+query3677469	2647653758	periplasmic mercuric ion binding protein	2645727942	Comamonas thiooxydans DF2	18	91	1	74	135	2e-44	91	74	
+query3677469	2648569112	periplasmic mercuric ion binding protein	2648501116	Aquamicrobium sp. SK-2	1	91	1	91	135	8e-44	93	91	
+query3677469	2788916237	periplasmic mercuric ion binding protein	2788499891	Sutterellaceae bacterium ARS112	1	91	1	91	134	8e-44	93	91	
+query3677469	2510630951	periplasmic mercuric ion binding protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	1	91	1	91	133	2e-43	91	91	
+query3677469	2510646085	periplasmic mercuric ion binding protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	1	91	1	91	133	2e-43	91	91	
+query3677469	2510653854	periplasmic mercuric ion binding protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	1	91	1	91	133	2e-43	91	91	
+query3677469	2520141660	periplasmic mercuric ion binding protein	2519899563	Escherichia coli O111 CVM9455	21	91	15	85	133	2e-43	93	85	
+query3677469	2578640335	periplasmic mercuric ion binding protein	2576861519	Enterobacter sp. MGH 7	1	91	1	91	133	2e-43	91	91	
+query3677469	2581405066	periplasmic mercuric ion binding protein	2579778887	Pseudomonas aeruginosa BWHPSA037	1	91	1	91	133	3e-43	91	91	
+query3677469	2631456331	periplasmic mercuric ion binding protein	2630968351	Pseudomonas fluorescens AU2989	1	91	1	91	133	2e-43	91	91	
+query3677469	2641575327	periplasmic mercuric ion binding protein	2639762996	Pseudomonas aeruginosa O400	1	91	1	91	133	2e-43	91	91	
+query3677469	2648214553	periplasmic mercuric ion binding protein	2645728076	Enterobacter hormaechei BIDMC 33A	1	91	1	91	133	2e-43	91	91	
+query3677469	2657830947	periplasmic mercuric ion binding protein	2657245036	Enterobacter hormaechei MNCRE41	1	91	1	91	133	2e-43	91	91	
+query3677469	2660726078	periplasmic mercuric ion binding protein	2660238024	Escherichia coli MNCRE22	1	91	1	91	133	2e-43	91	91	
+query3677469	2660908281	periplasmic mercuric ion binding protein	2660238069	Enterobacter hormaechei MNCRE23	1	91	1	91	133	2e-43	91	91	
+query3677469	2661419214	periplasmic mercuric ion binding protein	2660238203	Pseudomonas sp. NBRC 111127	1	91	1	91	133	2e-43	91	91	
+query3677469	2661466681	periplasmic mercuric ion binding protein	2660238213	Enterobacter hormaechei MNCRE19	1	91	1	91	133	2e-43	91	91	
+query3677469	2661766448	periplasmic mercuric ion binding protein	2660238286	Enterobacter hormaechei MNCRE48	1	91	1	91	133	2e-43	91	91	
+query3677469	2662780639	periplasmic mercuric ion binding protein	2660238535	Enterobacter hormaechei MNCRE52	1	91	1	91	133	2e-43	91	91	
+query3677469	2662882915	periplasmic mercuric ion binding protein	2660238562	Enterobacter hormaechei MNCRE83	1	91	1	91	133	2e-43	91	91	
+query3677469	2663004716	periplasmic mercuric ion binding protein	2660238592	Enterobacter hormaechei MNCRE35	1	91	1	91	133	2e-43	91	91	
+query3677469	2663045240	periplasmic mercuric ion binding protein	2660238602	Enterobacter hormaechei MNCRE42	1	91	1	91	133	2e-43	91	91	
+query3677469	2663087180	periplasmic mercuric ion binding protein	2660238611	Enterobacter hormaechei MNCRE86	1	91	1	91	133	2e-43	91	91	
+query3677469	2663314575	periplasmic mercuric ion binding protein	2660238670	Enterobacter hormaechei MNCRE84	1	91	1	91	133	2e-43	91	91	
+query3677469	2663910157	periplasmic mercuric ion binding protein	2663762639	Enterobacter hormaechei MNCRE39	1	91	1	91	133	2e-43	91	91	
+query3677469	2665082666	periplasmic mercuric ion binding protein	2663762955	Enterobacter hormaechei MNCRE56	1	91	1	91	133	2e-43	91	91	
+query3677469	2665906257	periplasmic mercuric ion binding protein	2663763164	Enterobacter hormaechei MNCRE18	1	91	1	91	133	2e-43	91	91	
+query3677469	2666486574	periplasmic mercuric ion binding protein	2663763303	Pseudomonas sp. NBRC 111142	1	91	1	91	133	2e-43	91	91	
+query3677469	2666523212	periplasmic mercuric ion binding protein	2663763311	Enterobacter hormaechei MNCRE7	1	91	1	91	133	2e-43	91	91	
+query3677469	2666839347	periplasmic mercuric ion binding protein	2663763391	Enterobacter hormaechei MNCRE29	1	91	1	91	133	2e-43	91	91	
+query3677469	2666884639	periplasmic mercuric ion binding protein	2663763403	Enterobacter hormaechei MNCRE51	1	91	1	91	133	2e-43	91	91	
+query3677469	2667300486	periplasmic mercuric ion binding protein	2663763503	Enterobacter hormaechei MNCRE25	1	91	1	91	133	2e-43	91	91	
+query3677469	2669315729	periplasmic mercuric ion binding protein	2667527746	Enterobacter hormaechei MNCRE30	1	91	1	91	133	2e-43	91	91	
+query3677469	2670681730	periplasmic mercuric ion binding protein	2667528073	Enterobacter hormaechei MNCRE17	1	91	1	91	133	2e-43	91	91	
+query3677469	2672813073	periplasmic mercuric ion binding protein	2671180447	Enterobacter hormaechei MNCRE57	1	91	1	91	133	2e-43	91	91	
+query3677469	2673682517	periplasmic mercuric ion binding protein	2671180661	Enterobacter hormaechei MNCRE8	1	91	1	91	133	2e-43	91	91	
+query3677469	2678374368	periplasmic mercuric ion binding protein	2675903546	Enterobacter hormaechei MNCRE79	1	91	1	91	133	2e-43	91	91	
+query3677469	2691951036	periplasmic mercuric ion binding protein	2690316027	Enterobacter hormaechei MNCRE36	1	91	1	91	133	2e-43	91	91	
+query3677469	2692061072	periplasmic mercuric ion binding protein	2690316054	Enterobacter hormaechei MNCRE71	1	91	1	91	133	2e-43	91	91	
+query3677469	2693536057	periplasmic mercuric ion binding protein	2693429525	Enterobacter hormaechei MNCRE28	1	91	1	91	133	2e-43	91	91	
+query3677469	2699273791	periplasmic mercuric ion binding protein	2698536479	Enterobacter kobei ST54:941713674	1	91	1	91	133	2e-43	91	91	
+query3677469	2702936645	periplasmic mercuric ion binding protein	2700989497	Enterobacter hormaechei MNCRE6	1	91	1	91	133	2e-43	91	91	
+query3677469	2702944187	periplasmic mercuric ion binding protein	2700989499	Enterobacter hormaechei MNCRE37	1	91	1	91	133	2e-43	91	91	
+query3677469	2702950923	periplasmic mercuric ion binding protein	2700989500	Enterobacter hormaechei MNCRE38	1	91	1	91	133	2e-43	91	91	
+query3677469	2702973340	periplasmic mercuric ion binding protein	2700989506	Enterobacter hormaechei MNCRE9	1	91	1	91	133	2e-43	91	91	
+query3677469	2703086233	periplasmic mercuric ion binding protein	2700989529	Enterobacter hormaechei MNCRE81	1	91	1	91	133	2e-43	91	91	
+query3677469	2706468079	periplasmic mercuric ion binding protein	2703719350	Enterobacter hormaechei MNCRE85	1	91	1	91	133	2e-43	91	91	
+query3677469	2719745359	periplasmic mercuric ion binding protein	2718218012	Enterobacter cloacae AR_0002	1	91	1	91	133	2e-43	91	91	
+query3677469	2730100339	periplasmic mercuric ion binding protein	2728369351	Enterobacter hormaechei oharae 34978	1	91	1	91	133	2e-43	91	91	
+query3677469	2743198252	periplasmic mercuric ion binding protein	2740892368	Cupriavidus metallidurans NE12	1	91	1	91	133	3e-43	91	91	
+query3677469	2776928670	periplasmic mercuric ion binding protein	2775507052	Enterobacter sp. CRENT-193	1	91	1	91	133	2e-43	91	91	
+query3677469	2788915171	periplasmic mercuric ion binding protein	2788499891	Sutterellaceae bacterium ARS112	1	91	1	91	133	1e-43	91	91	
+query3677469	2793449786	periplasmic mercuric ion binding protein	2791355284	Enterobacter hormaechei xiangfangensis 40884	1	91	1	91	133	2e-43	91	91	
+query3677469	2794847029	periplasmic mercuric ion binding protein	2791355562	Pseudomonas sp. GP01-A3	1	91	1	91	133	3e-43	91	91	
+query3677469	2794855178	periplasmic mercuric ion binding protein	2791355563	Pseudomonas sp. GP01-A14	1	91	1	91	133	3e-43	91	91	
+query3677469	2794862477	periplasmic mercuric ion binding protein	2791355564	Pseudomonas sp. GP01-A6	1	91	1	91	133	3e-43	91	91	
+query3677469	2795235766	periplasmic mercuric ion binding protein	2791355624	Pseudomonas sp. GP01-A4	1	91	1	91	133	3e-43	91	91	
+query3677469	2795244310	periplasmic mercuric ion binding protein	2791355625	Pseudomonas sp. GP01-A11	1	91	1	91	133	3e-43	91	91	
+query3677469	2795260775	periplasmic mercuric ion binding protein	2791355628	Pseudomonas sp. GP01-A5	1	91	1	91	133	3e-43	91	91	
+query3677469	2795267036	periplasmic mercuric ion binding protein	2791355629	Pseudomonas sp. GP01-A13	1	91	1	91	133	3e-43	91	91	
+query3677469	2795276383	periplasmic mercuric ion binding protein	2791355630	Pseudomonas sp. GP01-A15	1	91	1	91	133	3e-43	91	91	
+query3677469	2795282969	periplasmic mercuric ion binding protein	2791355631	Pseudomonas sp. GP01-A9	1	91	1	91	133	3e-43	91	91	
+query3677469	2795287707	periplasmic mercuric ion binding protein	2791355632	Pseudomonas sp. GP01-A8	1	91	1	91	133	3e-43	91	91	
+query3677469	2795294872	periplasmic mercuric ion binding protein	2791355633	Pseudomonas sp. GP01-A1	1	91	1	91	133	3e-43	91	91	
+query3677469	2842973080	periplasmic mercuric ion binding protein	2842970183	Pluralibacter gergoviae DS82E24	1	91	1	91	133	2e-43	91	91	
+query3677469	2843909743	periplasmic mercuric ion binding protein	2843909154	Cronobacter sakazakii GZcsf-1	1	91	1	91	133	2e-43	91	91	
+query3677469	2859675777	periplasmic mercuric ion binding protein	2859671954	Enterobacter cloacae AR_0053	1	91	1	91	133	2e-43	91	91	
+query3677469	2520119821	periplasmic mercuric ion binding protein	2519899560	Escherichia coli O111:H8 CVM9634	1	91	1	91	132	5e-43	89	91	
+query3677469	2520138863	periplasmic mercuric ion binding protein	2519899563	Escherichia coli O111 CVM9455	1	91	1	91	132	5e-43	89	91	
+query3677469	2559831382	periplasmic mercuric ion binding protein	2558860434	Salmonella enterica enterica sv. Typhimurium 34502	1	91	1	91	132	5e-43	89	91	
+query3677469	2577542075	periplasmic mercuric ion binding protein	2576861188	Enterobacter asburiae UCI 49	1	91	1	91	132	5e-43	89	91	
+query3677469	2633881608	periplasmic mercuric ion binding protein	2630968946	Ralstonia mannitolilytica SN82F48	1	91	1	91	132	6e-43	88	91	
+query3677469	2649900053	periplasmic mercuric ion binding protein	2648501434	Enterobacter hormaechei oharae CCBH10892	1	91	1	91	132	5e-43	89	91	
+query3677469	2656572964	periplasmic mercuric ion binding protein	2654588004	Salmonella enterica enterica sv. Typhimurium 33676	1	91	1	91	132	5e-43	89	91	
+query3677469	2663101152	periplasmic mercuric ion binding protein	2660238614	Salmonella enterica enterica sv. Typhimurium DT104 613sCH44	1	91	1	91	132	5e-43	89	91	
+query3677469	2704054379	periplasmic mercuric ion binding protein	2703718695	Enterobacter asburiae ST252:950126202	1	91	1	91	132	1e-42	89	91	
+query3677469	2743198489	periplasmic mercuric ion binding protein	2740892368	Cupriavidus metallidurans NE12	1	91	1	91	132	8e-43	88	91	
+query3677469	2780850055	periplasmic mercuric ion binding protein	2778261641	Escherichia coli MOD1-EC6519	1	91	1	91	132	5e-43	89	91	
+query3677469	2843913463	periplasmic mercuric ion binding protein	2843909154	Cronobacter sakazakii GZcsf-1	1	91	1	91	132	5e-43	89	91	
+query3677469	2843974457	periplasmic mercuric ion binding protein	2843969098	Citrobacter freundii SL151	1	91	1	91	132	5e-43	89	91	
+query3677469	2851281858	periplasmic mercuric ion binding protein	2851277247	Aeromonas hydrophila ZYAH75	1	91	1	91	132	5e-43	89	91	
+query3677469	2851436965	periplasmic mercuric ion binding protein	2851431590	Klebsiella pneumoniae INF278	1	91	1	91	132	5e-43	89	91	
+query3677469	2851442713	periplasmic mercuric ion binding protein	2851437328	Klebsiella pneumoniae INF163	1	91	1	91	132	5e-43	89	91	
+query3677469	2860595258	periplasmic mercuric ion binding protein	2860589870	Klebsiella pneumoniae INF274	1	91	1	91	132	5e-43	89	91	
+query3677469	2870236369	periplasmic mercuric ion binding protein	2870230914	Klebsiella pneumoniae 2-1	1	91	1	91	132	5e-43	89	91	
+query3677469	2851118028	periplasmic mercuric ion binding protein	2851114255	Serratia marcescens AR_0027	22	91	22	91	131	1e-42	93	91	
+query3677469	2620948084	periplasmic mercuric ion binding protein	2619619206	Herbaspirillum sp. RV1423	1	91	1	91	130	5e-42	86	91	
+query3677469	2741231098	periplasmic mercuric ion binding protein	2740891879	Caballeronia udeis ES_PA-B7	1	91	1	91	130	4e-42	75	91	
+query3677469	2844113640	periplasmic mercuric ion binding protein	2844110416	Herbaspirillum sp. VT-16-41	1	91	1	91	130	3e-42	80	91	
+query3677469	2742272261	periplasmic mercuric ion binding protein	2740892159	Oleibacter sp. HI0075	1	91	1	91	129	7e-42	91	91	
+query3677469	2742274229	periplasmic mercuric ion binding protein	2740892159	Oleibacter sp. HI0075	1	91	1	91	129	7e-42	91	91	
+query3677469	2804954603	periplasmic mercuric ion binding protein	2802429317	Variovorax boronicumulans J1	1	91	1	92	129	1e-41	68	92	
+query3677469	2847530823	periplasmic mercuric ion binding protein	2847528547	Stenotrophomonas maltophilia SJTH1	1	91	1	91	129	7e-42	90	91	
+query3677469	640052190	periplasmic mercuric ion binding protein	640048476	Ensifer meliloti FP2 plasmid pSB102	1	91	1	91	129	8e-44	90	91	
+query3677469	2746761235	periplasmic mercuric ion binding protein	2744055058	Caballeronia udeis ES_FE-B12	1	90	1	90	128	5e-41	74	91	
+query3677469	2755415800	periplasmic mercuric ion binding protein	2754412539	Caballeronia udeis ES_FE-H11	1	90	1	90	128	5e-41	74	91	
+query3677469	2758012205	periplasmic mercuric ion binding protein	2757320494	Caballeronia sordidicola ES_PA-B12	1	90	1	90	128	5e-41	74	91	
+query3677469	2570642442	periplasmic mercuric ion binding protein	2568526636	Methylibium sp. T29-B	1	91	1	91	127	5e-41	73	91	
+query3677469	2579199270	periplasmic mercuric ion binding protein	2576861680	Methylibium sp. T29	1	91	1	91	127	5e-41	73	91	
+query3677469	2660388312	mercuric transport protein	2660237937	Pseudomonas lactis DSM 29142	1	85	1	85	127	2e-40	74	138	
+query3677469	2647653782	periplasmic mercuric ion binding protein	2645727942	Comamonas thiooxydans DF2	18	91	1	74	126	6e-41	81	74	
+query3677469	2732579622	periplasmic mercuric ion binding protein	2731957649	Variovorax soli NBRC 106424	1	91	1	92	126	2e-40	72	92	
+query3677469	646167867	periplasmic mercuric ion binding protein	645951810	Enhydrobacter aerosaccus SK60	8	91	1	84	126	5e-41	70	84	
+query3677469	2551989549	periplasmic mercuric ion binding protein	2551306146	Afipia birgiae 34632	1	91	1	92	125	5e-40	66	92	
+query3677469	2585849347	periplasmic mercuric ion binding protein	2585427595	Rhizobium tropici PTD1	1	91	1	92	125	7e-40	66	92	
+query3677469	2637848639	periplasmic mercuric ion binding protein	2636415745	Comamonas thiooxydans DF1	24	91	1	68	125	1e-40	91	68	
+query3677469	2718474440	periplasmic mercuric ion binding protein	2718217687	Novosphingobium kunmingense CGMCC 1.12274	1	91	1	92	125	3e-40	65	92	
+query3677469	2788675049	periplasmic mercuric ion binding protein	2788499837	Rhizobium sp. WW_1	1	91	1	92	125	7e-40	66	92	
+query3677469	2549716904	periplasmic mercuric ion binding protein	2548876758	Pseudomonas aeruginosa NCMG1179	16	91	17	92	123	3e-39	76	92	
+query3677469	2550317815	periplasmic mercuric ion binding protein	2548876915	Klebsiella pneumoniae pneumoniae LCT-KP214	1	91	1	91	123	2e-39	85	91	
+query3677469	2555199138	periplasmic mercuric ion binding protein	2554235220	Klebsiella pneumoniae LCT-KP182	1	91	1	91	123	2e-39	85	91	
+query3677469	2555215169	periplasmic mercuric ion binding protein	2554235223	Klebsiella pneumoniae LCT-KP289	1	91	1	91	123	2e-39	85	91	
+query3677469	2573600845	periplasmic mercuric ion binding protein	2571042753	Enterobacter sp. MGH 15	1	91	1	91	123	2e-39	85	91	
+query3677469	2578644025	periplasmic mercuric ion binding protein	2576861519	Enterobacter sp. MGH 7	1	91	1	91	123	2e-39	85	91	
+query3677469	2588780212	periplasmic mercuric ion binding protein	2588253803	Salmonella enterica enterica sv. Heidelberg SARA 39	1	91	1	91	123	2e-39	85	91	
+query3677469	2660387783	periplasmic mercuric ion binding protein	2660237937	Pseudomonas lactis DSM 29142	16	91	17	92	123	3e-39	76	92	
+query3677469	2843974587	periplasmic mercuric ion binding protein	2843969098	Citrobacter freundii SL151	1	91	1	91	123	2e-39	85	91	
+query3677469	2851437237	periplasmic mercuric ion binding protein	2851431590	Klebsiella pneumoniae INF278	1	91	1	91	123	2e-39	85	91	
+query3677469	2851442985	periplasmic mercuric ion binding protein	2851437328	Klebsiella pneumoniae INF163	1	91	1	91	123	2e-39	85	91	
+query3677469	2860595531	periplasmic mercuric ion binding protein	2860589870	Klebsiella pneumoniae INF274	1	91	1	91	123	2e-39	85	91	
+query3677469	2870236335	periplasmic mercuric ion binding protein	2870230914	Klebsiella pneumoniae 2-1	1	91	1	91	123	2e-39	85	91	
+query3677469	2510626475	periplasmic mercuric ion binding protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	13	91	14	92	122	7e-39	72	92	
+query3677469	2510641058	periplasmic mercuric ion binding protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	13	91	14	92	122	7e-39	72	92	
+query3677469	2510648028	periplasmic mercuric ion binding protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	13	91	14	92	122	7e-39	72	92	
+query3677469	2520140941	periplasmic mercuric ion binding protein	2519899563	Escherichia coli O111 CVM9455	21	91	15	85	122	4e-39	82	85	
+query3677469	2522339898	periplasmic mercuric ion binding protein	2522125097	Rhodanobacter sp. OR444	1	91	1	91	122	6e-39	74	91	
+query3677469	2581451706	periplasmic mercuric ion binding protein	2579778897	Pseudomonas aeruginosa VRFPA08	16	91	17	92	122	4e-39	75	92	
+query3677469	2638918783	periplasmic mercuric ion binding protein	2636416004	Pseudomonas mandelii LMG 21607	13	91	14	92	122	7e-39	72	92	
+query3677469	2659673792	periplasmic mercuric ion binding protein	2657245614	Pseudomonas sp. NBRC 111118	13	91	14	92	122	7e-39	72	92	
+query3677469	2661419732	periplasmic mercuric ion binding protein	2660238203	Pseudomonas sp. NBRC 111127	13	91	14	92	122	6e-39	72	92	
+query3677469	2661683279	periplasmic mercuric ion binding protein	2660238266	Pseudomonas aeruginosa BTP038	16	91	17	92	122	4e-39	75	92	
+query3677469	2666129976	periplasmic mercuric ion binding protein	2663763218	Pseudomonas coronafaciens LMG 5060	13	91	14	92	122	5e-39	72	92	
+query3677469	2666490112	periplasmic mercuric ion binding protein	2663763303	Pseudomonas sp. NBRC 111142	13	91	14	92	122	7e-39	72	92	
+query3677469	2667580018	periplasmic mercuric ion binding protein	2667527211	Pseudomonas abietaniphila LMG 20220	13	91	14	92	122	7e-39	72	92	
+query3677469	2729285056	periplasmic mercuric ion binding protein	2728369127	Pseudomonas sp. ABFPK	13	91	14	92	122	6e-39	72	92	
+query3677469	2745187327	periplasmic mercuric ion binding protein	2744054662	Pseudomonas monteilii CD10_2	13	91	14	92	122	7e-39	72	92	
+query3677469	2778740943	periplasmic mercuric ion binding protein	2778261061	Pusillimonas sp. EAC49	21	91	21	91	122	3e-39	85	91	
+query3677469	2794725846	periplasmic mercuric ion binding protein	2791355541	Pseudomonas sp. MPR-R5A	13	91	14	92	122	7e-39	72	92	
+query3677469	2794783343	periplasmic mercuric ion binding protein	2791355551	Pseudomonas sp. MPR-R5B	13	91	14	92	122	7e-39	72	92	
+query3677469	2795097637	periplasmic mercuric ion binding protein	2791355603	Pseudomonas sp. MPBC4-3	13	91	14	92	122	7e-39	72	92	
+query3677469	2815718299	periplasmic mercuric ion binding protein	2814123354	Pseudomonas mandelii NBRC 103147	13	91	14	92	122	7e-39	72	92	
+query3677469	2847828518	periplasmic mercuric ion binding protein	2847827230	Aeromonas caviae R25-2	16	91	17	92	122	3e-39	75	92	
+query3677469	2851279304	periplasmic mercuric ion binding protein	2851277247	Aeromonas hydrophila ZYAH75	16	91	17	92	122	3e-39	75	92	
+query3677469	2852468465	periplasmic mercuric ion binding protein	2852464720	Aeromonas caviae R25-6	16	91	17	92	122	3e-39	75	92	
+query3677469	2852477929	periplasmic mercuric ion binding protein	2852473627	Aeromonas caviae T25-39	16	91	17	92	122	3e-39	75	92	
+query3677469	2870320803	periplasmic mercuric ion binding protein	2870319472	Pseudomonas aeruginosa PASGNDM345	16	91	17	92	122	4e-39	75	92	
+query3677469	2870332857	periplasmic mercuric ion binding protein	2870331525	Pseudomonas aeruginosa PASGNDM699	16	91	17	92	122	4e-39	75	92	
+query3677469	2793749079	periplasmic mercuric ion binding protein	2791355352	Trinickia dabaoshanensis GIMN1.004	18	91	19	92	121	1e-38	78	92	
+query3677469	2842330807	periplasmic mercuric ion binding protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	90	1	91	121	2e-38	66	95	
+query3677469	2842330799	periplasmic mercuric ion binding protein	2842324504	Paraburkholderia fungorum SEMIA 4007	13	91	14	92	121	2e-38	70	92	
+query3677469	2842354235	periplasmic mercuric ion binding protein	2842348783	Paraburkholderia fungorum SEMIA 4013	13	91	14	92	121	2e-38	70	92	
+query3677469	2842354243	periplasmic mercuric ion binding protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	90	1	91	121	2e-38	66	95	
+query3677469	2516838933	periplasmic mercuric ion binding protein	2516653033	Marinobacter salsuginis SD-14B	1	90	1	91	120	4e-38	63	98	
+query3677469	2566766731	periplasmic mercuric ion binding protein	2565956706	Pseudomonas sp. G5(2012)	16	91	17	92	120	4e-38	71	92	
+query3677469	2633884969	periplasmic mercuric ion binding protein	2630968946	Ralstonia mannitolilytica SN82F48	1	89	1	89	120	2e-38	67	94	
+query3677469	2805329995	periplasmic mercuric ion binding protein	2802429416	Halomonas sp. SAT58	1	91	1	92	120	1e-38	67	98	
+query3677469	2823160762	periplasmic mercuric ion binding protein	2823156881	Marinobacter sp. CPC48	1	90	1	91	120	5e-38	63	98	
+query3677469	639811359	periplasmic mercuric ion binding protein	639633037	Marinobacter aquaeolei VT8	1	90	1	91	120	4e-38	63	98	
+query3677469	2514539843	periplasmic mercuric ion binding protein	2513237337	Marinobacter manganoxydans MnI7-9	1	90	1	91	119	7e-38	62	98	
+query3677469	2548192165	periplasmic mercuric ion binding protein	2547132297	Acinetobacter bereziniae Brisou 64, LMG 1003	16	91	17	92	119	1e-37	74	92	
+query3677469	2566529799	periplasmic mercuric ion binding protein	2565956640	Acinetobacter bereziniae Brisou 64, LMG 1003	16	91	17	92	119	1e-37	74	92	
+query3677469	2635930292	periplasmic mercuric ion binding protein	2634166495	Acinetobacter baumannii 269	16	91	17	92	119	9e-38	74	92	
+query3677469	2663928132	periplasmic mercuric ion binding protein	2663762643	Acinetobacter bereziniae KCTC 23199	16	91	17	92	119	1e-37	74	92	
+query3677469	2702014802	periplasmic mercuric ion binding protein	2700989281	Acinetobacter sp. NBRC 110496	16	91	17	92	119	9e-38	74	92	
+query3677469	2769350284	periplasmic mercuric ion binding protein	2767802239	Acinetobacter idrijaensis MII	16	91	17	92	119	7e-38	74	92	
+query3677469	2794849399	periplasmic mercuric ion binding protein	2791355562	Pseudomonas sp. GP01-A3	14	91	15	92	119	1e-37	72	92	
+query3677469	2794854638	periplasmic mercuric ion binding protein	2791355563	Pseudomonas sp. GP01-A14	14	91	15	92	119	1e-37	72	92	
+query3677469	2794863619	periplasmic mercuric ion binding protein	2791355564	Pseudomonas sp. GP01-A6	14	91	15	92	119	1e-37	72	92	
+query3677469	2795011132	periplasmic mercuric ion binding protein	2791355588	Pseudomonas sp. FW215-L2	14	91	15	92	119	1e-37	72	92	
+query3677469	2795236719	periplasmic mercuric ion binding protein	2791355624	Pseudomonas sp. GP01-A4	14	91	15	92	119	1e-37	72	92	
+query3677469	2795243267	periplasmic mercuric ion binding protein	2791355625	Pseudomonas sp. GP01-A11	14	91	15	92	119	1e-37	72	92	
+query3677469	2795262288	periplasmic mercuric ion binding protein	2791355628	Pseudomonas sp. GP01-A5	14	91	15	92	119	1e-37	72	92	
+query3677469	2795268314	periplasmic mercuric ion binding protein	2791355629	Pseudomonas sp. GP01-A13	14	91	15	92	119	1e-37	72	92	
+query3677469	2795275363	periplasmic mercuric ion binding protein	2791355630	Pseudomonas sp. GP01-A15	14	91	15	92	119	1e-37	72	92	
+query3677469	2795282114	periplasmic mercuric ion binding protein	2791355631	Pseudomonas sp. GP01-A9	14	91	15	92	119	1e-37	72	92	
+query3677469	2795288899	periplasmic mercuric ion binding protein	2791355632	Pseudomonas sp. GP01-A8	14	91	15	92	119	1e-37	72	92	
+query3677469	2795296088	periplasmic mercuric ion binding protein	2791355633	Pseudomonas sp. GP01-A1	14	91	15	92	119	1e-37	72	92	
+query3677469	2823096918	periplasmic mercuric ion binding protein	2823093794	Marinobacter sp. IN6	1	90	1	91	119	8e-38	62	98	
+query3677469	2581105856	periplasmic mercuric ion binding protein	2579778817	Burkholderia cenocepacia PT15	1	90	1	90	118	2e-37	81	91	
+query3677469	2583247054	periplasmic mercuric ion binding protein	2582580763	Burkholderia cenocepacia S2AES	1	90	1	90	118	2e-37	81	91	
+query3677469	2598438729	periplasmic mercuric ion binding protein	2597490133	Burkholderia multivorans DDS 15A-1	1	90	1	90	118	2e-37	81	91	
+query3677469	2639346948	periplasmic mercuric ion binding protein	2636416112	Mumia flava MUSC 201	1	90	1	90	118	5e-37	81	91	
+query3677469	2648572301	periplasmic mercuric ion binding protein	2648501116	Aquamicrobium sp. SK-2	1	90	1	90	118	3e-37	81	91	
+query3677469	2682450119	periplasmic mercuric ion binding protein	2681812996	Burkholderia contaminans LMG 23361	1	90	1	90	118	3e-37	81	91	
+query3677469	2710231752	periplasmic mercuric ion binding protein	2708743155	Paraburkholderia insulsa LMG 28183	1	90	1	90	118	3e-37	81	91	
+query3677469	2735853926	periplasmic mercuric ion binding protein	2734482269	Burkholderia sp. bin4_M5	1	90	1	90	118	2e-37	81	91	
+query3677469	2766114602	periplasmic mercuric ion binding protein	2765235966	Burkholderia sp. CQ001	1	90	1	90	118	2e-37	81	91	
+query3677469	2774117574	periplasmic mercuric ion binding protein	2773857669	Burkholderia sp. 28_3	1	90	1	90	118	2e-37	81	91	
+query3677469	2793658657	periplasmic mercuric ion binding protein	2791355339	Burkholderia sp. HI4860	1	90	1	90	118	2e-37	81	91	
+query3677469	2793667011	periplasmic mercuric ion binding protein	2791355340	Burkholderia sp. AU33647	1	90	1	90	118	2e-37	81	91	
+query3677469	2793676659	periplasmic mercuric ion binding protein	2791355341	Burkholderia sp. AU27893	1	90	1	90	118	2e-37	81	91	
+query3677469	2839307145	periplasmic mercuric ion binding protein	2839303116	Variovorax sp. JS1663	16	91	17	92	118	2e-37	74	92	
+query3677469	642625349	periplasmic mercuric ion binding protein	642555151	Ralstonia pickettii 12J	22	91	21	90	118	2e-37	81	90	
+query3677469	2628513952	periplasmic mercuric ion binding protein	2627853681	Caballeronia mineralivorans PML1(12)	1	91	1	91	117	6e-37	76	91	
+query3677469	2637848783	periplasmic mercuric ion binding protein	2636415745	Comamonas thiooxydans DF1	24	91	1	68	117	3e-37	81	68	
+query3677469	2637957366	periplasmic mercuric ion binding protein	2636415771	Paraburkholderia fungorum ATCC BAA-463	1	91	1	91	117	5e-37	76	91	
+query3677469	2844302676	periplasmic mercuric ion binding protein	2844301416	Acidovorax cavernicola 1011MAR4D40.2	15	91	16	92	116	2e-36	69	92	
+query3677469	2856163344	periplasmic mercuric ion binding protein	2856162434	Halomonas sp. CSM-2	2	91	3	92	116	1e-36	64	98	
+query3677469	2514540735	periplasmic mercuric ion binding protein	2513237337	Marinobacter manganoxydans MnI7-9	1	91	1	92	115	3e-36	64	98	
+query3677469	2516839424	periplasmic mercuric ion binding protein	2516653033	Marinobacter salsuginis SD-14B	1	91	1	92	115	3e-36	64	98	
+query3677469	2570643567	periplasmic mercuric ion binding protein	2568526636	Methylibium sp. T29-B	22	91	23	92	115	3e-36	76	92	
+query3677469	2579199775	periplasmic mercuric ion binding protein	2576861680	Methylibium sp. T29	22	91	23	92	115	3e-36	76	92	
+query3677469	2585110847	periplasmic mercuric ion binding protein	2582581268	Halomonas ilicicola DSM 19980	1	91	1	92	115	2e-36	62	92	
+query3677469	2620090976	periplasmic mercuric ion binding protein	2619618959	Marinobacter sp. DSM 26291	1	91	1	92	115	3e-36	64	98	
+query3677469	2647724817	periplasmic mercuric ion binding protein	2645727960	Sphingomonas sp. Ant H11	1	91	1	92	115	3e-36	62	92	
+query3677469	2711614977	periplasmic mercuric ion binding protein	2710724146	Marinobacter sp. SUR-4	1	91	1	92	115	3e-36	64	98	
+query3677469	2741230580	periplasmic mercuric ion binding protein	2740891879	Caballeronia udeis ES_PA-B7	21	91	22	92	115	9e-36	79	92	
+query3677469	2742270025	periplasmic mercuric ion binding protein	2740892159	Oleibacter sp. HI0075	1	91	1	92	115	3e-36	64	98	
+query3677469	2747842166	periplasmic mercuric ion binding protein	2744055288	Caballeronia sordidicola ES_PA-C8	1	91	1	91	115	6e-36	77	91	
+query3677469	2755804593	periplasmic mercuric ion binding protein	2754412711	Caballeronia udeis ES_AL-A7	1	91	1	91	115	6e-36	77	91	
+query3677469	2755804710	periplasmic mercuric ion binding protein	2754412711	Caballeronia udeis ES_AL-A7	1	91	1	91	115	6e-36	77	91	
+query3677469	2758208479	periplasmic mercuric ion binding protein	2757320534	Caballeronia udeis ES_AL-E11	1	91	1	91	115	7e-36	74	91	
+query3677469	2790776633	periplasmic mercuric ion binding protein	2788500467	Roseovarius sp. EAC48	1	91	1	92	115	2e-36	64	98	
+query3677469	2792669192	periplasmic mercuric ion binding protein	2791355103	Marinobacter aromaticivorans D15-8P	1	91	1	92	115	2e-36	64	98	
+query3677469	2805329011	periplasmic mercuric ion binding protein	2802429416	Halomonas sp. SAT58	1	91	1	92	115	1e-36	64	98	
+query3677469	2807498196	periplasmic mercuric ion binding protein	2806310756	Methylophaga sp. IN12	1	91	1	92	115	2e-36	64	98	
+query3677469	2823095296	periplasmic mercuric ion binding protein	2823093794	Marinobacter sp. IN6	1	91	1	92	115	3e-36	64	98	
+query3677469	2823159784	periplasmic mercuric ion binding protein	2823156881	Marinobacter sp. CPC48	1	91	1	92	115	3e-36	64	98	
+query3677469	2844263554	periplasmic mercuric ion binding protein	2844259987	Marinobacter profundi PWS21	1	91	1	92	115	3e-36	64	98	
+query3677469	639810196	periplasmic mercuric ion binding protein	639633037	Marinobacter aquaeolei VT8	1	91	1	92	115	3e-36	64	98	
+query3677469	2548483025	periplasmic mercuric ion binding protein	2547132370	Komagataeibacter europaeus LMG 18890	21	91	22	92	114	5e-36	76	92	
+query3677469	2580260907	periplasmic mercuric ion binding protein	2579778615	Paraburkholderia fungorum NBRC 102489	1	91	1	91	114	1e-35	71	91	
+query3677469	2637956444	periplasmic mercuric ion binding protein	2636415771	Paraburkholderia fungorum ATCC BAA-463	1	91	1	91	114	1e-35	71	91	
+query3677469	2660388740	periplasmic mercuric ion binding protein	2660237937	Pseudomonas lactis DSM 29142	1	91	1	91	114	7e-36	79	91	
+query3677469	2710229722	periplasmic mercuric ion binding protein	2708743155	Paraburkholderia insulsa LMG 28183	1	91	1	91	114	1e-35	71	91	
+query3677469	2744640516	periplasmic mercuric ion binding protein	2744054528	Idiomarina sp. H105	1	88	1	89	114	9e-36	64	98	
+query3677469	2813010521	periplasmic mercuric ion binding protein	2811995063	Paraburkholderia fungorum FDAARGOS_245	1	91	1	91	114	1e-35	71	91	
+query3677469	2842329902	periplasmic mercuric ion binding protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	91	1	91	114	1e-35	71	91	
+query3677469	2842354632	periplasmic mercuric ion binding protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	91	1	91	114	1e-35	71	91	
+query3677469	2842460081	periplasmic mercuric ion binding protein	2842454564	Paraburkholderia fungorum SEMIA 4056	1	91	1	91	114	1e-35	71	91	
+query3677469	640637207	periplasmic mercuric ion binding protein	640612205	Marinobacter sp. ELB17	1	91	1	92	114	1e-35	64	98	
+query3677469	2597780418	periplasmic mercuric ion binding protein	2597489864	Congregibacter litoralis KT71	2	91	3	92	113	1e-35	62	98	
+query3677469	2776754250	periplasmic mercuric ion binding protein	2775507014	Halomonas sp. MES3-P3E	2	91	3	92	113	1e-35	62	98	
+query3677469	2837351986	periplasmic mercuric ion binding protein	2837349240	Pusillimonas maritima L52-1-41	2	91	3	92	113	1e-35	62	98	
+query3677469	2562785599	periplasmic mercuric ion binding protein	2562617043	Pseudomonas sp. EGD-AK9	1	91	1	91	112	3e-35	76	91	
+query3677469	2578640365	periplasmic mercuric ion binding protein	2576861519	Enterobacter sp. MGH 7	1	91	1	91	112	3e-35	76	91	
+query3677469	2590845357	periplasmic mercuric ion binding protein	2590828102	beta proteobacterium FWI2	1	91	1	91	112	4e-35	76	91	
+query3677469	2632162831	periplasmic mercuric ion binding protein	2630968527	Comamonas testosteroni JL40	1	91	1	91	112	3e-35	76	91	
+query3677469	2638918795	periplasmic mercuric ion binding protein	2636416004	Pseudomonas mandelii LMG 21607	1	91	1	91	112	4e-35	76	91	
+query3677469	2641575372	periplasmic mercuric ion binding protein	2639762996	Pseudomonas aeruginosa O400	1	91	1	91	112	4e-35	76	91	
+query3677469	2648214588	periplasmic mercuric ion binding protein	2645728076	Enterobacter hormaechei BIDMC 33A	1	91	1	91	112	3e-35	76	91	
+query3677469	2657831375	periplasmic mercuric ion binding protein	2657245036	Enterobacter hormaechei MNCRE41	1	91	1	91	112	3e-35	76	91	
+query3677469	2660724896	periplasmic mercuric ion binding protein	2660238024	Escherichia coli MNCRE22	1	91	1	91	112	3e-35	76	91	
+query3677469	2660909020	periplasmic mercuric ion binding protein	2660238069	Enterobacter hormaechei MNCRE23	1	91	1	91	112	3e-35	76	91	
+query3677469	2661466394	periplasmic mercuric ion binding protein	2660238213	Enterobacter hormaechei MNCRE19	1	91	1	91	112	3e-35	76	91	
+query3677469	2661766518	periplasmic mercuric ion binding protein	2660238286	Enterobacter hormaechei MNCRE48	1	91	1	91	112	3e-35	76	91	
+query3677469	2662780172	periplasmic mercuric ion binding protein	2660238535	Enterobacter hormaechei MNCRE52	1	91	1	91	112	3e-35	76	91	
+query3677469	2662884212	periplasmic mercuric ion binding protein	2660238562	Enterobacter hormaechei MNCRE83	1	91	1	91	112	3e-35	76	91	
+query3677469	2663003763	periplasmic mercuric ion binding protein	2660238592	Enterobacter hormaechei MNCRE35	1	91	1	91	112	3e-35	76	91	
+query3677469	2663046891	periplasmic mercuric ion binding protein	2660238602	Enterobacter hormaechei MNCRE42	1	91	1	91	112	3e-35	76	91	
+query3677469	2663087059	periplasmic mercuric ion binding protein	2660238611	Enterobacter hormaechei MNCRE86	1	91	1	91	112	3e-35	76	91	
+query3677469	2663314958	periplasmic mercuric ion binding protein	2660238670	Enterobacter hormaechei MNCRE84	1	91	1	91	112	3e-35	76	91	
+query3677469	2663912269	periplasmic mercuric ion binding protein	2663762639	Enterobacter hormaechei MNCRE39	1	91	1	91	112	3e-35	76	91	
+query3677469	2665079283	periplasmic mercuric ion binding protein	2663762955	Enterobacter hormaechei MNCRE56	1	91	1	91	112	3e-35	76	91	
+query3677469	2665908687	periplasmic mercuric ion binding protein	2663763164	Enterobacter hormaechei MNCRE18	1	91	1	91	112	3e-35	76	91	
+query3677469	2666523196	periplasmic mercuric ion binding protein	2663763311	Enterobacter hormaechei MNCRE7	1	91	1	91	112	3e-35	76	91	
+query3677469	2666840447	periplasmic mercuric ion binding protein	2663763391	Enterobacter hormaechei MNCRE29	1	91	1	91	112	3e-35	76	91	
+query3677469	2666886287	periplasmic mercuric ion binding protein	2663763403	Enterobacter hormaechei MNCRE51	1	91	1	91	112	3e-35	76	91	
+query3677469	2667302890	periplasmic mercuric ion binding protein	2663763503	Enterobacter hormaechei MNCRE25	1	91	1	91	112	3e-35	76	91	
+query3677469	2669315625	periplasmic mercuric ion binding protein	2667527746	Enterobacter hormaechei MNCRE30	1	91	1	91	112	3e-35	76	91	
+query3677469	2670682233	periplasmic mercuric ion binding protein	2667528073	Enterobacter hormaechei MNCRE17	1	91	1	91	112	3e-35	76	91	
+query3677469	2672815933	periplasmic mercuric ion binding protein	2671180447	Enterobacter hormaechei MNCRE57	1	91	1	91	112	3e-35	76	91	
+query3677469	2673682591	periplasmic mercuric ion binding protein	2671180661	Enterobacter hormaechei MNCRE8	1	91	1	91	112	3e-35	76	91	
+query3677469	2678374286	periplasmic mercuric ion binding protein	2675903546	Enterobacter hormaechei MNCRE79	1	91	1	91	112	3e-35	76	91	
+query3677469	2691953721	periplasmic mercuric ion binding protein	2690316027	Enterobacter hormaechei MNCRE36	1	91	1	91	112	3e-35	76	91	
+query3677469	2692061230	periplasmic mercuric ion binding protein	2690316054	Enterobacter hormaechei MNCRE71	1	91	1	91	112	3e-35	76	91	
+query3677469	2693536657	periplasmic mercuric ion binding protein	2693429525	Enterobacter hormaechei MNCRE28	1	91	1	91	112	3e-35	76	91	
+query3677469	2702936788	periplasmic mercuric ion binding protein	2700989497	Enterobacter hormaechei MNCRE6	1	91	1	91	112	3e-35	76	91	
+query3677469	2702943756	periplasmic mercuric ion binding protein	2700989499	Enterobacter hormaechei MNCRE37	1	91	1	91	112	3e-35	76	91	
+query3677469	2702951098	periplasmic mercuric ion binding protein	2700989500	Enterobacter hormaechei MNCRE38	1	91	1	91	112	3e-35	76	91	
+query3677469	2702973690	periplasmic mercuric ion binding protein	2700989506	Enterobacter hormaechei MNCRE9	1	91	1	91	112	3e-35	76	91	
+query3677469	2703087102	periplasmic mercuric ion binding protein	2700989529	Enterobacter hormaechei MNCRE81	1	91	1	91	112	3e-35	76	91	
+query3677469	2706468628	periplasmic mercuric ion binding protein	2703719350	Enterobacter hormaechei MNCRE85	1	91	1	91	112	3e-35	76	91	
+query3677469	2719745390	periplasmic mercuric ion binding protein	2718218012	Enterobacter cloacae AR_0002	1	91	1	91	112	3e-35	76	91	
+query3677469	2730100370	periplasmic mercuric ion binding protein	2728369351	Enterobacter hormaechei oharae 34978	1	91	1	91	112	3e-35	76	91	
+query3677469	2736088392	periplasmic mercuric ion binding protein	2734482401	Pseudomonas aeruginosa RW88	1	91	1	91	112	4e-35	76	91	
+query3677469	2745149125	periplasmic mercuric ion binding protein	2744054652	Methylorubrum populi CD11_7	18	91	19	92	112	5e-35	70	92	
+query3677469	2753853781	periplasmic mercuric ion binding protein	2751185916	Enterobacter roggenkampii 42192	1	91	1	91	112	3e-35	76	91	
+query3677469	2766091350	periplasmic mercuric ion binding protein	2765235946	Enterobacter cloacae sp. ABFPL	1	91	1	91	112	3e-35	76	91	
+query3677469	2793450614	periplasmic mercuric ion binding protein	2791355284	Enterobacter hormaechei xiangfangensis 40884	1	91	1	91	112	3e-35	76	91	
+query3677469	2793750326	periplasmic mercuric ion binding protein	2791355352	Trinickia dabaoshanensis GIMN1.004	18	90	19	91	112	6e-35	75	92	
+query3677469	2815718288	periplasmic mercuric ion binding protein	2814123354	Pseudomonas mandelii NBRC 103147	1	91	1	91	112	4e-35	76	91	
+query3677469	2842974124	periplasmic mercuric ion binding protein	2842970183	Pluralibacter gergoviae DS82E24	1	91	1	91	112	3e-35	76	91	
+query3677469	2843913680	periplasmic mercuric ion binding protein	2843909154	Cronobacter sakazakii GZcsf-1	1	91	1	91	112	3e-35	76	91	
+query3677469	2846786362	periplasmic mercuric ion binding protein	2846780681	Agrobacterium tumefaciens CFBP6625	1	91	1	91	112	3e-35	76	91	
+query3677469	2850614733	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	1	91	1	91	112	3e-35	76	91	
+query3677469	2850614195	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	1	91	1	91	112	3e-35	76	91	
+query3677469	2851118061	periplasmic mercuric ion binding protein	2851114255	Serratia marcescens AR_0027	1	91	1	91	112	3e-35	76	91	
+query3677469	2859675808	periplasmic mercuric ion binding protein	2859671954	Enterobacter cloacae AR_0053	1	91	1	91	112	3e-35	76	91	
+query3677469	2869866566	periplasmic mercuric ion binding protein	2869861177	Enterobacter hormaechei 20710	1	91	1	91	112	3e-35	76	91	
+query3677469	641216097	periplasmic mercuric ion binding protein	641210481	Uncultured bacterium plasmid pTP6	1	91	1	91	112	4e-37	76	91	
+query3677469	2590839881	periplasmic mercuric ion binding protein	2590828102	beta proteobacterium FWI2	21	91	25	95	110	4e-34	75	95	
+query3677469	2667575107	periplasmic mercuric ion binding protein	2667527211	Pseudomonas abietaniphila LMG 20220	21	91	25	95	110	4e-34	75	95	
+query3677469	2736092956	periplasmic mercuric ion binding protein	2734482401	Pseudomonas aeruginosa RW88	21	91	25	95	110	4e-34	75	95	
+query3677469	2743195020	periplasmic mercuric ion binding protein	2740892368	Cupriavidus metallidurans NE12	21	91	25	95	110	4e-34	75	95	
+query3677469	2744639959	periplasmic mercuric ion binding protein	2744054528	Idiomarina sp. H105	2	91	3	92	110	4e-34	61	98	
+query3677469	2766113964	periplasmic mercuric ion binding protein	2765235966	Burkholderia sp. CQ001	21	91	25	95	110	5e-34	75	95	
+query3677469	2841427039	periplasmic mercuric ion binding protein	2841423562	Marinobacter sp. Arc7-DN-1	2	90	3	91	109	5e-34	61	91	
+query3677469	2841425996	periplasmic mercuric ion binding protein	2841423562	Marinobacter sp. Arc7-DN-1	3	90	4	91	109	8e-34	63	101	
+query3677469	2823157329	periplasmic mercuric ion binding protein	2823156881	Marinobacter sp. CPC48	1	88	1	89	108	3e-33	61	111	
+query3677469	639809862	periplasmic mercuric ion binding protein	639633037	Marinobacter aquaeolei VT8	1	88	1	89	108	2e-33	61	100	
+query3677469	2532555018	periplasmic mercuric ion binding protein	2531839185	Paraglaciecola polaris LMG 21857	1	91	1	91	106	1e-32	58	91	
+query3677469	2620089996	periplasmic mercuric ion binding protein	2619618959	Marinobacter sp. DSM 26291	2	91	3	92	106	1e-32	59	98	
+query3677469	2597780112	periplasmic mercuric ion binding protein	2597489864	Congregibacter litoralis KT71	1	89	1	89	105	3e-32	53	95	
+query3677469	2744639013	periplasmic mercuric ion binding protein	2744054528	Idiomarina sp. H105	16	90	17	91	103	2e-31	67	99	
+query3677469	2579988160	periplasmic mercuric ion binding protein	2579778552	Mesorhizobium sp. NBIMC_P2-C4	1	91	1	92	102	4e-31	65	92	
+query3677469	2581314630	periplasmic mercuric ion binding protein	2579778865	Mesorhizobium sp. NBIMC_P2-C2	1	91	1	92	102	3e-31	65	92	
+query3677469	2581894813	periplasmic mercuric ion binding protein	2579779004	Mesorhizobium sp. NBIMC_P2-C1	1	91	1	92	102	4e-31	65	92	
+query3677469	2584187539	periplasmic mercuric ion binding protein	2582580991	Mesorhizobium sp. NBIMC_P2-C3	1	91	1	92	102	3e-31	65	92	
+query3677469	2778740264	periplasmic mercuric ion binding protein	2778261061	Pusillimonas sp. EAC49	1	91	1	92	102	3e-31	54	96	
+query3677469	2788624164	periplasmic mercuric ion binding protein	2788499826	Sulfurirhabdus autotrophica DSM 100309	5	90	8	94	102	6e-31	60	99	
+query3677469	2837349623	periplasmic mercuric ion binding protein	2837349240	Pusillimonas maritima L52-1-41	2	91	3	92	102	3e-31	57	98	
+query3677469	2571818994	periplasmic mercuric ion binding protein	2571042229	Acidithiobacillus thiooxidans A01	1	91	1	92	101	9e-31	55	98	
+query3677469	2515446991	periplasmic mercuric ion binding protein	2515154076	Thiobacillus thioparus DSM 505	1	90	1	91	100	1e-30	57	100	
+query3677469	2532554561	periplasmic mercuric ion binding protein	2531839185	Paraglaciecola polaris LMG 21857	1	91	1	90	100	2e-30	55	90	
+query3677469	2562495267	periplasmic mercuric ion binding protein	2561511209	Cycloclasticus zancles 7-ME	1	90	1	90	100	9e-31	58	90	
+query3677469	2562497565	periplasmic mercuric ion binding protein	2561511209	Cycloclasticus zancles 7-ME	1	90	1	90	100	9e-31	58	90	
+query3677469	2638793325	periplasmic mercuric ion binding protein	2636415980	unclassified betaproteobacterium ENR4	6	91	10	96	99.8	4e-30	55	100	
+query3677469	2690188336	periplasmic mercuric ion binding protein	2687453788	Burkholderia sp. D7	31	91	1	61	98.2	2e-29	77	61	
+query3677469	2742270044	periplasmic mercuric ion binding protein	2740892159	Oleibacter sp. HI0075	1	89	1	89	98.2	3e-29	52	95	
+query3677469	2776754121	periplasmic mercuric ion binding protein	2775507014	Halomonas sp. MES3-P3E	2	91	3	92	98.2	2e-29	56	98	
+query3677469	2628006980	periplasmic mercuric ion binding protein	2627853545	Thiobacillus sp. Bin4_E1B	22	91	31	100	97.1	5e-29	66	104	
+query3677469	2532552823	periplasmic mercuric ion binding protein	2531839185	Paraglaciecola polaris LMG 21857	22	91	21	90	93.2	2e-27	60	90	
+query3677469	2793711600	periplasmic mercuric ion binding protein	2791355346	Burkholderia aenigmatica AU17325	18	91	19	91	88.6	2e-25	58	91	
+query3677469	2816005275	periplasmic mercuric ion binding protein	2814123434	Burkholderia vietnamiensis AU15829	18	91	19	91	88.6	2e-25	58	91	
+query3677469	2860479540	periplasmic mercuric ion binding protein	2860472259	Burkholderia sp. IDO3	18	91	19	91	88.6	2e-25	58	91	
+query3677469	642755478	periplasmic mercuric ion binding protein	642555105	Alteromonas mediterranea DE	18	90	10	82	88.2	1e-25	55	85	
+query3677469	2637344684	periplasmic mercuric ion binding protein	2636415628	Caballeronia zhejiangensis CEIB S4-3	18	91	19	91	87.0	6e-25	58	91	
+query3677469	2633608706	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	1	91	1	93	86.3	9e-25	51	93	
+query3677469	2745191493	periplasmic mercuric ion binding protein	2744054662	Pseudomonas monteilii CD10_2	1	91	1	91	86.3	1e-24	49	91	
+query3677469	2540472474	periplasmic mercuric ion binding protein	2540341041	Pseudoalteromonas sp. BSi20311	18	90	18	90	85.5	2e-24	52	94	
+query3677469	2776680478	periplasmic mercuric ion binding protein	2775506997	Alteromonas sp. MB-3u-76	18	90	18	90	85.5	2e-24	52	94	
+query3677469	642754845	periplasmic mercuric ion binding protein	642555105	Alteromonas mediterranea DE	18	90	18	90	85.5	2e-24	52	94	
+query3677469	2793711595	periplasmic mercuric ion binding protein	2791355346	Burkholderia aenigmatica AU17325	31	90	1	60	85.1	2e-24	65	61	
+query3677469	2816005280	periplasmic mercuric ion binding protein	2814123434	Burkholderia vietnamiensis AU15829	31	90	1	60	85.1	1e-24	65	61	
+query3677469	2860479535	periplasmic mercuric ion binding protein	2860472259	Burkholderia sp. IDO3	31	90	1	60	85.1	2e-24	65	61	
+query3677469	2632162812	periplasmic mercuric ion binding protein	2630968527	Comamonas testosteroni JL40	1	91	1	91	84.7	5e-24	53	91	
+query3677469	640634055	periplasmic mercuric ion binding protein	640612205	Marinobacter sp. ELB17	31	91	1	61	84.7	2e-24	67	67	
+query3677469	2581400156	periplasmic mercuric ion binding protein	2579778887	Pseudomonas aeruginosa BWHPSA037	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2642371823	periplasmic mercuric ion binding protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2642371796	periplasmic mercuric ion binding protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2666488537	periplasmic mercuric ion binding protein	2663763303	Pseudomonas sp. NBRC 111142	1	91	1	91	84.3	7e-24	47	91	
+query3677469	2736094563	periplasmic mercuric ion binding protein	2734482401	Pseudomonas aeruginosa RW88	1	91	1	91	84.3	9e-24	47	91	
+query3677469	2794727418	periplasmic mercuric ion binding protein	2791355541	Pseudomonas sp. MPR-R5A	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2794787470	periplasmic mercuric ion binding protein	2791355551	Pseudomonas sp. MPR-R5B	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2795101344	periplasmic mercuric ion binding protein	2791355603	Pseudomonas sp. MPBC4-3	1	91	1	91	84.3	8e-24	47	91	
+query3677469	2585110223	periplasmic mercuric ion binding protein	2582581268	Halomonas ilicicola DSM 19980	1	89	3	92	84.0	8e-24	49	102	
+query3677469	2570642369	periplasmic mercuric ion binding protein	2568526636	Methylibium sp. T29-B	22	91	23	92	82.8	2e-23	56	94	
+query3677469	2579200319	periplasmic mercuric ion binding protein	2576861680	Methylibium sp. T29	22	91	23	92	82.8	2e-23	56	94	
+query3677469	2580261347	periplasmic mercuric ion binding protein	2579778615	Paraburkholderia fungorum NBRC 102489	1	91	1	93	82.8	4e-23	51	95	
+query3677469	2813012523	periplasmic mercuric ion binding protein	2811995063	Paraburkholderia fungorum FDAARGOS_245	1	91	1	93	82.8	4e-23	51	95	
+query3677469	2842328819	periplasmic mercuric ion binding protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	91	1	93	82.8	5e-23	51	95	
+query3677469	2842353135	periplasmic mercuric ion binding protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	91	1	93	82.8	4e-23	51	95	
+query3677469	2551989604	periplasmic mercuric ion binding protein	2551306146	Afipia birgiae 34632	1	91	1	94	80.9	2e-22	48	98	
+query3677469	2538664334	periplasmic mercuric ion binding protein	2537561796	Sphingobium yanoikuyae ATCC 51230	10	91	12	93	80.1	4e-22	49	102	
+query3677469	2633611504	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	10	91	12	93	80.1	4e-22	49	102	
+query3677469	2521638062	periplasmic mercuric ion binding protein	2521172617	Leisingera aquimarina DSM 24565	6	90	20	103	78.2	2e-21	48	104	
+query3677469	2722619630	periplasmic mercuric ion binding protein	2721755456	Acidihalobacter prosperus F5	1	89	1	101	77.4	3e-21	41	106	
+query3677469	2757421591	periplasmic mercuric ion binding protein	2757320355	Maricaulis maris DSM 4734	17	87	38	108	75.1	5e-20	49	125	
+query3677469	2776680345	periplasmic mercuric ion binding protein	2775506997	Alteromonas sp. MB-3u-76	22	91	39	108	75.1	3e-20	47	108	
+query3677469	2790117212	periplasmic mercuric ion binding protein	2788500277	Maricaulis sp. CPC25	17	87	38	108	75.1	5e-20	49	125	
+query3677469	638141831	periplasmic mercuric ion binding protein	637000157	Maricaulis maris MCS10	17	87	38	108	75.1	5e-20	49	125	
+query3677469	2743194515	periplasmic mercuric ion binding protein	2740892368	Cupriavidus metallidurans NE12	22	91	22	91	74.7	5e-20	50	91	
+query3677469	2787209437	periplasmic mercuric ion binding protein	2786546396	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	4	89	16	100	74.7	3e-20	47	105	
+query3677469	2787214926	periplasmic mercuric ion binding protein	2786546399	Nitrospirae bacterium CG_4_10_14_3_um_filter_53_41	4	89	16	100	74.7	2e-20	47	105	
+query3677469	2787229323	periplasmic mercuric ion binding protein	2786546405	Nitrospirae bacterium CG_4_8_14_3_um_filter_50_41	4	89	16	100	74.7	2e-20	47	105	
+query3677469	2787239268	periplasmic mercuric ion binding protein	2786546408	Nitrospirae bacterium CG17_big_fil_post_rev_8_21_14_2_50_50_9	4	89	16	100	74.7	3e-20	47	105	
+query3677469	2746674288	periplasmic mercuric ion binding protein	2744055042	Oceanicaulis sp. PT13A	17	87	38	108	73.9	1e-19	48	125	
+query3677469	2778740142	periplasmic mercuric ion binding protein	2778261061	Pusillimonas sp. EAC49	17	87	38	108	73.9	1e-19	48	125	
+query3677469	2790562773	periplasmic mercuric ion binding protein	2788500406	Oceanicaulis sp. CPC46	17	87	38	108	73.9	1e-19	48	125	
+query3677469	2790568612	periplasmic mercuric ion binding protein	2788500408	Oceanicaulis sp. SP73	17	87	38	108	73.9	1e-19	48	125	
+query3677469	2586933733	periplasmic mercuric ion binding protein	2585427838	Halomonas zincidurans B6	1	89	3	92	73.6	1e-19	43	101	
+query3677469	2656751870	periplasmic mercuric ion binding protein	2654588046	Sphingopyxis macrogoltabida 203	22	87	41	106	73.2	3e-19	48	111	
+query3677469	2689352090	periplasmic mercuric ion binding protein	2687453580	Sphingopyxis macrogoltabida 203N	22	87	41	106	73.2	3e-19	48	111	
+query3677469	2633610510	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	4	90	8	92	72.4	2e-19	46	93	
+query3677469	2521638013	periplasmic mercuric ion binding protein	2521172617	Leisingera aquimarina DSM 24565	1	91	3	93	72.0	5e-19	45	98	
+query3677469	2570642433	periplasmic mercuric ion binding protein	2568526636	Methylibium sp. T29-B	1	85	1	85	71.6	4e-19	46	93	
+query3677469	2579199261	periplasmic mercuric ion binding protein	2576861680	Methylibium sp. T29	1	85	1	85	71.6	4e-19	46	93	
+query3677469	2779694623	periplasmic mercuric ion binding protein	2778261321	Parvibaculum sp. CPC32	25	91	44	110	70.1	3e-18	49	112	
+query3677469	2850620040	periplasmic mercuric ion binding protein	2850614736	Agrobacterium tumefaciens CFBP6623	18	91	20	95	70.1	3e-18	51	95	
+query3677469	2841268858	copper chaperone	2841268274	Moraxella osloensis MOXF1	20	88	2	70	68.6	3e-18	42	70	
+query3677469	646167856	copper chaperone	645951810	Enhydrobacter aerosaccus SK60	20	88	2	70	68.6	3e-18	42	70	
+query3677469	2532555008	periplasmic mercuric ion binding protein	2531839185	Paraglaciecola polaris LMG 21857	31	91	1	61	67.4	1e-17	48	61	
+query3677469	2596307563	periplasmic mercuric ion binding protein	2595698224	Bosea thiooxidans DSM 9653	1	91	1	96	67.4	4e-17	43	101	
+query3677469	2714726174	periplasmic mercuric ion binding protein	2713896887	Bosea thiooxidans CGMCC 9174	1	91	1	96	67.4	4e-17	43	101	
+query3677469	642756407	periplasmic mercuric ion binding protein	642555105	Alteromonas mediterranea DE	31	91	1	61	67.4	9e-18	48	61	
+query3677469	2746753965	periplasmic mercuric ion binding protein	2744055058	Caballeronia udeis ES_FE-B12	25	91	8	74	66.6	8e-17	48	76	
+query3677469	2755410090	periplasmic mercuric ion binding protein	2754412539	Caballeronia udeis ES_FE-H11	25	91	8	74	66.6	8e-17	48	76	
+query3677469	2758007346	periplasmic mercuric ion binding protein	2757320494	Caballeronia sordidicola ES_PA-B12	25	91	8	74	66.6	8e-17	48	76	
+query3677469	2597780914	periplasmic mercuric ion binding protein	2597489864	Congregibacter litoralis KT71	25	90	38	103	65.9	1e-16	45	107	
+query3677469	2758208499	periplasmic mercuric ion binding protein	2757320534	Caballeronia udeis ES_AL-E11	25	91	8	74	65.1	4e-16	46	76	
+query3677469	2805062766	copper chaperone	2802429336	Moraxella osloensis NP7	21	86	3	68	64.3	2e-16	41	70	
+query3677469	2844113638	periplasmic mercuric ion binding protein	2844110416	Herbaspirillum sp. VT-16-41	8	91	9	84	64.3	4e-16	50	84	
+query3677469	646167921	copper chaperone	645951810	Enhydrobacter aerosaccus SK60	21	86	3	68	64.3	1e-16	41	70	
+query3677469	2540473883	periplasmic mercuric ion binding protein	2540341041	Pseudoalteromonas sp. BSi20311	20	90	33	106	63.9	7e-16	45	109	
+query3677469	2727943544	periplasmic mercuric ion binding protein	2724679736	Mariprofundus micogutta ET2	4	89	6	93	63.9	4e-16	39	98	
+query3677469	2842069427	periplasmic mercuric ion binding protein	2842063143	Methylobacterium brachiatum TX0642	1	91	1	96	63.5	2e-15	39	112	
+query3677469	2641374466	copper chaperone	2639762946	Bacillus sp. UMTAT18	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2650603501	copper chaperone	2648501636	Bacillus cereus #17	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2704961199	copper chaperone	2703718890	Bacillus cereus PE8-121b	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2729025081	copper chaperone	2728369074	Bacillus wiedmannii FSL K6-0069	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2744248769	copper chaperone	2744054444	Bacillus cereus B4120	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2744257205	copper chaperone	2744054445	Bacillus cereus B4155	23	86	2	65	63.2	6e-16	41	67	
+query3677469	2836452820	periplasmic mercuric ion binding protein	2836451291	Unclassified Zetaproteobacteria bacterium 664-SC8_FULL_No.8_1.0_78	19	91	23	95	63.2	5e-16	40	98	
+query3677469	644493658	copper chaperone	643886032	Bacillus cereus R309803	23	86	7	70	63.2	7e-16	41	72	
+query3677469	2713956319	periplasmic mercuric ion binding protein	2713896719	Unclassified Kofleriaceae PNA_bin4	23	90	38	105	62.8	3e-15	41	106	
+query3677469	2523631805	copper chaperone CopZ	2523533522	Paucidesulfovibrio longus DSM 6739	19	90	42	113	61.2	9e-15	38	119	
+query3677469	2633610516	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	3	90	6	93	61.2	7e-15	38	99	
+query3677469	2672320139	periplasmic mercuric ion binding protein	2671180325	Methylobacterium sp. ME121	6	91	11	96	60.8	2e-14	42	112	
+query3677469	2699273558	hypothetical protein	2698536479	Enterobacter kobei ST54:941713674	60	91	1	32	60.8	3e-15	91	32	
+query3677469	2855926952	periplasmic mercuric ion binding protein	2855920048	Methylobacterium radiotolerans MAMP 4754	6	91	11	96	60.8	2e-14	42	112	
+query3677469	2814962085	periplasmic mercuric ion binding protein	2814123148	Methylobacterium sp. NP6	18	91	21	96	60.5	3e-14	42	112	
+query3677469	2829786907	periplasmic mercuric ion binding protein	2829783330	Sphingomonas trueperi DSM 7225	18	89	21	94	59.7	4e-14	43	104	
+query3677469	2547098519	periplasmic mercuric ion binding protein	2546826724	Methylobacterium sp. EUR3 AL-11	18	91	21	96	59.3	1e-13	41	112	
+query3677469	2514134573	copper chaperone	2513237191	Komagataeibacter medellinensis NBRC 3288	22	88	16	82	58.5	4e-14	42	83	
+query3677469	2655429812	periplasmic mercuric ion binding protein	2654587694	Bosea vaviloviae SD260	1	90	1	95	58.5	1e-13	40	112	
+query3677469	2830074220	periplasmic mercuric ion binding protein	2830069742	Sphingobium scionense DSM 19371	18	89	21	94	58.5	1e-13	43	104	
+query3677469	2839027675	P-type Cu+ transporter	2839026242	Brevibacillus gelatini DSM 100115	19	91	10	82	58.5	2e-12	34	805	
+query3677469	2533151043	copper chaperone	2531839347	Staphylococcus aureus aureus MRSA177	19	86	3	69	58.2	3e-14	37	71	
+query3677469	2556791245	periplasmic mercuric ion binding protein	2554235754	Bradyrhizobium sp. OHSU_III	3	91	2	95	58.2	2e-13	39	95	
+query3677469	2633610683	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	18	89	21	94	58.2	2e-13	43	104	
+query3677469	2531459214	copper chaperone	2529293169	Staphylococcus aureus aureus CM05	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2534713885	copper chaperone	2534681607	Staphylococcus aureus aureus 21196	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2539625663	copper chaperone	2537562050	Staphylococcus aureus aureus 21283	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2541355631	copper chaperone	2541046986	Staphylococcus aureus aureus 21282	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2563996934	copper chaperone	2563366767	Staphylococcus aureus aureus PSP1996	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2568693160	copper chaperone	2568526039	Staphylococcus aureus DAR5800	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2568901281	copper chaperone	2568526102	Staphylococcus aureus DAR5847	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2569294560	copper chaperone	2568526223	Staphylococcus aureus DAR5833	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2569515922	copper chaperone	2568526290	Staphylococcus aureus DAR5805	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2569760953	copper chaperone	2568526364	Staphylococcus aureus DAR5807	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570093585	copper chaperone	2568526468	Staphylococcus aureus DAR5851	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570153933	copper chaperone	2568526487	Staphylococcus aureus DAR5882	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570164401	copper chaperone	2568526490	Staphylococcus aureus DAR5838	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570281438	copper chaperone	2568526526	Staphylococcus aureus DAR5803	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570461067	copper chaperone	2568526583	Staphylococcus aureus DAR5895	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2570572548	copper chaperone	2568526615	Staphylococcus aureus DAR5811	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571163461	copper chaperone	2571042028	Staphylococcus aureus DAR5789	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571188271	copper chaperone	2571042036	Staphylococcus aureus DAR5853	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571290081	copper chaperone	2571042065	Staphylococcus aureus DAR5863	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571346341	copper chaperone	2571042084	Staphylococcus aureus DAR5844	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571526229	copper chaperone	2571042142	Staphylococcus aureus DAR5876	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571593678	copper chaperone	2571042162	Staphylococcus aureus DAR5827	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571892734	copper chaperone	2571042252	Staphylococcus aureus DAR5898	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2571933971	copper chaperone	2571042266	Staphylococcus aureus DAR5850	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2572061572	copper chaperone	2571042305	Staphylococcus aureus DAR5855	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2572956616	copper chaperone	2571042562	Staphylococcus aureus DAR5812	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2573092851	copper chaperone	2571042606	Staphylococcus aureus DAR5861	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2574633234	copper chaperone	2574179817	Staphylococcus aureus DAR5820	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2576258142	copper chaperone	2574180280	Staphylococcus aureus F22893	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2576542144	copper chaperone	2574180362	Staphylococcus aureus DAR5843	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2576730104	copper chaperone	2574180417	Staphylococcus aureus DAR5866	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2576750210	copper chaperone	2574180423	Staphylococcus aureus DAR5862	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2577300808	copper chaperone	2576861117	Staphylococcus aureus DAR5825	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2577608496	copper chaperone	2576861207	Staphylococcus aureus DAR5858	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2577834199	copper chaperone	2576861271	Staphylococcus aureus DAR5808	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2577943082	copper chaperone	2576861303	Staphylococcus aureus DAR5840	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2578243471	copper chaperone	2576861393	Staphylococcus aureus DAR5829	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2579690029	P-type Cu+ transporter	2576861810	Defluviimonas sp. 20V17	11	85	4	78	57.8	2e-12	36	831	
+query3677469	2584345621	copper chaperone	2582581032	Staphylococcus aureus DAR5836	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2584394993	copper chaperone	2582581050	Staphylococcus aureus DAR5839	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2584540263	copper chaperone	2582581103	Staphylococcus aureus DAR5857	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2584555198	copper chaperone	2582581108	Staphylococcus aureus DAR5849	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2584592654	copper chaperone	2582581122	Staphylococcus aureus DAR5797	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2598472795	copper chaperone	2597490140	Staphylococcus aureus 29247	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2600464113	copper chaperone	2600254959	Staphylococcus aureus DAR5790	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602617753	copper chaperone	2602041683	Staphylococcus aureus DAR5794	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602630035	copper chaperone	2602041688	Staphylococcus aureus DAR5834	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602755420	copper chaperone	2602041743	Staphylococcus aureus DAR3150	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602759300	copper chaperone	2602041744	Staphylococcus aureus DAR3153	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602811707	copper chaperone	2602041763	Staphylococcus aureus DAR5868	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602814253	copper chaperone	2602041764	Staphylococcus aureus DAR5873	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602817110	copper chaperone	2602041766	Staphylococcus aureus DAR5791	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602819294	copper chaperone	2602041767	Staphylococcus aureus DAR5796	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602822026	copper chaperone	2602041768	Staphylococcus aureus DAR5848	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602838881	copper chaperone	2602041774	Staphylococcus aureus DAR5894	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602847733	copper chaperone	2602041777	Staphylococcus aureus DAR5815	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602849272	copper chaperone	2602041778	Staphylococcus aureus DAR5835	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2602994506	copper chaperone	2602041836	Staphylococcus aureus DAR3236	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603010577	copper chaperone	2602041842	Staphylococcus aureus DAR5869	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603014711	copper chaperone	2602041843	Staphylococcus aureus DAR5881	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603016456	copper chaperone	2602041844	Staphylococcus aureus DAR5885	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603020512	copper chaperone	2602041845	Staphylococcus aureus DAR5887	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603028300	copper chaperone	2602041848	Staphylococcus aureus DAR5792	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603029957	copper chaperone	2602041849	Staphylococcus aureus DAR5854	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603032742	copper chaperone	2602041850	Staphylococcus aureus DAR5856	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603041220	copper chaperone	2602041854	Staphylococcus aureus DAR5804	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603044933	copper chaperone	2602041855	Staphylococcus aureus DAR5817	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2603047600	copper chaperone	2602041856	Staphylococcus aureus DAR5824	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604183663	copper chaperone	2603879591	Staphylococcus aureus DAR5793	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604187567	copper chaperone	2603879592	Staphylococcus aureus DAR5795	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604188739	copper chaperone	2603879593	Staphylococcus aureus DAR5845	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604200398	copper chaperone	2603879597	Staphylococcus aureus DAR5830	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604202812	copper chaperone	2603879598	Staphylococcus aureus DAR5832	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604205841	copper chaperone	2603879599	Staphylococcus aureus DAR5841	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604480095	copper chaperone	2603879681	Staphylococcus aureus DAR3152	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604483837	copper chaperone	2603879682	Staphylococcus aureus DAR3175	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604513940	copper chaperone	2603879693	Staphylococcus aureus DAR5888	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604550920	copper chaperone	2603879705	Staphylococcus aureus DAR133	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604830498	copper chaperone	2603879787	Staphylococcus aureus DAR3148	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604871012	copper chaperone	2603879802	Staphylococcus aureus DAR5878	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604874613	copper chaperone	2603879803	Staphylococcus aureus DAR5884	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604880422	copper chaperone	2603879805	Staphylococcus aureus DAR5891	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604901047	copper chaperone	2603879811	Staphylococcus aureus DAR5859	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604922870	copper chaperone	2603879819	Staphylococcus aureus DAR5809	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604927642	copper chaperone	2603879821	Staphylococcus aureus DAR5828	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2604930814	copper chaperone	2603879822	Staphylococcus aureus DAR5831	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605198296	copper chaperone	2603879903	Staphylococcus aureus DAR3143	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605239556	copper chaperone	2603879918	Staphylococcus aureus DAR5880	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605258163	copper chaperone	2603879924	Staphylococcus aureus DAR116	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605270028	copper chaperone	2603879928	Staphylococcus aureus DAR5799	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605273115	copper chaperone	2603879929	Staphylococcus aureus DAR5813	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605276392	copper chaperone	2603879930	Staphylococcus aureus DAR5837	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605582935	copper chaperone	2603880025	Staphylococcus aureus DAR5886	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605616938	copper chaperone	2603880037	Staphylococcus aureus DAR5842	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605620279	copper chaperone	2603880038	Staphylococcus aureus DAR5860	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605623196	copper chaperone	2603880039	Staphylococcus aureus DAR5892	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605625397	copper chaperone	2603880040	Staphylococcus aureus DAR5823	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605628211	copper chaperone	2603880041	Staphylococcus aureus DAR5826	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2605963994	copper chaperone	2603880145	Staphylococcus aureus DAR5874	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2611160539	copper chaperone	2609460037	Staphylococcus aureus aureus S2395	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2611170296	copper chaperone	2609460040	Staphylococcus aureus aureus S2396	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618775509	copper chaperone	2617271095	Staphylococcus aureus aureus MRSA_E1	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618778305	copper chaperone	2617271096	Staphylococcus aureus aureus MRSA_P1	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618844785	copper chaperone	2617271117	Staphylococcus aureus aureus MRSA_P11	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618847611	copper chaperone	2617271118	Staphylococcus aureus aureus MRSA_P12	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618850602	copper chaperone	2617271119	Staphylococcus aureus aureus MRSA_P13	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618853206	copper chaperone	2617271120	Staphylococcus aureus aureus MRSA_P14	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618855584	copper chaperone	2617271121	Staphylococcus aureus aureus MRSA_P2	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618910141	copper chaperone	2617271138	Staphylococcus aureus aureus MRSA_P3	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618912162	copper chaperone	2617271139	Staphylococcus aureus aureus MRSA_P4	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618917139	copper chaperone	2617271140	Staphylococcus aureus aureus MRSA_P5	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618919629	copper chaperone	2617271141	Staphylococcus aureus aureus MRSA_P6	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618921552	copper chaperone	2617271142	Staphylococcus aureus aureus MRSA_P7	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618924170	copper chaperone	2617271143	Staphylococcus aureus aureus MRSA_P8	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618926449	copper chaperone	2617271144	Staphylococcus aureus aureus MRSA_P9	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618929728	copper chaperone	2617271145	Staphylococcus aureus aureus MRSA_S2	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2618933673	copper chaperone	2617271146	Staphylococcus aureus aureus MRSA_S3	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2619001241	copper chaperone	2617271171	Staphylococcus aureus aureus MRSA_P10	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2631772593	copper chaperone	2630968430	Staphylococcus aureus C329	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2632990814	copper chaperone	2630968723	Staphylococcus aureus C679	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2633691922	copper chaperone	2630968900	Staphylococcus aureus HUV03	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2633753771	copper chaperone	2630968916	Staphylococcus aureus E404	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2633784180	copper chaperone	2630968923	Staphylococcus aureus HUV01	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2635903917	copper chaperone	2634166490	Staphylococcus aureus M120	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2636478379	copper chaperone	2636415415	Staphylococcus aureus V1859	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2636682200	copper chaperone	2636415465	Staphylococcus aureus HUV07	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2637062800	copper chaperone	2636415560	Staphylococcus aureus M109	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2637472068	copper chaperone	2636415660	Staphylococcus aureus E396	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2638042172	copper chaperone	2636415794	Staphylococcus aureus C186	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2638311193	copper chaperone	2636415860	Staphylococcus aureus C1667	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2641465444	copper chaperone	2639762968	Staphylococcus aureus C1675	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2641529402	copper chaperone	2639762984	Staphylococcus aureus aureus CCM5757	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2642323660	copper chaperone	2639763181	Staphylococcus aureus C1058	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2649884775	copper chaperone	2648501430	Staphylococcus aureus CA17	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2651149079	copper chaperone	2648501757	Staphylococcus aureus M121	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2651645723	copper chaperone	2648501879	Staphylococcus aureus C123	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2659661369	copper chaperone	2657245611	Staphylococcus aureus aureus MRSA_S17	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2665966075	copper chaperone	2663763177	Staphylococcus aureus aureus MRSA_S24	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2668861281	copper chaperone	2667527629	Staphylococcus aureus aureus MRSA_S9	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2669073146	copper chaperone	2667527689	Staphylococcus aureus aureus MRSA_S2	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2672974998	copper chaperone	2671180486	Staphylococcus aureus aureus MRSA_S1	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2674168830	copper chaperone	2671180783	Staphylococcus aureus aureus MRSA_S1	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2677876435	copper chaperone	2675903414	Staphylococcus aureus CC072	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2678306930	copper chaperone	2675903527	Staphylococcus aureus aureus MRSA_S11	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2678777693	copper chaperone	2675903651	Staphylococcus aureus aureus MRSA_S13	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2684745545	copper chaperone	2684622533	Staphylococcus aureus DD1	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2695048208	P-type Cu+ transporter	2693429897	Allgaiera indica DSM 24802	11	85	4	78	57.8	2e-12	36	831	
+query3677469	2695491872	copper chaperone	2695420319	Staphylococcus aureus NRS105	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2703101347	copper chaperone	2700989533	Staphylococcus aureus aureus MRSA_S14	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2707713243	copper chaperone	2706794626	Staphylococcus aureus CC6	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2707787764	copper chaperone	2706794646	Staphylococcus aureus A2	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2707790623	copper chaperone	2706794647	Staphylococcus aureus B8	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2716060954	copper chaperone	2713897214	Staphylococcus aureus aureus MRSA_S7	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2725004002	copper chaperone	2724679002	Staphylococcus aureus UC50	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2726417638	copper chaperone	2724679325	Staphylococcus aureus C6	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2743434192	copper chaperone	2740892434	Staphylococcus aureus 1680	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2776680341	periplasmic mercuric ion binding protein	2775506997	Alteromonas sp. MB-3u-76	18	88	21	94	57.8	2e-13	42	105	
+query3677469	2851990407	copper chaperone	2851987721	Staphylococcus aureus 546	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2861115104	copper chaperone	2861112540	Staphylococcus aureus sv. SED CFSAN007850	26	86	6	66	57.8	4e-14	38	68	
+query3677469	2579988052	periplasmic mercuric ion binding protein	2579778552	Mesorhizobium sp. NBIMC_P2-C4	1	87	2	94	57.4	3e-13	41	99	
+query3677469	2581314738	periplasmic mercuric ion binding protein	2579778865	Mesorhizobium sp. NBIMC_P2-C2	1	87	2	94	57.4	3e-13	41	99	
+query3677469	2581894705	periplasmic mercuric ion binding protein	2579779004	Mesorhizobium sp. NBIMC_P2-C1	1	87	2	94	57.4	3e-13	41	99	
+query3677469	2584187431	periplasmic mercuric ion binding protein	2582580991	Mesorhizobium sp. NBIMC_P2-C3	1	87	2	94	57.4	3e-13	41	99	
+query3677469	2629775632	P-type Cu+ transporter	2627853986	Geobacillus sp. 12AMOR1	20	91	70	141	57.4	3e-12	35	798	
+query3677469	2732592760	copper chaperone	2731957652	Cytobacillus firmus NBRC 15306	22	85	2	65	57.4	1e-13	39	68	
+query3677469	2815111370	copper chaperone	2814123191	Cytobacillus firmus NCTC 10335	22	85	2	65	57.4	1e-13	39	68	
+query3677469	2844768152	periplasmic mercuric ion binding protein	2844764314	Mesorhizobium sp. YL-MPnR-2016	1	87	2	94	57.4	3e-13	41	99	
+query3677469	2629775633	copper chaperone	2627853986	Geobacillus sp. 12AMOR1	23	86	3	66	57.0	1e-13	41	68	
+query3677469	2629775667	copper chaperone	2627853986	Geobacillus sp. 12AMOR1	23	86	3	66	57.0	1e-13	41	68	
+query3677469	2638630229	periplasmic mercuric ion binding protein	2636415936	Methylobacterium variabile DSM 16961	3	91	2	96	57.0	8e-13	40	112	
+query3677469	2735032306	P-type Cu+ transporter	2734482011	Kouleothrix aurantiaca COM-B	20	91	2	73	57.0	7e-12	43	638	
+query3677469	2745820005	P-type Cu+ transporter	2744054835	Staphylococcus aureus NMR02	23	85	3	65	56.6	5e-12	40	818	
+query3677469	2505379102	P-type Cu+ transporter	2505313014	Methanosarcinales	22	90	165	233	56.2	7e-12	36	926	
+query3677469	2515302218	P-type Cu+ transporter	2515154035	Methanosarcinales	22	90	165	233	56.2	6e-12	36	926	
+query3677469	2515323284	P-type Cu+ transporter	2515154041	Methanoperedens ANME-2d (ANME_V10)	22	90	165	233	56.2	6e-12	36	926	
+query3677469	2518746033	P-type Cu+ transporter	2518645528	Candidatus Methanoperedens nitroreducens ANME-2d (ANME_V9_SC)	22	90	165	233	56.2	6e-12	36	926	
+query3677469	2563648747	copper chaperone	2563366584	Staphylococcus aureus Bmb9393	19	86	3	69	56.2	2e-13	35	71	
+query3677469	2618676040	P-type Cu+ transporter	2617271069	Candidatus Methanoperedens nitroreducens ANME-2d	22	90	165	233	56.2	6e-12	36	926	
+query3677469	2686822273	periplasmic mercuric ion binding protein	2684623108	Desulfuromonas sp. DDH964	20	84	21	84	56.2	6e-13	40	97	
+query3677469	2532193127	copper chaperone	2531839089	Staphylococcus aureus aureus IS-189	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2532198881	copper chaperone	2531839091	Staphylococcus aureus aureus IS-157	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2532826715	P-type Cu+ transporter	2531839257	Enterococcus faecalis TX0645	22	85	72	135	55.8	8e-12	36	828	
+query3677469	2534732394	copper chaperone	2534681614	Staphylococcus aureus aureus 21178	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2538325854	copper chaperone	2537561706	Staphylococcus aureus aureus IS-125	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2541882627	copper chaperone	2541047114	Staphylococcus aureus aureus MRGR3	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2548480434	copper chaperone	2547132370	Komagataeibacter europaeus LMG 18890	22	88	2	68	55.8	5e-13	40	69	
+query3677469	2554740468	copper chaperone	2554235115	Staphylococcus aureus aureus PS187	26	86	6	66	55.8	2e-13	36	68	
+query3677469	2558529246	copper chaperone	2558309057	Staphylococcus aureus aureus Z172	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2560758166	P-type Cu+ transporter	2558860724	Enterococcus faecalis CH19	22	85	72	135	55.8	8e-12	36	828	
+query3677469	2560809877	P-type Cu+ transporter	2558860741	Enterococcus faecalis CH136	22	85	72	135	55.8	8e-12	36	828	
+query3677469	2560819557	P-type Cu+ transporter	2558860744	Enterococcus faecalis CH116	22	85	72	135	55.8	8e-12	36	828	
+query3677469	2568958008	copper chaperone	2568526120	Staphylococcus aureus KINW6048	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2569934830	copper chaperone	2568526420	Staphylococcus aureus SJOS6072	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2571801559	copper chaperone	2571042224	Staphylococcus aureus FVRH6002	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2572912231	copper chaperone	2571042550	Staphylococcus aureus UCIM6042	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2577109169	copper chaperone	2576861063	Staphylococcus aureus WAMC6102	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2590306468	copper chaperone	2588254168	Staphylococcus aureus HST-077	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2594342524	copper chaperone	2593338864	Staphylococcus aureus LAMC0011	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2594467166	copper chaperone	2593338909	Staphylococcus aureus SJOS6053	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2594555879	copper chaperone	2593338941	Staphylococcus aureus UCIM6015	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2606310105	copper chaperone	2606217122	Staphylococcus aureus aureus SK1585	26	86	6	66	55.8	2e-13	36	68	
+query3677469	2612238375	copper chaperone	2609460269	Staphylococcus aureus CUHK_HK1997	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2612285726	copper chaperone	2609460284	Staphylococcus aureus CUHK_HK2007	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2656693814	copper chaperone	2654588032	Staphylococcus aureus JS395	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2678033161	copper chaperone	2675903453	Staphylococcus aureus aureus Gv88	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685706204	copper chaperone	2684622797	Staphylococcus aureus D90	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685710098	copper chaperone	2684622798	Staphylococcus aureus M996	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685712134	copper chaperone	2684622799	Staphylococcus aureus Na21	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685715335	copper chaperone	2684622800	Staphylococcus aureus NA32	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685729969	copper chaperone	2684622805	Staphylococcus aureus M278	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2685733181	copper chaperone	2684622806	Staphylococcus aureus ES26	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2686972119	copper chaperone	2684623146	Staphylococcus aureus aureus Be62	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2688166921	copper chaperone	2687453279	Staphylococcus aureus aureus HC1340	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2688175689	copper chaperone	2687453282	Staphylococcus aureus aureus HC1335	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2688533523	copper chaperone	2687453377	Staphylococcus aureus aureus Gv51	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2688747161	copper chaperone	2687453427	Staphylococcus aureus V605	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2689451148	copper chaperone	2687453603	Staphylococcus aureus V521	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2727068087	copper chaperone	2724679507	Staphylococcus aureus TW20	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736144948	copper chaperone	2734482418	Staphylococcus aureus H24	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736152195	copper chaperone	2734482421	Staphylococcus aureus MAL3	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736155749	copper chaperone	2734482422	Staphylococcus aureus H211	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736163213	copper chaperone	2734482424	Staphylococcus aureus MAL119	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736166074	copper chaperone	2734482425	Staphylococcus aureus MAL9	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736173827	copper chaperone	2734482428	Staphylococcus aureus RA7	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736185630	copper chaperone	2734482432	Staphylococcus aureus FRICAR	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736186613	copper chaperone	2734482433	Staphylococcus aureus D71	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736196514	copper chaperone	2734482436	Staphylococcus aureus MAL1	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736199685	copper chaperone	2734482437	Staphylococcus aureus MAL11	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736202480	copper chaperone	2734482438	Staphylococcus aureus M1229	26	86	6	66	55.8	2e-13	36	68	
+query3677469	2736210826	copper chaperone	2734482441	Staphylococcus aureus M418	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736214027	copper chaperone	2734482442	Staphylococcus aureus M592	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736219651	copper chaperone	2734482444	Staphylococcus aureus RA3	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736221879	copper chaperone	2734482445	Staphylococcus aureus RA6	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736223290	copper chaperone	2734482446	Staphylococcus aureus H216	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736227236	copper chaperone	2734482447	Staphylococcus aureus LIT76	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736232900	copper chaperone	2734482449	Staphylococcus aureus LIT68	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736237316	copper chaperone	2734482450	Staphylococcus aureus H202	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736244677	copper chaperone	2734482453	Staphylococcus aureus United Kingdom102	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2736625824	copper chaperone	2734482530	Staphylococcus aureus M170	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2742435477	copper chaperone	2740892195	Staphylococcus aureus MRSA-OC3	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2743726265	copper chaperone	2740892500	Staphylococcus aureus V808	26	86	6	66	55.8	2e-13	36	68	
+query3677469	2745818705	copper chaperone	2744054835	Staphylococcus aureus NMR02	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2745823511	copper chaperone	2744054836	Staphylococcus aureus NMR05	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2839027674	copper chaperone	2839026242	Brevibacillus gelatini DSM 100115	23	86	3	66	55.8	5e-13	38	68	
+query3677469	646994777	copper chaperone	646862344	Staphylococcus aureus aureus TW20 0582	26	86	6	66	55.8	3e-13	36	68	
+query3677469	647733974	P-type Cu+ transporter	647533132	Enterococcus faecalis CH188	22	85	72	135	55.8	8e-12	36	828	
+query3677469	647947020	copper chaperone	647533212	Staphylococcus aureus aureus 58-424	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647792917	copper chaperone	647533213	Staphylococcus aureus aureus 65-1322	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647795594	copper chaperone	647533214	Staphylococcus aureus aureus 68-397	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647899794	copper chaperone	647533217	Staphylococcus aureus aureus C101	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647798271	copper chaperone	647533221	Staphylococcus aureus E1410	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647946040	copper chaperone	647533224	Staphylococcus aureus aureus M1015	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647968705	copper chaperone	647533225	Staphylococcus aureus aureus M809	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647800976	copper chaperone	647533226	Staphylococcus aureus M876	26	86	6	66	55.8	2e-13	36	68	
+query3677469	647908153	copper chaperone	647533227	Staphylococcus aureus aureus M899	26	86	6	66	55.8	2e-13	36	68	
+query3677469	648813193	copper chaperone	648276730	Staphylococcus aureus aureus ATCC BAA-39	26	86	6	66	55.8	3e-13	36	68	
+query3677469	2684513860	copper chaperone	2681813550	Alicyclobacillus vulcanalis DSM 16176	23	85	3	64	55.5	4e-13	49	67	
+query3677469	2834748840	periplasmic mercuric ion binding protein	2834748349	Novosphingobium sp. HII-3	1	87	2	94	55.5	1e-12	39	99	
+query3677469	2629775666	P-type Cu+ transporter	2627853986	Geobacillus sp. 12AMOR1	20	91	70	141	55.1	2e-11	33	798	
+query3677469	2741409068	copper ion binding protein	2740891993	Candidatus Heimdallarchaeota archaeon LC_3	28	91	11	74	55.1	1e-11	36	192	
+query3677469	2776822353	periplasmic mercuric ion binding protein	2775507030	Bradyrhizobium sp. UASWS1016	19	91	22	98	55.1	4e-12	44	98	
+query3677469	2776829771	periplasmic mercuric ion binding protein	2775507030	Bradyrhizobium sp. UASWS1016	19	91	22	98	55.1	4e-12	44	98	
+query3677469	2523747851	copper chaperone	2523533549	Jeotgalicoccus marinus DSM 19772	25	86	5	66	54.7	7e-13	39	68	
+query3677469	2562553539	copper chaperone	2561511227	Exiguobacterium chiriqhucha GIC31	25	86	4	65	54.7	1e-12	39	67	
+query3677469	2797351657	copper chaperone	2795385779	Mycobacteroides abscessus abscessus 1135	23	86	3	66	54.7	2e-12	39	68	
+query3677469	2846786395	periplasmic mercuric ion binding protein	2846780681	Agrobacterium tumefaciens CFBP6625	22	91	24	97	54.7	3e-12	46	97	
+query3677469	2850614205	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	22	91	24	97	54.7	3e-12	46	97	
+query3677469	2850614153	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	22	91	24	97	54.7	3e-12	46	97	
+query3677469	2850619926	periplasmic mercuric ion binding protein	2850614736	Agrobacterium tumefaciens CFBP6623	22	91	24	97	54.7	3e-12	46	97	
+query3677469	2551987302	periplasmic mercuric ion binding protein	2551306146	Afipia birgiae 34632	22	91	25	96	54.3	5e-12	42	109	
+query3677469	2624538444	periplasmic mercuric ion binding protein	2623620456	Belnapia rosea MJ22	19	91	23	97	54.3	6e-12	45	97	
+query3677469	2641374465	P-type Cu+ transporter	2639762946	Bacillus sp. UMTAT18	20	90	70	140	54.3	5e-11	31	798	
+query3677469	2650603502	P-type Cu+ transporter	2648501636	Bacillus cereus #17	20	90	70	140	54.3	5e-11	31	798	
+query3677469	2704961198	P-type Cu+ transporter	2703718890	Bacillus cereus PE8-121b	20	90	70	140	54.3	5e-11	31	798	
+query3677469	2729025080	P-type Cu+ transporter	2728369074	Bacillus wiedmannii FSL K6-0069	20	90	70	140	54.3	5e-11	31	798	
+query3677469	2734608434	periplasmic mercuric ion binding protein	2734481923	Bradyrhizobium sp. JCM 18382	19	91	22	98	54.3	6e-12	44	98	
+query3677469	2744248768	P-type Cu+ transporter	2744054444	Bacillus cereus B4120	20	90	70	140	54.3	5e-11	31	806	
+query3677469	2744257204	P-type Cu+ transporter	2744054445	Bacillus cereus B4155	20	90	70	140	54.3	5e-11	31	798	
+query3677469	644493657	P-type Cu+ transporter	643886032	Bacillus cereus R309803	20	90	70	140	54.3	5e-11	31	798	
+query3677469	2549661063	P-type Cu+ transporter	2548876749	Pseudomonas syringae pv. actinidiae PA459	22	85	68	130	53.9	7e-11	47	794	
+query3677469	2628267759	P-type Cu+ transporter	2627853623	Listeria innocua 12KSM	26	90	10	74	53.9	5e-11	38	737	
+query3677469	2817373603	P-type Cu+ transporter	2816332273	Listeria innocua MOD1_LS888	26	90	10	74	53.9	5e-11	38	737	
+query3677469	2562620154	copper chaperone	2562617000	Exiguobacterium acetylicum DSM 20416	25	85	5	63	53.5	2e-12	44	68	
+query3677469	2568881200	periplasmic mercuric ion binding protein	2568526096	Afipia sp. OHSU_II-uncloned	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2569532488	periplasmic mercuric ion binding protein	2568526295	Afipia sp. OHSU_I-uncloned	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2570243793	periplasmic mercuric ion binding protein	2568526514	Afipia sp. OHSU_II-C1	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2571817978	P-type Cu+ transporter	2571042229	Acidithiobacillus thiooxidans A01	22	91	2	70	53.5	8e-11	37	810	
+query3677469	2573519599	periplasmic mercuric ion binding protein	2571042730	Afipia sp. OHSU_I-C4	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2581143183	periplasmic mercuric ion binding protein	2579778826	Afipia sp. OHSU_I-C6	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2584113039	periplasmic mercuric ion binding protein	2582580976	Afipia sp. OHSU_II-C2	19	91	21	95	53.5	7e-12	40	95	
+query3677469	2641365985	periplasmic mercuric ion binding protein	2639762945	Nitrospira moscoviensis NSP M-1	20	88	30	108	53.5	1e-11	41	117	
+query3677469	2652356742	copper chaperone	2651869670	Staphylococcus cohnii cohnii 532	23	87	3	67	53.5	3e-12	37	68	
+query3677469	2732595385	P-type Cu+ transporter	2731957652	Cytobacillus firmus NBRC 15306	20	85	17	82	53.1	9e-11	39	812	
+query3677469	2841525241	periplasmic mercuric ion binding protein	2841517901	Methylobacterium currus PR1016A	22	91	25	96	53.1	2e-11	43	112	
+query3677469	2597448949	periplasmic mercuric ion binding protein	2596583694	Geobacter argillaceus ATCC BAA-1139	1	84	1	85	52.8	2e-11	33	98	
+query3677469	2638793794	copper chaperone	2636415980	unclassified betaproteobacterium ENR4	22	85	2	65	52.4	9e-12	41	70	
+query3677469	2784405844	copper chaperone	2784132095	Candidatus Manganitrophus noduliformans Mn-1	24	87	4	67	52.4	2e-11	34	91	
+query3677469	2745820006	copper chaperone	2744054835	Staphylococcus aureus NMR02	22	88	2	68	52.0	1e-11	34	71	
+query3677469	2790907350	periplasmic mercuric ion binding protein	2788500502	Roseobacter sp. NP10	1	87	1	93	52.0	3e-11	38	101	
+query3677469	2790927587	periplasmic mercuric ion binding protein	2788500509	Roseobacter sp. SP159	1	87	1	93	52.0	3e-11	38	101	
+query3677469	2514136840	periplasmic mercuric ion binding protein	2513237191	Komagataeibacter medellinensis NBRC 3288	22	87	41	106	51.2	5e-11	42	110	
+query3677469	2538664420	periplasmic mercuric ion binding protein	2537561796	Sphingobium yanoikuyae ATCC 51230	22	87	41	106	51.2	9e-11	42	110	
+query3677469	2623265143	periplasmic mercuric ion binding protein	2622736527	Sulfitobacter litoralis DSM 17584	1	87	1	93	51.2	6e-11	38	101	
+query3677469	2632592819	copper chaperone	2630968630	Chromobacterium subtsugae F49	24	88	4	68	51.2	3e-11	38	69	
+query3677469	2633610675	periplasmic mercuric ion binding protein	2630968880	Sphingopyxis sp. LC81	22	87	41	106	51.2	7e-11	42	110	
+query3677469	2677913536	periplasmic mercuric ion binding protein	2675903423	Sphingobium baderi DE-13	22	87	41	106	51.2	7e-11	42	110	
+query3677469	2728637720	copper chaperone	2728368973	Chromobacterium violaceum Cv017	24	88	4	68	51.2	3e-11	38	69	
+query3677469	2744769761	copper chaperone	2744054558	Chromobacterium sp. F49	24	88	4	68	51.2	3e-11	38	69	
+query3677469	2828305708	periplasmic mercuric ion binding protein	2828301124	Sphingomonas leidyi DSM 4733	22	87	41	106	51.2	8e-11	42	110	
+query3677469	2841446160	periplasmic mercuric ion binding protein	2841440409	Sphingobium yanoikuyae SJTF8	22	87	41	106	51.2	9e-11	42	110	
+query3677469	2846786404	periplasmic mercuric ion binding protein	2846780681	Agrobacterium tumefaciens CFBP6625	23	87	43	107	51.2	1e-10	38	112	
+query3677469	2850614214	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	23	87	43	107	51.2	9e-11	38	112	
+query3677469	2850614162	periplasmic mercuric ion binding protein	2850609361	Agrobacterium tumefaciens CFBP6626	23	87	43	107	51.2	9e-11	38	112	
+query3677469	2850619935	periplasmic mercuric ion binding protein	2850614736	Agrobacterium tumefaciens CFBP6623	23	87	43	107	51.2	9e-11	38	112	
+query3677469	2525737366	copper chaperone	2524614765	Gordonia amicalis CCMA-559	23	85	4	65	50.8	4e-11	43	68	
+query3677469	2579692864	periplasmic mercuric ion binding protein	2576861810	Defluviimonas sp. 20V17	5	90	19	104	50.8	1e-10	38	105	
+query3677469	2515448718	copper chaperone	2515154076	Thiobacillus thioparus DSM 505	24	85	4	65	50.4	4e-11	40	69	
+query3677469	2788622820	copper chaperone	2788499826	Sulfurirhabdus autotrophica DSM 100309	26	85	6	65	49.7	9e-11	40	69	

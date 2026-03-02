@@ -1,0 +1,632 @@
+Query Sequence Name	Gene ID	Gene Name	Genome ID	Genome Name	Query Start Coord	Query End Coord	Subject Start Coord	Subject End Coord	Bit Score	E-value	Identities	Subject Length	
+query3664279	2549717719	mercuric ion transport protein	2548876758	Pseudomonas aeruginosa NCMG1179	1	116	1	116	226	3e-79	100	116	
+query3664279	2562783402	mercuric ion transport protein	2562617043	Pseudomonas sp. EGD-AK9	1	116	1	116	226	2e-79	100	116	
+query3664279	2633881835	mercuric ion transport protein	2630968946	Ralstonia mannitolilytica SN82F48	1	116	1	116	226	2e-79	100	116	
+query3664279	2661417555	mercuric ion transport protein	2660238203	Pseudomonas sp. NBRC 111127	1	116	1	116	226	2e-79	100	116	
+query3664279	2667503086	mercuric ion transport protein	2663763601	Pseudomonas psychrotolerans LMG 21977	1	116	1	116	226	2e-79	100	116	
+query3664279	2704060949	mercuric ion transport protein	2703718695	Enterobacter asburiae ST252:950126202	1	116	1	116	226	4e-79	100	116	
+query3664279	2720721733	mercuric ion transport protein	2718218255	Klebsiella sp. LTGPAF-6F	1	116	1	116	226	3e-79	100	116	
+query3664279	2736092209	mercuric ion transport protein	2734482401	Pseudomonas aeruginosa RW88	1	116	1	116	226	3e-79	100	116	
+query3664279	2847530840	mercuric ion transport protein	2847528547	Stenotrophomonas maltophilia SJTH1	1	116	1	116	226	2e-79	100	116	
+query3664279	2870322651	mercuric ion transport protein	2870319472	Pseudomonas aeruginosa PASGNDM345	1	116	1	116	226	3e-79	100	116	
+query3664279	2870334703	mercuric ion transport protein	2870331525	Pseudomonas aeruginosa PASGNDM699	1	116	1	116	226	3e-79	100	116	
+query3664279	641622135	mercuric ion transport protein	641522646	Pseudomonas putida W619	1	116	1	116	226	2e-79	100	116	
+query3664279	2590840771	mercuric ion transport protein	2590828102	beta proteobacterium FWI2	1	116	1	116	225	6e-79	99	116	
+query3664279	2743196723	mercuric ion transport protein	2740892368	Cupriavidus metallidurans NE12	1	116	1	116	225	6e-79	99	116	
+query3664279	2788916236	mercuric ion transport protein	2788499891	Sutterellaceae bacterium ARS112	1	116	1	116	216	2e-75	95	116	
+query3664279	2633880468	mercuric ion transport protein	2630968946	Ralstonia mannitolilytica SN82F48	1	116	1	116	214	2e-74	94	116	
+query3664279	2633880519	mercuric ion transport protein	2630968946	Ralstonia mannitolilytica SN82F48	1	116	1	116	214	2e-74	94	116	
+query3664279	2742272262	mercuric ion transport protein	2740892159	Oleibacter sp. HI0075	1	116	1	116	214	2e-74	94	116	
+query3664279	640052189	mercuric ion transport protein	640048476	Ensifer meliloti FP2 plasmid pSB102	1	116	1	116	214	8e-77	92	116	
+query3664279	2588780213	mercuric ion transport protein	2588253803	Salmonella enterica enterica sv. Heidelberg SARA 39	1	116	1	116	213	3e-74	93	116	
+query3664279	2847530822	mercuric ion transport protein	2847528547	Stenotrophomonas maltophilia SJTH1	1	116	1	116	213	3e-74	93	116	
+query3664279	2843974586	mercuric ion transport protein	2843969098	Citrobacter freundii SL151	2	116	17	131	212	9e-74	93	131	
+query3664279	2510653853	mercuric ion transport protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	1	116	1	116	211	2e-73	93	116	
+query3664279	2550317816	mercuric ion transport protein	2548876915	Klebsiella pneumoniae pneumoniae LCT-KP214	2	116	7	121	211	2e-73	93	121	
+query3664279	2555199139	mercuric ion transport protein	2554235220	Klebsiella pneumoniae LCT-KP182	2	116	7	121	211	2e-73	93	121	
+query3664279	2555215170	mercuric ion transport protein	2554235223	Klebsiella pneumoniae LCT-KP289	2	116	7	121	211	2e-73	93	121	
+query3664279	2573600844	mercuric ion transport protein	2571042753	Enterobacter sp. MGH 15	2	116	7	121	211	2e-73	93	121	
+query3664279	2578640336	mercuric ion transport protein	2576861519	Enterobacter sp. MGH 7	1	116	1	116	211	1e-73	93	116	
+query3664279	2578644024	mercuric ion transport protein	2576861519	Enterobacter sp. MGH 7	2	116	7	121	211	2e-73	93	121	
+query3664279	2581405065	mercuric ion transport protein	2579778887	Pseudomonas aeruginosa BWHPSA037	1	116	1	116	211	2e-73	93	116	
+query3664279	2631456330	mercuric ion transport protein	2630968351	Pseudomonas fluorescens AU2989	1	116	1	116	211	2e-73	93	116	
+query3664279	2641575326	mercuric ion transport protein	2639762996	Pseudomonas aeruginosa O400	1	116	1	116	211	2e-73	93	116	
+query3664279	2648214554	mercuric ion transport protein	2645728076	Enterobacter hormaechei BIDMC 33A	1	116	1	116	211	1e-73	93	116	
+query3664279	2657830946	mercuric ion transport protein	2657245036	Enterobacter hormaechei MNCRE41	1	116	1	116	211	1e-73	93	116	
+query3664279	2660726079	mercuric ion transport protein	2660238024	Escherichia coli MNCRE22	1	116	1	116	211	1e-73	93	116	
+query3664279	2660908282	mercuric ion transport protein	2660238069	Enterobacter hormaechei MNCRE23	1	116	1	116	211	1e-73	93	116	
+query3664279	2661419213	mercuric ion transport protein	2660238203	Pseudomonas sp. NBRC 111127	1	116	1	116	211	1e-73	93	116	
+query3664279	2661466682	mercuric ion transport protein	2660238213	Enterobacter hormaechei MNCRE19	1	116	1	116	211	1e-73	93	116	
+query3664279	2661766449	mercuric ion transport protein	2660238286	Enterobacter hormaechei MNCRE48	1	116	1	116	211	1e-73	93	116	
+query3664279	2662780640	mercuric ion transport protein	2660238535	Enterobacter hormaechei MNCRE52	1	116	1	116	211	1e-73	93	116	
+query3664279	2662882916	mercuric ion transport protein	2660238562	Enterobacter hormaechei MNCRE83	1	116	1	116	211	1e-73	93	116	
+query3664279	2663004715	mercuric ion transport protein	2660238592	Enterobacter hormaechei MNCRE35	1	116	1	116	211	1e-73	93	116	
+query3664279	2663045241	mercuric ion transport protein	2660238602	Enterobacter hormaechei MNCRE42	1	116	1	116	211	1e-73	93	116	
+query3664279	2663087181	mercuric ion transport protein	2660238611	Enterobacter hormaechei MNCRE86	1	116	1	116	211	1e-73	93	116	
+query3664279	2663314574	mercuric ion transport protein	2660238670	Enterobacter hormaechei MNCRE84	1	116	1	116	211	1e-73	93	116	
+query3664279	2663910156	mercuric ion transport protein	2663762639	Enterobacter hormaechei MNCRE39	1	116	1	116	211	1e-73	93	116	
+query3664279	2665082667	mercuric ion transport protein	2663762955	Enterobacter hormaechei MNCRE56	1	116	1	116	211	1e-73	93	116	
+query3664279	2665906256	mercuric ion transport protein	2663763164	Enterobacter hormaechei MNCRE18	1	116	1	116	211	1e-73	93	116	
+query3664279	2666486575	mercuric ion transport protein	2663763303	Pseudomonas sp. NBRC 111142	1	116	1	116	211	2e-73	93	116	
+query3664279	2666523211	mercuric ion transport protein	2663763311	Enterobacter hormaechei MNCRE7	1	116	1	116	211	1e-73	93	116	
+query3664279	2666839348	mercuric ion transport protein	2663763391	Enterobacter hormaechei MNCRE29	1	116	1	116	211	1e-73	93	116	
+query3664279	2666884638	mercuric ion transport protein	2663763403	Enterobacter hormaechei MNCRE51	1	116	1	116	211	1e-73	93	116	
+query3664279	2667300487	mercuric ion transport protein	2663763503	Enterobacter hormaechei MNCRE25	1	116	1	116	211	1e-73	93	116	
+query3664279	2669315730	mercuric ion transport protein	2667527746	Enterobacter hormaechei MNCRE30	1	116	1	116	211	1e-73	93	116	
+query3664279	2670681731	mercuric ion transport protein	2667528073	Enterobacter hormaechei MNCRE17	1	116	1	116	211	1e-73	93	116	
+query3664279	2672813072	mercuric ion transport protein	2671180447	Enterobacter hormaechei MNCRE57	1	116	1	116	211	1e-73	93	116	
+query3664279	2673682516	mercuric ion transport protein	2671180661	Enterobacter hormaechei MNCRE8	1	116	1	116	211	1e-73	93	116	
+query3664279	2678374369	mercuric ion transport protein	2675903546	Enterobacter hormaechei MNCRE79	1	116	1	116	211	1e-73	93	116	
+query3664279	2691951037	mercuric ion transport protein	2690316027	Enterobacter hormaechei MNCRE36	1	116	1	116	211	1e-73	93	116	
+query3664279	2692061071	mercuric ion transport protein	2690316054	Enterobacter hormaechei MNCRE71	1	116	1	116	211	1e-73	93	116	
+query3664279	2693536058	mercuric ion transport protein	2693429525	Enterobacter hormaechei MNCRE28	1	116	1	116	211	1e-73	93	116	
+query3664279	2699273790	mercuric ion transport protein	2698536479	Enterobacter kobei ST54:941713674	1	116	1	116	211	1e-73	93	116	
+query3664279	2702936644	mercuric ion transport protein	2700989497	Enterobacter hormaechei MNCRE6	1	116	1	116	211	1e-73	93	116	
+query3664279	2702944188	mercuric ion transport protein	2700989499	Enterobacter hormaechei MNCRE37	1	116	1	116	211	1e-73	93	116	
+query3664279	2702950922	mercuric ion transport protein	2700989500	Enterobacter hormaechei MNCRE38	1	116	1	116	211	1e-73	93	116	
+query3664279	2702973339	mercuric ion transport protein	2700989506	Enterobacter hormaechei MNCRE9	1	116	1	116	211	1e-73	93	116	
+query3664279	2703086232	mercuric ion transport protein	2700989529	Enterobacter hormaechei MNCRE81	1	116	1	116	211	1e-73	93	116	
+query3664279	2706468078	mercuric ion transport protein	2703719350	Enterobacter hormaechei MNCRE85	1	116	1	116	211	1e-73	93	116	
+query3664279	2719745360	mercuric ion transport protein	2718218012	Enterobacter cloacae AR_0002	1	116	1	116	211	1e-73	93	116	
+query3664279	2730100340	mercuric ion transport protein	2728369351	Enterobacter hormaechei oharae 34978	1	116	1	116	211	1e-73	93	116	
+query3664279	2743198253	mercuric ion transport protein	2740892368	Cupriavidus metallidurans NE12	1	116	1	116	211	2e-73	93	116	
+query3664279	2776928671	mercuric ion transport protein	2775507052	Enterobacter sp. CRENT-193	1	116	1	116	211	1e-73	93	116	
+query3664279	2788915170	mercuric ion transport protein	2788499891	Sutterellaceae bacterium ARS112	1	116	1	116	211	9e-74	93	116	
+query3664279	2793449787	mercuric ion transport protein	2791355284	Enterobacter hormaechei xiangfangensis 40884	1	116	1	116	211	1e-73	93	116	
+query3664279	2794847028	mercuric ion transport protein	2791355562	Pseudomonas sp. GP01-A3	1	116	1	116	211	2e-73	93	116	
+query3664279	2794855177	mercuric ion transport protein	2791355563	Pseudomonas sp. GP01-A14	1	116	1	116	211	2e-73	93	116	
+query3664279	2794862476	mercuric ion transport protein	2791355564	Pseudomonas sp. GP01-A6	1	116	1	116	211	2e-73	93	116	
+query3664279	2795235765	mercuric ion transport protein	2791355624	Pseudomonas sp. GP01-A4	1	116	1	116	211	2e-73	93	116	
+query3664279	2795244309	mercuric ion transport protein	2791355625	Pseudomonas sp. GP01-A11	1	116	1	116	211	2e-73	93	116	
+query3664279	2795260774	mercuric ion transport protein	2791355628	Pseudomonas sp. GP01-A5	1	116	1	116	211	2e-73	93	116	
+query3664279	2795267037	mercuric ion transport protein	2791355629	Pseudomonas sp. GP01-A13	1	116	1	116	211	2e-73	93	116	
+query3664279	2795276382	mercuric ion transport protein	2791355630	Pseudomonas sp. GP01-A15	1	116	1	116	211	2e-73	93	116	
+query3664279	2795282970	mercuric ion transport protein	2791355631	Pseudomonas sp. GP01-A9	1	116	1	116	211	2e-73	93	116	
+query3664279	2795287706	mercuric ion transport protein	2791355632	Pseudomonas sp. GP01-A8	1	116	1	116	211	2e-73	93	116	
+query3664279	2795294871	mercuric ion transport protein	2791355633	Pseudomonas sp. GP01-A1	1	116	1	116	211	2e-73	93	116	
+query3664279	2842973079	mercuric ion transport protein	2842970183	Pluralibacter gergoviae DS82E24	1	116	1	116	211	1e-73	93	116	
+query3664279	2851118029	mercuric ion transport protein	2851114255	Serratia marcescens AR_0027	1	116	1	116	211	1e-73	93	116	
+query3664279	2859675778	mercuric ion transport protein	2859671954	Enterobacter cloacae AR_0053	1	116	1	116	211	1e-73	93	116	
+query3664279	2870236334	mercuric ion transport protein	2870230914	Klebsiella pneumoniae 2-1	2	116	7	121	211	2e-73	93	121	
+query3664279	2633881609	mercuric ion transport protein	2630968946	Ralstonia mannitolilytica SN82F48	1	116	1	116	210	5e-73	92	116	
+query3664279	2743198490	mercuric ion transport protein	2740892368	Cupriavidus metallidurans NE12	1	116	1	116	210	7e-73	92	116	
+query3664279	2816026730	mercuric ion transport protein	2814123437	Burkholderia vietnamiensis HI3908	1	116	1	116	209	2e-72	91	116	
+query3664279	2851437236	mercuric ion transport protein	2851431590	Klebsiella pneumoniae INF278	2	116	7	121	209	1e-72	92	121	
+query3664279	2851442984	mercuric ion transport protein	2851437328	Klebsiella pneumoniae INF163	2	116	7	121	209	1e-72	92	121	
+query3664279	2860595530	mercuric ion transport protein	2860589870	Klebsiella pneumoniae INF274	2	116	7	121	209	1e-72	92	121	
+query3664279	2699274221	mercuric ion transport protein	2698536479	Enterobacter kobei ST54:941713674	1	114	1	114	207	7e-72	93	114	
+query3664279	2843909744	mercuric ion transport protein	2843909154	Cronobacter sakazakii GZcsf-1	1	116	1	116	207	3e-72	92	116	
+query3664279	640817203	mercuric ion transport protein	640753030	Janthinobacterium sp. Marseille	1	116	1	116	207	3e-72	90	116	
+query3664279	2702014808	mercuric ion transport protein	2700989281	Acinetobacter sp. NBRC 110496	1	116	1	116	206	1e-71	91	116	
+query3664279	2520119822	mercuric ion transport protein	2519899560	Escherichia coli O111:H8 CVM9634	1	116	1	116	205	5e-71	88	116	
+query3664279	2520138864	mercuric ion transport protein	2519899563	Escherichia coli O111 CVM9455	1	116	1	116	205	6e-71	88	116	
+query3664279	2559831383	mercuric ion transport protein	2558860434	Salmonella enterica enterica sv. Typhimurium 34502	1	116	1	116	205	5e-71	88	116	
+query3664279	2562785598	mercuric ion transport protein	2562617043	Pseudomonas sp. EGD-AK9	1	116	1	116	205	5e-71	88	116	
+query3664279	2577542074	mercuric ion transport protein	2576861188	Enterobacter asburiae UCI 49	1	116	1	116	205	5e-71	88	116	
+query3664279	2578640366	mercuric ion transport protein	2576861519	Enterobacter sp. MGH 7	1	116	1	116	205	5e-71	88	116	
+query3664279	2590845356	mercuric ion transport protein	2590828102	beta proteobacterium FWI2	1	116	1	116	205	7e-71	88	116	
+query3664279	2632162830	mercuric ion transport protein	2630968527	Comamonas testosteroni JL40	1	116	1	116	205	6e-71	88	116	
+query3664279	2638918794	mercuric ion transport protein	2636416004	Pseudomonas mandelii LMG 21607	1	116	1	116	205	7e-71	88	116	
+query3664279	2641575371	mercuric ion transport protein	2639762996	Pseudomonas aeruginosa O400	1	116	1	116	205	7e-71	88	116	
+query3664279	2648214589	mercuric ion transport protein	2645728076	Enterobacter hormaechei BIDMC 33A	1	116	1	116	205	5e-71	88	116	
+query3664279	2649900052	mercuric ion transport protein	2648501434	Enterobacter hormaechei oharae CCBH10892	1	116	1	116	205	5e-71	88	116	
+query3664279	2656572963	mercuric ion transport protein	2654588004	Salmonella enterica enterica sv. Typhimurium 33676	1	116	1	116	205	5e-71	88	116	
+query3664279	2657831374	mercuric ion transport protein	2657245036	Enterobacter hormaechei MNCRE41	1	116	1	116	205	5e-71	88	116	
+query3664279	2660724897	mercuric ion transport protein	2660238024	Escherichia coli MNCRE22	1	116	1	116	205	5e-71	88	116	
+query3664279	2660909019	mercuric ion transport protein	2660238069	Enterobacter hormaechei MNCRE23	1	116	1	116	205	5e-71	88	116	
+query3664279	2661466393	mercuric ion transport protein	2660238213	Enterobacter hormaechei MNCRE19	1	116	1	116	205	5e-71	88	116	
+query3664279	2661766519	mercuric ion transport protein	2660238286	Enterobacter hormaechei MNCRE48	1	116	1	116	205	5e-71	88	116	
+query3664279	2662780171	mercuric ion transport protein	2660238535	Enterobacter hormaechei MNCRE52	1	116	1	116	205	5e-71	88	116	
+query3664279	2662884211	mercuric ion transport protein	2660238562	Enterobacter hormaechei MNCRE83	1	116	1	116	205	5e-71	88	116	
+query3664279	2663003764	mercuric ion transport protein	2660238592	Enterobacter hormaechei MNCRE35	1	116	1	116	205	5e-71	88	116	
+query3664279	2663046892	mercuric ion transport protein	2660238602	Enterobacter hormaechei MNCRE42	1	116	1	116	205	5e-71	88	116	
+query3664279	2663087058	mercuric ion transport protein	2660238611	Enterobacter hormaechei MNCRE86	1	116	1	116	205	5e-71	88	116	
+query3664279	2663101151	mercuric ion transport protein	2660238614	Salmonella enterica enterica sv. Typhimurium DT104 613sCH44	1	116	1	116	205	5e-71	88	116	
+query3664279	2663314957	mercuric ion transport protein	2660238670	Enterobacter hormaechei MNCRE84	1	116	1	116	205	5e-71	88	116	
+query3664279	2663912270	mercuric ion transport protein	2663762639	Enterobacter hormaechei MNCRE39	1	116	1	116	205	5e-71	88	116	
+query3664279	2665079284	mercuric ion transport protein	2663762955	Enterobacter hormaechei MNCRE56	1	116	1	116	205	5e-71	88	116	
+query3664279	2665908688	mercuric ion transport protein	2663763164	Enterobacter hormaechei MNCRE18	1	116	1	116	205	5e-71	88	116	
+query3664279	2666523197	mercuric ion transport protein	2663763311	Enterobacter hormaechei MNCRE7	1	116	1	116	205	5e-71	88	116	
+query3664279	2666840448	mercuric ion transport protein	2663763391	Enterobacter hormaechei MNCRE29	1	116	1	116	205	5e-71	88	116	
+query3664279	2666886286	mercuric ion transport protein	2663763403	Enterobacter hormaechei MNCRE51	1	116	1	116	205	5e-71	88	116	
+query3664279	2667302889	mercuric ion transport protein	2663763503	Enterobacter hormaechei MNCRE25	1	116	1	116	205	5e-71	88	116	
+query3664279	2669315626	mercuric ion transport protein	2667527746	Enterobacter hormaechei MNCRE30	1	116	1	116	205	5e-71	88	116	
+query3664279	2670682234	mercuric ion transport protein	2667528073	Enterobacter hormaechei MNCRE17	1	116	1	116	205	5e-71	88	116	
+query3664279	2672815934	mercuric ion transport protein	2671180447	Enterobacter hormaechei MNCRE57	1	116	1	116	205	5e-71	88	116	
+query3664279	2673682590	mercuric ion transport protein	2671180661	Enterobacter hormaechei MNCRE8	1	116	1	116	205	5e-71	88	116	
+query3664279	2678374285	mercuric ion transport protein	2675903546	Enterobacter hormaechei MNCRE79	1	116	1	116	205	5e-71	88	116	
+query3664279	2691953722	mercuric ion transport protein	2690316027	Enterobacter hormaechei MNCRE36	1	116	1	116	205	5e-71	88	116	
+query3664279	2692061229	mercuric ion transport protein	2690316054	Enterobacter hormaechei MNCRE71	1	116	1	116	205	5e-71	88	116	
+query3664279	2693536656	mercuric ion transport protein	2693429525	Enterobacter hormaechei MNCRE28	1	116	1	116	205	5e-71	88	116	
+query3664279	2702936787	mercuric ion transport protein	2700989497	Enterobacter hormaechei MNCRE6	1	116	1	116	205	5e-71	88	116	
+query3664279	2702943755	mercuric ion transport protein	2700989499	Enterobacter hormaechei MNCRE37	1	116	1	116	205	5e-71	88	116	
+query3664279	2702951099	mercuric ion transport protein	2700989500	Enterobacter hormaechei MNCRE38	1	116	1	116	205	5e-71	88	116	
+query3664279	2702973689	mercuric ion transport protein	2700989506	Enterobacter hormaechei MNCRE9	1	116	1	116	205	5e-71	88	116	
+query3664279	2703087103	mercuric ion transport protein	2700989529	Enterobacter hormaechei MNCRE81	1	116	1	116	205	5e-71	88	116	
+query3664279	2704054378	mercuric ion transport protein	2703718695	Enterobacter asburiae ST252:950126202	1	116	1	116	205	1e-70	88	116	
+query3664279	2706468629	mercuric ion transport protein	2703719350	Enterobacter hormaechei MNCRE85	1	116	1	116	205	5e-71	88	116	
+query3664279	2719745391	mercuric ion transport protein	2718218012	Enterobacter cloacae AR_0002	1	116	1	116	205	5e-71	88	116	
+query3664279	2730100371	mercuric ion transport protein	2728369351	Enterobacter hormaechei oharae 34978	1	116	1	116	205	5e-71	88	116	
+query3664279	2736088391	mercuric ion transport protein	2734482401	Pseudomonas aeruginosa RW88	1	116	1	116	205	7e-71	88	116	
+query3664279	2753853780	mercuric ion transport protein	2751185916	Enterobacter roggenkampii 42192	1	116	1	116	205	5e-71	88	116	
+query3664279	2766091349	mercuric ion transport protein	2765235946	Enterobacter cloacae sp. ABFPL	1	116	1	116	205	5e-71	88	116	
+query3664279	2793450615	mercuric ion transport protein	2791355284	Enterobacter hormaechei xiangfangensis 40884	1	116	1	116	205	5e-71	88	116	
+query3664279	2793709970	mercuric ion transport protein	2791355346	Burkholderia aenigmatica AU17325	1	116	1	116	205	9e-71	89	116	
+query3664279	2815718289	mercuric ion transport protein	2814123354	Pseudomonas mandelii NBRC 103147	1	116	1	116	205	7e-71	88	116	
+query3664279	2816026722	mercuric ion transport protein	2814123437	Burkholderia vietnamiensis HI3908	1	116	1	116	205	6e-71	89	116	
+query3664279	2842974123	mercuric ion transport protein	2842970183	Pluralibacter gergoviae DS82E24	1	116	1	116	205	5e-71	88	116	
+query3664279	2843913462	mercuric ion transport protein	2843909154	Cronobacter sakazakii GZcsf-1	1	116	1	116	205	5e-71	88	116	
+query3664279	2843913679	mercuric ion transport protein	2843909154	Cronobacter sakazakii GZcsf-1	1	116	1	116	205	5e-71	88	116	
+query3664279	2843974456	mercuric ion transport protein	2843969098	Citrobacter freundii SL151	1	116	1	116	205	5e-71	88	116	
+query3664279	2846786361	mercuric ion transport protein	2846780681	Agrobacterium tumefaciens CFBP6625	1	116	1	116	205	6e-71	88	116	
+query3664279	2850614734	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	1	116	1	116	205	5e-71	88	116	
+query3664279	2850614194	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	1	116	1	116	205	5e-71	88	116	
+query3664279	2851118062	mercuric ion transport protein	2851114255	Serratia marcescens AR_0027	1	116	1	116	205	5e-71	88	116	
+query3664279	2851281857	mercuric ion transport protein	2851277247	Aeromonas hydrophila ZYAH75	1	116	1	116	205	5e-71	88	116	
+query3664279	2851436966	mercuric ion transport protein	2851431590	Klebsiella pneumoniae INF278	1	116	1	116	205	5e-71	88	116	
+query3664279	2851442714	mercuric ion transport protein	2851437328	Klebsiella pneumoniae INF163	1	116	1	116	205	5e-71	88	116	
+query3664279	2859675809	mercuric ion transport protein	2859671954	Enterobacter cloacae AR_0053	1	116	1	116	205	5e-71	88	116	
+query3664279	2860595259	mercuric ion transport protein	2860589870	Klebsiella pneumoniae INF274	1	116	1	116	205	5e-71	88	116	
+query3664279	2869866567	mercuric ion transport protein	2869861177	Enterobacter hormaechei 20710	1	116	1	116	205	5e-71	88	116	
+query3664279	2870236370	mercuric ion transport protein	2870230914	Klebsiella pneumoniae 2-1	1	116	1	116	205	5e-71	88	116	
+query3664279	641216096	mercuric ion transport protein	641210481	Uncultured bacterium plasmid pTP6	1	116	1	116	205	6e-73	88	116	
+query3664279	2778740944	mercuric ion transport protein	2778261061	Pusillimonas sp. EAC49	1	116	1	116	202	4e-70	86	116	
+query3664279	2510626486	mercuric ion transport protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	1	116	1	116	200	7e-69	88	116	
+query3664279	2510641068	mercuric ion transport protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	1	116	1	116	200	7e-69	88	116	
+query3664279	2510648039	mercuric ion transport protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	1	116	1	116	200	7e-69	88	116	
+query3664279	2666129964	mercuric ion transport protein	2663763218	Pseudomonas coronafaciens LMG 5060	1	116	1	116	200	5e-69	88	116	
+query3664279	2666489545	mercuric ion transport protein	2663763303	Pseudomonas sp. NBRC 111142	1	116	1	116	200	6e-69	88	116	
+query3664279	2667580030	mercuric ion transport protein	2667527211	Pseudomonas abietaniphila LMG 20220	1	116	1	116	200	7e-69	88	116	
+query3664279	2729285045	mercuric ion transport protein	2728369127	Pseudomonas sp. ABFPK	1	116	1	116	200	6e-69	88	116	
+query3664279	2745187315	mercuric ion transport protein	2744054662	Pseudomonas monteilii CD10_2	1	116	1	116	200	7e-69	88	116	
+query3664279	2794725858	mercuric ion transport protein	2791355541	Pseudomonas sp. MPR-R5A	1	116	1	116	200	7e-69	88	116	
+query3664279	2794783355	mercuric ion transport protein	2791355551	Pseudomonas sp. MPR-R5B	1	116	1	116	200	7e-69	88	116	
+query3664279	2794849379	mercuric ion transport protein	2791355562	Pseudomonas sp. GP01-A3	1	116	1	116	200	8e-69	88	116	
+query3664279	2794854618	mercuric ion transport protein	2791355563	Pseudomonas sp. GP01-A14	1	116	1	116	200	8e-69	88	116	
+query3664279	2794863599	mercuric ion transport protein	2791355564	Pseudomonas sp. GP01-A6	1	116	1	116	200	8e-69	88	116	
+query3664279	2795011112	mercuric ion transport protein	2791355588	Pseudomonas sp. FW215-L2	1	116	1	116	200	7e-69	88	116	
+query3664279	2795097649	mercuric ion transport protein	2791355603	Pseudomonas sp. MPBC4-3	1	116	1	116	200	7e-69	88	116	
+query3664279	2795236699	mercuric ion transport protein	2791355624	Pseudomonas sp. GP01-A4	1	116	1	116	200	8e-69	88	116	
+query3664279	2795243247	mercuric ion transport protein	2791355625	Pseudomonas sp. GP01-A11	1	116	1	116	200	8e-69	88	116	
+query3664279	2795262764	mercuric ion transport protein	2791355628	Pseudomonas sp. GP01-A5	1	116	1	116	200	8e-69	88	116	
+query3664279	2795268294	mercuric ion transport protein	2791355629	Pseudomonas sp. GP01-A13	1	116	1	116	200	8e-69	88	116	
+query3664279	2795275343	mercuric ion transport protein	2791355630	Pseudomonas sp. GP01-A15	1	116	1	116	200	8e-69	88	116	
+query3664279	2795282094	mercuric ion transport protein	2791355631	Pseudomonas sp. GP01-A9	1	116	1	116	200	8e-69	88	116	
+query3664279	2795288879	mercuric ion transport protein	2791355632	Pseudomonas sp. GP01-A8	1	116	1	116	200	8e-69	88	116	
+query3664279	2795296068	mercuric ion transport protein	2791355633	Pseudomonas sp. GP01-A1	1	116	1	116	200	8e-69	88	116	
+query3664279	2520121282	mercuric ion transport protein	2519899560	Escherichia coli O111:H8 CVM9634	1	116	1	116	197	4e-68	93	116	
+query3664279	2536624479	mercuric ion transport protein	2534682109	Escherichia coli 3.488	1	116	1	116	197	4e-68	93	116	
+query3664279	2550317688	mercuric ion transport protein	2548876915	Klebsiella pneumoniae pneumoniae LCT-KP214	1	116	1	116	197	4e-68	93	116	
+query3664279	2555199005	mercuric ion transport protein	2554235220	Klebsiella pneumoniae LCT-KP182	1	116	1	116	197	4e-68	93	116	
+query3664279	2555215038	mercuric ion transport protein	2554235223	Klebsiella pneumoniae LCT-KP289	1	116	1	116	197	4e-68	93	116	
+query3664279	2559831669	mercuric ion transport protein	2558860434	Salmonella enterica enterica sv. Typhimurium 34502	1	116	1	116	197	4e-68	93	116	
+query3664279	2559835366	mercuric ion transport protein	2558860435	Salmonella enterica enterica sv. Typhimurium 35423	1	116	1	116	197	4e-68	93	116	
+query3664279	2562595590	mercuric ion transport protein	2561511241	Escherichia coli UMNK88	1	116	1	116	197	4e-68	93	116	
+query3664279	2570642441	mercuric ion transport protein	2568526636	Methylibium sp. T29-B	1	116	1	116	197	6e-68	84	116	
+query3664279	2579199269	mercuric ion transport protein	2576861680	Methylibium sp. T29	1	116	1	116	197	6e-68	84	116	
+query3664279	2580018918	mercuric ion transport protein	2579778559	Salmonella enterica enterica sv. Agona 0322	1	116	1	116	197	4e-68	93	116	
+query3664279	2582484615	mercuric ion transport protein	2579779146	Salmonella enterica enterica sv. Agona 0292	1	116	1	116	197	4e-68	93	116	
+query3664279	2583247734	mercuric ion transport protein	2582580763	Burkholderia cenocepacia S2AES	1	116	1	116	197	5e-68	93	116	
+query3664279	2588795676	mercuric ion transport protein	2588253806	Salmonella enterica Enterica sv. Heidelberg N26457	1	116	1	116	197	4e-68	93	116	
+query3664279	2588829158	mercuric ion transport protein	2588253813	Salmonella enterica enterica sv. Heidelberg 21381	1	116	1	116	197	4e-68	93	116	
+query3664279	2620948085	mercuric ion transport protein	2619619206	Herbaspirillum sp. RV1423	1	116	1	116	197	5e-68	84	116	
+query3664279	2632593954	mercuric ion transport protein	2630968630	Chromobacterium subtsugae F49	1	116	1	116	197	4e-68	93	116	
+query3664279	2636896414	mercuric ion transport protein	2636415517	Vibrio cholerae 2012EL-2176	1	116	1	116	197	3e-68	93	116	
+query3664279	2656573055	mercuric ion transport protein	2654588004	Salmonella enterica enterica sv. Typhimurium 33676	1	116	1	116	197	4e-68	93	116	
+query3664279	2658208581	mercuric ion transport protein	2657245131	Escherichia coli OLC-791	1	116	1	116	197	4e-68	93	116	
+query3664279	2659876586	mercuric ion transport protein	2657245664	Escherichia coli UMNturkey3	1	116	1	116	197	4e-68	93	116	
+query3664279	2661146401	mercuric ion transport protein	2660238128	Escherichia coli TTU2014-121AME	1	116	1	116	197	4e-68	93	116	
+query3664279	2662664522	mercuric ion transport protein	2660238507	Escherichia coli 50822286	1	116	1	116	197	4e-68	93	116	
+query3664279	2663100851	mercuric ion transport protein	2660238614	Salmonella enterica enterica sv. Typhimurium DT104 613sCH44	1	116	1	116	197	4e-68	93	116	
+query3664279	2666977267	mercuric ion transport protein	2663763428	Escherichia coli 50739822	1	116	1	116	197	4e-68	93	116	
+query3664279	2668670601	mercuric ion transport protein	2667527584	Escherichia coli 50639799	1	116	1	116	197	4e-68	93	116	
+query3664279	2669409885	mercuric ion transport protein	2667527770	Escherichia coli UMNturkey4	1	116	1	116	197	4e-68	93	116	
+query3664279	2670323021	mercuric ion transport protein	2667527987	Escherichia coli TTU2014-120BME	1	116	1	116	197	4e-68	93	116	
+query3664279	2672492983	mercuric ion transport protein	2671180367	Klebsiella pneumoniae SY-B2	1	116	1	116	197	4e-68	93	116	
+query3664279	2678504547	mercuric ion transport protein	2675903580	Escherichia coli TTU2014-148AME	1	116	1	116	197	4e-68	93	116	
+query3664279	2684809309	mercuric ion transport protein	2684622549	Klebsiella pneumoniae SY-B	1	116	1	116	197	4e-68	93	116	
+query3664279	2687657768	mercuric ion transport protein	2687453150	Salmonella enterica enterica sv. Anatum USDA-ARS-USMARC-1736	1	116	1	116	197	4e-68	93	116	
+query3664279	2689101391	mercuric ion transport protein	2687453519	Salmonella enterica enterica sv. Typhimurium USDA-ARS-USMARC-1896	1	116	1	116	197	4e-68	93	116	
+query3664279	2689367744	mercuric ion transport protein	2687453585	Escherichia coli Ecol_732	1	116	1	116	197	4e-68	93	116	
+query3664279	2714216965	mercuric ion transport protein	2713896779	Escherichia coli 03-4064	1	116	1	116	197	4e-68	93	116	
+query3664279	2715827395	mercuric ion transport protein	2713897162	Klebsiella pneumoniae ST147	1	116	1	116	197	4e-68	93	116	
+query3664279	2719684477	mercuric ion transport protein	2718218001	Klebsiella pneumoniae Kp_Goe_149832	1	116	1	116	197	4e-68	93	116	
+query3664279	2719716057	mercuric ion transport protein	2718218006	Klebsiella pneumoniae Kp_Goe_152021	1	116	1	116	197	4e-68	93	116	
+query3664279	2719721810	mercuric ion transport protein	2718218007	Klebsiella pneumoniae Kp_Goe_149473	1	116	1	116	197	4e-68	93	116	
+query3664279	2720300918	mercuric ion transport protein	2718218149	Klebsiella pneumoniae KP_Goe_828304	1	116	1	116	197	4e-68	93	116	
+query3664279	2724137445	mercuric ion transport protein	2721755830	Klebsiella pneumoniae Kp_Goe_827026	1	116	1	116	197	4e-68	93	116	
+query3664279	2728636265	mercuric ion transport protein	2728368973	Chromobacterium violaceum Cv017	1	116	1	116	197	4e-68	93	116	
+query3664279	2730235773	mercuric ion transport protein	2728369383	Klebsiella pneumoniae Kp_Goe_822579	1	116	1	116	197	4e-68	93	116	
+query3664279	2730330914	mercuric ion transport protein	2728369405	Klebsiella pneumoniae Kp_Goe_827024	1	116	1	116	197	4e-68	93	116	
+query3664279	2737329668	mercuric ion transport protein	2734482773	Escherichia coli CVM N38834PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2737349662	mercuric ion transport protein	2734482777	Escherichia coli CVM N38795PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2737925151	mercuric ion transport protein	2737471828	Escherichia coli CVM N34352PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2737981543	mercuric ion transport protein	2737471839	Escherichia coli CVM N33707PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2738052013	mercuric ion transport protein	2737471853	Escherichia coli CVM N36210PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2738110142	mercuric ion transport protein	2737471865	Escherichia coli CVM N33653PS	1	116	1	116	197	4e-68	93	116	
+query3664279	2743346540	mercuric ion transport protein	2740892416	Salmonella enterica enterica sv. Bardo CRJJGF_00099	1	116	1	116	197	4e-68	93	116	
+query3664279	2743393317	mercuric ion transport protein	2740892425	Aeromonas salmonicida salmonicida 2004-05MF26	1	116	1	116	197	4e-68	93	116	
+query3664279	2744609146	mercuric ion transport protein	2744054522	Klebsiella pneumoniae OC648	1	116	1	116	197	5e-68	93	116	
+query3664279	2744614701	mercuric ion transport protein	2744054523	Klebsiella pneumoniae OC511	1	116	1	116	197	4e-68	93	116	
+query3664279	2744770254	mercuric ion transport protein	2744054558	Chromobacterium sp. F49	1	116	1	116	197	4e-68	93	116	
+query3664279	2745218268	mercuric ion transport protein	2744054669	Salmonella enterica enterica sv. Heidelberg 163	1	116	1	116	197	4e-68	93	116	
+query3664279	2746113311	mercuric ion transport protein	2744054905	Salmonella enterica CU013109	1	116	1	116	197	4e-68	93	116	
+query3664279	2778777664	mercuric ion transport protein	2778261069	Escherichia albertii MOD1-EC1723	1	116	1	116	197	4e-68	93	116	
+query3664279	2779216823	mercuric ion transport protein	2778261192	Klebsiella pneumoniae WCHKP8D7	1	116	1	116	197	4e-68	93	116	
+query3664279	2779243774	mercuric ion transport protein	2778261197	Klebsiella pneumoniae WCHKP13F4	1	116	1	116	197	4e-68	93	116	
+query3664279	2779669873	mercuric ion transport protein	2778261315	Escherichia coli MOD1-EC5982	1	116	1	116	197	4e-68	93	116	
+query3664279	2780849845	mercuric ion transport protein	2778261641	Escherichia coli MOD1-EC6519	1	116	1	116	197	4e-68	93	116	
+query3664279	2814088991	mercuric ion transport protein	2811995367	Edwardsiella piscicida ETW41	1	116	1	116	197	3e-68	93	116	
+query3664279	2844064632	mercuric ion transport protein	2844059735	Aeromonas hydrophila 23-C-23	1	116	1	116	197	4e-68	93	116	
+query3664279	2847850321	mercuric ion transport protein	2847845980	Aeromonas hydrophila WCX23	1	116	1	116	197	3e-68	93	116	
+query3664279	2849012774	mercuric ion transport protein	2849008052	Shewanella algae KC-Na-R1	1	116	1	116	197	4e-68	93	116	
+query3664279	2850577965	mercuric ion transport protein	2850576466	Salmonella enterica enterica sv. Dublin USMARC-69838	1	116	1	116	197	4e-68	93	116	
+query3664279	2851003271	mercuric ion transport protein	2850998136	Citrobacter freundii ERS2650695	1	116	1	116	197	4e-68	93	116	
+query3664279	2851436986	mercuric ion transport protein	2851431590	Klebsiella pneumoniae INF278	1	116	1	116	197	4e-68	93	116	
+query3664279	2851442734	mercuric ion transport protein	2851437328	Klebsiella pneumoniae INF163	1	116	1	116	197	4e-68	93	116	
+query3664279	2852070713	mercuric ion transport protein	2852067712	Edwardsiella piscicida JF1411	1	116	1	116	197	3e-68	93	116	
+query3664279	2858335653	mercuric ion transport protein	2858333323	Proteus mirabilis PM005	1	116	1	116	197	3e-68	93	116	
+query3664279	2860595279	mercuric ion transport protein	2860589870	Klebsiella pneumoniae INF274	1	116	1	116	197	4e-68	93	116	
+query3664279	642572464	mercuric ion transport protein	642555157	Salmonella enterica sv. Newport SL254	1	116	1	116	197	4e-68	93	116	
+query3664279	645049596	mercuric ion transport protein	645047325	Escherichia coli AR060302 plasmid pAR060302	1	116	1	116	197	1e-69	93	116	
+query3664279	645049407	mercuric ion transport protein	645047334	Escherichia coli H4H plasmid peH4H	1	116	1	116	197	1e-69	93	116	
+query3664279	645049775	mercuric ion transport protein	645047375	Salmonella enterica AM04528 plasmid pAM04528	1	116	1	116	197	1e-69	93	116	
+query3664279	648541646	mercuric ion transport protein	648276656	Escherichia coli MS 182-1	1	116	1	116	197	4e-68	93	116	
+query3664279	2520139989	mercuric ion transport protein	2519899563	Escherichia coli O111 CVM9455	2	116	7	121	196	2e-67	93	121	
+query3664279	2661419880	mercuric ion transport protein	2660238203	Pseudomonas sp. NBRC 111127	1	116	1	116	196	3e-67	86	116	
+query3664279	2839308707	mercuric ion transport protein	2839303116	Variovorax sp. JS1663	16	116	38	138	196	4e-67	98	138	
+query3664279	2547113500	mercuric ion transport protein	2546826727	Shewanella algae BRY	1	116	1	116	195	2e-67	92	116	
+query3664279	2667502549	mercuric ion transport protein	2663763601	Pseudomonas psychrotolerans LMG 21977	1	115	1	115	195	4e-67	93	115	
+query3664279	2577538241	mercuric ion transport protein	2576861188	Enterobacter asburiae UCI 49	1	116	1	116	194	1e-66	90	116	
+query3664279	2699273834	mercuric ion transport protein	2698536479	Enterobacter kobei ST54:941713674	1	116	1	116	194	2e-66	90	116	
+query3664279	2699274251	mercuric ion transport protein	2698536479	Enterobacter kobei ST54:941713674	1	116	1	116	194	2e-66	90	116	
+query3664279	2780850054	mercuric ion transport protein	2778261641	Escherichia coli MOD1-EC6519	6	116	1	111	194	5e-67	88	111	
+query3664279	2648569113	mercuric ion transport protein	2648501116	Aquamicrobium sp. SK-2	1	116	1	116	192	6e-66	91	116	
+query3664279	2522339897	mercuric ion transport protein	2522125097	Rhodanobacter sp. OR444	1	116	7	122	191	2e-65	82	122	
+query3664279	2659673809	mercuric ion transport protein	2657245614	Pseudomonas sp. NBRC 111118	5	116	1	112	191	3e-65	88	112	
+query3664279	2841268845	mercuric ion transport protein	2841268274	Moraxella osloensis MOXF1	1	116	1	116	191	1e-65	80	116	
+query3664279	2571829007	mercuric ion transport protein	2571042232	Pseudomonas putida OUS82	1	116	1	116	189	2e-64	80	116	
+query3664279	2666486536	mercuric ion transport protein	2663763303	Pseudomonas sp. NBRC 111142	1	116	1	116	189	2e-64	80	116	
+query3664279	2541854301	mercuric ion transport protein	2541047103	Pseudomonas sp. CFT9	1	116	1	116	187	7e-64	78	116	
+query3664279	2628513951	mercuric ion transport protein	2627853681	Caballeronia mineralivorans PML1(12)	1	116	1	116	187	1e-63	79	116	
+query3664279	2514540734	mercuric ion transport protein	2513237337	Marinobacter manganoxydans MnI7-9	1	116	1	116	186	1e-63	77	116	
+query3664279	2516839423	mercuric ion transport protein	2516653033	Marinobacter salsuginis SD-14B	1	116	1	116	186	1e-63	77	116	
+query3664279	2620090975	mercuric ion transport protein	2619618959	Marinobacter sp. DSM 26291	1	116	1	116	186	1e-63	77	116	
+query3664279	2711614976	mercuric ion transport protein	2710724146	Marinobacter sp. SUR-4	1	116	1	116	186	1e-63	77	116	
+query3664279	2742270024	mercuric ion transport protein	2740892159	Oleibacter sp. HI0075	1	116	1	116	186	1e-63	77	116	
+query3664279	2790776634	mercuric ion transport protein	2788500467	Roseovarius sp. EAC48	1	116	1	116	186	8e-64	77	116	
+query3664279	2805329010	mercuric ion transport protein	2802429416	Halomonas sp. SAT58	1	116	1	116	186	6e-64	77	116	
+query3664279	2823095295	mercuric ion transport protein	2823093794	Marinobacter sp. IN6	1	116	1	116	186	1e-63	77	116	
+query3664279	2823159783	mercuric ion transport protein	2823156881	Marinobacter sp. CPC48	1	116	1	116	186	1e-63	77	116	
+query3664279	2844263555	mercuric ion transport protein	2844259987	Marinobacter profundi PWS21	1	116	7	122	186	9e-64	77	122	
+query3664279	639810195	mercuric ion transport protein	639633037	Marinobacter aquaeolei VT8	1	116	1	116	186	1e-63	77	116	
+query3664279	2548192166	mercuric ion transport protein	2547132297	Acinetobacter bereziniae Brisou 64, LMG 1003	1	116	1	116	185	4e-63	75	116	
+query3664279	2566529798	mercuric ion transport protein	2565956640	Acinetobacter bereziniae Brisou 64, LMG 1003	1	116	1	116	185	4e-63	75	116	
+query3664279	2635930293	mercuric ion transport protein	2634166495	Acinetobacter baumannii 269	1	116	1	116	185	4e-63	75	116	
+query3664279	2663928133	mercuric ion transport protein	2663762643	Acinetobacter bereziniae KCTC 23199	1	116	1	116	185	4e-63	75	116	
+query3664279	2702014803	mercuric ion transport protein	2700989281	Acinetobacter sp. NBRC 110496	1	116	1	116	185	4e-63	75	116	
+query3664279	2769350283	mercuric ion transport protein	2767802239	Acinetobacter idrijaensis MII	1	116	1	116	185	3e-63	75	116	
+query3664279	2640882819	mercuric ion transport protein	2639762828	Acinetobacter nosocomialis 28F	1	116	1	116	184	1e-62	74	116	
+query3664279	2690188337	mercuric ion transport protein	2687453788	Burkholderia sp. D7	1	116	1	116	184	3e-62	78	116	
+query3664279	2741230579	mercuric ion transport protein	2740891879	Caballeronia udeis ES_PA-B7	1	116	1	116	184	3e-62	78	116	
+query3664279	2747842165	mercuric ion transport protein	2744055288	Caballeronia sordidicola ES_PA-C8	1	116	1	116	184	3e-62	78	116	
+query3664279	2755804592	mercuric ion transport protein	2754412711	Caballeronia udeis ES_AL-A7	1	116	1	116	184	3e-62	78	116	
+query3664279	2755804709	mercuric ion transport protein	2754412711	Caballeronia udeis ES_AL-A7	1	116	1	116	184	3e-62	78	116	
+query3664279	2510626476	mercuric ion transport protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	1	116	1	116	183	3e-62	84	116	
+query3664279	2510641059	mercuric ion transport protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	1	116	1	116	183	3e-62	84	116	
+query3664279	2510648029	mercuric ion transport protein	2510461034	Pseudomonas aeruginosa R. Hugh 813, ATCC 97	1	116	1	116	183	3e-62	84	116	
+query3664279	2566766732	mercuric ion transport protein	2565956706	Pseudomonas sp. G5(2012)	1	116	1	116	183	3e-62	78	116	
+query3664279	2661419731	mercuric ion transport protein	2660238203	Pseudomonas sp. NBRC 111127	1	116	1	116	183	3e-62	84	116	
+query3664279	2666129975	mercuric ion transport protein	2663763218	Pseudomonas coronafaciens LMG 5060	1	116	1	116	183	3e-62	84	116	
+query3664279	2667580019	mercuric ion transport protein	2667527211	Pseudomonas abietaniphila LMG 20220	1	116	1	116	183	4e-62	84	116	
+query3664279	2729285055	mercuric ion transport protein	2728369127	Pseudomonas sp. ABFPK	1	116	1	116	183	3e-62	84	116	
+query3664279	2745187326	mercuric ion transport protein	2744054662	Pseudomonas monteilii CD10_2	1	116	1	116	183	3e-62	84	116	
+query3664279	2794725847	mercuric ion transport protein	2791355541	Pseudomonas sp. MPR-R5A	1	116	1	116	183	4e-62	84	116	
+query3664279	2794783344	mercuric ion transport protein	2791355551	Pseudomonas sp. MPR-R5B	1	116	1	116	183	4e-62	84	116	
+query3664279	2795097638	mercuric ion transport protein	2791355603	Pseudomonas sp. MPBC4-3	1	116	1	116	183	4e-62	84	116	
+query3664279	2549716905	mercuric ion transport protein	2548876758	Pseudomonas aeruginosa NCMG1179	1	116	1	116	182	4e-62	76	116	
+query3664279	2570643568	mercuric ion transport protein	2568526636	Methylibium sp. T29-B	1	116	1	116	182	3e-62	75	116	
+query3664279	2579199776	mercuric ion transport protein	2576861680	Methylibium sp. T29	1	116	1	116	182	3e-62	75	116	
+query3664279	642625348	mercuric ion transport protein	642555151	Ralstonia pickettii 12J	1	116	1	116	182	5e-62	82	116	
+query3664279	2660387782	mercuric ion transport protein	2660237937	Pseudomonas lactis DSM 29142	1	116	1	116	181	2e-61	75	116	
+query3664279	2766113963	mercuric ion transport protein	2765235966	Burkholderia sp. CQ001	1	116	1	116	181	3e-61	83	116	
+query3664279	2805329996	mercuric ion transport protein	2802429416	Halomonas sp. SAT58	1	116	1	116	181	4e-62	75	116	
+query3664279	2839307144	mercuric ion transport protein	2839303116	Variovorax sp. JS1663	1	116	1	116	180	6e-61	74	116	
+query3664279	2580260906	mercuric ion transport protein	2579778615	Paraburkholderia fungorum NBRC 102489	1	116	1	116	179	2e-60	76	116	
+query3664279	2581451707	mercuric ion transport protein	2579778897	Pseudomonas aeruginosa VRFPA08	1	116	1	116	179	1e-60	82	116	
+query3664279	2637956445	mercuric ion transport protein	2636415771	Paraburkholderia fungorum ATCC BAA-463	1	116	1	116	179	2e-60	76	116	
+query3664279	2661683280	mercuric ion transport protein	2660238266	Pseudomonas aeruginosa BTP038	1	116	1	116	179	1e-60	82	116	
+query3664279	2710229723	mercuric ion transport protein	2708743155	Paraburkholderia insulsa LMG 28183	1	116	1	116	179	2e-60	76	116	
+query3664279	2732579623	mercuric ion transport protein	2731957649	Variovorax soli NBRC 106424	1	116	1	116	179	1e-60	74	116	
+query3664279	2776754122	mercuric ion transport protein	2775507014	Halomonas sp. MES3-P3E	2	116	6	120	179	8e-61	76	120	
+query3664279	2813010522	mercuric ion transport protein	2811995063	Paraburkholderia fungorum FDAARGOS_245	1	116	1	116	179	2e-60	76	116	
+query3664279	2842329903	mercuric ion transport protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	116	1	116	179	2e-60	76	116	
+query3664279	2842354631	mercuric ion transport protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	116	1	116	179	2e-60	76	116	
+query3664279	2842460080	mercuric ion transport protein	2842454564	Paraburkholderia fungorum SEMIA 4056	1	116	1	116	179	2e-60	76	116	
+query3664279	2847828519	mercuric ion transport protein	2847827230	Aeromonas caviae R25-2	1	116	1	116	179	9e-61	82	116	
+query3664279	2851279305	mercuric ion transport protein	2851277247	Aeromonas hydrophila ZYAH75	1	116	1	116	179	1e-60	82	116	
+query3664279	2852468464	mercuric ion transport protein	2852464720	Aeromonas caviae R25-6	1	116	1	116	179	9e-61	82	116	
+query3664279	2852477928	mercuric ion transport protein	2852473627	Aeromonas caviae T25-39	1	116	1	116	179	9e-61	82	116	
+query3664279	2620089997	mercuric ion transport protein	2619618959	Marinobacter sp. DSM 26291	2	116	6	120	178	2e-60	74	120	
+query3664279	2590839880	mercuric ion transport protein	2590828102	beta proteobacterium FWI2	1	116	1	116	177	9e-60	82	116	
+query3664279	2667575108	mercuric ion transport protein	2667527211	Pseudomonas abietaniphila LMG 20220	1	116	1	116	177	9e-60	82	116	
+query3664279	2736092955	mercuric ion transport protein	2734482401	Pseudomonas aeruginosa RW88	1	116	1	116	177	9e-60	82	116	
+query3664279	2743195021	mercuric ion transport protein	2740892368	Cupriavidus metallidurans NE12	1	116	1	116	177	9e-60	82	116	
+query3664279	2792669193	mercuric ion transport protein	2791355103	Marinobacter aromaticivorans D15-8P	1	116	1	116	177	5e-60	73	116	
+query3664279	2841427040	mercuric ion transport protein	2841423562	Marinobacter sp. Arc7-DN-1	2	116	6	120	177	5e-60	74	120	
+query3664279	2870320804	mercuric ion transport protein	2870319472	Pseudomonas aeruginosa PASGNDM345	1	116	1	116	177	5e-60	81	116	
+query3664279	2870332858	mercuric ion transport protein	2870331525	Pseudomonas aeruginosa PASGNDM699	1	116	1	116	177	5e-60	81	116	
+query3664279	2778740265	mercuric ion transport protein	2778261061	Pusillimonas sp. EAC49	1	116	1	116	176	1e-59	76	116	
+query3664279	2793750327	mercuric ion transport protein	2791355352	Trinickia dabaoshanensis GIMN1.004	1	116	1	116	176	2e-59	75	116	
+query3664279	2842331888	mercuric ion transport protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	116	1	116	176	2e-59	84	116	
+query3664279	2842353734	mercuric ion transport protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	116	1	116	176	2e-59	84	116	
+query3664279	2856163345	mercuric ion transport protein	2856162434	Halomonas sp. CSM-2	2	116	6	120	176	2e-59	73	120	
+query3664279	2844302677	mercuric ion transport protein	2844301416	Acidovorax cavernicola 1011MAR4D40.2	1	116	1	116	175	4e-59	72	116	
+query3664279	640637208	mercuric ion transport protein	640612205	Marinobacter sp. ELB17	1	116	1	116	175	2e-59	72	116	
+query3664279	2660388739	mercuric ion transport protein	2660237937	Pseudomonas lactis DSM 29142	19	116	1	98	174	6e-59	89	98	
+query3664279	2804954604	mercuric ion transport protein	2802429317	Variovorax boronicumulans J1	1	116	1	116	174	2e-58	71	116	
+query3664279	2638918784	mercuric ion transport protein	2636416004	Pseudomonas mandelii LMG 21607	1	116	1	116	173	2e-58	80	116	
+query3664279	2659673793	mercuric ion transport protein	2657245614	Pseudomonas sp. NBRC 111118	5	116	1	112	173	1e-58	84	112	
+query3664279	2815718298	mercuric ion transport protein	2814123354	Pseudomonas mandelii NBRC 103147	1	116	1	116	173	2e-58	80	116	
+query3664279	2666490113	mercuric ion transport protein	2663763303	Pseudomonas sp. NBRC 111142	7	116	1	110	172	7e-58	85	110	
+query3664279	2721394804	mercuric ion transport protein	2718218421	Pseudomonas azotoformans S4	1	116	1	116	172	4e-58	81	116	
+query3664279	2794849400	mercuric ion transport protein	2791355562	Pseudomonas sp. GP01-A3	2	116	17	131	171	4e-57	70	131	
+query3664279	2794854639	mercuric ion transport protein	2791355563	Pseudomonas sp. GP01-A14	2	116	17	131	171	4e-57	70	131	
+query3664279	2794863620	mercuric ion transport protein	2791355564	Pseudomonas sp. GP01-A6	2	116	17	131	171	4e-57	70	131	
+query3664279	2795011133	mercuric ion transport protein	2791355588	Pseudomonas sp. FW215-L2	2	116	17	131	171	4e-57	70	131	
+query3664279	2795236720	mercuric ion transport protein	2791355624	Pseudomonas sp. GP01-A4	2	116	17	131	171	4e-57	70	131	
+query3664279	2795243268	mercuric ion transport protein	2791355625	Pseudomonas sp. GP01-A11	2	116	17	131	171	4e-57	70	131	
+query3664279	2795262287	mercuric ion transport protein	2791355628	Pseudomonas sp. GP01-A5	2	116	17	131	171	4e-57	70	131	
+query3664279	2795268315	mercuric ion transport protein	2791355629	Pseudomonas sp. GP01-A13	2	116	17	131	171	4e-57	70	131	
+query3664279	2795275364	mercuric ion transport protein	2791355630	Pseudomonas sp. GP01-A15	2	116	17	131	171	4e-57	70	131	
+query3664279	2795282115	mercuric ion transport protein	2791355631	Pseudomonas sp. GP01-A9	2	116	17	131	171	4e-57	70	131	
+query3664279	2795288900	mercuric ion transport protein	2791355632	Pseudomonas sp. GP01-A8	2	116	17	131	171	4e-57	70	131	
+query3664279	2795296089	mercuric ion transport protein	2791355633	Pseudomonas sp. GP01-A1	2	116	17	131	171	4e-57	70	131	
+query3664279	2516838932	mercuric ion transport protein	2516653033	Marinobacter salsuginis SD-14B	1	116	1	116	170	4e-57	71	116	
+query3664279	2823157330	mercuric ion transport protein	2823156881	Marinobacter sp. CPC48	3	116	5	118	170	3e-57	71	118	
+query3664279	2842330798	mercuric ion transport protein	2842324504	Paraburkholderia fungorum SEMIA 4007	1	116	1	116	170	7e-57	78	116	
+query3664279	2842354234	mercuric ion transport protein	2842348783	Paraburkholderia fungorum SEMIA 4013	1	116	1	116	170	7e-57	78	116	
+query3664279	2844113639	mercuric ion transport protein	2844110416	Herbaspirillum sp. VT-16-41	1	116	1	117	170	5e-57	82	117	
+query3664279	639811360	mercuric ion transport protein	639633037	Marinobacter aquaeolei VT8	1	116	1	116	170	4e-57	71	116	
+query3664279	639809863	mercuric ion transport protein	639633037	Marinobacter aquaeolei VT8	3	116	5	118	170	3e-57	71	118	
+query3664279	2522340265	mercuric ion transport protein	2522125097	Rhodanobacter sp. OR444	1	116	1	116	169	5e-57	78	116	
+query3664279	2637957367	mercuric ion transport protein	2636415771	Paraburkholderia fungorum ATCC BAA-463	1	116	19	134	168	6e-56	80	134	
+query3664279	2514539844	mercuric ion transport protein	2513237337	Marinobacter manganoxydans MnI7-9	1	116	1	116	167	3e-56	70	116	
+query3664279	2744639014	mercuric ion transport protein	2744054528	Idiomarina sp. H105	1	116	1	116	167	3e-56	65	116	
+query3664279	2823096919	mercuric ion transport protein	2823093794	Marinobacter sp. IN6	1	116	1	116	167	4e-56	70	116	
+query3664279	2823160761	mercuric ion transport protein	2823156881	Marinobacter sp. CPC48	1	116	7	122	167	4e-56	70	122	
+query3664279	2534459644	mercuric ion transport protein	2531839682	Burkholderia sp. SJ98	1	116	1	116	166	2e-55	80	116	
+query3664279	2741231099	mercuric ion transport protein	2740891879	Caballeronia udeis ES_PA-B7	1	116	1	116	165	7e-55	81	116	
+query3664279	2633884970	mercuric ion transport protein	2630968946	Ralstonia mannitolilytica SN82F48	3	116	10	123	164	9e-55	71	123	
+query3664279	2637344683	mercuric ion transport protein	2636415628	Caballeronia zhejiangensis CEIB S4-3	2	116	7	121	164	1e-54	78	121	
+query3664279	2518320900	mercuric ion transport protein	2518285516	Pseudomonas synxantha DSM 13080	1	116	1	116	163	2e-54	81	116	
+query3664279	2520391104	mercuric ion transport protein	2519899622	Pseudomonas sp. Ag1	1	116	1	116	163	2e-54	81	116	
+query3664279	2541855595	mercuric ion transport protein	2541047103	Pseudomonas sp. CFT9	1	116	1	116	163	2e-54	81	116	
+query3664279	2543171131	mercuric ion transport protein	2541047479	Pseudomonas syringae BRIP34876	1	116	1	116	163	2e-54	81	116	
+query3664279	2543180174	mercuric ion transport protein	2541047481	Pseudomonas syringae BRIP34881	1	116	1	116	163	2e-54	81	116	
+query3664279	2549662280	mercuric ion transport protein	2548876749	Pseudomonas syringae pv. actinidiae PA459	1	116	1	116	163	2e-54	81	116	
+query3664279	2579668921	mercuric ion transport protein	2576861805	Caballeronia jiangsuensis MP-1	1	116	1	116	163	3e-54	79	116	
+query3664279	2586023997	mercuric ion transport protein	2585427641	Pseudomonas sp. WCS374	1	116	1	116	163	2e-54	81	116	
+query3664279	2586026659	mercuric ion transport protein	2585427641	Pseudomonas sp. WCS374	1	116	1	116	163	2e-54	81	116	
+query3664279	2631457468	mercuric ion transport protein	2630968351	Pseudomonas fluorescens AU2989	1	116	1	116	163	2e-54	81	116	
+query3664279	2640299637	mercuric ion transport protein	2639762637	Pseudomonas poae LMG 21465	1	116	1	116	163	2e-54	81	116	
+query3664279	2641508665	mercuric ion transport protein	2639762981	Pseudomonas fluorescens AU14440	1	116	1	116	163	2e-54	81	116	
+query3664279	2642370886	mercuric ion transport protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	116	1	116	163	2e-54	81	116	
+query3664279	2662688733	mercuric ion transport protein	2660238513	Pseudomonas synxantha DSM 18928	1	116	1	116	163	2e-54	81	116	
+query3664279	2666130012	mercuric ion transport protein	2663763218	Pseudomonas coronafaciens LMG 5060	1	116	1	116	163	2e-54	81	116	
+query3664279	2667945424	mercuric ion transport protein	2667527385	Pseudomonas synxantha LMG 2190	1	116	1	116	163	2e-54	81	116	
+query3664279	2670059808	mercuric ion transport protein	2667527928	Pseudomonas poae DSM 14936	1	116	1	116	163	2e-54	81	116	
+query3664279	2696701902	mercuric ion transport protein	2695420601	Pseudomonas sp. NBRC 111137	1	116	1	116	163	2e-54	81	116	
+query3664279	2712823953	mercuric ion transport protein	2711768305	Pseudomonadales bacterium RIFCSPLOWO2_12_60_38	1	116	1	116	163	2e-54	81	116	
+query3664279	2713031835	mercuric ion transport protein	2711768411	Pseudomonadales bacterium RIFCSPLOWO2_12_FULL_59_450	1	116	1	116	163	2e-54	81	116	
+query3664279	2788699291	mercuric ion transport protein	2788499840	Pseudomonas synxantha finPsuedoS	1	116	1	116	163	2e-54	81	116	
+query3664279	2794850745	mercuric ion transport protein	2791355562	Pseudomonas sp. GP01-A3	1	116	1	116	163	3e-54	81	116	
+query3664279	2794854792	mercuric ion transport protein	2791355563	Pseudomonas sp. GP01-A14	1	116	1	116	163	3e-54	81	116	
+query3664279	2794864524	mercuric ion transport protein	2791355564	Pseudomonas sp. GP01-A6	1	116	1	116	163	3e-54	81	116	
+query3664279	2795010182	mercuric ion transport protein	2791355588	Pseudomonas sp. FW215-L2	1	116	1	116	163	2e-54	81	116	
+query3664279	2795234829	mercuric ion transport protein	2791355624	Pseudomonas sp. GP01-A4	1	116	1	116	163	3e-54	81	116	
+query3664279	2795240971	mercuric ion transport protein	2791355625	Pseudomonas sp. GP01-A11	1	116	1	116	163	3e-54	81	116	
+query3664279	2795259548	mercuric ion transport protein	2791355628	Pseudomonas sp. GP01-A5	1	116	1	116	163	3e-54	81	116	
+query3664279	2795266259	mercuric ion transport protein	2791355629	Pseudomonas sp. GP01-A13	1	116	1	116	163	3e-54	81	116	
+query3664279	2795276589	mercuric ion transport protein	2791355630	Pseudomonas sp. GP01-A15	1	116	1	116	163	3e-54	81	116	
+query3664279	2795279803	mercuric ion transport protein	2791355631	Pseudomonas sp. GP01-A9	1	116	1	116	163	3e-54	81	116	
+query3664279	2795289046	mercuric ion transport protein	2791355632	Pseudomonas sp. GP01-A8	1	116	1	116	163	3e-54	81	116	
+query3664279	2795297245	mercuric ion transport protein	2791355633	Pseudomonas sp. GP01-A1	1	116	1	116	163	3e-54	81	116	
+query3664279	2841425995	mercuric ion transport protein	2841423562	Marinobacter sp. Arc7-DN-1	1	116	1	116	163	2e-54	74	116	
+query3664279	649633429	mercuric ion transport protein	649633086	Pseudomonas fluorescens SBW25	1	116	1	116	163	2e-54	81	116	
+query3664279	2758208480	mercuric ion transport protein	2757320534	Caballeronia udeis ES_AL-E11	1	116	1	116	162	6e-54	80	116	
+query3664279	2793711599	mercuric ion transport protein	2791355346	Burkholderia aenigmatica AU17325	2	116	7	121	162	8e-54	79	121	
+query3664279	2816005276	mercuric ion transport protein	2814123434	Burkholderia vietnamiensis AU15829	2	116	7	121	162	6e-54	79	121	
+query3664279	2860479539	mercuric ion transport protein	2860472259	Burkholderia sp. IDO3	2	116	7	121	162	7e-54	79	121	
+query3664279	2716249620	mercuric ion transport protein	2713897252	Pseudomonas syringae pv. atrofaciens ICMP 4394	1	116	1	116	161	2e-53	80	116	
+query3664279	2581105857	mercuric ion transport protein	2579778817	Burkholderia cenocepacia PT15	1	116	1	116	160	4e-53	78	116	
+query3664279	2583247053	mercuric ion transport protein	2582580763	Burkholderia cenocepacia S2AES	1	116	1	116	160	4e-53	78	116	
+query3664279	2598438730	mercuric ion transport protein	2597490133	Burkholderia multivorans DDS 15A-1	1	116	1	116	160	4e-53	78	116	
+query3664279	2639346947	mercuric ion transport protein	2636416112	Mumia flava MUSC 201	1	116	1	116	160	8e-53	78	116	
+query3664279	2648572302	mercuric ion transport protein	2648501116	Aquamicrobium sp. SK-2	1	116	1	116	160	5e-53	78	116	
+query3664279	2682450120	mercuric ion transport protein	2681812996	Burkholderia contaminans LMG 23361	1	116	1	116	160	5e-53	78	116	
+query3664279	2710231753	mercuric ion transport protein	2708743155	Paraburkholderia insulsa LMG 28183	1	116	1	116	160	5e-53	78	116	
+query3664279	2735853927	mercuric ion transport protein	2734482269	Burkholderia sp. bin4_M5	1	116	1	116	160	4e-53	78	116	
+query3664279	2766114601	mercuric ion transport protein	2765235966	Burkholderia sp. CQ001	1	116	1	116	160	5e-53	78	116	
+query3664279	2774117575	mercuric ion transport protein	2773857669	Burkholderia sp. 28_3	1	116	1	116	160	4e-53	78	116	
+query3664279	2793658658	mercuric ion transport protein	2791355339	Burkholderia sp. HI4860	1	116	1	116	160	4e-53	78	116	
+query3664279	2793667010	mercuric ion transport protein	2791355340	Burkholderia sp. AU33647	1	116	1	116	160	4e-53	78	116	
+query3664279	2793676658	mercuric ion transport protein	2791355341	Burkholderia sp. AU27893	1	116	1	116	160	4e-53	78	116	
+query3664279	2585110846	mercuric ion transport protein	2582581268	Halomonas ilicicola DSM 19980	1	116	1	116	157	2e-52	72	116	
+query3664279	2744640517	mercuric ion transport protein	2744054528	Idiomarina sp. H105	1	116	1	116	156	1e-51	71	116	
+query3664279	2571818995	mercuric ion transport protein	2571042229	Acidithiobacillus thiooxidans A01	1	116	1	116	155	2e-51	73	116	
+query3664279	2647724816	mercuric ion transport protein	2645727960	Sphingomonas sp. Ant H11	1	116	1	116	155	1e-51	73	116	
+query3664279	2718474439	mercuric ion transport protein	2718217687	Novosphingobium kunmingense CGMCC 1.12274	1	116	25	140	155	3e-51	71	140	
+query3664279	2548483024	mercuric ion transport protein	2547132370	Komagataeibacter europaeus LMG 18890	1	116	6	121	153	2e-50	79	121	
+query3664279	2510630952	mercuric ion transport protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	35	116	1	82	150	6e-50	93	82	
+query3664279	2510646086	mercuric ion transport protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	35	116	1	82	150	6e-50	93	82	
+query3664279	2745149126	mercuric ion transport protein	2744054652	Methylorubrum populi CD11_7	1	116	6	121	149	9e-49	75	121	
+query3664279	2807498197	mercuric ion transport protein	2806310756	Methylophaga sp. IN12	1	116	1	117	147	2e-48	73	117	
+query3664279	2837351987	mercuric ion transport protein	2837349240	Pusillimonas maritima L52-1-41	1	116	1	116	147	2e-48	72	116	
+query3664279	2793749078	mercuric ion transport protein	2791355352	Trinickia dabaoshanensis GIMN1.004	1	116	1	116	146	2e-47	69	116	
+query3664279	2597780419	mercuric ion transport protein	2597489864	Congregibacter litoralis KT71	1	116	1	117	143	2e-46	71	117	
+query3664279	2744639958	mercuric ion transport protein	2744054528	Idiomarina sp. H105	1	116	1	117	143	2e-46	71	117	
+query3664279	2776754249	mercuric ion transport protein	2775507014	Halomonas sp. MES3-P3E	1	116	1	117	143	2e-46	71	117	
+query3664279	2551989550	mercuric ion transport protein	2551306146	Afipia birgiae 34632	1	116	1	116	142	2e-46	78	116	
+query3664279	2585849346	mercuric ion transport protein	2585427595	Rhizobium tropici PTD1	1	116	1	116	142	4e-46	78	116	
+query3664279	2788675048	mercuric ion transport protein	2788499837	Rhizobium sp. WW_1	1	116	1	116	142	4e-46	78	116	
+query3664279	2515446992	mercuric ion transport protein	2515154076	Thiobacillus thioparus DSM 505	1	116	1	118	141	7e-46	59	118	
+query3664279	2579988159	mercuric ion transport protein	2579778552	Mesorhizobium sp. NBIMC_P2-C4	1	116	1	116	137	6e-44	73	116	
+query3664279	2581314631	mercuric ion transport protein	2579778865	Mesorhizobium sp. NBIMC_P2-C2	1	116	1	116	137	5e-44	73	116	
+query3664279	2581894812	mercuric ion transport protein	2579779004	Mesorhizobium sp. NBIMC_P2-C1	1	116	1	116	137	5e-44	73	116	
+query3664279	2584187538	mercuric ion transport protein	2582580991	Mesorhizobium sp. NBIMC_P2-C3	1	116	1	116	137	5e-44	73	116	
+query3664279	2660388313	mercuric ion transport protein	2660237937	Pseudomonas lactis DSM 29142	1	84	1	84	133	1e-42	80	102	
+query3664279	2628006981	mercuric ion transport protein	2627853545	Thiobacillus sp. Bin4_E1B	1	116	1	117	130	7e-42	59	117	
+query3664279	2647653751	mercuric ion transport protein	2645727942	Comamonas thiooxydans DF2	1	67	1	67	125	6e-40	94	67	
+query3664279	2844113637	mercuric ion transport protein	2844110416	Herbaspirillum sp. VT-16-41	2	116	5	117	125	3e-39	55	117	
+query3664279	2638793326	mercuric ion transport protein	2636415980	unclassified betaproteobacterium ENR4	9	116	33	142	120	2e-37	56	142	
+query3664279	2788624165	mercuric ion transport protein	2788499826	Sulfurirhabdus autotrophica DSM 100309	1	116	1	118	116	5e-36	49	118	
+query3664279	2637850024	mercuric ion transport protein	2636415745	Comamonas thiooxydans DF1	52	116	1	65	115	5e-36	89	65	
+query3664279	2632162813	mercuric ion transport protein	2630968527	Comamonas testosteroni JL40	6	116	5	115	113	9e-35	50	115	
+query3664279	2637848632	mercuric ion transport protein	2636415745	Comamonas thiooxydans DF1	1	61	1	61	112	5e-35	93	61	
+query3664279	2722619631	mercuric ion transport protein	2721755456	Acidihalobacter prosperus F5	16	115	6	105	111	3e-34	55	108	
+query3664279	2581400157	mercuric ion transport protein	2579778887	Pseudomonas aeruginosa BWHPSA037	1	116	1	116	109	3e-33	47	116	
+query3664279	2642371797	mercuric ion transport protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	116	1	116	109	3e-33	47	116	
+query3664279	2642371822	mercuric ion transport protein	2639763190	Pseudomonas rhodesiae LMG 17764	1	116	1	116	109	3e-33	47	116	
+query3664279	2666488536	mercuric ion transport protein	2663763303	Pseudomonas sp. NBRC 111142	1	116	1	116	109	3e-33	47	116	
+query3664279	2736094564	mercuric ion transport protein	2734482401	Pseudomonas aeruginosa RW88	1	116	1	116	109	4e-33	47	116	
+query3664279	2745191494	mercuric ion transport protein	2744054662	Pseudomonas monteilii CD10_2	1	116	1	116	109	3e-33	47	116	
+query3664279	2794727417	mercuric ion transport protein	2791355541	Pseudomonas sp. MPR-R5A	1	116	1	116	109	3e-33	47	116	
+query3664279	2794787469	mercuric ion transport protein	2791355551	Pseudomonas sp. MPR-R5B	1	116	1	116	109	3e-33	47	116	
+query3664279	2795101343	mercuric ion transport protein	2791355603	Pseudomonas sp. MPBC4-3	1	116	1	116	109	3e-33	47	116	
+query3664279	2637849182	mercuric ion transport protein	2636415745	Comamonas thiooxydans DF1	1	61	1	61	108	2e-33	89	61	
+query3664279	2742270043	mercuric ion transport protein	2740892159	Oleibacter sp. HI0075	11	115	14	118	107	3e-32	50	119	
+query3664279	2743194514	mercuric ion transport protein	2740892368	Cupriavidus metallidurans NE12	6	116	5	115	106	5e-32	50	115	
+query3664279	2597780111	mercuric ion transport protein	2597489864	Congregibacter litoralis KT71	11	115	14	118	103	1e-30	47	119	
+query3664279	2753853461	MerC mercury resistance protein	2751185916	Enterobacter roggenkampii 42192	2	74	17	107	103	4e-30	65	169	
+query3664279	2870236048	MerT mercuric transport protein	2870230914	Klebsiella pneumoniae 2-1	44	108	1	65	103	1e-30	91	133	
+query3664279	2532555009	mercuric ion transport protein	2531839185	Paraglaciecola polaris LMG 21857	1	114	1	114	102	1e-30	42	117	
+query3664279	2540471445	mercuric ion transport protein	2540341041	Pseudoalteromonas sp. BSi20311	1	114	1	114	102	1e-30	42	117	
+query3664279	2655429811	mercuric ion transport protein	2654587694	Bosea vaviloviae SD260	4	115	30	143	102	4e-30	49	144	
+query3664279	2660388328	MerT mercuric transport protein	2660237937	Pseudomonas lactis DSM 29142	1	60	1	60	102	8e-31	85	60	
+query3664279	2776680344	mercuric ion transport protein	2775506997	Alteromonas sp. MB-3u-76	1	114	1	114	102	1e-30	42	117	
+query3664279	642756408	mercuric ion transport protein	642555105	Alteromonas mediterranea DE	1	114	1	114	102	1e-30	42	117	
+query3664279	2660388061	MerT mercuric transport protein	2660237937	Pseudomonas lactis DSM 29142	1	60	1	60	99.4	9e-30	83	60	
+query3664279	2779694624	mercuric ion transport protein	2778261321	Parvibaculum sp. CPC32	4	116	18	132	98.6	7e-29	47	132	
+query3664279	2521638063	mercuric ion transport protein	2521172617	Leisingera aquimarina DSM 24565	5	116	17	130	96.7	6e-28	46	130	
+query3664279	2570642432	mercuric ion transport protein	2568526636	Methylibium sp. T29-B	8	116	7	115	96.7	3e-28	45	115	
+query3664279	2532555007	mercuric ion transport protein	2531839185	Paraglaciecola polaris LMG 21857	1	108	1	109	95.1	1e-27	46	115	
+query3664279	2633610513	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	2	115	18	132	95.1	3e-27	44	132	
+query3664279	2776680346	mercuric ion transport protein	2775506997	Alteromonas sp. MB-3u-76	1	108	1	109	95.1	1e-27	46	115	
+query3664279	642756406	mercuric ion transport protein	642555105	Alteromonas mediterranea DE	1	108	1	109	95.1	1e-27	46	115	
+query3664279	2562497564	mercuric ion transport protein	2561511209	Cycloclasticus zancles 7-ME	1	115	1	114	94.0	3e-27	44	115	
+query3664279	2562495268	mercuric ion transport protein	2561511209	Cycloclasticus zancles 7-ME	1	115	1	114	94.0	3e-27	44	115	
+query3664279	2597780913	mercuric ion transport protein	2597489864	Congregibacter litoralis KT71	1	116	7	123	94.0	5e-27	43	123	
+query3664279	2633610684	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	5	115	22	134	94.0	8e-27	47	137	
+query3664279	2656751871	mercuric ion transport protein	2654588046	Sphingopyxis macrogoltabida 203	2	116	16	132	93.6	1e-26	46	132	
+query3664279	2689352089	mercuric ion transport protein	2687453580	Sphingopyxis macrogoltabida 203N	2	116	16	132	93.6	1e-26	46	132	
+query3664279	2842330806	mercuric ion transport protein	2842324504	Paraburkholderia fungorum SEMIA 4007	2	116	3	115	93.6	9e-27	51	115	
+query3664279	2842354242	mercuric ion transport protein	2842348783	Paraburkholderia fungorum SEMIA 4013	2	116	3	115	93.6	9e-27	51	115	
+query3664279	2776680342	MerT mercuric transport protein	2775506997	Alteromonas sp. MB-3u-76	5	115	93	205	92.8	1e-25	46	208	
+query3664279	2829786906	mercuric ion transport protein	2829783330	Sphingomonas trueperi DSM 7225	5	115	22	134	92.8	2e-26	46	137	
+query3664279	2830074219	mercuric ion transport protein	2830069742	Sphingobium scionense DSM 19371	5	115	22	134	92.4	3e-26	46	137	
+query3664279	2556791246	mercuric ion transport protein	2554235754	Bradyrhizobium sp. OHSU_III	7	115	23	134	92.0	8e-26	44	137	
+query3664279	2521638014	mercuric ion transport protein	2521172617	Leisingera aquimarina DSM 24565	2	113	11	122	91.3	7e-26	44	131	
+query3664279	2538664335	mercuric ion transport protein	2537561796	Sphingobium yanoikuyae ATCC 51230	23	115	36	129	91.3	8e-26	48	130	
+query3664279	2633611505	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	23	115	36	129	91.3	6e-26	48	130	
+query3664279	2579988053	mercuric ion transport protein	2579778552	Mesorhizobium sp. NBIMC_P2-C4	1	115	9	129	90.9	2e-25	44	130	
+query3664279	2581314737	mercuric ion transport protein	2579778865	Mesorhizobium sp. NBIMC_P2-C2	1	115	9	129	90.9	1e-25	44	130	
+query3664279	2581894706	mercuric ion transport protein	2579779004	Mesorhizobium sp. NBIMC_P2-C1	1	115	9	129	90.9	1e-25	44	130	
+query3664279	2584187432	mercuric ion transport protein	2582580991	Mesorhizobium sp. NBIMC_P2-C3	1	115	9	129	90.9	1e-25	44	130	
+query3664279	2596307564	mercuric ion transport protein	2595698224	Bosea thiooxidans DSM 9653	2	115	20	135	90.9	1e-25	49	138	
+query3664279	2714726175	mercuric ion transport protein	2713896887	Bosea thiooxidans CGMCC 9174	2	115	20	135	90.9	1e-25	49	138	
+query3664279	2844768151	mercuric ion transport protein	2844764314	Mesorhizobium sp. YL-MPnR-2016	1	115	9	129	90.9	2e-25	44	130	
+query3664279	2532555019	mercuric ion transport protein	2531839185	Paraglaciecola polaris LMG 21857	24	108	23	109	90.5	1e-25	51	115	
+query3664279	2570642368	mercuric ion transport protein	2568526636	Methylibium sp. T29-B	11	116	1	106	90.5	8e-26	47	106	
+query3664279	2579200320	mercuric ion transport protein	2576861680	Methylibium sp. T29	11	116	1	106	90.5	8e-26	47	106	
+query3664279	2834748839	mercuric ion transport protein	2834748349	Novosphingobium sp. HII-3	1	115	9	129	90.1	2e-25	44	130	
+query3664279	2846786405	mercuric ion transport protein	2846780681	Agrobacterium tumefaciens CFBP6625	14	116	23	132	90.1	3e-25	46	132	
+query3664279	2850614163	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	14	116	23	132	90.1	3e-25	46	132	
+query3664279	2850614215	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	14	116	23	132	90.1	3e-25	46	132	
+query3664279	2850619936	mercuric ion transport protein	2850614736	Agrobacterium tumefaciens CFBP6623	14	116	23	132	90.1	3e-25	46	132	
+query3664279	2529367587	mercuric ion transport protein	2529292551	Bacteroidales bacterium PSC KfJoeBact2-2 (unscreened)	2	112	31	144	89.7	1e-24	46	149	
+query3664279	2529367597	mercuric ion transport protein	2529292551	Bacteroidales bacterium PSC KfJoeBact2-2 (unscreened)	2	112	31	144	89.7	1e-24	46	149	
+query3664279	2643329836	mercuric ion transport protein	2643221425	co-assembly of Bacteroidales bacterium PSC KfJoeBact 2-1 and 2-2 and 2-3 (Single Cell Co-Assembly - Unscreened)	2	112	31	144	89.7	1e-24	46	149	
+query3664279	2776814537	mercuric ion transport protein	2775507029	Bradyrhizobium sp. SK17	2	112	31	144	89.7	7e-25	46	149	
+query3664279	2633608707	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	1	115	1	120	88.2	9e-25	43	123	
+query3664279	2757421590	mercuric ion transport protein	2757320355	Maricaulis maris DSM 4734	4	116	14	128	87.4	2e-24	42	128	
+query3664279	2790117213	mercuric ion transport protein	2788500277	Maricaulis sp. CPC25	4	116	14	128	87.4	1e-24	42	128	
+query3664279	2850620041	mercuric ion transport protein	2850614736	Agrobacterium tumefaciens CFBP6623	2	110	17	129	87.4	3e-24	42	137	
+query3664279	638141830	mercuric ion transport protein	637000157	Maricaulis maris MCS10	4	116	14	128	87.4	1e-24	42	128	
+query3664279	2579692863	mercuric ion transport protein	2576861810	Defluviimonas sp. 20V17	1	116	1	127	86.7	4e-24	41	127	
+query3664279	2695047020	mercuric ion transport protein	2693429897	Allgaiera indica DSM 24802	1	116	1	127	86.7	4e-24	41	127	
+query3664279	2732798986	mercuric ion transport protein	2731957705	Sphingobium herbicidovorans NBRC 16415	2	116	16	131	85.9	1e-23	41	131	
+query3664279	2810838869	mercuric ion transport protein	2808606815	Sphingobium herbicidovorans NBRC 16415	2	116	16	131	85.9	1e-23	41	131	
+query3664279	2829786565	mercuric ion transport protein	2829783330	Sphingomonas trueperi DSM 7225	2	116	16	131	85.9	1e-23	41	131	
+query3664279	2547096771	mercuric ion transport protein	2546826724	Methylobacterium sp. EUR3 AL-11	2	114	14	127	85.1	3e-23	48	131	
+query3664279	2776829770	mercuric ion transport protein	2775507030	Bradyrhizobium sp. UASWS1016	10	115	32	138	85.1	4e-23	44	139	
+query3664279	2776822352	mercuric ion transport protein	2775507030	Bradyrhizobium sp. UASWS1016	10	115	32	138	85.1	4e-23	44	139	
+query3664279	2538664428	mercuric ion transport protein	2537561796	Sphingobium yanoikuyae ATCC 51230	2	116	16	131	84.7	3e-23	41	131	
+query3664279	2746674289	mercuric ion transport protein	2744055042	Oceanicaulis sp. PT13A	4	116	14	128	84.7	2e-23	41	128	
+query3664279	2778740141	mercuric ion transport protein	2778261061	Pusillimonas sp. EAC49	4	116	14	128	84.7	2e-23	41	128	
+query3664279	2790562772	mercuric ion transport protein	2788500406	Oceanicaulis sp. CPC46	4	116	14	128	84.7	2e-23	41	128	
+query3664279	2790568613	mercuric ion transport protein	2788500408	Oceanicaulis sp. SP73	4	116	14	128	84.7	2e-23	41	128	
+query3664279	2547098520	mercuric ion transport protein	2546826724	Methylobacterium sp. EUR3 AL-11	1	115	15	132	84.3	6e-23	41	133	
+query3664279	2585110224	mercuric ion transport protein	2582581268	Halomonas ilicicola DSM 19980	5	115	19	137	84.3	4e-23	38	139	
+query3664279	2814962086	mercuric ion transport protein	2814123148	Methylobacterium sp. NP6	1	115	15	132	84.3	6e-23	41	133	
+query3664279	2551987301	mercuric ion transport protein	2551306146	Afipia birgiae 34632	22	111	40	130	84.0	7e-23	49	135	
+query3664279	2776680477	mercuric ion transport protein	2775506997	Alteromonas sp. MB-3u-76	3	108	2	109	84.0	3e-23	42	115	
+query3664279	2540472473	mercuric ion transport protein	2540341041	Pseudoalteromonas sp. BSi20311	1	108	1	109	83.2	6e-23	41	115	
+query3664279	2842069426	mercuric ion transport protein	2842063143	Methylobacterium brachiatum TX0642	1	110	15	127	83.2	1e-22	42	133	
+query3664279	2850614154	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	2	115	23	139	82.8	2e-22	39	140	
+query3664279	2850614206	mercuric ion transport protein	2850609361	Agrobacterium tumefaciens CFBP6626	2	115	23	139	82.8	2e-22	39	140	
+query3664279	642754846	mercuric ion transport protein	642555105	Alteromonas mediterranea DE	11	115	1	105	82.8	6e-23	41	106	
+query3664279	2846786396	mercuric ion transport protein	2846780681	Agrobacterium tumefaciens CFBP6625	2	115	4	120	82.4	2e-22	39	121	
+query3664279	2850619927	mercuric ion transport protein	2850614736	Agrobacterium tumefaciens CFBP6623	2	115	4	120	82.4	2e-22	39	121	
+query3664279	2633610511	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	23	110	40	128	81.6	4e-22	45	135	
+query3664279	2672320138	mercuric ion transport protein	2671180325	Methylobacterium sp. ME121	1	110	15	127	80.9	2e-21	42	133	
+query3664279	2855926951	mercuric ion transport protein	2855920048	Methylobacterium radiotolerans MAMP 4754	1	110	15	127	80.9	2e-21	42	133	
+query3664279	2695048054	mercuric ion transport protein	2693429897	Allgaiera indica DSM 24802	23	112	39	128	80.5	1e-21	46	133	
+query3664279	2568881199	mercuric ion transport protein	2568526096	Afipia sp. OHSU_II-uncloned	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2569532487	mercuric ion transport protein	2568526295	Afipia sp. OHSU_I-uncloned	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2570243794	mercuric ion transport protein	2568526514	Afipia sp. OHSU_II-C1	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2573519598	mercuric ion transport protein	2571042730	Afipia sp. OHSU_I-C4	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2580261346	mercuric ion transport protein	2579778615	Paraburkholderia fungorum NBRC 102489	9	116	9	116	79.0	5e-21	41	116	
+query3664279	2581143184	mercuric ion transport protein	2579778826	Afipia sp. OHSU_I-C6	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2584113038	mercuric ion transport protein	2582580976	Afipia sp. OHSU_II-C2	14	115	31	134	79.0	6e-21	41	137	
+query3664279	2787209436	mercuric ion transport protein	2786546396	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	24	110	33	121	79.0	3e-21	46	128	
+query3664279	2787214925	mercuric ion transport protein	2786546399	Nitrospirae bacterium CG_4_10_14_3_um_filter_53_41	24	110	33	121	79.0	3e-21	46	128	
+query3664279	2787229322	mercuric ion transport protein	2786546405	Nitrospirae bacterium CG_4_8_14_3_um_filter_50_41	24	110	33	121	79.0	3e-21	46	128	
+query3664279	2787239267	mercuric ion transport protein	2786546408	Nitrospirae bacterium CG17_big_fil_post_rev_8_21_14_2_50_50_9	24	110	33	121	79.0	3e-21	46	128	
+query3664279	2813012524	mercuric ion transport protein	2811995063	Paraburkholderia fungorum FDAARGOS_245	9	116	9	116	79.0	6e-21	41	116	
+query3664279	2514136841	mercuric ion transport protein	2513237191	Komagataeibacter medellinensis NBRC 3288	1	116	22	143	78.2	1e-20	42	143	
+query3664279	2586933732	mercuric ion transport protein	2585427838	Halomonas zincidurans B6	22	115	38	137	78.2	1e-20	39	139	
+query3664279	2511785998	mercuric ion transport protein	2511231144	Burkholderia sp. YI23	1	116	11	132	77.8	2e-20	42	132	
+query3664279	2538664421	mercuric ion transport protein	2537561796	Sphingobium yanoikuyae ATCC 51230	1	116	11	132	77.8	2e-20	42	132	
+query3664279	2633610674	mercuric ion transport protein	2630968880	Sphingopyxis sp. LC81	1	116	11	132	77.8	1e-20	42	132	
+query3664279	2828305707	mercuric ion transport protein	2828301124	Sphingomonas leidyi DSM 4733	1	116	11	132	77.8	1e-20	42	132	
+query3664279	2841446159	mercuric ion transport protein	2841440409	Sphingobium yanoikuyae SJTF8	1	116	11	132	77.8	2e-20	42	132	
+query3664279	2532552824	mercuric ion transport protein	2531839185	Paraglaciecola polaris LMG 21857	24	115	23	114	77.4	1e-20	45	115	
+query3664279	2551989605	mercuric ion transport protein	2551306146	Afipia birgiae 34632	16	115	38	138	77.4	3e-20	43	141	
+query3664279	2532554560	mercuric ion transport protein	2531839185	Paraglaciecola polaris LMG 21857	24	106	23	105	76.6	2e-20	46	115	
+query3664279	2739745443	mercuric ion transport protein	2739367714	Rhodospirillaceae bacterium JGI 01_G16_4000m (contamination screened)	3	115	20	141	74.3	1e-19	36	149	
+query3664279	2638630230	mercuric ion transport protein	2636415936	Methylobacterium variabile DSM 16961	22	115	40	133	73.6	9e-19	47	134	
+query3664279	2788915586	mercuric ion transport protein	2788499891	Sutterellaceae bacterium ARS112	1	112	1	104	73.6	2e-19	42	104	
+query3664279	2579689780	mercuric ion transport protein	2576861810	Defluviimonas sp. 20V17	28	109	3	84	69.7	5e-18	46	84	
+query3664279	2624538445	mercuric ion transport protein	2623620456	Belnapia rosea MJ22	14	85	34	107	69.3	5e-17	53	138	
+query3664279	2719775515	mercuric ion transport protein	2718218021	Acidihalobacter prosperus V6	16	55	16	55	68.2	6e-17	80	131	
+query3664279	2841525242	mercuric ion transport protein	2841517901	Methylobacterium currus PR1016A	30	115	1	86	66.6	1e-16	47	87	
+query3664279	2521638124	mercuric ion transport protein	2521172617	Leisingera aquimarina DSM 24565	2	114	15	131	64.3	3e-15	35	135	
+query3664279	2523631804	mercuric ion transport protein	2523533522	Paucidesulfovibrio longus DSM 6739	16	112	30	126	63.5	3e-15	39	131	
+query3664279	2510633477	MerT mercuric transport protein	2510461031	Pseudomonas aeruginosa LC IV, ATCC 260	1	33	1	33	63.2	1e-15	94	33	
+query3664279	2510647300	MerT mercuric transport protein	2510461033	Pseudomonas aeruginosa Gessard, ATCC 262	1	33	1	33	63.2	9e-16	94	33	
+query3664279	2841425989	mercuric ion transport protein	2841423562	Marinobacter sp. Arc7-DN-1	1	91	1	76	62.4	8e-15	47	112	
+query3664279	2571817812	mercuric ion transport protein	2571042229	Acidithiobacillus thiooxidans A01	20	113	42	135	61.6	3e-14	38	139	
+query3664279	2611748927	mercuric ion transport protein	2609460164	Acidithiobacillus thiooxidans Licanantay	20	113	42	135	61.6	3e-14	38	139	
+query3664279	2611748076	mercuric ion transport protein	2609460164	Acidithiobacillus thiooxidans Licanantay	20	113	42	135	61.2	4e-14	36	139	
+query3664279	2813732276	mercuric ion transport protein	2811995293	Acidithiobacillus caldus MTH-04	3	113	27	136	60.8	4e-14	35	141	
+query3664279	2699273517	MerT mercuric transport protein	2698536479	Enterobacter kobei ST54:941713674	79	116	1	38	60.1	2e-14	95	38	
+query3664279	2805168371	mercuric ion transport protein	2802429362	Bdellovibrionaceae bacterium ARS45	1	116	4	118	59.7	7e-14	36	118	
+query3664279	2620358423	mercuric ion transport protein	2619619004	Sulfitobacter brevis DSM 11443	2	114	18	131	57.4	1e-12	33	135	
+query3664279	2734608433	MerT mercuric transport protein	2734481923	Bradyrhizobium sp. JCM 18382	2	54	24	76	57.0	2e-12	55	124	
+query3664279	2623265142	mercuric ion transport protein	2622736527	Sulfitobacter litoralis DSM 17584	2	114	38	151	56.6	3e-12	33	155	
+query3664279	2686822274	mercuric ion transport protein	2684623108	Desulfuromonas sp. DDH964	16	116	1	98	55.8	2e-12	40	99	
+query3664279	2790907349	mercuric ion transport protein	2788500502	Roseobacter sp. NP10	2	114	18	131	55.1	1e-11	34	135	
+query3664279	2790927588	mercuric ion transport protein	2788500509	Roseobacter sp. SP159	2	114	18	131	55.1	9e-12	34	135	
+query3664279	2597448948	mercuric ion transport protein	2596583694	Geobacter argillaceus ATCC BAA-1139	23	105	20	99	53.9	1e-11	33	111	
+query3664279	2784402718	mercuric ion transport protein	2784132095	Candidatus Manganitrophus noduliformans Mn-1	1	112	1	114	52.4	1e-10	32	118	

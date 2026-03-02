@@ -1,0 +1,12 @@
+"Query.Sequence.Name","Gene.ID","Gene.Name","Genome.ID","Genome.Name","Query.Start.Coord","Query.End.Coord","Subject.Start.Coord","Subject.End.Coord","Bit.Score","E.value","Identities","Subject.Length","X"
+"query3663573",2548015575,"mercuric ion transport protein",2547132255,"Escherichia coli O2:H- 9.1649",1,116,1,116,205,5e-71,88,116,NA
+"query3663573",2548015555,"mercuric ion transport protein",2547132255,"Escherichia coli O2:H- 9.1649",1,116,1,116,197,4e-68,93,116,NA
+"query3663573",2738001635,"mercuric ion transport protein",2737471843,"Escherichia coli CVM N33633PS",1,116,1,116,197,4e-68,93,116,NA
+"query3663573",2731464932,"mercuric ion transport protein",2728369713,"Pseudomonas putida JCM 18798",1,116,1,116,189,2e-64,80,116,NA
+"query3663573",2731510657,"mercuric ion transport protein",2728369721,"Variovorax sp. JCM 16519",1,116,1,116,177,2e-60,74,116,NA
+"query3663573",2586889617,"mercuric ion transport protein",2585427827,"Pseudomonas syringae pv. atrofaciens LMG 5095",1,116,1,116,161,1e-53,80,116,NA
+"query3663573",2554224883,"mercuric ion transport protein",2551306727,"Pseudomonas putida SJ3",1,116,1,116,109,2e-33,47,116,NA
+"query3663573",2792207458,"mercuric ion transport protein",2791354983,"Aurantimonas sp. 22II-16-19i",5,115,18,130,85.5,1e-23,42,133,NA
+"query3663573",2632394087,"mercuric ion transport protein",2630968586,"Methylobacterium radiotolerans 78c",2,114,14,127,85.1,3e-23,48,131,NA
+"query3663573",2632394220,"mercuric ion transport protein",2630968586,"Methylobacterium radiotolerans 78c",10,115,28,133,84,7e-23,48,134,NA
+"query3663573",2788210789,"mercuric ion transport protein",2786546854,"Halobacteriovoraceae bacterium ARS14",3,110,2,109,71.6,2e-18,36,115,NA

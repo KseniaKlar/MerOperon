@@ -1,0 +1,30 @@
+Query Sequence Name	Gene ID	Gene Name	Genome ID	Genome Name	Query Start Coord	Query End Coord	Subject Start Coord	Subject End Coord	Bit Score	E-value	Identities	Subject Length	
+query3652488	2586889618	periplasmic mercuric ion binding protein	2585427827	Pseudomonas syringae pv. atrofaciens LMG 5095	1	91	1	91	145	3e-48	76	91	
+query3652488	2731464933	periplasmic mercuric ion binding protein	2728369713	Pseudomonas putida JCM 18798	1	91	1	92	144	1e-47	79	92	
+query3652488	2548015554	periplasmic mercuric ion binding protein	2547132255	Escherichia coli O2:H- 9.1649	1	91	1	91	136	1e-44	87	91	
+query3652488	2738001636	periplasmic mercuric ion binding protein	2737471843	Escherichia coli CVM N33633PS	1	91	1	91	136	1e-44	87	91	
+query3652488	2731510658	periplasmic mercuric ion binding protein	2728369721	Variovorax sp. JCM 16519	1	91	1	92	125	2e-40	68	92	
+query3652488	2554224882	periplasmic mercuric ion binding protein	2551306727	Pseudomonas putida SJ3	1	91	1	91	90.1	3e-26	51	91	
+query3652488	2516235584	periplasmic mercuric ion binding protein	2516143028	Thioalkalivibrio thiocyanodenitrificans ARhD 1	4	91	10	94	87.0	4e-25	49	94	
+query3652488	2792207459	periplasmic mercuric ion binding protein	2791354983	Aurantimonas sp. 22II-16-19i	15	87	16	88	67.4	4e-17	55	96	
+query3652488	2647770565	P-type Cu+ transporter	2645727973	Gottschalkia purinilytica DSM 1384	20	85	2	67	58.9	7e-13	41	793	
+query3652488	2563818015	sulfite exporter TauE/SafE	2563366730	Clostridium hydrogeniformans DSM 21757	20	85	2	67	57.8	2e-12	39	609	
+query3652488	2572041589	copper chaperone	2571042300	Staphylococcus aureus DAR5864	26	86	6	66	57.0	1e-13	38	68	
+query3652488	2586319703	copper ion binding protein	2585427715	Clostridioides mangenotii TR	28	85	8	65	57.0	9e-13	45	182	
+query3652488	2602753008	copper chaperone	2602041742	Staphylococcus aureus DAR3144	26	86	6	66	57.0	1e-13	38	68	
+query3652488	2604195419	copper chaperone	2603879595	Staphylococcus aureus DAR5810	26	86	6	66	57.0	1e-13	38	68	
+query3652488	645665048	copper chaperone	645058749	Staphylococcus aureus aureus CF-Marseille	26	86	6	66	57.0	9e-14	38	68	
+query3652488	647183560	copper chaperone	647000322	Staphylococcus aureus aureus MR1	26	86	6	66	57.0	1e-13	38	68	
+query3652488	2586319703	copper ion binding protein	2585427715	Clostridioides mangenotii TR	26	87	76	137	56.2		42	182	
+query3652488	2520642147	P-type Cu+ transporter	2519899694	Brachyspira innocens ATCC 29796	24	85	3	64	55.1	2e-11	39	758	
+query3652488	2832152131	copper chaperone CopZ	2832151896	Geothermobacter hydrogeniphilus HR-1	13	90	35	113	55.1	2e-12	37	118	
+query3652488	2552933771	copper chaperone	2551306399	Staphylococcus aureus PPUKM-332-2009	26	86	6	66	54.7	8e-13	36	68	
+query3652488	2552946042	copper chaperone	2551306402	Staphylococcus aureus PPUKM-261-2009	26	86	6	66	54.7	8e-13	36	68	
+query3652488	2562258234	copper chaperone	2561511148	Staphylococcus aureus aureus 55/2053	26	86	6	66	54.7	7e-13	36	68	
+query3652488	2573128330	copper chaperone	2571042617	Staphylococcus aureus AMMC6051	26	86	6	66	54.7	7e-13	36	68	
+query3652488	2632394221	periplasmic mercuric ion binding protein	2630968586	Methylobacterium radiotolerans 78c	22	91	25	96	54.7	5e-12	44	112	
+query3652488	2561523749	P-type Cu+ transporter	2561511002	Peptoclostridium litorale W6	28	91	8	71	53.5	6e-11	41	813	
+query3652488	2587854630	P-type Cu+ transporter	2585428090	Peptoclostridium litorale DSM 5388	28	91	8	71	53.5	5e-11	41	813	
+query3652488	2545760187	copper chaperone	2545555860	Brachyspira alvinipulli ATCC 51933	22	89	2	69	52.0	1e-11	35	69	
+query3652488	2658092709	copper ion binding protein	2657245102	Clostridium botulinum CDC41370	24	87	1	64	51.2	3e-11	36	69	
+query3652488	2703010558	copper ion binding protein	2700989514	Clostridium botulinum CDC41370NT	24	87	1	64	51.2	3e-11	36	69	
