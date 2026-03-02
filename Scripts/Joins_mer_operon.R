@@ -46,78 +46,7 @@ clean_merB_IMG <- function(df) {
 mer_R <- clean_merB_IMG(mer_R)
 
 
-
-# Extracting genome ids ---------------------------------------------------
-
-# creating a new dataframe
-merIMGid <- mer_R["IMG.Genome"]
-colnames(merIMGid) <- "taxon_oid"  # new column name
-
-
-# Export as tab-delimited file
-write.table(merIMGid, 
-            "Output/Genome ID_operon.tsv", 
-            sep = "\t",       # tab delimiter
-            row.names = FALSE, 
-            quote = FALSE)    # optional: prevents quotes around text
-
-
-
-# Extracting the IMG IDs in two batches because IMG only allows bl --------
-
-# Extract IMG Genome column
-merIMGid <- mer_R["IMG.Genome"]
-colnames(merIMGid) <- "taxon_oid"
-
-# Make sure Output folder exists
-if (!dir.exists("Output")) {
-  dir.create("Output")
-}
-
-# First 1000 genomes
-merIMGid_1 <- merIMGid[1:1000, ]
-
-# Remaining genomes
-merIMGid_2 <- merIMGid[1001:nrow(merIMGid), ]
-
-
-# Extracting in batches of 100 --------------------------------------------
-
-
-# Write first batch
-# Extract IMG Genome column
-# merIMGid <- mer_R["IMG.Genome"]
-# colnames(merIMGid) <- "taxon_oid"
-# 
-# # Set batch size
-# batch_size <- 100
-# n <- nrow(merIMGid)
-# num_batches <- ceiling(n / batch_size)
-# 
-# # Loop over batches
-# for (i in 1:num_batches) {
-#   
-#   # Calculate row indices for this batch
-#   start_row <- (i - 1) * batch_size + 1
-#   end_row <- min(i * batch_size, n)
-#   
-#   # Subset the batch
-#   batch <- merIMGid[start_row:end_row, ]
-#   
-#   # File name
-#   file_name <- paste0("Output/Genome_ID_batch_", i, ".tsv")
-#   
-#   # Write tab-delimited file
-#   write.table(batch,
-#               file_name,
-#               sep = "\t",
-#               row.names = FALSE,
-#               quote = FALSE)
-# }
-
-
-
-# Combining the metabolism database with the original mer operon databas --------
+# Combining the metabolism database with the original mer operon database --------
 
 mer_metabolism <- read.csv("Data/mer_metabolisms.csv")
 
@@ -127,67 +56,7 @@ mer_R <- mer_R%>%
             by = c("IMG.Genome" = "IMG.Genome.ID"))
 
 
-# Adding the merR BLAST files ---------------------------------------------
-
-# Importing the data
-batch1 <- read.csv("Data/MerR/batch1.csv")
-batch2 <- read.csv("Data/MerR/batch2.csv")
-
-# combining the two dtaframes
-merR <- rbind(batch1, batch2)
-
-
-merR_numbered <- merR %>%
-  group_by(`Genome.ID`) %>%
-  mutate(hit_number = row_number()) %>%
-  ungroup()
-
-merR_wide <- merR_numbered %>%
-  pivot_wider(
-    names_from = hit_number,
-    values_from = `Gene.ID`,
-    names_prefix = "merR.ID "
-  )
-
-mer_R <- mer_R %>%
-  left_join(merR_wide, by = c("IMG.Genome" = "Genome.ID"))
-
-
-# Importing and cleaning up the merP and merT files -----------------------
-
-meroperon <- list.files("Data/merO", full.names = TRUE)
-
-merO_combined <- lapply(1:length(meroperon), function(x){
-  x
-  mer <- read.csv(meroperon[x], stringsAsFactors=FALSE)
-  
-  
-  #Filepath<-paste()
-  write.csv(finaldataframe, "/Gene and genome IDs for IMG screening/Outputfile.csv", row.names=FALSE)
-})
-
-
-# Converting the txt files to csv -----------------------------------------
-
-# 1. Get all .txt files in your folder
-txt_files <- list.files("Data/Raw data", pattern = "\\.txt$", full.names = TRUE)
-
-# 2. Use lapply to convert each one
-lapply(txt_files, function(file_path) {
-  
-  # Read the text file (adjust 'sep' if it's not tabs)
-  # sep = "\t" for tabs, sep = "" for any whitespace
-  temp_data <- read.delim(file_path, header = TRUE, sep = "\t", stringsAsFactors = FALSE)
-  
-  # Create the new filename by replacing .txt with .csv
-  new_name <- gsub("\\.txt$", ".csv", file_path)
-  
-  # Save as CSV
-  write.csv(temp_data, file = new_name, row.names = FALSE)
-})
-
-
-# Trying some things ------------------------------------------------------
+# Importing merP and merT files -------------------------------------------
 
 # MerP
 
@@ -213,8 +82,58 @@ merT21 <- rbind(batch1_t21, batch2_t21)
 
 
 
-# Cheching for non repeated values
+# Cleaning up the dtaframes -----------------------------------------------
 
+
+# Removing all non merPs
+unique(merP21$Gene.Name)
+
+merP21 <- merP21 %>% 
+  filter(Gene.Name == "periplasmic mercuric ion binding protein")
+merP501 <- merP501 %>% 
+  filter(Gene.Name == "periplasmic mercuric ion binding protein")
+
+# Removing all non merTs
+unique(merT501$Gene.Name)
+unique(merT21$Gene.Name)
+
+merT21 <- merT21 %>% 
+  filter(Gene.Name != "MerC mercury resistance protein")
+merT501 <- merT501 %>% 
+  filter(Gene.Name != "MerC mercury resistance protein")
+
+# Removing unncessary columns
+# MerP21
+names(merP21)
+
+merP21 <- merP21 %>% 
+  select(c("Gene.Name", "Genome.ID", "Genome.Name", "Gene.ID"))
+
+# MerP501
+names(merP501)
+
+merP501 <- merP501 %>% 
+  select(c("Gene.Name", "Genome.ID", "Genome.Name", "Gene.ID"))
+
+# MerT21
+names(merT21)
+
+merT21 <- merT21 %>% 
+  select(c("Gene.Name", "Genome.ID", "Genome.Name", "Gene.ID"))
+
+# MerT501
+names(merT501)
+
+merT501 <- merT501 %>% 
+  select(c("Gene.Name", "Genome.ID", "Genome.Name", "Gene.ID"))
+
+
+
+
+# Exploring the dataframes ------------------------------------------------
+
+
+# Checking for non duplicated genomes
 # merP
 bind_rows(merP21["Genome.ID"], merP501["Genome.ID"]) %>%
   count(Genome.ID) %>%
@@ -227,14 +146,33 @@ bind_rows(merT21["Genome.ID"], merT501["Genome.ID"]) %>%
   filter(n == 1) %>%
   pull(Genome.ID)
 
+# Checking for non duplicated genes
+
+# merP
+bind_rows(merP21["Gene.ID"], merP501["Gene.ID"]) %>%
+  count(Gene.ID) %>%
+  filter(n == 1) %>%
+  pull(Gene.ID)
+
+# merT
+bind_rows(merT21["Gene.ID"], merT501["Gene.ID"]) %>%
+  count(Gene.ID) %>%
+  filter(n == 1) %>%
+  pull(Gene.ID)
 
 
 
+# Combining the dataframes ------------------------------------------------
 
 
+merP <- bind_rows(merP21, merP501) %>%
+  distinct(Gene.ID, .keep_all = TRUE)
+merT <- bind_rows(merT21, merT501) %>%
+  distinct(Gene.ID, .keep_all = TRUE)
 
 
-
+# Pivoting wider
+# merP
 merP <- merP %>%
   group_by(`Genome.ID`) %>%
   mutate(hit_number = row_number()) %>%
@@ -242,9 +180,39 @@ merP <- merP %>%
   pivot_wider(
     names_from = hit_number,
     values_from = `Gene.ID`,
-    names_prefix = "merP.ID "
+    names_prefix = "merP.ID."
   )
 
-mer_R <- mer_R %>%
-  left_join(merP, by = c("IMG.Genome" = "Genome.ID"))
+# merT
+merT <- merT %>%
+  group_by(`Genome.ID`) %>%
+  mutate(hit_number = row_number()) %>%
+  ungroup() %>%
+  pivot_wider(
+    names_from = hit_number,
+    values_from = `Gene.ID`,
+    names_prefix = "merT.ID."
+  )
 
+
+# Combining with the master mer dataframe ---------------------------------
+
+
+
+# Importing and cleaning up the merP and merT files -----------------------
+
+meroperon <- list.files("Data/merO", full.names = TRUE)
+
+merO_combined <- lapply(1:length(meroperon), function(x){
+  x
+  mer <- read.csv(meroperon[x], stringsAsFactors=FALSE)
+  
+  
+  #Filepath<-paste()
+  write.csv(finaldataframe, "/Gene and genome IDs for IMG screening/Outputfile.csv", row.names=FALSE)
+})
+
+# Adding the merR BLAST files ---------------------------------------------
+
+mer_R <- mer_R %>%
+  left_join(merR_wide, by = c("IMG.Genome" = "Genome.ID"))
