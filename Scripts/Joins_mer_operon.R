@@ -9,7 +9,7 @@ rm(list=ls())
 # loading the libraries
 library(tidyverse)
 library(dplyr)
-library(dslabs)
+library(dslabs) 
 library(Biostrings)
 library(ggplot2)
 library(readr)
@@ -197,6 +197,131 @@ merT <- merT %>%
 
 # Combining with the master mer dataframe ---------------------------------
 
+merP <- merP %>% 
+  select(-c("Genome.Name"))
+
+
+merT <- merT %>% 
+  select(-c("Genome.Name"))
+
+mer_R <- mer_R %>%
+  left_join(merP, by = c("IMG.Genome" = "Genome.ID"))
+
+mer_R <- mer_R %>%
+  left_join(merT, by = c("IMG.Genome" = "Genome.ID"))
+
+# Adding columns of merP and merT copies and presence/absence of each
+mer_R <- mer_R %>%
+  mutate(
+    # Count non-NA merP columns
+    merP.copies = rowSums(!is.na(select(., starts_with("merP.ID")))),
+    
+    # Count non-NA merT columns
+    merT.copies = rowSums(!is.na(select(., starts_with("merT.ID"))))
+  )
+
+mer_R <- mer_R %>%
+  mutate(
+    has_merP = merP.copies > 0,
+    has_merT = merT.copies > 0
+  )
+
+
+# Cleaning up the dataframe -----------------------------------------------
+
+mer_R %>% names()
+
+names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment"
+names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
+
+mer_operoncontent <- mer_R %>% select(c("Domain", "IMG.Genome", "merB.copies", "merB.comment", "Phylum", "Class", "Order", "Family", "Genus", "Species", "Genome.Name...Sample.Name.x", "has_merA", "has_merB", "Metabolism", "Oxygen.Requirement", "Genome.Size....assembled", "merP.comment", "merT.comment", "merP.copies", "merT.copies", "has_merP", "has_merT"))
+
+names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment"
+names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
+
+
+
+
+# Visualizing -------------------------------------------------------------
+
+
+mer_operoncontent <- mer_operoncontent %>%
+  mutate(
+    quadrant = case_when(
+      has_merP & has_merT  ~ "Both",
+      has_merP & !has_merT ~ "merP only",
+      !has_merP & has_merT ~ "merT only",
+      TRUE                 ~ "Neither"
+    ),
+    category = case_when(
+      has_merA & has_merB ~ "merAB",
+      has_merB & !has_merA ~ "merB only",
+      TRUE ~ NA_character_
+    )
+  ) %>%
+  filter(!is.na(category))   # keep only relevant genomes
+
+mer_operoncontent %>% 
+  ggplot(aes(x = has_merP, 
+             y = has_merT, 
+             color = category)) +
+  geom_jitter(width = 0.5, 
+              height = 0.4, 
+              size = 1.5, 
+              alpha = 0.6) +
+  scale_x_discrete(labels = c("FALSE" = "No merP", "TRUE" = "merP")) +
+  scale_y_discrete(labels = c("FALSE" = "No merT", "TRUE" = "merT")) +
+  scale_color_manual(values = c("merAB" = "chocolate",
+                                "merB only" = "forestgreen")) +
+  theme_classic() +
+  labs(x = "merP presence",
+       y = "merT presence",
+       color = "Genome Type",
+       title = "merT and merP genes across orphaned and coupled merB genomes")
+
+
+# Exploring the graph -----------------------------------------------------
+
+# Finding out what genomes are merB, merT and merP
+mer_R %>%
+  filter(
+    has_merB,
+    has_merT,
+    has_merP,
+    !has_merA
+  ) %>% select(IMG.Genome)
+
+mer_operoncontent %>%
+  filter(
+    has_merB,
+    has_merT,
+    has_merP,
+    !has_merA
+  )
+
+mer_R %>%
+  filter(IMG.Genome %in% c(
+    2791354983,
+    2737471843,
+    2547132255,
+    2630968586,
+    2728369713,
+    2551306727,
+    2585427827,
+    2728369721
+  )) %>%
+  select(
+    merB.IMG.gene.ID.1,
+    merB.IMG.gene.ID.2,
+    merB.IMG.gene.ID.3,
+    merB.IMG.gene.ID.4,
+    merB.IMG.gene.ID.5,
+    merB.IMG.gene.ID.6,
+    merB.IMG.gene.ID.7,
+    merB.IMG.gene.ID.8,
+    merB.IMG.gene.ID.9.12
+  )
+
 
 
 # Importing and cleaning up the merP and merT files -----------------------
@@ -212,7 +337,79 @@ merO_combined <- lapply(1:length(meroperon), function(x){
   write.csv(finaldataframe, "/Gene and genome IDs for IMG screening/Outputfile.csv", row.names=FALSE)
 })
 
-# Adding the merR BLAST files ---------------------------------------------
+
+# Trying an lapply --------------------------------------------------------
+
+# 1. Structure all file paths into one nested list
+all_files_list <- list(
+  merP = list(
+    Tn501 = c("Data/merP/batch1_merP_Tn501.csv", "Data/merP/batch2_merP_Tn501.csv"),
+    Tn21  = c("Data/merP/batch1_merP_Tn21.csv", "Data/merP/batch2_merP_Tn21.csv")
+  ),
+  merT = list(
+    Tn501 = c("Data/merT/batch1_merT_Tn501.csv", "Data/merT/batch2_merT_Tn501.csv"),
+    Tn21  = c("Data/merT/batch1_merT_Tn21.csv", "Data/merT/batch2_merT_Tn21.csv")
+  )
+)
+
+# 2. Run the entire pipeline inside one lapply
+processed_genes <- lapply(names(all_files_list), function(gene_name) {
+  
+  # A. Read and Bind Batches
+  raw_data <- lapply(all_files_list[[gene_name]], function(files) {
+    bind_rows(lapply(files, read.csv))
+  })
+  
+  # B. Clean based on gene type
+  if(gene_name == "merP") {
+    cleaned <- lapply(raw_data, function(df) {
+      filter(df, Gene.Name == "periplasmic mercuric ion binding protein") %>%
+        select(Gene.Name, Genome.ID, Genome.Name, Gene.ID)
+    })
+  } else {
+    cleaned <- lapply(raw_data, function(df) {
+      filter(df, Gene.Name != "MerC mercury resistance protein") %>%
+        select(Gene.Name, Genome.ID, Genome.Name, Gene.ID)
+    })
+  }
+  
+  # C. Combine Tn21/Tn501 and Unique
+  combined <- bind_rows(cleaned) %>% 
+    distinct(Gene.ID, .keep_all = TRUE)
+  
+  # D. Pivot Wider
+  pivoted <- combined %>%
+    group_by(Genome.ID) %>%
+    mutate(hit_number = row_number()) %>%
+    ungroup() %>%
+    pivot_wider(
+      names_from = hit_number,
+      values_from = Gene.ID,
+      names_prefix = paste0(gene_name, ".ID.")
+    ) %>%
+    select(-Genome.Name)
+  
+  return(pivoted)
+})
+
+# Assign names so we can join easily
+names(processed_genes) <- names(all_files_list)
+
+# 3. Join everything back to mer_R
+for(gene in names(processed_genes)) {
+  mer_R <- left_join(mer_R, processed_genes[[gene]], by = c("IMG.Genome" = "Genome.ID"))
+}
 
 mer_R <- mer_R %>%
-  left_join(merR_wide, by = c("IMG.Genome" = "Genome.ID"))
+  mutate(
+    merP.copies = rowSums(!is.na(select(., starts_with("merP.ID")))),
+    merT.copies = rowSums(!is.na(select(., starts_with("merT.ID")))),
+    has_merP = merP.copies > 0,
+    has_merT = merT.copies > 0
+  ) 
+names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment" 
+names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
+
+# %>%
+#   rename(merP.comment = Gene.Name.x, 
+#          merT.comment = Gene.Name.y)
