@@ -13,6 +13,8 @@ library(dslabs)
 library(Biostrings)
 library(ggplot2)
 library(readr)
+library(gridExtra)
+library(tibble)
 
 # The dataset
 mer_R <- read.csv("Data/sup_data_Christakis.csv")
@@ -114,7 +116,8 @@ processed_genes <- lapply(names(all_files_list), function(gene_name) {
 })
 
 
-# Joining, adding descriptive columns and renaming ------------------------
+
+# Joining -----------------------------------------------------------------
 
 # Assigning names so the dataframes are easily joined
 names(processed_genes) <- names(all_files_list)
@@ -124,6 +127,11 @@ for(gene in names(processed_genes)) {
   mer_R <- left_join(mer_R, processed_genes[[gene]], by = c("IMG.Genome" = "Genome.ID"))
 }
 
+
+
+# Tidying -----------------------------------------------------------------
+names(mer_R)
+
 # Adding columns with the number of copies of each gene and a TRUE/FALSE column for visualization later
 mer_R <- mer_R %>%
   mutate(
@@ -131,8 +139,23 @@ mer_R <- mer_R %>%
     merT.copies = rowSums(!is.na(select(., starts_with("merT.ID")))),
     has_merP = merP.copies > 0,
     has_merT = merT.copies > 0
-  ) %>% 
-  mutate(across(where(is.character), ~na_if(., ""))) # Replacing all blank cells with NA for tidyness
+  )
+
+mer_R <- mer_R %>% 
+  mutate(across(where(is.character), ~na_if(., ""))) %>% # Replacing all blank cells with NA for tidyness
+  select(-c("merA.comment", "merA.IMG.gene.ID.1", "merA.IMG.gene.ID.2", "merA.IMG.gene.ID.3", "merA.IMG.gene.ID.4", "merA.IMG.gene.ID.5", "merA.IMG.gene.ID.6", "merA.IMG.gene.ID.7", "merA.IMG.gene.ID.8", "merB.like.copies", "merA.comment", "Content.in.mer.genes", "merB.comment", "merP.comment", "merT.comment", "Metabolism"))  # Removing unncessary columns %>% 
+  mutate(Oxygen.Requirement = case_when(
+    Oxygen.Requirement %in% c("Aerobe", "Obligate aerobe") ~ "Aerobe",
+    Oxygen.Requirement == "Microaerophilic" ~ "Microaerophilic",
+    Oxygen.Requirement %in% c("Facultative", "Facultative anaerobe") ~ "Facultative",
+    Oxygen.Requirement %in% c("Anaerobe", "Obligate anaerobe") ~ "Anaerobe",
+    TRUE ~ NA_character_ #Tidying the oxygen requirement column to have consistent data
+  )) %>%
+    select(-`Genome.Name...Sample.Name.x`) %>%  # remove x column
+    rename(Sample.Name = `Genome.Name...Sample.Name.y`)
+
+
+  
 
 # Renaming the gene name columns for more clarity
 names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment" 
@@ -144,13 +167,52 @@ names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
 #          merT.comment = Gene.Name.y)
 
 
+# This works
+mer_R <- mer_R %>%
+  mutate(Sample.Name = `Genome.Name...Sample.Name.y`)
+
+# This works
+mer_R <- mer_R %>% 
+  select(-`Genome.Name...Sample.Name.y`)
+
+# Why doesn't this work?
+mer_R <- mer_R %>%
+  rename(Name.Sample = `Genome.Name...Sample.Name.y`)
+
 
 # Visualizing -------------------------------------------------------------
 
-mer_operoncontent <- mer_R %>% select(c("Domain", "IMG.Genome", "merB.copies", "merB.comment", "Phylum", "Class", "Order", "Family", "Genus", "Species", "Genome.Name...Sample.Name.x", "has_merA", "has_merB", "Metabolism", "Oxygen.Requirement", "Genome.Size....assembled", "merP.comment", "merT.comment", "merP.copies", "merT.copies", "has_merP", "has_merT"))
+p1 <- mer_R %>%
+  filter(has_merB == TRUE, !is.na(Oxygen.Requirement)) %>%
+  mutate(GenomeType = ifelse(has_merA, "Coupled merB", "Orphaned merB")) %>%
+  count(GenomeType, Oxygen.Requirement) %>%
+  group_by(GenomeType) %>%
+  mutate(prop = n / sum(n)) %>%
+  ggplot(aes(x = "", y = prop, fill = Oxygen.Requirement)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y") +
+  facet_wrap(~GenomeType, strip.position = "bottom") +
+  labs(
+    title = "Oxygen Requirements\nAmongst Coupled and Orphaned merB Genomes",
+    fill = "Oxygen Requirement"
+  ) +
+  theme_void() +
+  theme(
+    plot.title = element_text(
+      face = "bold",
+      size = 16,
+      hjust = 0.5),
+    legend.title = element_text(
+      face = "bold",
+      size = 14),
+    legend.text = element_text(
+      size = 12),
+    strip.placement = "outside",
+    strip.text = element_text(size = 12)
+  )
+p1
 
-mer_operoncontent <- mer_operoncontent %>%
-  mutate(
+p2 <- mer_R %>% mutate(
     quadrant = case_when(
       has_merP & has_merT  ~ "Both",
       has_merP & !has_merT ~ "merP only",
@@ -163,9 +225,7 @@ mer_operoncontent <- mer_operoncontent %>%
       TRUE ~ NA_character_
     )
   ) %>%
-  filter(!is.na(category))   # keep only relevant genomes
-
-mer_operoncontent %>% 
+  filter(!is.na(category)) %>% 
   ggplot(aes(x = has_merP, 
              y = has_merT, 
              color = category)) +
@@ -181,8 +241,27 @@ mer_operoncontent %>%
   labs(x = "merP presence",
        y = "merT presence",
        color = "Genome Type",
-       title = "merT and merP genes across orphaned and coupled merB genomes")
+       title = "merT and merP genes across\norphaned and coupled merB genomes") +
+  theme(
+    plot.title = element_text(
+      face = "bold",
+      size = 16,
+      hjust = 0.5),
+    legend.title = element_text(
+      face = "bold",
+      size = 14),
+    legend.text = element_text(
+      size = 12),
+    axis.ticks = element_blank()
+  ) 
+p2
 
+# Lines separating the quandrents
+# +
+#   geom_vline(xintercept = 1.5, color = "gray40") +
+#   geom_hline(yintercept = 1.5, color = "gray40")
+
+ggsave("Output/MerT and merP presence.png", plot = p2, bg = "white")
 
 # Exploring the graph -----------------------------------------------------
 
@@ -194,14 +273,6 @@ mer_R %>%
     has_merP,
     !has_merA
   ) %>% select(IMG.Genome)
-
-mer_operoncontent %>%
-  filter(
-    has_merB,
-    has_merT,
-    has_merP,
-    !has_merA
-  )
 
 mer_R %>%
   filter(IMG.Genome %in% c(
@@ -225,3 +296,10 @@ mer_R %>%
     merB.IMG.gene.ID.8,
     merB.IMG.gene.ID.9.12
   )
+
+
+mer_R %>%
+  filter(
+    has_merT,
+    has_merP
+  ) %>% select(Oxygen.Requirement)
