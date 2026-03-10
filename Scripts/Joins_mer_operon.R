@@ -140,32 +140,26 @@ mer_R <- mer_R %>%
     has_merP = merP.copies > 0,
     has_merT = merT.copies > 0
   )
+# Renaming the gene name columns for more clarity
+names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment" 
+names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
 
 mer_R <- mer_R %>% 
   mutate(across(where(is.character), ~na_if(., ""))) %>% # Replacing all blank cells with NA for tidyness
   select(-c("merA.comment", "merA.IMG.gene.ID.1", "merA.IMG.gene.ID.2", "merA.IMG.gene.ID.3", "merA.IMG.gene.ID.4", "merA.IMG.gene.ID.5", "merA.IMG.gene.ID.6", "merA.IMG.gene.ID.7", "merA.IMG.gene.ID.8", "merB.like.copies", "merA.comment", "Content.in.mer.genes", "merB.comment", "merP.comment", "merT.comment", "Metabolism"))  # Removing unncessary columns %>% 
+  
+
+mer_R <- mer_R %>% 
   mutate(Oxygen.Requirement = case_when(
     Oxygen.Requirement %in% c("Aerobe", "Obligate aerobe") ~ "Aerobe",
     Oxygen.Requirement == "Microaerophilic" ~ "Microaerophilic",
     Oxygen.Requirement %in% c("Facultative", "Facultative anaerobe") ~ "Facultative",
     Oxygen.Requirement %in% c("Anaerobe", "Obligate anaerobe") ~ "Anaerobe",
     TRUE ~ NA_character_ #Tidying the oxygen requirement column to have consistent data
-  )) %>%
-    select(-`Genome.Name...Sample.Name.x`) %>%  # remove x column
-    rename(Sample.Name = `Genome.Name...Sample.Name.y`)
+  ))
 
-
-  
-
-# Renaming the gene name columns for more clarity
-names(mer_R)[names(mer_R) == "Gene.Name.x"] <- "merP.comment" 
-names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
 
 # IDK why this doesnt work???
-# %>%
-#   rename(merP.comment = Gene.Name.x, 
-#          merT.comment = Gene.Name.y)
-
 
 # This works
 mer_R <- mer_R %>%
@@ -176,8 +170,9 @@ mer_R <- mer_R %>%
   select(-`Genome.Name...Sample.Name.y`)
 
 # Why doesn't this work?
-mer_R <- mer_R %>%
-  rename(Name.Sample = `Genome.Name...Sample.Name.y`)
+mer_R <- 
+  rename(Sample.Name = `Genome.Name...Sample.Name.y`)
+
 
 
 # Visualizing -------------------------------------------------------------
@@ -303,3 +298,16 @@ mer_R %>%
     has_merT,
     has_merP
   ) %>% select(Oxygen.Requirement)
+
+
+ids <- c(
+  2510630952,
+  2510646086,
+  2870236048,
+  2637850024,
+  2699273517
+)
+
+mer_R %>%
+  filter(if_any(starts_with("merT.ID"), ~ . %in% ids))
+
