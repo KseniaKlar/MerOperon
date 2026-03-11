@@ -3,6 +3,8 @@
 # This script is for extracting csv and writing csv files to be used in the IMG interface
 # MUST BE USED WITH Joins_mer_operon.R code
 
+### DO NOT CLEAR THE ENVIRONMENT OR RESTART R###
+
 # Extracting genome IDs ---------------------------------------------------
 
 # creating a new dataframe
@@ -15,7 +17,7 @@ write.table(merIMGid,
             "Output/Genome ID_operon.tsv", 
             sep = "\t",       # tab delimiter
             row.names = FALSE, 
-            quote = FALSE)    # optional: prevents quotes around text
+            quote = FALSE)
 
 
 
@@ -25,58 +27,31 @@ write.table(merIMGid,
 merIMGid <- mer_R["IMG.Genome"]
 colnames(merIMGid) <- "taxon_oid"
 
-# Make sure Output folder exists
-if (!dir.exists("Output")) {
-  dir.create("Output")
-}
-
 # First 1000 genomes
 merIMGid_1 <- merIMGid[1:1000, ]
 
 # Remaining genomes
 merIMGid_2 <- merIMGid[1001:nrow(merIMGid), ]
 
+write.table(merIMGid_1, 
+            "Output/Genome ID_operon_batch1.tsv", 
+            sep = "\t",       # tab delimiter
+            row.names = FALSE, 
+            quote = FALSE)
 
-# Extracting in batches of 100 --------------------------------------------
+write.table(merIMGid_2, 
+            "Output/Genome ID_operon_batch2.tsv", 
+            sep = "\t",       # tab delimiter
+            row.names = FALSE, 
+            quote = FALSE)
 
-
-# Write first batch
-# Extract IMG Genome column
-# merIMGid <- mer_R["IMG.Genome"]
-# colnames(merIMGid) <- "taxon_oid"
-# 
-# # Set batch size
-# batch_size <- 100
-# n <- nrow(merIMGid)
-# num_batches <- ceiling(n / batch_size)
-# 
-# # Loop over batches
-# for (i in 1:num_batches) {
-#   
-#   # Calculate row indices for this batch
-#   start_row <- (i - 1) * batch_size + 1
-#   end_row <- min(i * batch_size, n)
-#   
-#   # Subset the batch
-#   batch <- merIMGid[start_row:end_row, ]
-#   
-#   # File name
-#   file_name <- paste0("Output/Genome_ID_batch_", i, ".tsv")
-#   
-#   # Write tab-delimited file
-#   write.table(batch,
-#               file_name,
-#               sep = "\t",
-#               row.names = FALSE,
-#               quote = FALSE)
-# }
 
 
 # Converting the txt files to csv -----------------------------------------
 
 # This is to extract TSV files from each column of gene ids into spearate files
 
-# 1. Get all .txt files in your folder
+# 1. Get all .txt files in the folder
 txt_files <- list.files("Data/Raw data", pattern = "\\.txt$", full.names = TRUE)
 
 # 2. Use lapply to convert each one
@@ -95,74 +70,6 @@ lapply(txt_files, function(file_path) {
 
 
 # Extracting merP and merT IDs to tsv for IMG -----------------------------
-
-# creating a function that will extract each of the img id columns in a separate file
-
-export_mer_IDs_tsv <- function(df, gene = "merP", cols = 1:6, prefix = "Gene_ID") {
-  
-  # Construct column names (ex: merP.ID.1, merP.ID.2, ...)
-  mer_cols <- paste0(gene, ".ID.", cols)
-  
-  # Loop over columns
-  lapply(seq_along(mer_cols), function(i) {
-    
-    col_name <- mer_cols[i]
-    
-    # Extract column
-    tmp_df <- df[col_name]
-    colnames(tmp_df) <- "Gene ID"
-    
-    # Remove NA rows
-    tmp_df <- tmp_df[!is.na(tmp_df$`Gene ID`), , drop = FALSE]
-    
-    # File name
-    tsv_file <- paste0(prefix, "_", gene, "_", cols[i], ".tsv")
-    
-    # Write file
-    write.table(tmp_df, tsv_file, sep = "\t", row.names = FALSE, quote = FALSE)
-  })
-}
-
-export_mer_IDs_tsv(mer_R, gene = "merP", cols = 1:6, prefix = "Gene_ID")
-export_mer_IDs_tsv(mer_R, gene = "merT", cols = 1:6, prefix = "Gene_ID")
-
-
-# Processing the FASTA files ----------------------------------------------
-# The one created above
-reheader_mer_fasta <- function(folder) {
-  
-  # Find all fasta files
-  fasta_files <- list.files(folder, pattern = "\\.faa$", full.names = TRUE)
-  
-  lapply(fasta_files, function(file) {
-    
-    # Extract column number from filename (e.g., col_3)
-    col_num <- sub(".*col_([0-9]+).*", "\\1", basename(file))
-    
-    seqs <- Biostrings::readAAStringSet(file)
-    
-    df <- data.frame(
-      id = sub("^([^ ]+).*", "\\1", names(seqs)),
-      description = sub("^[^ ]+ ?", "", names(seqs)),
-      sequence = as.character(seqs),
-      stringsAsFactors = FALSE
-    )
-    
-    headers <- paste0("(", col_num, ")", df$id, " ", df$description)
-    
-    out_seqs <- Biostrings::AAStringSet(df$sequence)
-    names(out_seqs) <- headers
-    
-    # Overwrite the original file
-    Biostrings::writeXStringSet(out_seqs, file)
-  })
-}
-
-reheader_mer_fasta("Data/merP FASTA")
-reheader_mer_fasta("Data/merT FASTA")
-
-
-# Extracting TSV based on coupled/orphaned --------------------------------
 
 mer_IDs_B_AB <- function(df, gene = "merP", cols = 1:6) {
   
