@@ -29,9 +29,6 @@ View(mer_R)
 mer_R$has_merA <- mer_R$merA_copies > 0
 mer_R$has_merB <- (mer_R$`merB.copies` > 0) | (mer_R$`merB.like.copies` > 0)
 
-# Keeping only the ones that have merB
-mer_R <- mer_R %>%
-  dplyr::filter(has_merB == TRUE)
 
 # Removing all the genomes that only have merB copies
 mer_R <- mer_R %>%
@@ -54,7 +51,7 @@ mer_R <- clean_merB_IMG(mer_R)
 
 # Combining the metabolism database with the original mer operon database --------
 
-mer_metabolism <- read.csv("Data/mer_metabolisms.csv")
+mer_metabolism <- read.csv("Data/mer_metabolisms_all.csv")
 
 # Joining the two dataframes
 mer_R <- mer_R%>%
@@ -82,12 +79,12 @@ all_files_list <- list(
 
 processed_genes <- lapply(names(all_files_list), function(gene_name) {
   
-# 1. Reading and binding batches from BLAST
+  # 1. Reading and binding batches from BLAST
   raw_data <- lapply(all_files_list[[gene_name]], function(files) {
     bind_rows(lapply(files, read.csv))
   })
   
-# 2. Cleaning based on gene type: keeping the correctly matched ones
+  # 2. Cleaning based on gene type: keeping the correctly matched ones
   if(gene_name == "merP") {
     cleaned <- lapply(raw_data, function(df) {
       filter(df, Gene.Name == "periplasmic mercuric ion binding protein") %>%
@@ -100,11 +97,11 @@ processed_genes <- lapply(names(all_files_list), function(gene_name) {
     })
   }
   
-# 3. Combining the two queries from BLAST (Tn21/Tn501) keeping only unique gene IDs
+  # 3. Combining the two queries from BLAST (Tn21/Tn501) keeping only unique gene IDs
   combined <- bind_rows(cleaned) %>% 
     distinct(Gene.ID, .keep_all = TRUE)
   
-# 4. Pivoting wider to prepare to combine with main dataframe
+  # 4. Pivoting wider to prepare to combine with main dataframe
   pivoted <- combined %>%
     group_by(Genome.ID) %>%
     mutate(hit_number = row_number()) %>%
@@ -150,7 +147,7 @@ names(mer_R)[names(mer_R) == "Gene.Name.y"] <- "merT.comment"
 
 mer_R <- mer_R %>% 
   mutate(across(where(is.character), ~na_if(., ""))) %>% # Replacing all blank cells with NA for tidyness
-  select(-c("merA.comment", "merA.IMG.gene.ID.1", "merA.IMG.gene.ID.2", "merA.IMG.gene.ID.3", "merA.IMG.gene.ID.4", "merA.IMG.gene.ID.5", "merA.IMG.gene.ID.6", "merA.IMG.gene.ID.7", "merA.IMG.gene.ID.8", "merB.like.copies", "Content.in.mer.genes", "merB.comment", "merP.comment", "merT.comment", "Metabolism", "Genome.Name...Sample.Name.x")) %>% # Removing unncessary columns
+  select(-c("merA.comment", "merA.IMG.gene.ID.1", "merA.IMG.gene.ID.2", "merA.IMG.gene.ID.3", "merA.IMG.gene.ID.4", "merA.IMG.gene.ID.5", "merA.IMG.gene.ID.6", "merA.IMG.gene.ID.7", "merA.IMG.gene.ID.8", "merB.like.copies", "Content.in.mer.genes", "merB.comment", "Genome.Name...Sample.Name.x", "merB.IMG.gene.ID.1", "merB.IMG.gene.ID.2", "merB.IMG.gene.ID.3", "merB.IMG.gene.ID.4", "merB.IMG.gene.ID.5", "merB.IMG.gene.ID.6", "merB.IMG.gene.ID.7", "merB.IMG.gene.ID.8", "merB.IMG.gene.ID.9.12")) %>% # Removing unncessary columns
   dplyr::rename(Sample.Name = `Genome.Name...Sample.Name.y`) %>% 
   mutate(Oxygen.Requirement = case_when(
     Oxygen.Requirement %in% c("Aerobe", "Obligate aerobe") ~ "Aerobe",
@@ -159,32 +156,6 @@ mer_R <- mer_R %>%
     Oxygen.Requirement %in% c("Anaerobe", "Obligate anaerobe") ~ "Anaerobe",
     TRUE ~ NA_character_ #Tidying the oxygen requirement column to have consistent data
   ))
-
-
-
-# What phyla are more likely to have an orphaned merB
-# Is presence of merT associated with presence of merP
-# Does orphaned merB associate with a specific oxygen requirement?
-# does having a full operon (merA, merB, merT, merP) favour aerobic metabolism
-# What predicts the absence of merA
-# Does genome size influence the completeness of the operon (merA, merB, merT, merP)
-
-# Physiology
-# orphaned merB vs oxygen requirement
-# full operon vs oxygen requirement
-
-# Operon architecture
-# merT presence vs merP presence
-# merB copies vs merT/merP copies
-# merA copies vs merT/merP copies
-# merA copies vs merB copies
-
-# Phylogeny
-# orphaned merB vs phylum
-
-# Genome architecture
-# genome size vs operon completeness
-
 
 # Running an alignment ----------------------------------------------------
 
@@ -195,13 +166,46 @@ merB_seqs_coupled <- readAAStringSet("Data/coupledMerB.faa")
 merB_alignment_orphaned <- msa(merB_seqs_orphaned, method = "Muscle")
 merB_alignment_coupled <- msa(merB_seqs_coupled, method = "Muscle")
 
+# Getting the % identity
+
+as(merB_alignment_orphaned, "AAStringSet") %>% 
+  pwalign::stringDist(method = "hamming") %>% 
+  as.matrix() %>% 
+  # Use ncol() instead of width() for alignment objects
+  {1 - (. / ncol(merB_alignment_orphaned)) } %>% 
+  .[lower.tri(.)] %>% 
+  mean() %>% 
+  { . * 100 } %>% 
+  round(2) %>% 
+  { print(paste0("Total % Pairwise Identity: ", ., "%")) }
+
+
+as(merB_alignment_coupled, "AAStringSet") %>% 
+  pwalign::stringDist(method = "hamming") %>% 
+  as.matrix() %>% 
+  # Use ncol() instead of width() for alignment objects
+  {1 - (. / ncol(merB_alignment_coupled)) } %>% 
+  .[lower.tri(.)] %>% 
+  mean() %>% 
+  { . * 100 } %>% 
+  round(2) %>% 
+  { print(paste0("Total % Pairwise Identity: ", ., "%")) }
+
 
 
 # Visualizing -------------------------------------------------------------
 
 p1 <- mer_R %>%
   filter(!is.na(Oxygen.Requirement)) %>%
-  mutate(GenomeType = ifelse(has_merA, "Coupled merB", "Orphaned merB")) %>%
+  mutate(
+    GenomeType = case_when(
+      has_merA & has_merB ~ "merA and merB",
+      !has_merA & has_merB ~ "merB only",
+      has_merA & !has_merB ~ "merA only",
+      TRUE ~ NA_character_
+    )
+  ) %>%
+  filter(!is.na(GenomeType)) %>%
   count(GenomeType, Oxygen.Requirement) %>%
   group_by(GenomeType) %>%
   mutate(prop = n / sum(n)) %>%
@@ -210,39 +214,34 @@ p1 <- mer_R %>%
   coord_polar("y") +
   facet_wrap(~GenomeType, strip.position = "bottom") +
   labs(
-    title = "Oxygen Requirements\nAmongst Coupled and Orphaned merB Genomes",
+    title = "Oxygen Requirements\nAmong merA and merB Genomes",
     fill = "Oxygen Requirement"
   ) +
   theme_void() +
   theme(
-    plot.title = element_text(
-      face = "bold",
-      size = 16,
-      hjust = 0.5),
-    legend.title = element_text(
-      face = "bold",
-      size = 14),
-    legend.text = element_text(
-      size = 12),
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5),
+    legend.title = element_text(face = "bold", size = 14),
+    legend.text = element_text(size = 12),
     strip.placement = "outside",
     strip.text = element_text(size = 12)
   )
+
 p1
 
 
 p2 <- mer_R %>% mutate(
-    quadrant = case_when(
-      has_merP & has_merT  ~ "Both",
-      has_merP & !has_merT ~ "merP only",
-      !has_merP & has_merT ~ "merT only",
-      TRUE                 ~ "Neither"
-    ),
-    category = case_when(
-      has_merA & has_merB ~ "coupled",
-      has_merB & !has_merA ~ "orphaned",
-      TRUE ~ NA_character_
-    )
-  ) %>%
+  quadrant = case_when(
+    has_merP & has_merT  ~ "Both",
+    has_merP & !has_merT ~ "merP only",
+    !has_merP & has_merT ~ "merT only",
+    TRUE                 ~ "Neither"
+  ),
+  category = case_when(
+    has_merA & has_merB ~ "coupled",
+    has_merB & !has_merA ~ "orphaned",
+    TRUE ~ NA_character_
+  )
+) %>%
   filter(!is.na(category)) %>% 
   ggplot(aes(x = has_merP, 
              y = has_merT, 
@@ -282,27 +281,21 @@ p2
 ggsave("Output/MerT and merP presence.png", plot = p2, bg = "white")
 
 
-p3 <- mer_R %>% 
+p3 <- mer_R %>%
   mutate(
-    operon_category = case_when(
-      has_merB & !has_merA & !has_merT & !has_merP ~ "B",
-      has_merB & !has_merA & (has_merT | has_merP) & !(has_merT & has_merP) ~ "BT/BP",
-      has_merB & !has_merA & (has_merT & has_merP) ~ "BPT",
-      has_merB & has_merA & !has_merT & !has_merP ~ "BA",
-      has_merB & has_merA & (has_merT | has_merP) & !(has_merT & has_merP) ~ "BAP/BAT",
-      has_merB & has_merA & has_merT & has_merP ~ "BAPT"
-    ),
-    operon_category = factor(
-      operon_category,
-      levels = c("B", "BT/BP", "BPT", "BA", "BAP/BAT", "BAPT")
+    GenomeType = case_when(
+      has_merA & has_merB ~ "merA and merB",
+      !has_merA & has_merB ~ "merB only",
+      has_merA & !has_merB ~ "merA only",
+      TRUE ~ NA_character_
     )
-  ) %>% 
-  ggplot(aes(x = Phylum, fill = operon_category)) +
+  ) %>%
+  ggplot(aes(x = Phylum, fill = GenomeType)) +
   geom_bar() +
   scale_y_continuous(expand = c(0,0)) +
   theme_classic() +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1,),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 5),
     plot.title = element_text(
       face = "bold",
       size = 16,
@@ -316,10 +309,10 @@ p3 <- mer_R %>%
   labs(
     x = "Phylum",
     y = "Count",
-    fill = "Operon completness",
-    title = "Distribution of mer operons by Phylum"
+    fill = "Genome Type",
+    title = "Distribution of Orphaned and Coupled merB by Phylum"
   ) +
-  scale_fill_manual(values = c("B" = "darkolivegreen1", "BT/BP" = "darkolivegreen3", "BPT" = "darkolivegreen", "BA" = "aquamarine4", "BAP/BAT"= "aquamarine2", "BAPT" = "lightcyan"))
+  scale_fill_manual(values = c("merA and merB" = "deeppink3", "merB only" = "#56B4E9", "merA only" = "forestgreen"))
 
 p3
 
@@ -422,8 +415,6 @@ p6 <- mer_R %>%
 
 p6
 
-
-
 p1
 p2
 p3
@@ -447,7 +438,7 @@ a1 <- merB_alignment_orphaned %>%
              y = Variation)) +
   geom_col(aes(fill = Variation), 
            show.legend = FALSE) +
-  scale_fill_gradient(low = "floralwhite", 
+  scale_fill_gradient(low = "lightgrey", 
                       high = "forestgreen") +
   # Make room for the labels at the bottom
   scale_y_continuous(limits = c(NA, 100), 
@@ -481,7 +472,7 @@ a2 <- merB_alignment_coupled %>%
              y = Variation)) +
   geom_col(aes(fill = Variation), 
            show.legend = FALSE) +
-  scale_fill_gradient(low = "aliceblue", 
+  scale_fill_gradient(low = "lightgrey", 
                       high = "steelblue3") +
   # Make room for the labels at the bottom
   scale_y_continuous(limits = c(NA, 100), 
@@ -512,7 +503,7 @@ mer_R %>%
     has_merT,
     has_merP,
     !has_merA
-  ) %>% select(IMG.Genome, merB.IMG.gene.ID.1)
+  ) %>% select(IMG.Genome)
 
 
 # Statistical analysis ----------------------------------------------------
@@ -537,7 +528,7 @@ mer_R %>%
   filter(!is.na(Genome.Size....assembled) & !is.na(operon_category)) %>%
   {pairwise.wilcox.test(.$Genome.Size....assembled, .$operon_category, p.adjust.method = "BH")}
 
-# Chekcing if there are any correlations amongst mer copies represented in p4
+# Checing if there are any correlations amongst mer copies represented in p4
 cor(
   mer_R[,c("merA_copies","merB.copies","merT.copies","merP.copies")],
   method = "spearman",
@@ -546,81 +537,19 @@ cor(
 
 
 
-# Choosing a merB ---------------------------------------------------------
-
-###NOT DONE WORKING ON THIS###
-
-# For the orphaned anaerobe we want the closest organism taxonomically to favour transformation success
-# This means a clostridia
-
-# Selecting merB IDs that are Class clostridia
-mer_R %>% 
-  filter(Class == "Clostridia") %>% 
-  select(merB.IMG.gene.ID.1)
-
-
-# Subset Clostridia IDs
-clostridia_merB_ids <- mer_R %>%
-  filter(Class == "Clostridia") %>%
-  pull(merB.IMG.gene.ID.1)
-
-# Creating a df with all orphaned merB sequences (from FASTA)
-df_B <- data.frame(
-  id = sub("^([^ ]+).*", "\\1", names(merB_seqs_orphaned)),
-  description = sub("^[^ ]+ ?", "", names(merB_seqs_orphaned)),
-  sequence = as.character(merB_seqs_orphaned),
-  stringsAsFactors = FALSE
+ids <- c(
+  2510630952,
+  2510646086,
+  2870236048,
+  2637850024,
+  2699273517
 )
 
-# Filtering to keep only the clostridia sequences
-df_B <- df_B %>% 
-  filter(id %in% clostridia_merB_ids)
+mer_R %>%
+  filter(if_any(starts_with("merT.ID"), ~ . %in% ids))
 
-# Writing a new AAAStrimgSet with the clostridia ids so i can run an alignment
-clostridia_seqs <- Biostrings::AAStringSet(df_B$sequence)
-
-# Running the alignment
-clostridia_alignment <- msa(clostridia_seqs, method = "Muscle")
-
-# From the clostridia alignment (in geneious) these are the only merBs of proper length
 
 mer_R %>% 
-  filter(merB.IMG.gene.ID.1 == 2790505516) %>% 
-  select(Sample.Name, IMG.Genome)
+  filter(Oxygen.Requirement == "Anaerobe" & has_merA == TRUE) %>% 
+  select(Sample.Name)
 
-mer_R %>% 
-  filter(merB.IMG.gene.ID.1 == 2790545720) %>% 
-  select(Sample.Name, IMG.Genome)
-
-mer_R %>% 
-  filter(merB.IMG.gene.ID.1 == 2757972463) %>% 
-  select(Sample.Name, IMG.Genome)
-
-mer_R %>% 
-  filter(merB.IMG.gene.ID.1 == 2757911868) %>% 
-  select(Sample.Name, IMG.Genome)
-
-mer_R %>% 
-  filter(merB.IMG.gene.ID.1 == 2757971741) %>% 
-  select(Sample.Name, IMG.Genome)
-
-
-# Playing around with the alignment dataframe, discovering the conensus sequence and calculating the variability, i still have the wrong formula but oh well
-Variationtable <- clostridia_alignment %>%
-  consensusMatrix(as.prob = TRUE) %>%
-  {
-    data.frame(
-      Position = 1:ncol(.),
-      Variation = (apply(., 2, max)) * 100,
-      AA = apply(., 2, function(x) names(which.max(x)))
-    )
-  }
-
-Variationtable <- Variationtable %>% 
-  mutate(across(where(is.character), ~na_if(., "-"))) 
-
-Variationtable <- Variationtable %>% 
-  filter(!is.na(AA))
-
-Variationtable %>% 
-  summarise(mean_variation = mean(Variation))
