@@ -24,6 +24,11 @@ library(magrittr)
 mer_R <- read.csv("Data/sup_data_Christakis.csv")
 View(mer_R)
 
+# Read protein sequences
+merB_seqs_orphaned <- readAAStringSet("Data/orphanedMerB.faa")
+merB_seqs_coupled <- readAAStringSet("Data/coupledMerB.faa")
+merB_seqs_ref <- readAAStringSet("Data/reference_merB.faa")
+
 # Separating by merA and merB ---------------------------------------------
 
 mer_R$has_merA <- mer_R$merA_copies > 0
@@ -185,18 +190,6 @@ mer_R <- mer_R %>%
 # Genome architecture
 # genome size vs operon completeness
 
-
-# Running an alignment ----------------------------------------------------
-
-# Read protein sequences
-merB_seqs_orphaned <- readAAStringSet("Data/orphanedMerB.faa")
-merB_seqs_coupled <- readAAStringSet("Data/coupledMerB.faa")
-# Run MUSCLE alignment
-merB_alignment_orphaned <- msa(merB_seqs_orphaned, method = "Muscle")
-merB_alignment_coupled <- msa(merB_seqs_coupled, method = "Muscle")
-
-
-
 # Visualizing -------------------------------------------------------------
 
 p1 <- mer_R %>%
@@ -274,13 +267,6 @@ p2 <- mer_R %>% mutate(
   ) 
 p2
 
-# Lines separating the quandrents
-# +
-#   geom_vline(xintercept = 1.5, color = "gray40") +
-#   geom_hline(yintercept = 1.5, color = "gray40")
-
-ggsave("Output/MerT and merP presence.png", plot = p2, bg = "white")
-
 
 p3 <- mer_R %>% 
   mutate(
@@ -322,40 +308,6 @@ p3 <- mer_R %>%
   scale_fill_manual(values = c("B" = "darkolivegreen1", "BT/BP" = "darkolivegreen3", "BPT" = "darkolivegreen", "BA" = "aquamarine4", "BAP/BAT"= "aquamarine2", "BAPT" = "lightcyan"))
 
 p3
-
-
-
-p4 <- cor(
-  mer_R[,c("merA_copies","merB.copies","merT.copies","merP.copies")],
-  method = "spearman",
-  use = "complete.obs"
-) %>%
-  as.data.frame() %>%
-  tibble::rownames_to_column("gene1") %>%
-  pivot_longer(-gene1, names_to = "gene2", values_to = "rho") %>%
-  ggplot(aes(gene1, gene2, fill = rho)) +
-  geom_tile() +
-  scale_x_discrete(expand = c(0,0)) +
-  scale_y_discrete(expand = c(0,0)) +
-  theme_classic() +
-  scale_fill_gradient2(low = "white", mid = "yellow", high = "red") +
-  theme(
-    plot.title = element_text(
-      face = "bold",
-      size = 16,
-      hjust = 0.5),
-    legend.title = element_text(
-      face = "bold",
-      size = 14),
-    legend.text = element_text(
-      size = 12),
-    axis.ticks = element_blank()) +
-  labs(x = NULL,
-       y = NULL,
-       title = "Correlation of mer Gene Copy Presence",
-       fill = "Spearman ρ")
-
-p4
 
 
 p5 <- mer_R %>%
@@ -430,89 +382,6 @@ p3
 p4
 p5
 p6
-a1
-a2
-
-a1 <- merB_alignment_orphaned %>%
-  consensusMatrix(as.prob = TRUE) %>%
-  {
-    data.frame(
-      Position = 1:ncol(.),
-      # Calculate Variation (100% minus the most common AA %)
-      Variation = (1 - apply(., 2, max)) * 100,
-      AA = apply(., 2, function(x) names(which.max(x)))
-    )
-  } %>%
-  ggplot(aes(x = Position, 
-             y = Variation)) +
-  geom_col(aes(fill = Variation), 
-           show.legend = FALSE) +
-  scale_fill_gradient(low = "floralwhite", 
-                      high = "forestgreen") +
-  # Make room for the labels at the bottom
-  scale_y_continuous(limits = c(NA, 100), 
-                     expand = c(0, 0)) +
-  theme_classic() +
-  theme(
-    plot.title = element_text(
-      face = "bold",
-      size = 16,
-      hjust = 0.5)
-  ) +
-  labs(
-    title = "Orphaned merB Positional Variation",
-    y = "% Consensus",
-    x = "Alignment Position"
-  )
-
-a1
-
-a2 <- merB_alignment_coupled %>%
-  consensusMatrix(as.prob = TRUE) %>%
-  {
-    data.frame(
-      Position = 1:ncol(.),
-      # Calculate Variation (100% minus the most common AA %)
-      Variation = (1 - apply(., 2, max)) * 100,
-      AA = apply(., 2, function(x) names(which.max(x)))
-    )
-  } %>%
-  ggplot(aes(x = Position, 
-             y = Variation)) +
-  geom_col(aes(fill = Variation), 
-           show.legend = FALSE) +
-  scale_fill_gradient(low = "aliceblue", 
-                      high = "steelblue3") +
-  # Make room for the labels at the bottom
-  scale_y_continuous(limits = c(NA, 100), 
-                     expand = c(0, 0)) +
-  theme_classic() +
-  theme(
-    plot.title = element_text(
-      face = "bold",
-      size = 16,
-      hjust = 0.5)
-  ) +
-  labs(
-    title = "Coupled merB Positional Variation",
-    y = "% Consensus",
-    x = "Alignment Position"
-  )
-
-a2
-
-
-
-# Exploring the graphs -----------------------------------------------------
-
-# Finding out what genomes are merB, merT and merP
-mer_R %>%
-  filter(
-    has_merB,
-    has_merT,
-    has_merP,
-    !has_merA
-  ) %>% select(IMG.Genome, merB.IMG.gene.ID.1)
 
 
 # Statistical analysis ----------------------------------------------------
@@ -537,14 +406,6 @@ mer_R %>%
   filter(!is.na(Genome.Size....assembled) & !is.na(operon_category)) %>%
   {pairwise.wilcox.test(.$Genome.Size....assembled, .$operon_category, p.adjust.method = "BH")}
 
-# Chekcing if there are any correlations amongst mer copies represented in p4
-cor(
-  mer_R[,c("merA_copies","merB.copies","merT.copies","merP.copies")],
-  method = "spearman",
-  use = "complete.obs"
-)
-
-
 
 # Choosing a merB ---------------------------------------------------------
 
@@ -556,7 +417,7 @@ cor(
 # Selecting merB IDs that are Class clostridia
 mer_R %>% 
   filter(Class == "Clostridia") %>% 
-  select(merB.IMG.gene.ID.1)
+  select(merB.IMG.gene.ID.1, )
 
 
 # Subset Clostridia IDs
@@ -565,19 +426,44 @@ clostridia_merB_ids <- mer_R %>%
   pull(merB.IMG.gene.ID.1)
 
 # Creating a df with all orphaned merB sequences (from FASTA)
-df_B <- data.frame(
+
+df_B1 <- data.frame(
   id = sub("^([^ ]+).*", "\\1", names(merB_seqs_orphaned)),
   description = sub("^[^ ]+ ?", "", names(merB_seqs_orphaned)),
   sequence = as.character(merB_seqs_orphaned),
-  stringsAsFactors = FALSE
-)
+  length = nchar(as.character(merB_seqs_orphaned)),
+  stringsAsFactors = FALSE) %>% 
+  filter(id %in% clostridia_merB_ids,
+         between(length, 200, 240)) %>% 
+  select(-length)
 
-# Filtering to keep only the clostridia sequences
-df_B <- df_B %>% 
-  filter(id %in% clostridia_merB_ids)
+seqs_clostridia <- AAStringSet(df_B1$sequence)
+seqs <- c(seqs_clostridia, merB_seqs_ref)
 
-# Writing a new AAAStrimgSet with the clostridia ids so i can run an alignment
-clostridia_seqs <- Biostrings::AAStringSet(df_B$sequence)
+alignmentdf <- msa(seqs, method = "Muscle") %>%
+  consensusMatrix(as.prob = TRUE) %>%
+  {
+    data.frame(
+      Position = 1:ncol(.),
+      # Calculate Variation (100% minus the most common AA %)
+      Variation = (1 - apply(., 2, max)) * 100,
+      AA = apply(., 2, function(x) names(which.max(x)))
+    )
+  }
+
+alignmentdf %>% 
+  filter(AA == "C")
+
+
+headers <- paste0(" ", seqs_filt$id, " ", seqs_filt$description)
+
+# Create AAStringSet
+seqs <- AAStringSet(df_B1$sequence)
+names(seqs_to_write) <- headers
+
+# Writing the fasta
+writeXStringSet(seqs_to_write, "coupledMerB_filtered.faa")
+
 
 # Running the alignment
 clostridia_alignment <- msa(clostridia_seqs, method = "Muscle")
@@ -605,22 +491,72 @@ mer_R %>%
   select(Sample.Name, IMG.Genome)
 
 
-# Playing around with the alignment dataframe, discovering the conensus sequence and calculating the variability, i still have the wrong formula but oh well
-Variationtable <- clostridia_alignment %>%
-  consensusMatrix(as.prob = TRUE) %>%
-  {
-    data.frame(
-      Position = 1:ncol(.),
-      Variation = (apply(., 2, max)) * 100,
-      AA = apply(., 2, function(x) names(which.max(x)))
-    )
-  }
+# For merB coupled with merT and merP
 
-Variationtable <- Variationtable %>% 
-  mutate(across(where(is.character), ~na_if(., "-"))) 
+# Finding out what genomes are merB, merT and merP
+mer_R %>%
+  filter(
+    has_merB,
+    has_merT,
+    has_merP,
+    !has_merA
+  ) %>% select(IMG.Genome, merB.IMG.gene.ID.1, Sample.Name)
 
-Variationtable <- Variationtable %>% 
-  filter(!is.na(AA))
+# Getting the merB IDS into a string
+BPT_merB_ids <- mer_R %>%
+  filter(merB.IMG.gene.ID.1 %in% c(2792207457, 2738001647, 2548015551, 2632394297, 2731465014, 2554226326, 2586887815, 2731510663)) %>%
+  pull(merB.IMG.gene.ID.1)
 
-Variationtable %>% 
-  summarise(mean_variation = mean(Variation))
+df_BPT <- data.frame(
+  id = sub("^([^ ]+).*", "\\1", names(merB_seqs_orphaned)),
+  description = sub("^[^ ]+ ?", "", names(merB_seqs_orphaned)),
+  sequence = as.character(merB_seqs_orphaned),
+  length = nchar(as.character(merB_seqs_orphaned)),
+  stringsAsFactors = FALSE) %>% 
+  filter(id %in% BPT_merB_ids) 
+
+df_BPT <- df_BPT %>% 
+  select(-length)
+
+headers <- paste0(" ", df_BPT$id, " ", df_BPT$description)
+
+# Create AAStringSet
+df_BPT_seqs <- AAStringSet(df_BPT$sequence)
+names(df_BPT_seqs) <- headers
+
+# Writing the fasta
+writeXStringSet(df_BPT_seqs, "BPT_merBIDs.faa")
+
+
+mer_R %>%
+  filter(merB.IMG.gene.ID.1 %in% c(2586887815, 2731510663))
+
+# For the coupled merB
+
+mer_R %>%
+  filter(
+    has_merB,
+    has_merA
+  ) %>% 
+  filter(Phylum == "Firmicutes") %>% 
+  distinct(Class)
+
+mer_R %>%
+  filter(
+    has_merB,
+    has_merA
+  ) %>% 
+  filter(Class == "Clostridia") %>% 
+  select(IMG.Genome, merB.IMG.gene.ID.1, Sample.Name)
+
+mer_R %>%
+  filter(
+    has_merB,
+    has_merA,
+    has_merT,
+    has_merP
+  ) %>% 
+  select(IMG.Genome, merB.IMG.gene.ID.1, Sample.Name)
+
+
+

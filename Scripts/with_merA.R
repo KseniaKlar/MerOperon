@@ -30,9 +30,6 @@ mer_R$has_merA <- mer_R$merA_copies > 0
 mer_R$has_merB <- (mer_R$`merB.copies` > 0) | (mer_R$`merB.like.copies` > 0)
 
 
-# Removing all the genomes that only have merB copies
-mer_R <- mer_R %>%
-  filter(`merB.copies` > 0)
 
 # Removing all merB like accession numbers
 clean_merB_IMG <- function(df) {
@@ -48,6 +45,11 @@ clean_merB_IMG <- function(df) {
 
 mer_R <- clean_merB_IMG(mer_R)
 
+mer_R %>% 
+  table(merA.comment)
+
+table(mer_R$merA.comment)
+
 
 # Combining the metabolism database with the original mer operon database --------
 
@@ -58,6 +60,9 @@ mer_R <- mer_R%>%
   left_join(mer_metabolism, 
             by = c("IMG.Genome" = "IMG.Genome.ID"))
 
+mer_R %>% 
+  filter(Oxygen.Requirement == "Anaerobe" & has_merA == T & has_merB == F) %>% 
+  select(merA.comment, merA.IMG.gene.ID.1)
 
 # Importing merP and merT files -------------------------------------------
 
@@ -157,6 +162,17 @@ mer_R <- mer_R %>%
     TRUE ~ NA_character_ #Tidying the oxygen requirement column to have consistent data
   ))
 
+
+mer_R <- mer_R %>% 
+  mutate(across(where(is.character), ~na_if(., ""))) %>% # Replacing all blank cells with NA for tidyness
+  mutate(Oxygen.Requirement = case_when(
+    Oxygen.Requirement %in% c("Aerobe", "Obligate aerobe") ~ "Aerobe",
+    Oxygen.Requirement == "Microaerophilic" ~ "Microaerophilic",
+    Oxygen.Requirement %in% c("Facultative", "Facultative anaerobe") ~ "Facultative",
+    Oxygen.Requirement %in% c("Anaerobe", "Obligate anaerobe") ~ "Anaerobe",
+    TRUE ~ NA_character_ #Tidying the oxygen requirement column to have consistent data
+  ))
+
 # Running an alignment ----------------------------------------------------
 
 # Read protein sequences
@@ -227,6 +243,7 @@ p1 <- mer_R %>%
   )
 
 p1
+
 
 
 p2 <- mer_R %>% mutate(

@@ -140,3 +140,73 @@ reheader_merP_T_fasta <- function(folder = "FASTA") {
 }
 
 reheader_merP_T_fasta("Data/FASTA")
+
+
+# Extracting merA IMG IDs -------------------------------------------------
+
+# Orphaned, anaerobic merAs
+
+orph_anae_merA <- mer_R %>% 
+  filter(Oxygen.Requirement == "Anaerobe" & has_merA == T & has_merB == F) %>% 
+  select(merA.IMG.gene.ID.1)
+
+colnames(orph_anae_merA) <- "gene_oid"  # new column name
+
+orph_anae_merA <- orph_anae_merA %>%
+  filter(grepl("^[0-9]+$", gene_oid))
+
+# Export as tab-delimited file
+write.table(orph_anae_merA, 
+            "Output/Gene ID_orphaned_anaerobe_merA.tsv", 
+            sep = "\t",       # tab delimiter
+            row.names = FALSE, 
+            quote = FALSE)
+
+
+
+
+
+# Orphaned other merA IMG IDs
+
+orph_merA <- mer_R %>% 
+  filter(Oxygen.Requirement != "Anaerobe" & has_merA == T & has_merB == F) %>% 
+  select(merA.IMG.gene.ID.1)
+
+colnames(orph_merA) <- "gene_oid"  # new column name
+
+orph_merA <- orph_merA %>%
+  filter(grepl("^[0-9]+$", gene_oid))
+
+# Export as tab-delimited file
+write.table(orph_merA, 
+            "Output/Gene ID_orphaned_merA.tsv", 
+            sep = "\t",       # tab delimiter
+            row.names = FALSE, 
+            quote = FALSE)
+
+
+
+
+# Coupled merA IMG IDs
+
+coup_merA <- mer_R %>% 
+  filter(has_merA == T & has_merB == T) %>% 
+  select(merA.IMG.gene.ID.1)
+
+colnames(coup_merA) <- "gene_oid"  # new column name
+
+coup_merA <- coup_merA %>%
+  filter(grepl("^[0-9]+$", gene_oid))
+
+# Export as tab-delimited file
+write.table(coup_merA, 
+            "Output/Gene ID_coupled_merA.tsv", 
+            sep = "\t",       # tab delimiter
+            row.names = FALSE, 
+            quote = FALSE)
+
+
+mer_R %>% 
+  filter(merA.IMG.gene.ID.1 == 650971024) %>% 
+  select(S)
+
